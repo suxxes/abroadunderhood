@@ -25,23 +25,23 @@ const tweets = getAuthorArea(username, 'tweets').tweets || [];
 const mentions = getAuthorArea(username, 'mentions').mentions || [];
 
 const tweetsSinceId = isEmpty(tweets) ? dec(first) : last(tweets).id_str;
-getTweets(tokens, 'jsunderhood', tweetsSinceId, (err, newTweetsRaw) => {
+getTweets(tokens, 'abroadunderhood', tweetsSinceId, (err, newTweetsRaw) => {
   if (err) throw err;
   const concattedTweets = concat(tweets, reverse(newTweetsRaw));
   saveAuthorArea(username, 'tweets', { tweets: concattedTweets });
 });
 
-getInfo(tokens, 'jsunderhood', (err, info) => {
+getInfo(tokens, 'abroadunderhood', (err, info) => {
   if (err) throw err;
   saveAuthorArea(username, 'info', info);
 });
 
-saveMedia(tokens, 'jsunderhood', username, (err, media) => {
+saveMedia(tokens, 'abroadunderhood', username, (err, media) => {
   if (err) throw err;
   saveAuthorArea(username, 'media', media);
 });
 
-getFollowers(tokens, 'jsunderhood', (err, followersWithStatuses) => {
+getFollowers(tokens, 'abroadunderhood', (err, followersWithStatuses) => {
   if (err) throw err;
   const followers = map(dissoc('status'), followersWithStatuses);
   saveAuthorArea(username, 'followers', { followers });

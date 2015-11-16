@@ -1,5 +1,5 @@
 {
-  "name": "jsunderhood",
+  "name": "abroadunderhood",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamstarkov/jsunderhood.git"
+    "url": "git+https://github.com/iamstarkov/abroadunderhood.git"
   },
   "site": {
-    "title": "jsunderhood",
+    "title": "abroadunderhood",
     "description": "Коллективный твиттер-аккаунт для фронтенд-разработчиков с новым автором каждую неделю",
-    "feed_url": "https://jsunderhood.ru/rss.xml",
-    "site_url": "https://jsunderhood.ru/",
+    "feed_url": "https://abroadunderhood.ru/rss.xml",
+    "site_url": "https://abroadunderhood.ru/",
     "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
     "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
     "copyright": "MIT",
@@ -34,9 +34,9 @@
   "author": "Vladimir Starkov <iamstarkov@gmail.com> (https://iamstarkov.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/iamstarkov/jsunderhood/issues"
+    "url": "https://github.com/iamstarkov/abroadunderhood/issues"
   },
-  "homepage": "https://github.com/iamstarkov/jsunderhood#readme",
+  "homepage": "https://github.com/iamstarkov/abroadunderhood#readme",
   "dependencies": {
     "article-data": "^0.3.1",
     "autoprefixer": "^6.1.0",

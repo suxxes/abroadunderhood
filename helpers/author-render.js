@@ -23,7 +23,7 @@ const getQuotedUser = pipe(
 moment.locale('ru');
 
 const weekday = date => moment(new Date(date)).format('dddd');
-const tweetLink = (tweet) => `https://twitter.com/jsunderhood/status/${tweet.id_str}`;
+const tweetLink = (tweet) => `https://twitter.com/abroadunderhood/status/${tweet.id_str}`;
 const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
@@ -41,7 +41,7 @@ const prevAuthor = author => {
 const d = input => moment(new Date(input)).format('D MMMM YYYY');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
-const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@jsunderhood') === 0);
+const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@abroadunderhood') === 0);
 const prepareTweets = pipe(
   filter(filterTimeline),
   groupBy(pipe(prop('created_at'), weekday)),

@@ -22,7 +22,7 @@
 
 ## Буду ли я раздражен необходимостью отвечать на вопросы?
 
-— Иногда, конечно. Но общение — самая важная и интересная часть идеи @jsunderhood.
+— Иногда, конечно. Но общение — самая важная и интересная часть идеи @abroadunderhood.
 Также можно заметить, что отвечать проще, чем писать оригинальные твиты.
 Само собой не нужно кормить троллей.
 
@@ -58,11 +58,11 @@
 
 Пожалуйста будьте вежливыми и уважайте ваших читателей. Не следует оскорблять
 или унижать кого-то. Ведите себя профессионально. Уничижительные, сексистские,
-расистские или ксенофобские шутки не привествуются в [@jsunderhood][jsh].
+расистские или ксенофобские шутки не привествуются в [@abroadunderhood][jsh].
 
 Если вы заметили нарушение, как можно скорее напишите
 письмо [Антону][coc-violations].
 
-[jsh]: https://twitter.com/jsunderhood
-[proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@jsunderhood
-[coc-violations]: mailto:anton@shuvalov.info?subject=CoC%20violations%20in%20@jsunderhood
+[jsh]: https://twitter.com/abroadunderhood
+[proposal]: mailto:anton@shuvalov.info?subject=Author’s%20proposal%20for%20@abroadunderhood
+[coc-violations]: mailto:anton@shuvalov.info?subject=CoC%20violations%20in%20@abroadunderhood
