@@ -1,0 +1,23 @@
+extend page
+
+block meta
+  meta(property="description" content=desc.text)
+
+  meta(name="og:url"         content=site.site_url + url)
+  if (image)
+    meta(name="og:image"     content=image)
+  meta(name="og:title"       content="О проекте #{site.title}")
+  meta(name="og:description" content=desc.text)
+
+block headerTitle
+  a(href="/") jsunderhood
+  small= " / "
+    = title
+
+block content
+  .container
+    .row
+      .col-md-6.col-md-offset-3
+        article
+          h1= title
+          != content.html

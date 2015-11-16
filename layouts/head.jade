@@ -1,0 +1,19 @@
+meta(charset="utf-8")
+
+block title
+  title= title
+
+meta(http-equiv="X-UA-Compatible" content="IE=edge,chrome=1")
+meta(name="viewport" content="width=device-width")
+
+link(href=site.feed_url title=site.title rel="alternate" type="application/rss+xml")
+link(href="/css/bootstrap.min.css" rel="stylesheet")
+link(href=helpers.bust("/css/styles.css") rel="stylesheet")
+
+meta(property="og:site_name" content=site.title)
+meta(property="article:author" content=site.site_url + "about/")
+
+meta(name="twitter:card" content="summary")
+meta(name="twitter:site" content="@jsunderhood")
+
+block meta

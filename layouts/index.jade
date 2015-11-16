@@ -1,0 +1,40 @@
+extend page
+
+block meta
+  meta(property="description" content=site.description)
+  meta(name="og:url"          content=site.site_url)
+  meta(name="og:image"        content="https://i.imgur.com/GpzEJQ7.jpg?1")
+  meta(name="og:title"        content=site.title)
+  meta(name="og:description"  content=site.description)
+
+block headerTitle
+  = site.title
+
+block content
+  article.container
+    a.now-playing-wrapper(href="https://twitter.com/" + site.title)
+      .now-playing
+        .now-playing__userpic
+        .now-playing__info
+          .small На этой неделе твиттер ведёт:<br/>
+          .now-playing__username= "@" + currentAuthor.username
+
+  article.container
+    each row in authors
+      .row(style="margin-bottom: 1em")
+        each author in row
+          .col-md-4
+            div.row
+              .col-md-2
+                .row.text-center
+                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
+              .col-md-10
+                h2(style="margin: 0"): a(href="/" + author.username + '/')
+                  = "@" + author.username
+                if author.info.location
+                  small
+                    span.glyphicon.glyphicon-map-marker
+                    = " " + author.info.location
+            .row
+              .col-md-12
+                p.list__item-desc!= helpers.render(helpers.firstTweet(author))
