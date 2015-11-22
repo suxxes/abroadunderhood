@@ -1,0 +1,96 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Nov 22 20:23:49 +0000 2015",
+      "id": 668525310783045600,
+      "id_str": "668525310783045632",
+      "text": "Доброе утро, я @ido_q и на этой неделе я расскажу вам как выживать в Австралии",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ido_q",
+            "name": "Alex Shteinikov",
+            "id": 12164662,
+            "id_str": "12164662",
+            "indices": [
+              15,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 20:37:38 +0000 2015",
+      "id": 668528790373404700,
+      "id_str": "668528790373404672",
+      "text": "А пока я еду на работу, поставлю вам самую Австралийскую песню: Men At Work - Down Under https://t.co/UJdabhezvv",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UJdabhezvv",
+            "expanded_url": "https://www.youtube.com/watch?v=XfR9iY5y94s",
+            "display_url": "youtube.com/watch?v=XfR9iY…",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
