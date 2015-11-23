@@ -4740,6 +4740,309 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 13:36:40 +0000 2015",
+      "id": 668785238181478400,
+      "id_str": "668785238181478400",
+      "text": "@abroadunderhood местное произношение сильно отличается от american english? насколько тяжело было привыкнуть и воспринимать на слух?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 2164477862,
+        "id_str": "2164477862"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 13:50:45 +0000 2015",
+      "id": 668788782913556500,
+      "id_str": "668788782913556480",
+      "text": "@andreypal13 @ido_q он ведёт коллективный аккаунт @abroadunderhood, сменил аватару, чтоб не путаться :)",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 668787801358508000,
+      "in_reply_to_status_id_str": "668787801358508032",
+      "in_reply_to_user_id": 117844998,
+      "in_reply_to_user_id_str": "117844998",
+      "in_reply_to_screen_name": "andreypal13",
+      "user": {
+        "id": 82587956,
+        "id_str": "82587956"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7ce978ac99b2054f",
+        "url": "https://api.twitter.com/1.1/geo/id/7ce978ac99b2054f.json",
+        "place_type": "neighborhood",
+        "name": "Augustine Heights",
+        "full_name": "Augustine Heights, Brisbane",
+        "country_code": "AU",
+        "country": "Australia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                152.867205,
+                -27.674019
+              ],
+              [
+                152.89866396,
+                -27.674019
+              ],
+              [
+                152.89866396,
+                -27.64699902
+              ],
+              [
+                152.867205,
+                -27.64699902
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "andreypal13",
+            "name": "Нандрей",
+            "id": 117844998,
+            "id_str": "117844998",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "ido_q",
+            "name": "Alex Shteinikov",
+            "id": 12164662,
+            "id_str": "12164662",
+            "indices": [
+              13,
+              19
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              50,
+              66
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 13:51:22 +0000 2015",
+      "id": 668788935498297300,
+      "id_str": "668788935498297344",
+      "text": "@MeowMio @ido_q @abroadunderhood хы )",
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 668788782913556500,
+      "in_reply_to_status_id_str": "668788782913556480",
+      "in_reply_to_user_id": 82587956,
+      "in_reply_to_user_id_str": "82587956",
+      "in_reply_to_screen_name": "MeowMio",
+      "user": {
+        "id": 117844998,
+        "id_str": "117844998"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MeowMio",
+            "name": "Юлько",
+            "id": 82587956,
+            "id_str": "82587956",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "ido_q",
+            "name": "Alex Shteinikov",
+            "id": 12164662,
+            "id_str": "12164662",
+            "indices": [
+              9,
+              15
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 15:16:07 +0000 2015",
+      "id": 668810263479521300,
+      "id_str": "668810263479521280",
+      "text": "@abroadunderhood а просто больших пауков?",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 668653984660348900,
+      "in_reply_to_status_id_str": "668653984660348928",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 286175573,
+        "id_str": "286175573"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 19:46:48 +0000 2015",
+      "id": 668878385301561300,
+      "id_str": "668878385301561344",
+      "text": "@abroadunderhood @kspitfire7 70% моего Нефтеюганска валит в Тюмень в ТГУ/ТГНГУ :-)",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 668769991219658800,
+      "in_reply_to_status_id_str": "668769991219658752",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 179090653,
+        "id_str": "179090653"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "kspitfire7",
+            "name": "Kirill Alexeev",
+            "id": 586101361,
+            "id_str": "586101361",
+            "indices": [
+              17,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 258,
+  "followers_count": 274,
   "friends_count": 0,
-  "listed_count": 4,
+  "listed_count": 3,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 0,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 118,
+  "statuses_count": 119,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 23 12:43:32 +0000 2015",
-    "id": 668771864861257700,
-    "id_str": "668771864861257728",
-    "text": "Завтра я расскажу вам про работу, дороги, машины и может про политику что-нибудь придумаю. Пишите вопросы - отвечу как только так сразу",
+    "created_at": "Mon Nov 23 20:15:47 +0000 2015",
+    "id": 668885678868967400,
+    "id_str": "668885678868967424",
+    "text": "Доброе утро и пока я собираюсь на работу, вот вам клевые ребята из Новой Зеландии (не AU но рядом): https://t.co/ABV4Xi58ar",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -72,10 +72,21 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ABV4Xi58ar",
+          "expanded_url": "https://m.youtube.com/watch?v=W_oaNOUmrQ0",
+          "display_url": "m.youtube.com/watch?v=W_oaNO…",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
