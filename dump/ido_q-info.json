@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 214,
+  "followers_count": 215,
   "friends_count": 0,
   "listed_count": 2,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 76,
+  "statuses_count": 79,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 23 08:45:58 +0000 2015",
-    "id": 668712080388812800,
-    "id_str": "668712080388812800",
-    "text": "RT @dzuev: Эх что делает подлец @abroadunderhood. Я снова в Австралию захотел! Там же кенгуру!",
+    "created_at": "Mon Nov 23 08:55:57 +0000 2015",
+    "id": 668714590532976600,
+    "id_str": "668714590532976641",
+    "text": "Кенгуру ближе чем на 2-3 метра не подпускают и лучше не лезть. Если хочется потрогать и покормить то лучше в зоопарк https://t.co/Lh1EefIZlt",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,109 +66,27 @@
     "contributors": [
       12164662
     ],
-    "retweeted_status": {
-      "created_at": "Mon Nov 23 08:44:15 +0000 2015",
-      "id": 668711648694243300,
-      "id_str": "668711648694243332",
-      "text": "Эх что делает подлец @abroadunderhood. Я снова в Австралию захотел! Там же кенгуру!",
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
-      "geo": null,
-      "coordinates": null,
-      "place": {
-        "id": "4303d1afc1e98c37",
-        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
-        "place_type": "city",
-        "name": "Москва",
-        "full_name": "Москва, Россия",
-        "country_code": "RU",
-        "country": "Rossiya",
-        "contained_within": [],
-        "bounding_box": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [
-                37.1316733,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                55.4908342
-              ],
-              [
-                37.9650116,
-                56.0209192
-              ],
-              [
-                37.1316733,
-                56.0209192
-              ]
-            ]
-          ]
-        },
-        "attributes": {}
-      },
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              21,
-              37
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "dzuev",
-          "name": "Dmitry Zuev",
-          "id": 19009207,
-          "id_str": "19009207",
+          "url": "https://t.co/Lh1EefIZlt",
+          "expanded_url": "https://twitter.com/PaGrom/status/668714252274900992",
+          "display_url": "twitter.com/PaGrom/status/…",
           "indices": [
-            3,
-            9
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            32,
-            48
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
