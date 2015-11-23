@@ -3458,6 +3458,941 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:21:07 +0000 2015",
+      "id": 668720926117265400,
+      "id_str": "668720926117265408",
+      "text": "@bytecheg @juwain для нас двоих даже слишком (4 комнаты, 2 ванны, гостиная и кухня). Но меньше не найдешь в том районе где мы хотели",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 668716040789090300,
+      "in_reply_to_status_id_str": "668716040789090304",
+      "in_reply_to_user_id": 278923747,
+      "in_reply_to_user_id_str": "278923747",
+      "in_reply_to_screen_name": "bytecheg",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bytecheg",
+            "name": "Denis Kuznetsov",
+            "id": 278923747,
+            "id_str": "278923747",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "juwain",
+            "name": "Зюзин Виталий",
+            "id": 18213700,
+            "id_str": "18213700",
+            "indices": [
+              10,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:22:19 +0000 2015",
+      "id": 668721227918348300,
+      "id_str": "668721227918348288",
+      "text": "Скорее правда что кенгурятину едят только собаки и туристы. Вокруг очень много хорошей и дешевой говядины и свинины https://t.co/qEpGnAgerT",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668714520873967600,
+      "quoted_status_id_str": "668714520873967616",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 08:55:40 +0000 2015",
+        "id": 668714520873967600,
+        "id_str": "668714520873967616",
+        "text": "@abroadunderhood правда, что кенгурятину в Австралии только туристы и собаки едят? )",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 586101361,
+          "id_str": "586101361"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qEpGnAgerT",
+            "expanded_url": "https://twitter.com/kspitfire7/status/668714520873967616",
+            "display_url": "twitter.com/kspitfire7/sta…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:23:52 +0000 2015",
+      "id": 668721615954382800,
+      "id_str": "668721615954382848",
+      "text": "Иммиграционная политика AU довольно мягкая и как я вижу похоже на CAN. Для востребованных спецов это несложно https://t.co/RStO69nkbZ",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668715014988169200,
+      "quoted_status_id_str": "668715014988169216",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 08:57:38 +0000 2015",
+        "id": 668715014988169200,
+        "id_str": "668715014988169216",
+        "text": "@abroadunderhood а на сколько сложно получить псж в австралии?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 539221178,
+          "id_str": "539221178"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RStO69nkbZ",
+            "expanded_url": "https://twitter.com/anton_davydov/status/668715014988169216",
+            "display_url": "twitter.com/anton_davydov/…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:25:17 +0000 2015",
+      "id": 668721973992620000,
+      "id_str": "668721973992620032",
+      "text": "RT @suxxes: @abroadunderhood Зато у вас же там возвраты и отчеты всякие от государства по налогам. Да? Расскажи, как это работает?",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "retweeted_status": {
+        "created_at": "Mon Nov 23 08:55:55 +0000 2015",
+        "id": 668714581603160000,
+        "id_str": "668714581603160064",
+        "text": "@abroadunderhood Зато у вас же там возвраты и отчеты всякие от государства по налогам. Да? Расскажи, как это работает?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 668699442757914600,
+        "in_reply_to_status_id_str": "668699442757914624",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:26:12 +0000 2015",
+      "id": 668722204545327100,
+      "id_str": "668722204545327104",
+      "text": "Про возврат налогов: в конце года заполняешь декларацию и требуешь от гос-ва несправедливо уплаченные тобой налоги... @suxxes",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              118,
+              125
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:28:07 +0000 2015",
+      "id": 668722686860783600,
+      "id_str": "668722686860783620",
+      "text": "... куда может входить медстраховка для неграждан =), всякие расходы на рабочие нужды (использовал дом. интернет для работы?) и тд. @suxxes",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              132,
+              139
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:29:10 +0000 2015",
+      "id": 668722953081622500,
+      "id_str": "668722953081622528",
+      "text": "В целом все зависит от вашей наглости, но даже если все по честному то можно получить несколько тысяч назад @suxxes",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              108,
+              115
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:30:57 +0000 2015",
+      "id": 668723399569612800,
+      "id_str": "668723399569612800",
+      "text": "Да, насколько я понимаю если ты фрилансер, то по-умолчанию можно списывать интернет и мобильную связь https://t.co/DxcIW9WIll",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668722921217593300,
+      "quoted_status_id_str": "668722921217593345",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 09:29:03 +0000 2015",
+        "id": 668722921217593300,
+        "id_str": "668722921217593345",
+        "text": "@abroadunderhood Я правильно понял, что если я фрилансер, то по-умолчанию можно списывать интернет, как для работы?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 668722686860783600,
+        "in_reply_to_status_id_str": "668722686860783620",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DxcIW9WIll",
+            "expanded_url": "https://twitter.com/suxxes/status/668722921217593345",
+            "display_url": "twitter.com/suxxes/status/…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:35:21 +0000 2015",
+      "id": 668724506047807500,
+      "id_str": "668724506047807489",
+      "text": "Жилье в AU дорогое. У нас я бы не стал смотреть меньше чем покупка $400k+, аренда $400/нед. В Сиднее дороже https://t.co/jn4mXlIgOJ",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668723073835786200,
+      "quoted_status_id_str": "668723073835786241",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 09:29:39 +0000 2015",
+        "id": 668723073835786200,
+        "id_str": "668723073835786241",
+        "text": "@abroadunderhood @juwain сколько стоит дом, если не секрет? Цена аренды",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 668720926117265400,
+        "in_reply_to_status_id_str": "668720926117265408",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 278923747,
+          "id_str": "278923747"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "4303d1afc1e98c37",
+          "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+          "place_type": "city",
+          "name": "Москва",
+          "full_name": "Москва, Россия",
+          "country_code": "RU",
+          "country": "Rossiya",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  37.1316733,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  55.4908342
+                ],
+                [
+                  37.9650116,
+                  56.0209192
+                ],
+                [
+                  37.1316733,
+                  56.0209192
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "juwain",
+              "name": "Зюзин Виталий",
+              "id": 18213700,
+              "id_str": "18213700",
+              "indices": [
+                17,
+                24
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jn4mXlIgOJ",
+            "expanded_url": "https://twitter.com/bytecheg/status/668723073835786241",
+            "display_url": "twitter.com/bytecheg/statu…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:36:46 +0000 2015",
+      "id": 668724864753233900,
+      "id_str": "668724864753233920",
+      "text": "По жилью вот есть сайт чтобы представить себе весь этот ужас https://t.co/RNOsLYOWRu",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RNOsLYOWRu",
+            "expanded_url": "http://www.realestate.com.au/buy/in-augustine+heights%2c+qld+4300%3b/map-1",
+            "display_url": "realestate.com.au/buy/in-augusti…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:41:00 +0000 2015",
+      "id": 668725930693541900,
+      "id_str": "668725930693541889",
+      "text": "Федор прав. Я понаехал в AU из Сибири так что меня такие цены печалят: у нас за бочку нефти можно было однушку взять https://t.co/sNgMfMGR1C",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668725026028429300,
+      "quoted_status_id_str": "668725026028429312",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 09:37:25 +0000 2015",
+        "id": 668725026028429300,
+        "id_str": "668725026028429312",
+        "text": "@abroadunderhood Ты забыл сообщить, что ты не из Москвы/Питера туда понаехал, поэтому и ужас. :)",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 668724864753233900,
+        "in_reply_to_status_id_str": "668724864753233920",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sNgMfMGR1C",
+            "expanded_url": "https://twitter.com/suxxes/status/668725026028429312",
+            "display_url": "twitter.com/suxxes/status/…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 09:43:24 +0000 2015",
+      "id": 668726531452203000,
+      "id_str": "668726531452203009",
+      "text": "И снова про налоги: государство само ничего хорошего не сделает (непотраченные не вернет). Распределять тоже нельзя https://t.co/OxT0XXGJSD",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        12164662
+      ],
+      "quoted_status_id": 668723239984701400,
+      "quoted_status_id_str": "668723239984701441",
+      "quoted_status": {
+        "created_at": "Mon Nov 23 09:30:19 +0000 2015",
+        "id": 668723239984701400,
+        "id_str": "668723239984701441",
+        "text": "@abroadunderhood А само гос-во непотраченные налоги возвращает? Можно самому распределять куда налоги пойдут?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 668722953081622500,
+        "in_reply_to_status_id_str": "668722953081622528",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OxT0XXGJSD",
+            "expanded_url": "https://twitter.com/suxxes/status/668723239984701441",
+            "display_url": "twitter.com/suxxes/status/…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
