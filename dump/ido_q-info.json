@@ -46,20 +46,20 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 340,
+  "statuses_count": 341,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Nov 25 10:59:34 +0000 2015",
-    "id": 669470475001667600,
-    "id_str": "669470475001667584",
-    "text": "@Vocxo я же написал, что не был там =(",
+    "created_at": "Wed Nov 25 11:26:05 +0000 2015",
+    "id": 669477152010739700,
+    "id_str": "669477152010739712",
+    "text": "Да если видишь мертвое животное то лучше позвонить чтобы убрали. Иначе потом сам не рад будешь запаху https://t.co/vPoGailRvA",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": 13020892,
-    "in_reply_to_user_id_str": "13020892",
-    "in_reply_to_screen_name": "Vocxo",
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,22 +71,22 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "Vocxo",
-          "name": "Vox",
-          "id": 13020892,
-          "id_str": "13020892",
+          "url": "https://t.co/vPoGailRvA",
+          "expanded_url": "https://twitter.com/kspitfire7/status/669474984713154560",
+          "display_url": "twitter.com/kspitfire7/sta…",
           "indices": [
-            0,
-            6
+            102,
+            125
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
