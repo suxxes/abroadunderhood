@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 380,
+  "followers_count": 383,
   "friends_count": 0,
   "listed_count": 5,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3,
+  "favourites_count": 4,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 409,
+  "statuses_count": 426,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 26 08:28:06 +0000 2015",
-    "id": 669794747221852200,
-    "id_str": "669794747221852160",
-    "text": "... но если вы катались в Европе в каких-нибудь Альпах то не думаю, что на местных горах будет сильно интересно",
+    "created_at": "Thu Nov 26 10:11:42 +0000 2015",
+    "id": 669820817270698000,
+    "id_str": "669820817270697985",
+    "text": "RT @query_string: @abroadunderhood вот вам всякие интересные статсы про солнечные батареи  https://t.co/nB8D21ximf Кстати, я немного работа…",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,16 +66,98 @@
     "contributors": [
       12164662
     ],
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Thu Nov 26 10:11:33 +0000 2015",
+      "id": 669820781019312100,
+      "id_str": "669820781019312128",
+      "text": "@abroadunderhood вот вам всякие интересные статсы про солнечные батареи  https://t.co/nB8D21ximf Кстати, я немного работал над этим сайтом )",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669811409585176600,
+      "in_reply_to_status_id_str": "669811409585176577",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/nB8D21ximf",
+            "expanded_url": "http://pv-map.apvi.org.au",
+            "display_url": "pv-map.apvi.org.au",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "query_string",
+          "name": "Professor Genki",
+          "id": 10383842,
+          "id_str": "10383842",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андэрхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            18,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nB8D21ximf",
+          "expanded_url": "http://pv-map.apvi.org.au",
+          "display_url": "pv-map.apvi.org.au",
+          "indices": [
+            91,
+            114
+          ]
+        }
+      ]
     },
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
