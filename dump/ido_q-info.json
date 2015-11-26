@@ -41,18 +41,18 @@
   "friends_count": 0,
   "listed_count": 5,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5,
+  "favourites_count": 7,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 481,
+  "statuses_count": 501,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 26 13:21:24 +0000 2015",
-    "id": 669868559430881300,
-    "id_str": "669868559430881281",
-    "text": "Чуть не забыл, условия те же: 1к фолловеров до конца недели и этот флуд не прекратится еще три месяца",
+    "created_at": "Thu Nov 26 22:06:04 +0000 2015",
+    "id": 670000595860717600,
+    "id_str": "670000595860717568",
+    "text": "Главный Австралийский сайт по поиску работу это https://t.co/loPPWyTriI - но 90% там это унылые рекрутеры https://t.co/nvQ9xeSqK1",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,16 +66,36 @@
     "contributors": [
       12164662
     ],
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/loPPWyTriI",
+          "expanded_url": "http://www.seek.com.au/",
+          "display_url": "seek.com.au",
+          "indices": [
+            48,
+            71
+          ]
+        },
+        {
+          "url": "https://t.co/nvQ9xeSqK1",
+          "expanded_url": "https://twitter.com/_sashashakun/status/669998381343907840",
+          "display_url": "twitter.com/_sashashakun/s…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
