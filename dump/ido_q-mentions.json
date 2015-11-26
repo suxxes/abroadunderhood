@@ -21545,6 +21545,168 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 22:29:52 +0000 2015",
+      "id": 670006586052649000,
+      "id_str": "670006586052648960",
+      "text": "@abroadunderhood ну кто бы мог подумать…",
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670006263195963400,
+      "in_reply_to_status_id_str": "670006263195963392",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 159809934,
+        "id_str": "159809934"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 23:28:00 +0000 2015",
+      "id": 670021213742198800,
+      "id_str": "670021213742198784",
+      "text": "@PaGrom @abroadunderhood  @Vocxo: пс, парни, к концу недели он снова захочет уйти в минус и попросит нас всех отписаться ;)",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669871069235400700,
+      "in_reply_to_status_id_str": "669871069235400704",
+      "in_reply_to_user_id": 53938072,
+      "in_reply_to_user_id_str": "53938072",
+      "in_reply_to_screen_name": "PaGrom",
+      "user": {
+        "id": 10383842,
+        "id_str": "10383842"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PaGrom",
+            "name": "Pavel Gromov",
+            "id": 53938072,
+            "id_str": "53938072",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              8,
+              24
+            ]
+          },
+          {
+            "screen_name": "Vocxo",
+            "name": "Vox",
+            "id": 13020892,
+            "id_str": "13020892",
+            "indices": [
+              26,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 26 23:32:53 +0000 2015",
+      "id": 670022441561780200,
+      "id_str": "670022441561780224",
+      "text": "@PaGrom @abroadunderhood мой работодатель тоже был очень рад, что нашёл full-stack в моем лице и каждый раз это упоминает )",
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 669989338139201500,
+      "in_reply_to_status_id_str": "669989338139201537",
+      "in_reply_to_user_id": 53938072,
+      "in_reply_to_user_id_str": "53938072",
+      "in_reply_to_screen_name": "PaGrom",
+      "user": {
+        "id": 10383842,
+        "id_str": "10383842"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "PaGrom",
+            "name": "Pavel Gromov",
+            "id": 53938072,
+            "id_str": "53938072",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              8,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
