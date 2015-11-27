@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 396,
+  "followers_count": 407,
   "friends_count": 0,
   "listed_count": 5,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7,
+  "favourites_count": 9,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 505,
+  "statuses_count": 558,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Nov 26 22:38:37 +0000 2015",
-    "id": 670008787596513300,
-    "id_str": "670008787596513280",
-    "text": "Вот так мы обычно мы ездим на море в Gold Coast (обратите внимание на милое название района) https://t.co/b136IQl61o",
+    "created_at": "Fri Nov 27 09:25:00 +0000 2015",
+    "id": 670171453564649500,
+    "id_str": "670171453564649472",
+    "text": "Шанс есть, но не такой большой. Мне кажется легче поймать клеща в Сибири чем здесь наступить на медузу  https://t.co/idvDn4jxST",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -67,48 +67,20 @@
       12164662
     ],
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 670008647498539000,
-          "id_str": "670008647498539008",
+          "url": "https://t.co/idvDn4jxST",
+          "expanded_url": "https://twitter.com/vforvolodymyr/status/670169485576400896",
+          "display_url": "twitter.com/vforvolodymyr/…",
           "indices": [
-            93,
-            116
-          ],
-          "media_url": "http://pbs.twimg.com/media/CUxZUKaXIAAVgD-.png",
-          "media_url_https": "https://pbs.twimg.com/media/CUxZUKaXIAAVgD-.png",
-          "url": "https://t.co/b136IQl61o",
-          "display_url": "pic.twitter.com/b136IQl61o",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/670008787596513280/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 1065,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 603,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 640,
-              "h": 1136,
-              "resize": "fit"
-            }
-          }
+            104,
+            127
+          ]
         }
       ]
     },
