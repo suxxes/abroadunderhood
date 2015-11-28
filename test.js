@@ -23,7 +23,7 @@ describe('index page', () => {
   it('followers count exists', () => {
     const $ = make$('dist/index.html');
     const followers = numbers(String(latestInfo.followers_count));
-    assert($('.page-header p i').text().indexOf(followers) > 0);
+    assert($('.page-header p b').text().indexOf(followers) > 0);
   });
 });
 
