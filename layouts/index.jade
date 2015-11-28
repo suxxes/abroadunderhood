@@ -8,26 +8,34 @@ block meta
   meta(name="og:description"  content=site.description)
 
 block headerTitle
-  = site.title
+  span.hidden-xs
+    = site.title
 
 block content
-  article.container
+  article
     a.now-playing-wrapper(href="https://twitter.com/" + site.title)
-      .now-playing
-        .now-playing__userpic
-        .now-playing__info
-          .small На этой неделе твиттер ведёт:<br/>
-          .now-playing__username= "@" + currentAuthor.username
+      span.container
+        span.now-playing
+          span.now-playing__userpic
+          span.now-playing__info
+            span.now-playing__headline.small На этой неделе твиттер ведёт
+            br
+            span.now-playing__username= "@" + currentAuthor.username
+            br
+            if currentAuthor.info.location
+              span.small
+                span.glyphicon.glyphicon-map-marker
+                = " " + currentAuthor.info.location
 
   article.container
     each row in authors
-      .row(style="margin-bottom: 1em")
+      .row
         each author in row
           .col-md-4
-            div.row
+            .row
               .col-md-2
                 .row.text-center
-                  div.img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
+                  .img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
               .col-md-10
                 h2(style="margin: 0"): a(href="/" + author.username + '/')
                   = "@" + author.username

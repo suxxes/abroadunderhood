@@ -1,15 +1,12 @@
+include menu
+
 .jumbotron
   .container
-    .row
-      .col-md-12
-        include menu
-        .page-header
-          h1.site-title
-            block headerTitle
-          p Коллективный твиттер-аккаунт для тех, кто хочет уехать зарубеж, от тех, кто уехал, с новым автором каждую неделю.
-            br
-            i  Уже #{numbers(people(latestInfo.followers_count))} в теме.
-    .row
-      .col-md-12
-          include share-text
-          hr
+    .page-header
+      h1.site-title.text-muted
+        block headerTitle
+      p #{site.description}
+        br
+        b.text-muted Уже #{numbers(people(latestInfo.followers_count))} в теме
+  .container
+    include share-text

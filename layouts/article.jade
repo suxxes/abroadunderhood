@@ -10,14 +10,12 @@ block meta
   meta(name="og:description" content=desc.text)
 
 block headerTitle
-  a(href="/") abroadunderhood
-  small= " / "
-    = title
+  span.hidden-xs
+    a(href="/") abroadunderhood
+    br.visible-sm
+    small.hidden-sm &nbsp;&middot;&nbsp;
+  small= title
 
 block content
-  .container
-    .row
-      .col-md-6.col-md-offset-3
-        article
-          h1= title
-          != content.html
+  article.container.margin-top
+    != content.html

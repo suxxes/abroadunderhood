@@ -1,16 +1,31 @@
-nav
-  a.btn.btn-success.btn-menu(href="https://twitter.com/abroadunderhood")
-    b Подписаться
-  a(href="/stats/") Статистика
-  = " • "
-  a(href="/about/") О проекте
-  = " • "
-  a(href="/authoring/") Стать автором
-  = " • "
-  a(href="/rss.xml") RSS
-  = " • "
-  a(href="https://github.com/iamstarkov/abroadunderhood") GitHub
-  = " • "
-  a(href="https://google.com/?q=site:abroadunderhood.ru+что-нибудь") Поиск
-  = " • "
-  a(href="https://github.com/iamstarkov/awesome-collective-twitters") Похожие проекты
+.navbar
+  .container
+    .navbar-header
+      button.navbar-toggle.collapsed(data-toggle="collapse", data-target="#navbar-collapse", aria-expanded="false")
+        span.sr-only Toggle navigation
+        span.icon-bar
+        span.icon-bar
+        span.icon-bar
+      a.navbar-brand.visible-xs(href="/")
+        span.text-muted @
+        b abroadunderhood
+    .navbar-collapse.collapse#navbar-collapse
+      .row
+        ul.nav.navbar-nav
+          li
+            a.btn.btn-success(href="https://twitter.com/abroadunderhood")
+              b Подписаться
+          li
+            a(href="/stats/") Статистика
+          li
+            a(href="/about/") О проекте
+          li
+            a(href="/authoring/") Стать автором
+          li.hidden-sm
+            a(href="/rss.xml") RSS
+          li.hidden-sm
+            a(href="https://github.com/suxxes/abroadunderhood") GitHub
+          li.hidden-sm
+            a(href="https://google.com/?q=site:abroadunderhood.ru+что-нибудь") Поиск
+          li
+            a(href="https://github.com/iamstarkov/awesome-collective-twitters") Похожие проекты

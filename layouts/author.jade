@@ -8,9 +8,11 @@ block meta
   meta(name="og:description"  content=author.tweets[0].text)
 
 block headerTitle
-  a(href="/") abroadunderhood
-  small= " / "
-    = author.username
+  span.hidden-xs
+    a(href="/") abroadunderhood
+    br.visible-sm
+    small.hidden-sm &nbsp;&middot;&nbsp;
+  small= author.username
 
 block content
   .container

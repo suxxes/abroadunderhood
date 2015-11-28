@@ -1,5 +1,3 @@
-# abroadunderhood
-
 Коллективный твиттер-аккаунт для тех, кто хочет уехать зарубеж, от тех,
 кто уехал, с новым автором каждую неделю.
 
@@ -22,6 +20,6 @@
 
 Подписывайтесь на [@abroadunderhood][jsh] в твиттере.
 
-_PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)_
+PS. Есть и другие похожие проекты. Их список хранится на гитхабе в репозитории [awesome-collective-twitters](https://github.com/iamstarkov/awesome-collective-twitters)
 
 [jsh]: https://twitter.com/abroadunderhood

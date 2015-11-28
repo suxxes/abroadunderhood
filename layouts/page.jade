@@ -4,9 +4,12 @@ html(dir="LTR" lang="ru")
     include head
 
   body
-    include header
-    block content
-    include share
+    .wrapper
+      .content
+        include header
+        block content
     include footer
     include gauges
+    script(src="/jquery.js")
+    script(src="/js/bootstrap.min.js")
     script(src="/app.js")

@@ -1,12 +1,10 @@
-.container
-  .row.footer.text-center
-    .col-md-12
-      hr
-      p
-        a(href="https://twitter.com/iamstarkov") @iamstarkov
-        = " c любовью разработал"
-        br
-        a(href="https://twitter.com/suxxes") @suxxes
-        = " бережно курирует авторов"
-      include menu
-      br
+.footer.text-muted
+  .hidden-xs.hidden-sm
+    include menu
+
+  p.container
+    a(href="https://twitter.com/iamstarkov") @iamstarkov
+    = " c любовью разработал, "
+    
+    a(href="https://twitter.com/suxxes") @suxxes
+    = " бережно курирует авторов"
