@@ -10,6 +10,8 @@ jQuery(window).on('load resize', () => {
   jQuery('#footer').css('marginTop', () => {
     return jQuery('#footer').outerHeight() * -1;
   });
+
+  jQuery('.navbar-collapse.collapse').removeClass('collapsing in');
 });
 
 const d = document; // eslint-disable-line id-length

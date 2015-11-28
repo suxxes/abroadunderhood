@@ -470,8 +470,18 @@ html, body {
   text-transform: uppercase;
 }
 
+.navbar-toggle {
+  padding: 0;
+  margin-top: 17px;
+  margin-bottom: 17px;
+}
+
 .navbar-toggle .icon-bar {
   background-color: #888;
+}
+
+.navbar-brand {
+  color: #232323;
 }
 
 .navbar-nav > li {
@@ -481,6 +491,7 @@ html, body {
 .navbar-nav > li > a {
   color: #232323;
   padding: 0;
+  font-weight: normal;
   margin-top: 25px;
   margin-bottom: 25px;
 }
@@ -499,6 +510,23 @@ html, body {
 .navbar-nav > li > .btn:hover {
   background-color: #449d44;
   border-color: #398439
+}
+
+.navbar-collapse.collapsing, .navbar-collapse.collapse.in {
+  margin: 0;
+}
+
+.navbar-collapse.collapsing .navbar-nav, .navbar-collapse.collapse.in .navbar-nav {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.navbar-collapse.collapsing .navbar-nav > li, .navbar-collapse.collapse.in .navbar-nav > li {
+  margin: 0;
+}
+
+.navbar-collapse.collapsing .navbar-nav > li > a, .navbar-collapse.collapse.in .navbar-nav > li > a {
+  margin: 10px 0;
 }
 
 #footer .navbar {
