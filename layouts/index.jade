@@ -13,36 +13,31 @@ block headerTitle
 
 block content
   article
-    a.now-playing-wrapper(href="https://twitter.com/" + site.title)
+    a.author-wrapper.now-playing(href="https://twitter.com/" + site.title)
       span.container
-        span.now-playing
-          span.now-playing__userpic
-          span.now-playing__info
-            span.now-playing__headline.small На этой неделе твиттер ведёт
-            br
-            span.now-playing__username= "@" + currentAuthor.username
-            br
+        span.author
+          span.author__userpic
+          span.author__info
+            span.author__headline.small На этой неделе твиттер ведёт
+            h2.author__username= "@" + currentAuthor.username
             if currentAuthor.info.location
               span.small
                 span.glyphicon.glyphicon-map-marker
                 = " " + currentAuthor.info.location
 
-  article.container
-    each row in authors
-      .row
-        each author in row
-          .col-md-4
-            .row
-              .col-md-2
-                .row.text-center
-                  .img-circle(style="width: 48px; height: 48px; background-image: url(" + author.media.image + "); background-size: cover; margin: 0 auto;")
-              .col-md-10
-                h2(style="margin: 0"): a(href="/" + author.username + '/')
-                  = "@" + author.username
-                if author.info.location
-                  small
-                    span.glyphicon.glyphicon-map-marker
-                    = " " + author.info.location
-            .row
-              .col-md-12
-                p.list__item-desc!= helpers.render(helpers.firstTweet(author))
+  each author in authors
+    article
+      a.author-wrapper(href="/" + author.username + '/' style="background-image: url(" + author.media.banner + ");")
+        span.container
+          span.author
+            span.author__userpic(style="background-image: url(" + author.media.image + ");")
+            span.author__info
+              span.author__headline.small
+                = helpers.authorRender.d(author.tweets[0].created_at)
+                &nbsp;&ndash;&nbsp;
+                = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at)
+              h2.author__username= "@" + author.username
+              if author.info.location
+                span.small
+                  span.glyphicon.glyphicon-map-marker
+                  = " " + author.info.location

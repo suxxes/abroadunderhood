@@ -69,8 +69,8 @@ task('index', ['css'], () => {
         title: `Сайт @${site.title}`,
         desc: site.description,
         currentAuthor: head(authors),
-        authors: splitEvery(3, authorsToPost),
-        helpers: { bust, firstTweet, render },
+        authors: authorsToPost,
+        helpers: { authorRender, bust, firstTweet, render },
       },
     }))
     .pipe(rename({ basename: 'index' }))
@@ -159,7 +159,11 @@ task('authors', ['css'], done => {
 
 task('userpics', () =>
   src('dump/images/*-image*')
-    .pipe(jimp({ resize: { width: 96, height: 96 }}))
+    .pipe(jimp({ resize: { width: 192, height: 192 }}))
+    .pipe(dest('dist/images')));
+
+task('banners', () =>
+  src('dump/images/*-banner*')
     .pipe(dest('dist/images')));
 
 task('current-userpic', () =>
@@ -211,7 +215,7 @@ task('server', () => {
 task('clean', done => rimraf('dist', done));
 
 task('html', ['stats', 'authors', 'index', 'rss', 'about', 'authoring']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'current-media', done));
+task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'banners', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 

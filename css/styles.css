@@ -261,21 +261,36 @@ tr {
   }
 }
 
+.tweets h2 small {
+  font-weight: 300;
+  line-height: 33px;
+}
+
 .tweet {
   position: relative;
+}
+
+.tweet + .tweet {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+.tweet + h2 {
+  margin-top: 48px;
 }
 
 .tweet__time {
   display: block;
   color: rgb(160, 160, 160);
   font-size: 12px;
-  line-height: 20px;
+  line-height: 25px;
 }
 
 @media (min-width: 769px) {
   .tweet__time {
     position: absolute;
-    top: 1px;
+    margin-top: 1px;
     right: 100%;
     padding-right: 1.5em;
     display: inline-block;
@@ -287,7 +302,7 @@ tr {
 }
 
 .list--links {
-	overflow-x: hidden;
+  word-break: break-all;
 }
 
 .tweet blockquote {
@@ -306,6 +321,7 @@ tr {
   float: left;
   margin: 0.5em 1em 0px auto;
   background-size: cover;
+  border-radius: 4px;
 }
 
 .author-image--small {
@@ -315,6 +331,7 @@ tr {
   float: none;
   display: inline-block;
   vertical-align: middle;
+  border-radius: 2px;
 }
 
 .author-prev-next {
@@ -322,18 +339,22 @@ tr {
   margin-bottom: 0;
 }
 
-.now-playing-wrapper {
+.author-wrapper {
   position: relative;
   padding: 100px 24px;
   display: block;
-  text-align: center;
-  background-image: url(/images/current-banner);
+  text-align: left;
   background-size: cover;
   background-position: center;
   overflow: hidden;
+  line-height: 32px;
 }
 
-.now-playing-wrapper:before {
+.author-wrapper.now-playing {
+  background-image: url(/images/current-banner);
+}
+
+.author-wrapper:before {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -346,69 +367,84 @@ tr {
   content: '';
 }
 
-.now-playing-wrapper:hover {
+.author-wrapper:hover {
   text-decoration: none;
 }
 
-.now-playing-wrapper:hover:before {
+.author-wrapper:hover:before {
   background-color: rgba(0,0,0,.5);
 }
 
-.now-playing {
+.author {
   position: relative;
   z-index: 1;
   color: rgb(255,255,255);
   text-shadow: 0 4px 12px 3px rgba(0,0,0,.85);
 }
 
-.now-playing__userpic {
+.author__userpic {
   position: relative;
   width: 96px;
   height: 96px;
-  margin-bottom: 12px;
-  margin-left: auto;
-  margin-right: auto;
-  background-image: url(/images/current-image);
+  margin-bottom: initial;
+  margin-left: initial;
+  margin-right: 24px;
   background-size: cover;
   border-radius: 8px;
   vertical-align: middle;
+  display: inline-block;
 }
 
-.now-playing__headline {
-  opacity: 0.75;
+.now-playing .author__userpic {
+  background-image: url(/images/current-image);
 }
 
-.now-playing__info {
-  font-size: 18px;
-  line-height: 32px;
+.author__headline {
+  color: #d0d0d0;
+  font-weight: 100;
+}
+
+.author__info {
+  font-size: 21px;
+  font-weight: 300;
+  display: inline-block;
   vertical-align: middle;
 }
 
-.now-playing__username {
-  font-size: 24px;
+.author__username {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 30px;
   font-weight: 500;
 }
 
-@media (min-width: 600px) {
-  .now-playing-wrapper {
-    padding: 100px 48px;
-    text-align: left;
+.author__username a {
+  color: #c0c0c0;
+  font-size: 15px;
+  padding-left: 15px;
+  vertical-align: middle;
+}
+
+@media (max-width: 768px) {
+  .author-wrapper {
+    text-align: center;
   }
 
-  .now-playing__userpic {
-    margin-bottom: initial;
-    margin-left: initial;
-    margin-right: 24px;
-    display: inline-block;
+  .author__userpic {
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
-  .now-playing__info {
-    display: inline-block;
-    font-size: 21px;
+  .author__info {
+    display: block;
+    font-size: 18px;
+    line-height: 32px;
+    vertical-align: middle;
   }
 
-  .now-playing__username {
-    font-size: 30px;
+  .author__username {
+    font-size: 24px;
     font-weight: 500;
   }
 }
