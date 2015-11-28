@@ -62,7 +62,7 @@ th.sort-down .sort-up   { display: inline; }
 }
 
 .host-stats__col {
-  padding: 8px 10px;
+  padding: 8px 10px 10px;
   width: 14%;
   text-align: center;
   vertical-align: middle;
@@ -249,8 +249,8 @@ tr {
   right: 0;
   left: 0;
   margin-left: 25px;
-  margin-right: 33px;
-  margin-top: 3px;
+  margin-right: 25px;
+  margin-top: 5px;
 }
 
 @media (max-width: 768px) {
