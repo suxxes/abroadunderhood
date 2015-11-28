@@ -2,6 +2,16 @@ import { initate as likely } from 'ilyabirman-likely';
 
 likely();
 
+jQuery(window).on('load resize', () => {
+  jQuery('#content').css('paddingBottom', () => {
+    return jQuery('#footer').outerHeight();
+  });
+
+  jQuery('#footer').css('marginTop', () => {
+    return jQuery('#footer').outerHeight() * -1;
+  });
+});
+
 const d = document; // eslint-disable-line id-length
 const $ = d.querySelector.bind(d); // eslint-disable-line id-length
 

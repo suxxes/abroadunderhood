@@ -4,12 +4,12 @@ html(dir="LTR" lang="ru")
     include head
 
   body
-    .wrapper
-      .content
+    #wrapper
+      #content
         include header
         block content
     include footer
     include gauges
-    script(src="/jquery.js")
-    script(src="/js/bootstrap.min.js")
+    script(src="https://code.jquery.com/jquery-2.1.4.min.js")
+    script(src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous")
     script(src="/app.js")

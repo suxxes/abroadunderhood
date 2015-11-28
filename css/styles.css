@@ -444,30 +444,23 @@ h1.site-title:before {
   padding: 1em 0;
 }
 
-.footer {
-  margin-top: -126px;
-  height: 150px;
-  padding: 24px 0;
-  background-color: #f9f9f9;
-}
-
-.footer .navbar {
-  margin-bottom: 12px;
-}
-
 html, body {
   width: 100%;
   height: 100%;
 }
 
-.wrapper {
+#wrapper {
   min-height: 100%;
   height: auto;
 }
 
-.wrapper .content {
+#content {
   overflow: auto;
-  padding-bottom: 150px;
+}
+
+#footer {
+  padding: 24px 0;
+  background-color: #f9f9f9;
 }
 
 .navbar {
@@ -508,16 +501,30 @@ html, body {
   border-color: #398439
 }
 
-.footer .navbar-nav > li > a {
+#footer .navbar {
+  margin-bottom: 12px;
+}
+
+#footer .navbar-nav > li > a {
   margin-top: 5px;
   margin-bottom: 5px;
 }
 
-.footer .navbar-nav > li > .btn {
+#footer .navbar-nav > li > .btn {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.margin-top {
+.content {
   margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.content h1:first-child,
+.content h2:first-child,
+.content h3:first-child,
+.content h4:first-child,
+.content h5:first-child,
+.content h6:first-child {
+  margin-top: 0;
 }

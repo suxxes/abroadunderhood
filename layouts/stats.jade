@@ -8,16 +8,17 @@ block meta
   meta(name="og:description" content=site.description)
 
 block headerTitle
-  a(href="/") abroadunderhood
-  br.visible-xs.visible-sm
-  small.hidden-xs.hidden-sm &nbsp;&middot;&nbsp;
+  span.hidden-xs
+    a(href="/") abroadunderhood
+    br.visible-sm
+    small.hidden-sm &nbsp;&middot;&nbsp;
   small Статистика
 
 block content
   - var tweetsCountsArr = stats.map(function(author) { return author.tweets; });
   - var maxTweets = Math.max.apply(Math, tweetsCountsArr);
   
-  .margin-top
+  .content
     .container.js-stats
       .row
         .col-md-12
