@@ -2,11 +2,11 @@ body {
   color: #232323;
   font-size: 18px;
   font-family: 'PT Sans', sans-serif;
+  position: relative;
 }
 
 .container {
   display: block;
-  max-width: 960px;
 }
 
 .page-header {
@@ -262,23 +262,29 @@ tr {
   }
 }
 
-.tweets h2 small {
-  font-weight: 300;
-  line-height: 33px;
+.tweets + .tweets {
+  margin-top: 48px;
+}
+
+.tweets--num {
+  line-height: 55px;
+}
+
+.tweets--date {
+  display: block;
+  font-size: 14px;
+  line-height: 25px;
+}
+
+.tweets--weekday .h2, .tweets--weekday .h3 {
+  margin: 0;
 }
 
 .tweet {
   position: relative;
-}
-
-.tweet + .tweet {
   margin-top: 12px;
   padding-top: 12px;
   border-top: 1px solid rgba(0, 0, 0, 0.15);
-}
-
-.tweet + h2 {
-  margin-top: 48px;
 }
 
 .tweet__time {
@@ -288,7 +294,7 @@ tr {
   line-height: 25px;
 }
 
-@media (min-width: 769px) {
+@media (min-width: 992px) {
   .tweet__time {
     position: absolute;
     margin-top: 1px;
@@ -302,10 +308,6 @@ tr {
   }
 }
 
-.list--links {
-  word-break: break-all;
-}
-
 .tweet blockquote {
   font-size: inherit;
 }
@@ -316,6 +318,10 @@ tr {
 
 .tweet blockquote:last-child {
   margin-bottom: 0;
+}
+
+.list--links {
+  word-break: break-all;
 }
 
 .author-image {
@@ -590,4 +596,16 @@ html, body {
 .content h5:first-child,
 .content h6:first-child {
   margin-top: 0;
+}
+
+#scroll-spy {
+  top: 0;
+}
+
+#scroll-spy .h2 {
+  margin: 0;
+}
+
+#scroll-spy li.active a {
+  background-color: #f0f0f0;
 }

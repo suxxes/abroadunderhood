@@ -12,6 +12,19 @@ jQuery(window).on('load resize', () => {
   });
 
   jQuery('.navbar-collapse.collapse').removeClass('collapsing in');
+
+  jQuery('#scroll-spy').each(function () {
+    const top = jQuery(this).offset().top;
+    const bottom = jQuery('#footer').outerHeight(true);
+    const width = jQuery(this).removeClass('affix').width();
+
+    jQuery(this).width(width).affix({
+      offset: {
+        top: top,
+        bottom: bottom
+      }
+    });
+  });
 });
 
 const d = document; // eslint-disable-line id-length

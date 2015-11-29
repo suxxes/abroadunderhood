@@ -31,79 +31,103 @@ block content
               = " " + author.info.location
               
   .content
-    article.container.tweets
-      each weekday in helpers.authorRender.prepareTweets(author.tweets)
-        - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
-        - var weekdayID = helpers.authorRender.unidecode(weekdayName);
-        
-        h2.text-right(id=weekdayID)
-          a.pull-left(href="#" + weekdayID)
-            = helpers.authorRender.capitalize(weekdayName)
-          small.text-muted
-            = helpers.authorRender.tweetsUnit(weekday.tweets.length)
-
-        each tweet in weekday.tweets
-          - var isRetweet = !!tweet.retweeted_status;
-          - var isQuoted = !!tweet.quoted_status;
-          
-          .tweet(class=isQuoted ? 'tweet--is-quoted' : '')
-            a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
+    article.container
+      .row
+        .col-md-8.col-sm-12.col-xs-12
+          each weekday in helpers.authorRender.prepareTweets(author.tweets)
+            - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
             
-            if isRetweet
-              - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
-              
-              blockquote
-                != helpers.authorRender.render(tweet.retweeted_status)
-                if tweet.entities.media
-                  - var getImageHttps = function (item) { return item.media_url_https; };
-                  - var images = tweet.entities.media.map(getImageHttps);
-                  for image in images
-                    img.img-responsive(src=image)
-                footer
-                  a.text-muted(href="https://twitter.com/" + retweetedUser)
-                    = "@" + retweetedUser
+            .tweets(id=weekday.weekday)
+              .tweets--header.clearfix.text-right
+                .tweets--weekday.pull-left.text-left
+                  span.tweets--date
+                    = helpers.authorRender.d(weekday.weekday)
+                  span.h2
+                    = helpers.authorRender.capitalize(weekdayName)
+                .tweets--num.text-muted
+                  = helpers.authorRender.tweetsUnit(weekday.tweets.length)
 
-            else if isQuoted
-              - var quotedUser = helpers.authorRender.getQuotedUser(tweet);
+              each tweet in weekday.tweets
+                - var isRetweet = !!tweet.retweeted_status;
+                - var isQuoted = !!tweet.quoted_status;
+                
+                .tweet(class=isQuoted ? 'tweet--is-quoted' : '')
+                  a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
+                  
+                  if isRetweet
+                    - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
+                    
+                    blockquote
+                      != helpers.authorRender.render(tweet.retweeted_status)
+                      if tweet.entities.media
+                        - var getImageHttps = function (item) { return item.media_url_https; };
+                        - var images = tweet.entities.media.map(getImageHttps);
+                        for image in images
+                          img.img-responsive(src=image)
+                      footer
+                        a.text-muted(href="https://twitter.com/" + retweetedUser)
+                          = "@" + retweetedUser
 
-              blockquote
-                != helpers.authorRender.render(tweet.quoted_status)
-                if tweet.entities.media
-                  - var getImageHttps = function (item) { return item.media_url_https; };
-                  - var images = tweet.entities.media.map(getImageHttps);
-                  for image in images
-                    img.img-responsive(src=image)
-                footer
-                  a.text-muted(href="https://twitter.com/" + quotedUser)
-                    = "@" + quotedUser
+                  else if isQuoted
+                    - var quotedUser = helpers.authorRender.getQuotedUser(tweet);
 
-              p
-                != helpers.authorRender.render(tweet)
-                if tweet.entities.media
-                  - var getImageHttps = function (item) { return item.media_url_https; };
-                  - var images = tweet.entities.media.map(getImageHttps);
-                  for image in images
-                    img.img-responsive(src=image)
-            else
-              p
-                != helpers.authorRender.render(tweet)
+                    blockquote
+                      != helpers.authorRender.render(tweet.quoted_status)
+                      if tweet.entities.media
+                        - var getImageHttps = function (item) { return item.media_url_https; };
+                        - var images = tweet.entities.media.map(getImageHttps);
+                        for image in images
+                          img.img-responsive(src=image)
+                      footer
+                        a.text-muted(href="https://twitter.com/" + quotedUser)
+                          = "@" + quotedUser
 
-                if tweet.entities.media
-                  - var getImageHttps = function (item) { return item.media_url_https; };
-                  - var images = tweet.entities.media.map(getImageHttps);
-                  for image in images
-                    img.img-responsive(src=image)
+                    p
+                      != helpers.authorRender.render(tweet)
+                      if tweet.entities.media
+                        - var getImageHttps = function (item) { return item.media_url_https; };
+                        - var images = tweet.entities.media.map(getImageHttps);
+                        for image in images
+                          img.img-responsive(src=image)
+                  else
+                    p
+                      != helpers.authorRender.render(tweet)
+
+                      if tweet.entities.media
+                        - var getImageHttps = function (item) { return item.media_url_https; };
+                        - var images = tweet.entities.media.map(getImageHttps);
+                        for image in images
+                          img.img-responsive(src=image)
+                          
+          .tweets(id="links")
+            .tweets--header.text-left(id="links")
+              .h2
+                Ссылки
+
+            each group in helpers.authorRender.getLinks(author.tweets)
+              h3= group.host
+              ul.list--links
+                each link in group.links
+                  li: a(href=link rel="nofollow")= link
         
-      h2(id="links")
-        a(href="#links")
-          = " Ссылки"
+        .col-md-4.hidden-sm.hidden-xs
+          //- .col-md-12.col-md-offset-0.col-lg-8.col-lg-offset-2
+          #scroll-spy
+            ul.nav
+              each weekday in helpers.authorRender.prepareTweets(author.tweets)
+                - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
+                
+                li.tweets--weekday
+                  a(href="#" + weekday.weekday)
+                    span.tweets--date.text-muted
+                      = helpers.authorRender.d(weekday.weekday)
+                    span.h3
+                      = helpers.authorRender.capitalize(weekdayName)
+                  
+              li.tweets--weekday
+                a.h3(href="#links")
+                  = " Ссылки"
 
-      each group in helpers.authorRender.getLinks(author.tweets)
-        h3= group.host
-        ul.list--links
-          each link in group.links
-            li: a(href=link rel="nofollow")= link
-  
     - var prev = helpers.authorRender.prevAuthor(author);
     - var next = helpers.authorRender.nextAuthor(author);
 
