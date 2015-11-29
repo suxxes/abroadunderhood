@@ -12,7 +12,7 @@ const make$ = file => cheerio.load(readFileSync(file, { encoding: 'utf8' }));
 describe('index page', () => {
   it('short authors info', () => {
     const $ = make$('dist/index.html');
-    const pageAuthors = $('article .list__item-desc');
+    const pageAuthors = $('.author-list-item');
     const realAuthors = authors.filter(a => a.post !== false);
     assert(pageAuthors.length == realAuthors.length);
   });

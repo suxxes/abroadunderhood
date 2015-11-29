@@ -26,7 +26,7 @@ block content
                 = " " + currentAuthor.info.location
 
   each author in authors
-    article
+    article.author-list-item
       a.author-wrapper(href="/" + author.username + '/' style="background-image: url(" + author.media.banner + ");")
         span.container
           span.author
