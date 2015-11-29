@@ -4,18 +4,19 @@ body {
   font-family: 'PT Sans', sans-serif;
 }
 
-.jumbotron {
-  margin-bottom: initial;
-  background: #f9f9f9;
-}
-
 .container {
   display: block;
+  max-width: 960px;
 }
 
 .page-header {
   margin: initial;
   border-bottom: initial;
+}
+
+.header {
+  padding: 48px 0;
+  background: #f9f9f9;
 }
 
 th { cursor: pointer; color: rgb(51,122,183); }
