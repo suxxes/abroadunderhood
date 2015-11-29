@@ -16,7 +16,7 @@ jQuery(window).on('load resize', () => {
   jQuery('#scroll-spy').each(function () {
     const is_affix = jQuery(this).hasClass('affix');
     const top = jQuery(this).offset().top;
-    const bottom = jQuery('#content').height(true);
+    const bottom = jQuery('#footer').outerHeight();
     const width = jQuery(this).removeClass('affix').width();
 
     if (is_affix) {
@@ -29,6 +29,16 @@ jQuery(window).on('load resize', () => {
         bottom: bottom
       }
     });
+  });
+
+  jQuery(this).trigger('scroll');
+});
+
+jQuery(window).on('scroll', () => {
+  jQuery('#scroll-spy').each(function () {
+    if (jQuery(this).hasClass('affix')) {
+      jQuery(this).css('position', '');
+    }
   });
 });
 
