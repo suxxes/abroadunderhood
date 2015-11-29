@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 760,
+  "statuses_count": 762,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Nov 29 12:33:54 +0000 2015",
-    "id": 670943768523198500,
-    "id_str": "670943768523198464",
-    "text": "С вами был @ido_q и Любопытный Мэттью https://t.co/FDymL9fGd6",
+    "created_at": "Sun Nov 29 12:53:14 +0000 2015",
+    "id": 670948631969595400,
+    "id_str": "670948631969595395",
+    "text": "PS. На следующей неделе мне сказали что будет Ямайка. Йоооу!",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -67,65 +67,15 @@
       12164662
     ],
     "retweet_count": 0,
-    "favorite_count": 6,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "ido_q",
-          "name": "Alex Shteinikov",
-          "id": 12164662,
-          "id_str": "12164662",
-          "indices": [
-            11,
-            17
-          ]
-        }
-      ],
-      "urls": [],
-      "media": [
-        {
-          "id": 670943730799521800,
-          "id_str": "670943730799521792",
-          "indices": [
-            38,
-            61
-          ],
-          "media_url": "http://pbs.twimg.com/media/CU-rxLKUsAAbrvA.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CU-rxLKUsAAbrvA.jpg",
-          "url": "https://t.co/FDymL9fGd6",
-          "display_url": "pic.twitter.com/FDymL9fGd6",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/670943768523198464/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 340,
-              "h": 255,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 600,
-              "h": 450,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1024,
-              "h": 768,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
