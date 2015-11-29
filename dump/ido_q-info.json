@@ -37,67 +37,158 @@
     }
   },
   "protected": false,
-  "followers_count": 433,
+  "followers_count": 431,
   "friends_count": 0,
   "listed_count": 7,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2,
+  "favourites_count": 0,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 694,
+  "statuses_count": 742,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Nov 29 01:31:11 +0000 2015",
-    "id": 670776987951042600,
-    "id_str": "670776987951042564",
-    "text": "@alex_ivantsov В любом случае никто не сможет лучше рассказать чем официальный сайт - он очень хорошо в плане инфы https://t.co/EqfgUcfQrF",
+    "created_at": "Sun Nov 29 10:29:50 +0000 2015",
+    "id": 670912544362524700,
+    "id_str": "670912544362524672",
+    "text": "RT @MeowMio: @gearmobile @abroadunderhood здесь запрещён разворот на перекрёстках со светофорами, а по кольцу можно в любом направлении",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 670670185238499300,
-    "in_reply_to_status_id_str": "670670185238499328",
-    "in_reply_to_user_id": 2829181605,
-    "in_reply_to_user_id_str": "2829181605",
-    "in_reply_to_screen_name": "alex_ivantsov",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       12164662
     ],
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sun Nov 29 10:22:21 +0000 2015",
+      "id": 670910661782691800,
+      "id_str": "670910661782691840",
+      "text": "@gearmobile @abroadunderhood здесь запрещён разворот на перекрёстках со светофорами, а по кольцу можно в любом направлении",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 670903071967420400,
+      "in_reply_to_status_id_str": "670903071967420416",
+      "in_reply_to_user_id": 85618387,
+      "in_reply_to_user_id_str": "85618387",
+      "in_reply_to_screen_name": "gearmobile",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7ce978ac99b2054f",
+        "url": "https://api.twitter.com/1.1/geo/id/7ce978ac99b2054f.json",
+        "place_type": "neighborhood",
+        "name": "Augustine Heights",
+        "full_name": "Augustine Heights, Brisbane",
+        "country_code": "AU",
+        "country": "Australia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                152.867205,
+                -27.674019
+              ],
+              [
+                152.89866396,
+                -27.674019
+              ],
+              [
+                152.89866396,
+                -27.64699902
+              ],
+              [
+                152.867205,
+                -27.64699902
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gearmobile",
+            "name": "Valery Semenencko",
+            "id": 85618387,
+            "id_str": "85618387",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    "retweet_count": 1,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "alex_ivantsov",
-          "name": "Alexander Ivantsov",
-          "id": 2829181605,
-          "id_str": "2829181605",
+          "screen_name": "MeowMio",
+          "name": "Юлько",
+          "id": 82587956,
+          "id_str": "82587956",
           "indices": [
-            0,
-            14
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "gearmobile",
+          "name": "Valery Semenencko",
+          "id": 85618387,
+          "id_str": "85618387",
+          "indices": [
+            13,
+            24
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андэрхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            25,
+            41
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/EqfgUcfQrF",
-          "expanded_url": "https://www.border.gov.au/Trav/Citi",
-          "display_url": "border.gov.au/Trav/Citi",
-          "indices": [
-            115,
-            138
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
