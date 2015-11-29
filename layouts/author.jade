@@ -60,7 +60,7 @@ block content
                   for image in images
                     img.img-responsive(src=image)
                 footer
-                  a(href="https://twitter.com/" + retweetedUser)
+                  a.text-muted(href="https://twitter.com/" + retweetedUser)
                     = "@" + retweetedUser
 
             else if isQuoted
@@ -74,7 +74,7 @@ block content
                   for image in images
                     img.img-responsive(src=image)
                 footer
-                  a(href="https://twitter.com/" + quotedUser)
+                  a.text-muted(href="https://twitter.com/" + quotedUser)
                     = "@" + quotedUser
 
               p

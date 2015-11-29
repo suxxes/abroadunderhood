@@ -311,8 +311,10 @@ tr {
 
 .tweet.tweet--is-quoted blockquote {
   margin-bottom: 0.5em;
-  padding-bottom: 0.5em;
-  padding-top: 0.5em;
+}
+
+.tweet blockquote:last-child {
+  margin-bottom: 0;
 }
 
 .author-image {
