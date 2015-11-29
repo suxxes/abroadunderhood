@@ -468,9 +468,9 @@ h1.site-title small {
 
 h1.site-title:before {
   position: absolute;
-  margin-left: -1em;
-  top: -.3em;
-  font-size: 2em;
+  margin-left: -1.15em;
+  top: -.15em;
+  font-size: 1.5em;
   font-weight: bold;
   opacity: .15;
   content: '@';
