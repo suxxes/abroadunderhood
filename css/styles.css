@@ -276,8 +276,9 @@ tr {
   line-height: 25px;
 }
 
-.tweets--weekday .h2, .tweets--weekday .h3 {
+.tweets--weekday .h3 {
   margin: 0;
+  line-height: 30px;
   font-weight: 700;
 }
 
