@@ -14,9 +14,14 @@ jQuery(window).on('load resize', () => {
   jQuery('.navbar-collapse.collapse').removeClass('collapsing in');
 
   jQuery('#scroll-spy').each(function () {
+    const is_affix = jQuery(this).hasClass('affix');
     const top = jQuery(this).offset().top;
-    const bottom = jQuery('#footer').outerHeight(true);
+    const bottom = jQuery('#content').height(true);
     const width = jQuery(this).removeClass('affix').width();
+
+    if (is_affix) {
+      jQuery(this).addClass('affix');
+    }
 
     jQuery(this).width(width).affix({
       offset: {

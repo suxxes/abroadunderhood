@@ -111,22 +111,22 @@ block content
                   li: a(href=link rel="nofollow")= link
         
         .col-md-4.hidden-sm.hidden-xs
-          //- .col-md-12.col-md-offset-0.col-lg-8.col-lg-offset-2
-          #scroll-spy
-            ul.nav
-              each weekday in helpers.authorRender.prepareTweets(author.tweets)
-                - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
-                
-                li.tweets--weekday
-                  a(href="#" + weekday.weekday)
-                    span.tweets--date.text-muted
-                      = helpers.authorRender.d(weekday.weekday)
-                    span.h3
-                      = helpers.authorRender.capitalize(weekdayName)
+          .col-md-12.col-md-offset-0.col-lg-10.col-lg-offset-1
+            #scroll-spy
+              ul.nav
+                each weekday in helpers.authorRender.prepareTweets(author.tweets)
+                  - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
                   
-              li.tweets--weekday
-                a.h3(href="#links")
-                  = " Ссылки"
+                  li.tweets--weekday
+                    a(href="#" + weekday.weekday)
+                      span.tweets--date.text-muted
+                        = helpers.authorRender.d(weekday.weekday)
+                      span.h3
+                        = helpers.authorRender.capitalize(weekdayName)
+                    
+                li.tweets--weekday
+                  a.h3(href="#links")
+                    = " Ссылки"
 
     - var prev = helpers.authorRender.prevAuthor(author);
     - var next = helpers.authorRender.nextAuthor(author);
