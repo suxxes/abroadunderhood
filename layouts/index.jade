@@ -12,18 +12,19 @@ block headerTitle
     = site.title
 
 block content
-  article
-    a.author-wrapper.now-playing(href="https://twitter.com/" + site.title)
-      span.container
-        span.author
-          span.author__userpic
-          span.author__info
-            span.author__headline.small На этой неделе твиттер ведёт
-            h2.author__username= "@" + currentAuthor.username
-            if currentAuthor.info.location
-              span.small
-                span.glyphicon.glyphicon-map-marker
-                = " " + currentAuthor.info.location
+  if -1 === authors.indexOf(currentAuthor)
+    article
+      a.author-wrapper.now-playing(href="https://twitter.com/" + site.title)
+        span.container
+          span.author
+            span.author__userpic
+            span.author__info
+              span.author__headline.small На этой неделе твиттер ведёт
+              h2.author__username= "@" + currentAuthor.username
+              if currentAuthor.info.location
+                span.small
+                  span.glyphicon.glyphicon-map-marker
+                  = " " + currentAuthor.info.location
 
   each author in authors
     article.author-list-item
