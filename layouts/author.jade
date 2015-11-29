@@ -33,7 +33,7 @@ block content
   .content
     article.container.tweets
       each weekday in helpers.authorRender.prepareTweets(author.tweets)
-        - var weekdayName = helpers.authorRender.wd(weekday.weekday);
+        - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
         - var weekdayID = helpers.authorRender.unidecode(weekdayName);
         
         h2.text-right(id=weekdayID)
