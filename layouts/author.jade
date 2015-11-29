@@ -33,11 +33,12 @@ block content
   .content
     article.container.tweets
       each weekday in helpers.authorRender.prepareTweets(author.tweets)
-        - var weekdayID = helpers.authorRender.unidecode(weekday.weekday);
+        - var weekdayName = helpers.authorRender.wd(weekday.weekday);
+        - var weekdayID = helpers.authorRender.unidecode(weekdayName);
         
         h2.text-right(id=weekdayID)
           a.pull-left(href="#" + weekdayID)
-            = helpers.authorRender.capitalize(weekday.weekday)
+            = helpers.authorRender.capitalize(weekdayName)
           small.text-muted
             = helpers.authorRender.tweetsUnit(weekday.tweets.length)
 
