@@ -20883,6 +20883,80 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 16:37:06 +0000 2015",
+      "id": 671729748163354600,
+      "id_str": "671729748163354624",
+      "text": "@dotbg @ipronix @nick_jastix @abroadunderhood тут тоже после “с” тот же самый рак горла!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671728151437959200,
+      "in_reply_to_status_id_str": "671728151437959169",
+      "in_reply_to_user_id": 21317782,
+      "in_reply_to_user_id_str": "21317782",
+      "in_reply_to_screen_name": "dotbg",
+      "user": {
+        "id": 310745798,
+        "id_str": "310745798"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dotbg",
+            "name": "Boris",
+            "id": 21317782,
+            "id_str": "21317782",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              7,
+              15
+            ]
+          },
+          {
+            "screen_name": "nick_jastix",
+            "name": "Nikolay",
+            "id": 18577007,
+            "id_str": "18577007",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              29,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
