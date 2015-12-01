@@ -16256,6 +16256,442 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:51:06 +0000 2015",
+      "id": 671778566808449000,
+      "id_str": "671778566808449025",
+      "text": "Да https://t.co/WHG4aAI9s6",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671708722666840000,
+      "quoted_status_id_str": "671708722666840065",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 15:13:33 +0000 2015",
+        "id": 671708722666840000,
+        "id_str": "671708722666840065",
+        "text": "@abroadunderhood В Сербии можно заменить. А интересно - сербские на немецкие по той же схеме?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671705945622356000,
+        "in_reply_to_status_id_str": "671705945622355972",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 62915964,
+          "id_str": "62915964"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "58a08d4ddc8aab9f",
+          "url": "https://api.twitter.com/1.1/geo/id/58a08d4ddc8aab9f.json",
+          "place_type": "country",
+          "name": "Srbija",
+          "full_name": "Srbija",
+          "country_code": "RS",
+          "country": "Srbija",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  18.841238,
+                  42.2363014
+                ],
+                [
+                  23.0063915,
+                  42.2363014
+                ],
+                [
+                  23.0063915,
+                  46.190032
+                ],
+                [
+                  18.841238,
+                  46.190032
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WHG4aAI9s6",
+            "expanded_url": "https://twitter.com/kipruss/status/671708722666840065",
+            "display_url": "twitter.com/kipruss/status…",
+            "indices": [
+              3,
+              26
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:51:50 +0000 2015",
+      "id": 671778754662912000,
+      "id_str": "671778754662912000",
+      "text": "Ходят по ресторанам, филармоникам, рождественским базарам :) https://t.co/lmY1I8A79E",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671728211039010800,
+      "quoted_status_id_str": "671728211039010816",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 16:31:00 +0000 2015",
+        "id": 671728211039010800,
+        "id_str": "671728211039010816",
+        "text": "@abroadunderhood Расскажи, как Берлине развлекаются?",
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14722814,
+          "id_str": "14722814"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lmY1I8A79E",
+            "expanded_url": "https://twitter.com/suxxes/status/671728211039010816",
+            "display_url": "twitter.com/suxxes/status/…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:52:37 +0000 2015",
+      "id": 671778949786112000,
+      "id_str": "671778949786112000",
+      "text": "Завершая тему транспорта: многим ломает мозг тот факт, что тут нет турникетов при входе в u-bahn/s-bahn.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:53:06 +0000 2015",
+      "id": 671779073094508500,
+      "id_str": "671779073094508544",
+      "text": "То есть в теории можно ехать без билета, но ходят контроллеры, если попадешься — штраф 60 евро.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:53:22 +0000 2015",
+      "id": 671779137443508200,
+      "id_str": "671779137443508225",
+      "text": "3 штрафа за год — и будут большие проблемы.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 19:54:34 +0000 2015",
+      "id": 671779442205843500,
+      "id_str": "671779442205843456",
+      "text": "Вечернего Берлина вам в ленту https://t.co/eOmqe8hZ4Z",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 671779423763505200,
+            "id_str": "671779423763505157",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/CVKj06DXIAUY6Xi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CVKj06DXIAUY6Xi.jpg",
+            "url": "https://t.co/eOmqe8hZ4Z",
+            "display_url": "pic.twitter.com/eOmqe8hZ4Z",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/671779442205843456/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 671779423763505200,
+            "id_str": "671779423763505157",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/CVKj06DXIAUY6Xi.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CVKj06DXIAUY6Xi.jpg",
+            "url": "https://t.co/eOmqe8hZ4Z",
+            "display_url": "pic.twitter.com/eOmqe8hZ4Z",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/671779442205843456/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 1365,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 453,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
