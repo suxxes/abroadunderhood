@@ -15409,6 +15409,853 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 13:45:22 +0000 2015",
+      "id": 671686530298159100,
+      "id_str": "671686530298159104",
+      "text": "Да, сдать теорию, сдать практический экзамен. На все уходить около полугода и 1к евро. https://t.co/4XCcaUYdEO",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671672633570828300,
+      "quoted_status_id_str": "671672633570828288",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 12:50:09 +0000 2015",
+        "id": 671672633570828300,
+        "id_str": "671672633570828288",
+        "text": "@abroadunderhood Права РФ можно заменить на местные?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671653237313962000,
+        "in_reply_to_status_id_str": "671653237313961984",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 62915964,
+          "id_str": "62915964"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "0112bdb03ace5ee9",
+          "url": "https://api.twitter.com/1.1/geo/id/0112bdb03ace5ee9.json",
+          "place_type": "city",
+          "name": "Novi Sad",
+          "full_name": "Novi Sad, Srbija",
+          "country_code": "RS",
+          "country": "Srbija",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  19.555448,
+                  45.149702
+                ],
+                [
+                  20.105798,
+                  45.149702
+                ],
+                [
+                  20.105798,
+                  45.430658
+                ],
+                [
+                  19.555448,
+                  45.430658
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4XCcaUYdEO",
+            "expanded_url": "https://twitter.com/kipruss/status/671672633570828288",
+            "display_url": "twitter.com/kipruss/status…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 13:45:49 +0000 2015",
+      "id": 671686640704856000,
+      "id_str": "671686640704856064",
+      "text": "RT @ipronix: в тропикане https://t.co/CaeH8JriHY  были все уже, вот в западной германии тропики https://t.co/7txgLgDwBt @abroadunderhood",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Dec 01 09:59:13 +0000 2015",
+        "id": 671629616151470100,
+        "id_str": "671629616151470080",
+        "text": "в тропикане https://t.co/CaeH8JriHY  были все уже, вот в западной германии тропики https://t.co/7txgLgDwBt @abroadunderhood",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                107,
+                123
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/CaeH8JriHY",
+              "expanded_url": "https://www.tropical-islands.de/",
+              "display_url": "tropical-islands.de",
+              "indices": [
+                12,
+                35
+              ]
+            },
+            {
+              "url": "https://t.co/7txgLgDwBt",
+              "expanded_url": "http://www.badewelt-sinsheim.de/",
+              "display_url": "badewelt-sinsheim.de",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              120,
+              136
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CaeH8JriHY",
+            "expanded_url": "https://www.tropical-islands.de/",
+            "display_url": "tropical-islands.de",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "url": "https://t.co/7txgLgDwBt",
+            "expanded_url": "http://www.badewelt-sinsheim.de/",
+            "display_url": "badewelt-sinsheim.de",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 13:46:13 +0000 2015",
+      "id": 671686741330403300,
+      "id_str": "671686741330403328",
+      "text": "RT @ipronix: @abroadunderhood расскажите на немецкий рынок краудинвестинга ? https://t.co/uNhnKMGM7g",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Dec 01 12:14:11 +0000 2015",
+        "id": 671663580866060300,
+        "id_str": "671663580866060289",
+        "text": "@abroadunderhood расскажите на немецкий рынок краудинвестинга ? https://t.co/uNhnKMGM7g",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 113404896,
+          "id_str": "113404896"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/uNhnKMGM7g",
+              "expanded_url": "https://www.companisto.com/en/investment/triprebel",
+              "display_url": "companisto.com/en/investment/…",
+              "indices": [
+                64,
+                87
+              ]
+            }
+          ]
+        },
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ipronix",
+            "name": "pronix",
+            "id": 113404896,
+            "id_str": "113404896",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uNhnKMGM7g",
+            "expanded_url": "https://www.companisto.com/en/investment/triprebel",
+            "display_url": "companisto.com/en/investment/…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 14:03:28 +0000 2015",
+      "id": 671691084167299100,
+      "id_str": "671691084167299072",
+      "text": "Перевести права — месяц, сходить на курсы первой помощи, получить appointment — месяц, ждать ответа —до 3х месяцев.  https://t.co/J2DcCdBDEg",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671690378605690900,
+      "quoted_status_id_str": "671690378605690880",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 14:00:40 +0000 2015",
+        "id": 671690378605690900,
+        "id_str": "671690378605690880",
+        "text": "@abroadunderhood почему на сдачу теории и практический экзамен уходит пол года, если у тебя уже есть российские права?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671686530298159100,
+        "in_reply_to_status_id_str": "671686530298159104",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 495947990,
+          "id_str": "495947990"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J2DcCdBDEg",
+            "expanded_url": "https://twitter.com/OnePinchMan/status/671690378605690880",
+            "display_url": "twitter.com/OnePinchMan/st…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 14:04:34 +0000 2015",
+      "id": 671691359896645600,
+      "id_str": "671691359896645632",
+      "text": "Найти автошколу, выучить билеты, сдать теория, потом практические занятия, потом экзамен.  https://t.co/J2DcCdBDEg",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671690378605690900,
+      "quoted_status_id_str": "671690378605690880",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 14:00:40 +0000 2015",
+        "id": 671690378605690900,
+        "id_str": "671690378605690880",
+        "text": "@abroadunderhood почему на сдачу теории и практический экзамен уходит пол года, если у тебя уже есть российские права?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671686530298159100,
+        "in_reply_to_status_id_str": "671686530298159104",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 495947990,
+          "id_str": "495947990"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/J2DcCdBDEg",
+            "expanded_url": "https://twitter.com/OnePinchMan/status/671690378605690880",
+            "display_url": "twitter.com/OnePinchMan/st…",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 14:14:10 +0000 2015",
+      "id": 671693776746913800,
+      "id_str": "671693776746913792",
+      "text": "Билеты будут даже на русском, есть русские автошколы, но может случиться так,что инструктор по английски не понимает https://t.co/QkJYZUeeiW",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671692812702892000,
+      "quoted_status_id_str": "671692812702892033",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 14:10:20 +0000 2015",
+        "id": 671692812702892000,
+        "id_str": "671692812702892033",
+        "text": "@abroadunderhood с курсами, автошколой, билетами, экзаменами, вот этим всем можно взаимодействовать на английском? Или только немецкий?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671691359896645600,
+        "in_reply_to_status_id_str": "671691359896645632",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 866589110,
+          "id_str": "866589110"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkJYZUeeiW",
+            "expanded_url": "https://twitter.com/ivan0yu/status/671692812702892033",
+            "display_url": "twitter.com/ivan0yu/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 14:15:21 +0000 2015",
+      "id": 671694075939172400,
+      "id_str": "671694075939172352",
+      "text": "Так что лучше знать как будет \"здесь налево\", \"развернись\" и немецкие названия органов управления автомобиля. https://t.co/QkJYZUeeiW",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "quoted_status_id": 671692812702892000,
+      "quoted_status_id_str": "671692812702892033",
+      "quoted_status": {
+        "created_at": "Tue Dec 01 14:10:20 +0000 2015",
+        "id": 671692812702892000,
+        "id_str": "671692812702892033",
+        "text": "@abroadunderhood с курсами, автошколой, билетами, экзаменами, вот этим всем можно взаимодействовать на английском? Или только немецкий?",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 671691359896645600,
+        "in_reply_to_status_id_str": "671691359896645632",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 866589110,
+          "id_str": "866589110"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QkJYZUeeiW",
+            "expanded_url": "https://twitter.com/ivan0yu/status/671692812702892033",
+            "display_url": "twitter.com/ivan0yu/status…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 14:16:30 +0000 2015",
+      "id": 671694363114790900,
+      "id_str": "671694363114790912",
+      "text": "@corristo мне сказали, что нужно",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671693923207770100,
+      "in_reply_to_status_id_str": "671693923207770112",
+      "in_reply_to_user_id": 16690213,
+      "in_reply_to_user_id_str": "16690213",
+      "in_reply_to_screen_name": "corristo",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "corristo",
+            "name": "corristo",
+            "id": 16690213,
+            "id_str": "16690213",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Dec 01 15:02:31 +0000 2015",
+      "id": 671705945622356000,
+      "id_str": "671705945622355972",
+      "text": "@kipruss когда нет вообще прав ещё нужно сколько-то месяцев ходить на теорию и платить ещё 1к евро",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 671703821404520400,
+      "in_reply_to_status_id_str": "671703821404520448",
+      "in_reply_to_user_id": 62915964,
+      "in_reply_to_user_id_str": "62915964",
+      "in_reply_to_screen_name": "kipruss",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        14384501
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kipruss",
+            "name": "Konstantin Baev",
+            "id": 62915964,
+            "id_str": "62915964",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
