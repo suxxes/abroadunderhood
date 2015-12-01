@@ -22,9 +22,9 @@ const getQuotedUser = pipe(
 
 moment.locale('ru');
 
-const weekday = date => moment(new Date(date)).format('dddd');
+const weekday = (date, offset) => (moment(new Date(date)).utcOffset(offset)).format('dddd');
 const tweetLink = (tweet) => `https://twitter.com/abroadunderhood/status/${tweet.id_str}`;
-const tweetTime = (tweet) => moment(new Date(tweet.created_at)).format('H:mm');
+const tweetTime = (tweet, offset) => (moment(new Date(tweet.created_at)).utcOffset(offset)).format('H:mm');
 
 const authorsToPost = filter(author => author.post !== false, authors);
 
@@ -38,15 +38,17 @@ const prevAuthor = author => {
   if (!isFirstAuthor(author)) return nth(inc(authorIndex(author)), authorsToPost);
 };
 
-const d = input => moment(new Date(input)).format('D MMMM YYYY');
-const gd = input => moment(new Date(input)).format('YYYY-MM-DD');
+const d = (input, offset) => (moment(new Date(input)).utcOffset(offset)).format('D MMMM YYYY');
+const gd = (input, offset) => (moment(new Date(input)).utcOffset(offset)).format('YYYY-MM-DD');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@abroadunderhood') === 0);
-const prepareTweets = pipe(
-  filter(filterTimeline),
-  groupBy(pipe(prop('created_at'), gd)),
-  ungroupInto('weekday', 'tweets'));
+const prepareTweets = (tweets, offset) => {
+  tweets = filter(filterTimeline, tweets);
+  tweets = groupBy(item => gd(item.created_at, offset), tweets);
+
+  return ungroupInto('weekday', 'tweets')(tweets);
+};
 
 export default {
   d,

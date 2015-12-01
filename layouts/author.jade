@@ -18,9 +18,9 @@ block content
         span.author__userpic(style="background-image: url(" + author.media.image.replace('./', '/') + ");")
         span.author__info
           span.author__headline.small
-            = helpers.authorRender.d(author.tweets[0].created_at)
+            = helpers.authorRender.d(author.tweets[0].created_at, author.info.time_zone_offset)
             &nbsp;&ndash;&nbsp;
-            = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at)
+            = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at, author.info.time_zone_offset)
           h1.author__username
             = "@" + author.username
             a.small(href="https://twitter.com/" + author.username)
@@ -34,14 +34,14 @@ block content
     article.container
       .row
         .col-md-8.col-sm-12.col-xs-12
-          each weekday in helpers.authorRender.prepareTweets(author.tweets)
-            - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
+          each weekday in helpers.authorRender.prepareTweets(author.tweets, author.info.time_zone_offset)
+            - var weekdayName = helpers.authorRender.weekday(weekday.weekday, author.info.time_zone_offset);
             
             .tweets(id=weekday.weekday)
               .tweets--header.clearfix.text-right
                 .tweets--weekday.pull-left.text-left
                   span.tweets--date
-                    = helpers.authorRender.d(weekday.weekday)
+                    = helpers.authorRender.d(weekday.weekday, author.info.time_zone_offset)
                   span.h3
                     = helpers.authorRender.capitalize(weekdayName)
                 .tweets--num.text-muted
@@ -52,7 +52,7 @@ block content
                 - var isQuoted = !!tweet.quoted_status;
                 
                 .tweet(class=isQuoted ? 'tweet--is-quoted' : '')
-                  a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet)
+                  a.tweet__time(href=helpers.authorRender.tweetLink(tweet))= helpers.authorRender.tweetTime(tweet, author.info.time_zone_offset)
                   
                   if isRetweet
                     - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
@@ -114,13 +114,13 @@ block content
           .col-md-12.col-md-offset-0.col-lg-10.col-lg-offset-1
             #scroll-spy
               ul.nav
-                each weekday in helpers.authorRender.prepareTweets(author.tweets)
-                  - var weekdayName = helpers.authorRender.weekday(weekday.weekday);
+                each weekday in helpers.authorRender.prepareTweets(author.tweets, author.info.time_zone_offset)
+                  - var weekdayName = helpers.authorRender.weekday(weekday.weekday, author.info.time_zone_offset);
                   
                   li.tweets--weekday
                     a(href="#" + weekday.weekday)
                       span.tweets--date.text-muted
-                        = helpers.authorRender.d(weekday.weekday)
+                        = helpers.authorRender.d(weekday.weekday, author.info.time_zone_offset)
                       span.h3
                         = helpers.authorRender.capitalize(weekdayName)
                     
