@@ -46,20 +46,20 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1104,
+  "statuses_count": 1126,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 02 13:51:21 +0000 2015",
-    "id": 672050423520485400,
-    "id_str": "672050423520485376",
-    "text": "@ivan0yu надо бы поинтересоваться) но думаю это было бы очень дорого, ибо труд людей тут — самое дорогое что может быть, тем более ночью",
+    "created_at": "Wed Dec 02 16:36:20 +0000 2015",
+    "id": 672091941606195200,
+    "id_str": "672091941606195201",
+    "text": "Не, вот https://t.co/slilOMPpAP https://t.co/GX2j5hJSrQ",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": 672047843478249500,
-    "in_reply_to_status_id_str": "672047843478249473",
-    "in_reply_to_user_id": 866589110,
-    "in_reply_to_user_id_str": "866589110",
-    "in_reply_to_screen_name": "ivan0yu",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -71,22 +71,31 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "ivan0yu",
-          "name": "Ivαn Yurchenko",
-          "id": 866589110,
-          "id_str": "866589110",
+          "url": "https://t.co/slilOMPpAP",
+          "expanded_url": "http://www.einstein-kaffee.de/en/",
+          "display_url": "einstein-kaffee.de/en/",
           "indices": [
-            0,
-            8
+            8,
+            31
+          ]
+        },
+        {
+          "url": "https://t.co/GX2j5hJSrQ",
+          "expanded_url": "https://twitter.com/nick_jastix/status/672090663677239300",
+          "display_url": "twitter.com/nick_jastix/st…",
+          "indices": [
+            32,
+            55
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
