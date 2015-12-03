@@ -18,12 +18,23 @@ const filterTwitterLinks = pipe(
   map(format));
 
 const groupByHost = pipe(
-  groupBy(pipe(parse, prop('host'))),
+  groupBy(item => {
+    var host = null;
+    var regexp = /http(?:s)?:\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/ig;
+
+    if (regexp.exec(item)) {
+      host = 'youtube.com';
+    } else {
+      host = parse(item).host;
+    }
+
+    return host.split('.').slice(-2).join('.');
+  }),
   obj2arr,
   map(pipe(values, flatten)));
 
 const moveMinorsToOther = pipe(
-  groupBy(item => length(item) < 5 ? 'other' : parse(head(item)).host),
+  groupBy(item => length(item) < 5 ? 'other' : parse(head(item)).host.split('.').slice(-2).join('.')),
   mapObjIndexed(flatten));
 
 const moveOtherToEnd = sortBy(group => group.host === 'other');
