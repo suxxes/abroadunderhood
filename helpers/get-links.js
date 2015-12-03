@@ -20,7 +20,7 @@ const filterTwitterLinks = pipe(
 const groupByHost = pipe(
   groupBy(item => {
     var host = null;
-    var regexp = /http(?:s)?:\/\/(?:www\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/ig;
+    var regexp = /http(?:s)?:\/\/(?:(www|m)\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/ig;
 
     if (regexp.exec(item)) {
       host = 'youtube.com';

@@ -49,6 +49,14 @@ const prepareTweets = (tweets, offset) => {
 
   return ungroupInto('weekday', 'tweets')(tweets);
 };
+const renderVideo = url => {
+  var regexp = /http(?:s)?:\/\/(?:(www|m)\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/ig;
+  var matches = regexp.exec(url);
+
+  if (matches) {
+    return '<iframe src="//www.youtube.com/embed/' + matches[2] + '" width="640" height="' + (640 * (9 / 16)) + '" frameBorder="0"></iframe>';
+  }
+}
 
 export default {
   d,
@@ -60,6 +68,7 @@ export default {
   unidecode,
   prevAuthor, nextAuthor,
   render: pipe(renderTweet, html, trimTag),
+  renderVideo: renderVideo,
   tweetTime, tweetLink,
   getLinks,
 };

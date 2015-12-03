@@ -58,12 +58,19 @@ block content
                     - var retweetedUser = tweet.entities.user_mentions[0].screen_name;
                     
                     blockquote
-                      != helpers.authorRender.render(tweet.retweeted_status)
-                      if tweet.entities.media
-                        - var getImageHttps = function (item) { return item.media_url_https; };
-                        - var images = tweet.entities.media.map(getImageHttps);
-                        for image in images
-                          img.img-responsive(src=image)
+                      p
+                        != helpers.authorRender.render(tweet.retweeted_status)
+                        
+                        if tweet.entities.media
+                          - var getImageHttps = function (item) { return item.media_url_https; };
+                          - var images = tweet.entities.media.map(getImageHttps);
+                          for image in images
+                            img.img-responsive(src=image)
+                      
+                      if tweet.entities.urls
+                        for url in tweet.entities.urls
+                          != helpers.authorRender.renderVideo(url.expanded_url)
+                          
                       footer
                         a.text-muted(href="https://twitter.com/" + retweetedUser)
                           = "@" + retweetedUser
@@ -72,23 +79,35 @@ block content
                     - var quotedUser = helpers.authorRender.getQuotedUser(tweet);
 
                     blockquote
-                      != helpers.authorRender.render(tweet.quoted_status)
-                      if tweet.entities.media
-                        - var getImageHttps = function (item) { return item.media_url_https; };
-                        - var images = tweet.entities.media.map(getImageHttps);
-                        for image in images
-                          img.img-responsive(src=image)
+                      p
+                        != helpers.authorRender.render(tweet.quoted_status)
+                        
+                        if tweet.entities.media
+                          - var getImageHttps = function (item) { return item.media_url_https; };
+                          - var images = tweet.entities.media.map(getImageHttps);
+                          for image in images
+                            img.img-responsive(src=image)
+                    
+                      if tweet.entities.urls
+                        for url in tweet.entities.urls
+                          != helpers.authorRender.renderVideo(url.expanded_url)
+                      
                       footer
                         a.text-muted(href="https://twitter.com/" + quotedUser)
                           = "@" + quotedUser
 
                     p
                       != helpers.authorRender.render(tweet)
+                      
                       if tweet.entities.media
                         - var getImageHttps = function (item) { return item.media_url_https; };
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
                           img.img-responsive(src=image)
+                    
+                    if tweet.entities.urls
+                      for url in tweet.entities.urls
+                        != helpers.authorRender.renderVideo(url.expanded_url)
                   else
                     p
                       != helpers.authorRender.render(tweet)
@@ -98,6 +117,11 @@ block content
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
                           img.img-responsive(src=image)
+                    
+                    if tweet.entities.urls
+                      for url in tweet.entities.urls
+                        != helpers.authorRender.renderVideo(url.expanded_url)
+                      
                           
           .tweets(id="links")
             .tweets--header.text-left(id="links")
