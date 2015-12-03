@@ -42,7 +42,7 @@ block content
                 .tweets--weekday.pull-left.text-left
                   span.tweets--date
                     = helpers.authorRender.d(weekday.weekday, author.info.time_zone_offset)
-                  span.h3
+                  span.h2
                     = helpers.authorRender.capitalize(weekdayName)
                 .tweets--num.text-muted
                   = helpers.authorRender.tweetsUnit(weekday.tweets.length)
@@ -101,11 +101,12 @@ block content
                           
           .tweets(id="links")
             .tweets--header.text-left(id="links")
-              .h3
-                Ссылки
+              .tweets--weekday
+                .h2
+                  Ссылки
 
             each group in helpers.authorRender.getLinks(author.tweets)
-              h3= group.host
+              .h3= group.host
               ul.list--links
                 each link in group.links
                   li: a(href=link rel="nofollow")= link
