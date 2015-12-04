@@ -286,7 +286,8 @@ tr {
 
 .tweet + .tweet {
   border-top: 1px solid rgba(0, 0, 0, 0.15);
-  padding-top: 24px;
+  margin-top: 12px;
+  padding-top: 12px;
 }
 
 .tweet img {
@@ -316,6 +317,7 @@ tr {
 
 .tweet blockquote {
   font-size: inherit;
+  padding-right: 0;
 }
 
 .tweet.tweet--is-quoted blockquote {
