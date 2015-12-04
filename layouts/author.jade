@@ -90,7 +90,7 @@ block content
                           - var getImageHttps = function (item) { return item.media_url_https; };
                           - var images = tweet.entities.media.map(getImageHttps);
                           for image in images
-                            img.img-responsive.center-block(src=image)
+                            img.img-responsive(src=image)
                   
                       if tweet.entities.urls
                         for url in tweet.entities.urls
@@ -103,7 +103,7 @@ block content
                         - var getImageHttps = function (item) { return item.media_url_https; };
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
-                          img.img-responsive.center-block(src=image)
+                          img.img-responsive(src=image)
                     
                     if tweet.entities.urls
                       for url in tweet.entities.urls
@@ -116,7 +116,7 @@ block content
                         - var getImageHttps = function (item) { return item.media_url_https; };
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
-                          img.img-responsive.center-block(src=image)
+                          img.img-responsive(src=image)
                     
                     if tweet.entities.urls
                       for url in tweet.entities.urls
