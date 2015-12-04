@@ -54,7 +54,7 @@ const renderVideo = url => {
   var matches = regexp.exec(url);
 
   if (matches) {
-    return '<iframe src="//www.youtube.com/embed/' + matches[2] + '" width="640" height="' + (640 * (9 / 16)) + '" frameBorder="0"></iframe>';
+    return '<div class="embed-responsive embed-responsive-16by9"><iframe src="//www.youtube.com/embed/' + matches[2] + '" width="720" height="' + (720 * (9 / 16)) + '" class="embed-responsive-item"></iframe></div>';
   }
 }
 

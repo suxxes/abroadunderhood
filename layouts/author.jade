@@ -61,6 +61,10 @@ block content
                       p
                         != helpers.authorRender.render(tweet.retweeted_status)
                         
+                        footer
+                          a.text-muted(href="https://twitter.com/" + retweetedUser)
+                            = "@" + retweetedUser
+                            
                         if tweet.entities.media
                           - var getImageHttps = function (item) { return item.media_url_https; };
                           - var images = tweet.entities.media.map(getImageHttps);
@@ -70,10 +74,6 @@ block content
                       if tweet.entities.urls
                         for url in tweet.entities.urls
                           != helpers.authorRender.renderVideo(url.expanded_url)
-                          
-                      footer
-                        a.text-muted(href="https://twitter.com/" + retweetedUser)
-                          = "@" + retweetedUser
 
                   else if isQuoted
                     - var quotedUser = helpers.authorRender.getQuotedUser(tweet);
@@ -81,20 +81,20 @@ block content
                     blockquote
                       p
                         != helpers.authorRender.render(tweet.quoted_status)
+                  
+                        footer
+                          a.text-muted(href="https://twitter.com/" + quotedUser)
+                            = "@" + quotedUser
                         
                         if tweet.entities.media
                           - var getImageHttps = function (item) { return item.media_url_https; };
                           - var images = tweet.entities.media.map(getImageHttps);
                           for image in images
-                            img.img-responsive(src=image)
-                    
+                            img.img-responsive.center-block(src=image)
+                  
                       if tweet.entities.urls
                         for url in tweet.entities.urls
                           != helpers.authorRender.renderVideo(url.expanded_url)
-                      
-                      footer
-                        a.text-muted(href="https://twitter.com/" + quotedUser)
-                          = "@" + quotedUser
 
                     p
                       != helpers.authorRender.render(tweet)
@@ -103,7 +103,7 @@ block content
                         - var getImageHttps = function (item) { return item.media_url_https; };
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
-                          img.img-responsive(src=image)
+                          img.img-responsive.center-block(src=image)
                     
                     if tweet.entities.urls
                       for url in tweet.entities.urls
@@ -116,7 +116,7 @@ block content
                         - var getImageHttps = function (item) { return item.media_url_https; };
                         - var images = tweet.entities.media.map(getImageHttps);
                         for image in images
-                          img.img-responsive(src=image)
+                          img.img-responsive.center-block(src=image)
                     
                     if tweet.entities.urls
                       for url in tweet.entities.urls

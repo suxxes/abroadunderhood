@@ -281,9 +281,16 @@ tr {
 
 .tweet {
   position: relative;
-  margin-top: 12px;
-  padding-top: 12px;
+  margin-top: 24px;
+}
+
+.tweet + .tweet {
   border-top: 1px solid rgba(0, 0, 0, 0.15);
+  padding-top: 24px;
+}
+
+.tweet img {
+  margin-top: 1em;
 }
 
 .tweet__time {
@@ -478,10 +485,6 @@ h1.site-title:before {
   font-weight: bold;
   opacity: .15;
   content: '@';
-}
-
-.tweet img {
-  padding: 1em 0;
 }
 
 html, body {
