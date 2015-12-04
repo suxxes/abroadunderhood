@@ -215,14 +215,13 @@ th.host-stats__col {
 }
 
 .live::after {
-  padding: 1px 2px;
+  line-height: 1;
+  padding: 2px 3px 1px;
   display: inline-block;
   color: white;
   font-size: 10px;
   font-weight: 700;
   letter-spacing: .05em;
-  line-height: 1.1;
-  text-shadow: 0 1px 1px rgba(0,0,0,.25);
   text-transform: uppercase;
   background-color: rgb(217,72,43);
   background-image: linear-gradient(to bottom, rgba(0,0,0,0), rgba(0,0,0,.1));

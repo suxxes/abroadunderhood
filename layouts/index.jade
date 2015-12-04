@@ -35,7 +35,7 @@ block content
             span.author__info
               span.author__headline.small
                 = helpers.authorRender.d(author.tweets[0].created_at, author.info.time_zone_offset)
-                &nbsp;&ndash;&nbsp;
+                != " &ndash; "
                 = helpers.authorRender.d(author.tweets[author.tweets.length - 1].created_at, author.info.time_zone_offset)
               h2.author__username= "@" + author.username
               if author.info.location
