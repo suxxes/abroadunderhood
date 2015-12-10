@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 610,
+  "followers_count": 611,
   "friends_count": 0,
   "listed_count": 15,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 1649,
+  "statuses_count": 1652,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Dec 09 19:33:09 +0000 2015",
-    "id": 674673155424800800,
-    "id_str": "674673155424800769",
-    "text": "С безработицей я ошибся немного, там 0.8% платит компания, а 1.6% платит сотрудник.",
+    "created_at": "Wed Dec 09 22:02:42 +0000 2015",
+    "id": 674710790386131000,
+    "id_str": "674710790386130945",
+    "text": "Как в ашане сунуть десятку в тележку)  https://t.co/UdBFGIn7mv",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -72,10 +72,21 @@
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/UdBFGIn7mv",
+          "expanded_url": "https://twitter.com/corristo/status/674710297907720194",
+          "display_url": "twitter.com/corristo/statu…",
+          "indices": [
+            39,
+            62
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
