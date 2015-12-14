@@ -384,11 +384,16 @@ tr {
   z-index: 0;
   display: block;
   background-color: rgba(0,0,0,.65);
+  transition: .15s background-color;
   content: '';
 }
 
 .author-wrapper:hover {
   text-decoration: none;
+}
+
+.author-wrapper:hover:before {
+  background-color: rgba(0,0,0,.5);
 }
 
 .author {
