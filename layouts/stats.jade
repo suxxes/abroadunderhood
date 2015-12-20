@@ -47,12 +47,14 @@ block content
                 th.host-stats__col.host-stats__col_favorited.faved--2p.hidden-sm: span.sortable: nobr на твит
 
             each author, index in stats
+              - var isLive = currentAuthor && currentAuthor.username === author.username;
+              
               tr.host-stats__row
                 td.host-stats__col.host-stats__col_left.col__author(data-title='Автор' data-sort=index)
                   span.cell
-                    - var authorLink = (index !== 0) ? '/' + author.username : 'https://twitter.com/abroadunderhood';
+                    - var authorLink = (isLive) ? 'https://twitter.com/abroadunderhood' : '/' + author.username;
                     .text-ellipsis
-                      a(href=authorLink class={ live: index === 0 })
+                      a(href=authorLink class={ live: isLive })
                         = "@" + author.username
                     if author.info.location
                       .text-ellipsis

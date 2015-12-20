@@ -77,8 +77,9 @@ task('index', ['css'], () => {
     .pipe(dest('dist'));
 });
 
-task('stats', ['css'], () =>
-  src('layouts/stats.jade')
+task('stats', ['css'], () => {
+  const currentAuthor = head(authors.filter(author => author.post === false));
+  return src('layouts/stats.jade')
     .pipe(jade({
       locals: {
         title: `Статистика @${site.title}`,
@@ -86,12 +87,14 @@ task('stats', ['css'], () =>
         desc: site.description,
         lastUpdated,
         stats: getStats(authors),
+        currentAuthor: currentAuthor,
         helpers: { bust },
       },
     }))
     .pipe(rename({ dirname: 'stats' }))
     .pipe(rename({ basename: 'index' }))
-    .pipe(dest('dist')));
+    .pipe(dest('dist'));
+});
 
 task('about', ['css'], () => {
   const readme = fs.readFileSync('./pages/about.md', { encoding: 'utf8' });
