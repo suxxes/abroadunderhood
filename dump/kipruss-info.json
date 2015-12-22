@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 673,
+  "followers_count": 690,
   "friends_count": 0,
   "listed_count": 20,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,13 +46,13 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 2466,
+  "statuses_count": 2632,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 21 09:17:49 +0000 2015",
-    "id": 678866954988351500,
-    "id_str": "678866954988351488",
-    "text": "Центральная Сербия - это и равнины, и леса, и горы. Очень разнообразная природа, есть на что посмотреть. Крупные города: Белград, Ниш",
+    "created_at": "Tue Dec 22 19:20:26 +0000 2015",
+    "id": 679380996609978400,
+    "id_str": "679380996609978368",
+    "text": "А пока немного пейзажей и юмора из соседней Боснии под музыку самой известной их группы: Дубиоза Колектив https://t.co/KIBfhXkoLH",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -67,15 +67,26 @@
       62915964
     ],
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/KIBfhXkoLH",
+          "expanded_url": "https://www.youtube.com/watch?v=jtgA0jvhp2A",
+          "display_url": "youtube.com/watch?v=jtgA0j…",
+          "indices": [
+            106,
+            129
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
