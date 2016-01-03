@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 778,
+  "followers_count": 783,
   "friends_count": 0,
   "listed_count": 27,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 15,
+  "favourites_count": 16,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3471,
+  "statuses_count": 3504,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Jan 03 14:20:42 +0000 2016",
-    "id": 683654221103759400,
-    "id_str": "683654221103759361",
-    "text": "Видел мобильные приложения и веб интерфейсы 2х банков - выглядят они вполне современно, и мне не напоминают 90-е :)",
+    "created_at": "Sun Jan 03 20:31:16 +0000 2016",
+    "id": 683747475392454700,
+    "id_str": "683747475392454657",
+    "text": "PS: кто хочет узнать больше про голландцев, почитайте книгу “The Undutchables” by Colin White https://t.co/xv2CBoOCaE",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -67,15 +67,26 @@
       18577007
     ],
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/xv2CBoOCaE",
+          "expanded_url": "https://www.goodreads.com/book/show/315663.The_Undutchables",
+          "display_url": "goodreads.com/book/show/3156…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
