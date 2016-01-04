@@ -331,6 +331,748 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:18:45 +0000 2016",
+      "id": 683985918596902900,
+      "id_str": "683985918596902912",
+      "text": "Исторический центр коварно делится на три части: площадь с ратушей и собором (основная), похожий на пряничную деревню район Schnoor...",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:18:54 +0000 2016",
+      "id": 683985957826244600,
+      "id_str": "683985957826244608",
+      "text": "RT @MeowMio: @abroadunderhood @nie_wow и тебе привет)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "retweeted_status": {
+        "created_at": "Mon Jan 04 12:16:04 +0000 2016",
+        "id": 683985244844736500,
+        "id_str": "683985244844736512",
+        "text": "@abroadunderhood @nie_wow и тебе привет)",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 683983524840509400,
+        "in_reply_to_status_id_str": "683983524840509440",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 82587956,
+          "id_str": "82587956"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "251c984d20a82d86",
+          "url": "https://api.twitter.com/1.1/geo/id/251c984d20a82d86.json",
+          "place_type": "neighborhood",
+          "name": "Brookwater",
+          "full_name": "Brookwater, Brisbane",
+          "country_code": "AU",
+          "country": "Australia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  152.88566616,
+                  -27.67508496
+                ],
+                [
+                  152.90873208,
+                  -27.67508496
+                ],
+                [
+                  152.90873208,
+                  -27.64276704
+                ],
+                [
+                  152.88566616,
+                  -27.64276704
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "nie_wow",
+              "name": "яростный попутчик",
+              "id": 2567699840,
+              "id_str": "2567699840",
+              "indices": [
+                17,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MeowMio",
+            "name": "Юлько",
+            "id": 82587956,
+            "id_str": "82587956",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          },
+          {
+            "screen_name": "nie_wow",
+            "name": "яростный попутчик",
+            "id": 2567699840,
+            "id_str": "2567699840",
+            "indices": [
+              30,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:21:57 +0000 2016",
+      "id": 683986724117176300,
+      "id_str": "683986724117176320",
+      "text": "...и самая необычная часть - улица Böttcherstraße  с любопытной кирпичной архитектурой https://t.co/zKiCcGC8LH",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 683986614545203200,
+            "id_str": "683986614545203200",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4CM7cWwAAQ_1b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4CM7cWwAAQ_1b.jpg",
+            "url": "https://t.co/zKiCcGC8LH",
+            "display_url": "pic.twitter.com/zKiCcGC8LH",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683986724117176320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 928,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1584,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 683986614545203200,
+            "id_str": "683986614545203200",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4CM7cWwAAQ_1b.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4CM7cWwAAQ_1b.jpg",
+            "url": "https://t.co/zKiCcGC8LH",
+            "display_url": "pic.twitter.com/zKiCcGC8LH",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683986724117176320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 525,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 928,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 1584,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 683986585612869600,
+            "id_str": "683986585612869633",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4CLPqWYAE5UNl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4CLPqWYAE5UNl.jpg",
+            "url": "https://t.co/zKiCcGC8LH",
+            "display_url": "pic.twitter.com/zKiCcGC8LH",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683986724117176320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 882,
+                "h": 588,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 683986722531704800,
+            "id_str": "683986722531704833",
+            "indices": [
+              87,
+              110
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4CTNuWAAE46C2.png",
+            "media_url_https": "https://pbs.twimg.com/media/CX4CTNuWAAE46C2.png",
+            "url": "https://t.co/zKiCcGC8LH",
+            "display_url": "pic.twitter.com/zKiCcGC8LH",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683986724117176320/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 944,
+                "h": 630,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:24:59 +0000 2016",
+      "id": 683987485261697000,
+      "id_str": "683987485261697024",
+      "text": "Вот вам кстати пряничный Schnoor (так он выглядит в рамках нынешенго осадочного катаклизма) https://t.co/NqVwt91xwF",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 683987465229733900,
+            "id_str": "683987465229733888",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4C-cfWkAAAOkq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4C-cfWkAAAOkq.jpg",
+            "url": "https://t.co/NqVwt91xwF",
+            "display_url": "pic.twitter.com/NqVwt91xwF",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683987485261697024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 606,
+                "h": 404,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 683987465229733900,
+            "id_str": "683987465229733888",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4C-cfWkAAAOkq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4C-cfWkAAAOkq.jpg",
+            "url": "https://t.co/NqVwt91xwF",
+            "display_url": "pic.twitter.com/NqVwt91xwF",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683987485261697024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 226,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 606,
+                "h": 404,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:27:41 +0000 2016",
+      "id": 683988164755718100,
+      "id_str": "683988164755718144",
+      "text": "Вот наш памятник музыкантам, на самом деле он маленький очень, и ослу все нос трут на удачу https://t.co/xUkc0XbiNq",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 683988158585942000,
+            "id_str": "683988158585942016",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4DmzcWsAAf3rg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4DmzcWsAAf3rg.jpg",
+            "url": "https://t.co/xUkc0XbiNq",
+            "display_url": "pic.twitter.com/xUkc0XbiNq",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683988164755718144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 393,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 671,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 683988158585942000,
+            "id_str": "683988158585942016",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CX4DmzcWsAAf3rg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CX4DmzcWsAAf3rg.jpg",
+            "url": "https://t.co/xUkc0XbiNq",
+            "display_url": "pic.twitter.com/xUkc0XbiNq",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/683988164755718144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 393,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 671,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 222,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:29:06 +0000 2016",
+      "id": 683988523150667800,
+      "id_str": "683988523150667776",
+      "text": "Инструкция внезапно подсказывает мне, что надо рассказать, что я тут забыл и что я буду делать эту неделю (spoiler: завоевывать мир)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:30:53 +0000 2016",
+      "id": 683988970691231700,
+      "id_str": "683988970691231746",
+      "text": "Если кратко, в одним прекрасный январский день в России мне было скучно, и я подал документы в магистратуру в Бремене",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:31:52 +0000 2016",
+      "id": 683989217886769200,
+      "id_str": "683989217886769152",
+      "text": "Она бесплатная, кооперация между двумя универами, куча заслуженных профессоров. Неожиданно меня взяли, и вот я тут пишу диссер и в твиттер",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:32:54 +0000 2016",
+      "id": 683989478902526000,
+      "id_str": "683989478902525952",
+      "text": "Дисклеймер: лично я реально особо не рассуждал, а просто послал доки и потом понаехал. И еще: мой немецкий слабоват, программа на английском",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        2567699840
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
