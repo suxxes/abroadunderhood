@@ -1,0 +1,145 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Jan 04 12:10:38 +0000 2016",
+      "id": 683983876004409300,
+      "id_str": "683983876004409344",
+      "text": "@abroadunderhood @nie_wow Из какого города?",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 683983524840509400,
+      "in_reply_to_status_id_str": "683983524840509440",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 156573985,
+        "id_str": "156573985"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "nie_wow",
+            "name": "яростный попутчик",
+            "id": 2567699840,
+            "id_str": "2567699840",
+            "indices": [
+              17,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 04 12:16:04 +0000 2016",
+      "id": 683985244844736500,
+      "id_str": "683985244844736512",
+      "text": "@abroadunderhood @nie_wow и тебе привет)",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 683983524840509400,
+      "in_reply_to_status_id_str": "683983524840509440",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 82587956,
+        "id_str": "82587956"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "251c984d20a82d86",
+        "url": "https://api.twitter.com/1.1/geo/id/251c984d20a82d86.json",
+        "place_type": "neighborhood",
+        "name": "Brookwater",
+        "full_name": "Brookwater, Brisbane",
+        "country_code": "AU",
+        "country": "Australia",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                152.88566616,
+                -27.67508496
+              ],
+              [
+                152.90873208,
+                -27.67508496
+              ],
+              [
+                152.90873208,
+                -27.64276704
+              ],
+              [
+                152.88566616,
+                -27.64276704
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "nie_wow",
+            "name": "яростный попутчик",
+            "id": 2567699840,
+            "id_str": "2567699840",
+            "indices": [
+              17,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
