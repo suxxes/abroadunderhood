@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 801,
+  "followers_count": 809,
   "friends_count": 0,
   "listed_count": 27,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 25,
+  "favourites_count": 26,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3628,
+  "statuses_count": 3688,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 04 19:17:00 +0000 2016",
-    "id": 684091175033270300,
-    "id_str": "684091175033270273",
-    "text": "Вечерние бременские музыканты напоследок https://t.co/50Qc6vJlRi",
+    "created_at": "Tue Jan 05 23:16:40 +0000 2016",
+    "id": 684513875526578200,
+    "id_str": "684513875526578176",
+    "text": "Я в Бремене https://t.co/BIyli2mlQQ",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,49 +66,21 @@
     "contributors": [
       2567699840
     ],
-    "retweet_count": 2,
-    "favorite_count": 3,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 684091067516452900,
-          "id_str": "684091067516452864",
+          "url": "https://t.co/BIyli2mlQQ",
+          "expanded_url": "https://twitter.com/4elovekBezImeny/status/684506124385685504",
+          "display_url": "twitter.com/4elovekBezImen…",
           "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/CX5hM5FWAAAUZ6m.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CX5hM5FWAAAUZ6m.jpg",
-          "url": "https://t.co/50Qc6vJlRi",
-          "display_url": "pic.twitter.com/50Qc6vJlRi",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/684091175033270273/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 340,
-              "h": 191,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 936,
-              "h": 526,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 600,
-              "h": 337,
-              "resize": "fit"
-            }
-          }
+            12,
+            35
+          ]
         }
       ]
     },
