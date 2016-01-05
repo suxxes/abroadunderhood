@@ -2,6 +2,64 @@ import { initate as likely } from 'ilyabirman-likely';
 
 likely();
 
+jQuery(window).on('load', () => {
+  if (document.getElementById('map')) {
+    var markers = [];
+    var mapCanvas = document.getElementById('map');
+    var map = new google.maps.Map(mapCanvas, {
+      center: new google.maps.LatLng(55.7522222, 37.6155556),
+      zoom: 5,
+      minZoom: 3,
+      maxZoom: 8
+    });
+
+    authors.forEach((author, index) => {
+      var marker = new RichMarker({
+        map: map,
+        position: new google.maps.LatLng(
+          author.location[0],
+          author.location[1]
+        ),
+        content: '<img class="marker ' + (0 === index ? "" : "archive") + '" src="' + author.picture + '"/>',
+        shadow: 0
+      });
+
+      if (0 !== index) {
+        marker.addListener('click', () => {
+          window.location.href = '/' + author.username;
+        });
+      }
+
+      markers.push(marker);
+    });
+
+    map.addListener('zoom_changed', () => {
+      markers.forEach((marker, index) => {
+        var pixelSize = 24;
+        var borderWidth = 1;
+        var borderRadius = 2;
+
+        switch (map.getZoom()) {
+          case 4: pixelSize = 32; borderWidth = 1; borderRadius = 2; break;
+          case 5: pixelSize = 40; borderWidth = 1; borderRadius = 4; break;
+          case 6: pixelSize = 48; borderWidth = 2; borderRadius = 4; break;
+          case 7: pixelSize = 56; borderWidth = 2; borderRadius = 8; break;
+          case 8: pixelSize = 64; borderWidth = 2; borderRadius = 8; break;
+        }
+
+        marker.setContent(
+          jQuery(marker.getContent()).css({
+            'width': pixelSize,
+            'height': pixelSize,
+            'borderWidth': borderWidth,
+            'borderRadius': borderRadius
+          }).wrap('<div/>').parent().html()
+        );
+      });
+    });
+  }
+});
+
 jQuery(window).on('load resize', () => {
   jQuery('#content').css('paddingBottom', () => {
     return jQuery('#footer').outerHeight();

@@ -19,7 +19,6 @@
   "site": {
     "title": "abroadunderhood",
     "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю",
-    "feed_url": "https://abroadunderhood.ru/rss.xml",
     "site_url": "https://abroadunderhood.ru/",
     "managingEditor": "iamstarkov@gmail.com (Vladimir Starkov)",
     "webMaster": "iamstarkov@gmail.com (Vladimir Starkov)",
@@ -74,7 +73,6 @@
     "postcss-initial": "^1.3.1",
     "ramda": "^0.18.0",
     "rimraf": "^2.4.3",
-    "rss": "^1.2.0",
     "run-sequence": "^1.1.0",
     "tablesort": "^3.0.2",
     "through2": "^2.0.0",

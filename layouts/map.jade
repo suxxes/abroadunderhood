@@ -1,0 +1,26 @@
+extend page
+
+block meta
+  meta(property="description" content=site.description)
+  meta(name="og:url"         content=site.site_url + 'map/')
+  meta(name="og:image"       content="https://i.imgur.com/GpzEJQ7.jpg?1")
+  meta(name="og:title"       content=title)
+  meta(name="og:description" content=site.description)
+
+block headerTitle
+  span.hidden-xs
+    a(href="/") abroadunderhood
+    br.visible-sm
+    small.hidden-sm &nbsp;&middot;&nbsp;
+  small Карта Авторов
+
+block content
+  script(type="text/javascript")
+    = "var authors = [];"
+    = "authors.push({username: '" + currentAuthor.username + "', picture: '" + currentAuthor.media.image.replace('./', '/') + "', location: [" + currentAuthor.info.geometry.lat + ", " + currentAuthor.info.geometry.lng + "]});"
+    
+    each author in authors
+      = "authors.push({username: '" + author.username + "', picture: '" + author.media.image.replace('./', '/') + "', location: [" + author.info.geometry.lat + ", " + author.info.geometry.lng + "]});"
+      
+  #map
+    

@@ -7,7 +7,6 @@ import fs, { outputFile as output } from 'fs-extra';
 import { html } from 'commonmark-helpers';
 import numbers from 'typographic-numbers';
 import numd from 'numd';
-import RSS from 'rss';
 import { pipe, prop, head, splitEvery } from 'ramda';
 import sequence from 'run-sequence';
 import renderTweet from 'tweet.md';
@@ -128,18 +127,23 @@ task('authoring', ['css'], () => {
     .pipe(dest('dist'));
 });
 
-task('rss', done => {
-  const feed = new RSS(site);
+task('map', ['css'], () => {
+  const currentAuthor = head(authors.filter(author => author.post === false));
   const authorsToPost = authors.filter(author => author.post !== false);
-  authorsToPost.forEach(author => {
-    feed.item({
-      title: author.username,
-      description: render(firstTweet(author)),
-      url: `https://abroadunderhood.ru/${author.username}/`,
-      date: firstTweet(author).created_at,
-    });
-  });
-  output('dist/rss.xml', feed.xml({ indent: true }), done);
+  return src('layouts/map.jade')
+    .pipe(jade({
+      locals: {
+        title: `Карта @${site.title}`,
+        url: 'map/',
+        desc: site.description,
+        currentAuthor: currentAuthor,
+        authors: authorsToPost,
+        helpers: { bust },
+      },
+    }))
+    .pipe(rename({ dirname: 'map' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
 });
 
 task('authors', ['css'], done => {
@@ -217,7 +221,7 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', ['stats', 'authors', 'index', 'rss', 'about', 'authoring']);
+task('html', ['stats', 'authors', 'index', 'map', 'about', 'authoring']);
 task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'banners', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
