@@ -514,8 +514,6 @@ tr {
   }
 }
 
-@import "ilyabirman-likely/release/likely.css";
-
 h1.site-title {
   position: relative;
   font-size: 4em;
@@ -660,4 +658,10 @@ html, body {
 
 #scroll-spy li.active a {
   background-color: #f0f0f0;
+}
+
+@import "ilyabirman-likely/release/likely.css";
+
+.likely-big, .likely-big .likely__widget {
+  margin-bottom: 0;
 }
