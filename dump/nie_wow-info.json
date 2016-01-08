@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 811,
+  "followers_count": 815,
   "friends_count": 0,
   "listed_count": 27,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,119 +46,48 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 3727,
+  "statuses_count": 3775,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jan 06 20:22:45 +0000 2016",
-    "id": 684832497218252800,
-    "id_str": "684832497218252800",
-    "text": "RT @freiksenet_ru: @abroadunderhood https://t.co/RzRR4BAdg0 ;)",
+    "created_at": "Thu Jan 07 14:26:14 +0000 2016",
+    "id": 685105166257893400,
+    "id_str": "685105166257893376",
+    "text": "@raxpost аха блин",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 685102673247498200,
+    "in_reply_to_status_id_str": "685102673247498241",
+    "in_reply_to_user_id": 32959868,
+    "in_reply_to_user_id_str": "32959868",
+    "in_reply_to_screen_name": "raxpost",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       2567699840
     ],
-    "retweeted_status": {
-      "created_at": "Wed Jan 06 19:59:35 +0000 2016",
-      "id": 684826667609636900,
-      "id_str": "684826667609636866",
-      "text": "@abroadunderhood https://t.co/RzRR4BAdg0 ;)",
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "truncated": false,
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/RzRR4BAdg0",
-            "expanded_url": "http://www.europeanbeerguide.net/gersbeer.htm",
-            "display_url": "europeanbeerguide.net/gersbeer.htm",
-            "indices": [
-              17,
-              40
-            ]
-          }
-        ]
-      },
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "und"
-    },
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "freiksenet_ru",
-          "name": "Михаил Новиков",
-          "id": 3411018190,
-          "id_str": "3411018190",
+          "screen_name": "raxpost",
+          "name": "Roman Roman",
+          "id": 32959868,
+          "id_str": "32959868",
           "indices": [
-            3,
-            17
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            19,
-            35
+            0,
+            8
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/RzRR4BAdg0",
-          "expanded_url": "http://www.europeanbeerguide.net/gersbeer.htm",
-          "display_url": "europeanbeerguide.net/gersbeer.htm",
-          "indices": [
-            36,
-            59
-          ]
-        }
-      ]
+      "urls": []
     },
     "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
-    "lang": "und"
+    "retweeted": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
