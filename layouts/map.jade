@@ -17,7 +17,9 @@ block headerTitle
 block content
   script(type="text/javascript")
     = "var authors = [];"
-    = "authors.push({username: '" + currentAuthor.username + "', picture: '" + currentAuthor.media.image.replace('./', '/') + "', location: [" + currentAuthor.info.geometry.lat + ", " + currentAuthor.info.geometry.lng + "]});"
+    
+    if currentAuthor
+      = "authors.push({username: '" + currentAuthor.username + "', picture: '" + currentAuthor.media.image.replace('./', '/') + "', location: [" + currentAuthor.info.geometry.lat + ", " + currentAuthor.info.geometry.lng + "]});"
     
     each author in authors
       = "authors.push({username: '" + author.username + "', picture: '" + author.media.image.replace('./', '/') + "', location: [" + author.info.geometry.lat + ", " + author.info.geometry.lng + "]});"
