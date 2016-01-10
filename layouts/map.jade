@@ -19,10 +19,10 @@ block content
     = "var authors = [];"
     
     if currentAuthor
-      = "authors.push({username: '" + currentAuthor.username + "', picture: '" + currentAuthor.media.image.replace('./', '/') + "', location: [" + currentAuthor.info.geometry.lat + ", " + currentAuthor.info.geometry.lng + "]});"
+      = "authors.push({username: '" + currentAuthor.username + "', picture: '" + currentAuthor.media.image.replace('./', '/') + "', location: [" + currentAuthor.info.geometry.lat + ", " + currentAuthor.info.geometry.lng + "], current: true});"
     
     each author in authors
-      = "authors.push({username: '" + author.username + "', picture: '" + author.media.image.replace('./', '/') + "', location: [" + author.info.geometry.lat + ", " + author.info.geometry.lng + "]});"
+      = "authors.push({username: '" + author.username + "', picture: '" + author.media.image.replace('./', '/') + "', location: [" + author.info.geometry.lat + ", " + author.info.geometry.lng + "], current: false});"
       
   #map
     

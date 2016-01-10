@@ -20,11 +20,11 @@ jQuery(window).on('load', () => {
           author.location[0],
           author.location[1]
         ),
-        content: '<img class="marker ' + (0 === index ? "" : "archive") + '" src="' + author.picture + '"/>',
+        content: '<img class="marker ' + (false === author.current ? "archive" : "") + '" src="' + author.picture + '"/>',
         shadow: 0
       });
 
-      if (0 !== index) {
+      if (false === author.current) {
         marker.addListener('click', () => {
           window.location.href = '/' + author.username;
         });
