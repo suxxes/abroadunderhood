@@ -47,7 +47,6 @@ getInfo(tokens, 'abroadunderhood', (err, info) => {
 
       got('https://maps.googleapis.com/maps/api/timezone/json?location=' + [response.lat, response.lng].join(',') + '&timestamp=' + ((new Date(info.status.created_at)).getTime() / 1000 | 0) + '&sensor=false')
         .then(response => {
-
           return (JSON.parse(response.body).rawOffset + JSON.parse(response.body).dstOffset) / 60;
         })
         .then(response => {
