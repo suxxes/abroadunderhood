@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 960,
+  "followers_count": 975,
   "friends_count": 0,
-  "listed_count": 29,
+  "listed_count": 33,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 48,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4474,
+  "statuses_count": 4491,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Jan 14 09:51:18 +0000 2016",
-    "id": 687572691436478500,
-    "id_str": "687572691436478466",
-    "text": "RT @tishkova: @abroadunderhood хорошая система. Лицензия стоит мало, а пользы от неё много",
+    "created_at": "Fri Jan 15 07:05:29 +0000 2016",
+    "id": 687893350649757700,
+    "id_str": "687893350649757696",
+    "text": "Вот небольшая карта https://t.co/zHzN6jfiTv",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -55,76 +55,28 @@
     "contributors": [
       14866242
     ],
-    "retweeted_status": {
-      "created_at": "Thu Jan 14 09:49:54 +0000 2016",
-      "id": 687572339043766300,
-      "id_str": "687572339043766272",
-      "text": "@abroadunderhood хорошая система. Лицензия стоит мало, а пользы от неё много",
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-      "truncated": false,
-      "in_reply_to_status_id": 687570432661143600,
-      "in_reply_to_status_id_str": "687570432661143552",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "retweet_count": 1,
+    "is_quote_status": false,
+    "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "tishkova",
-          "name": "Maria Tishkova",
-          "id": 138476432,
-          "id_str": "138476432",
+          "url": "https://t.co/zHzN6jfiTv",
+          "expanded_url": "http://www.security-guard.ca/wp-content/uploads/2015/03/ski-bc.gif",
+          "display_url": "security-guard.ca/wp-content/upl…",
           "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            14,
-            30
+            20,
+            43
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
