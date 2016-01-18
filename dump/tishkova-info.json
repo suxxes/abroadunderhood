@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1012,
+  "followers_count": 1028,
   "friends_count": 0,
-  "listed_count": 32,
+  "listed_count": 33,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 60,
+  "favourites_count": 63,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 4727,
+  "statuses_count": 4773,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 18 09:58:59 +0000 2016",
-    "id": 689024176158601200,
-    "id_str": "689024176158601216",
-    "text": "На этом пока всё, ближе к вечеру продолжим про природу, attractions и т.д.\nЛанч скоро, надо коня повалять :)",
+    "created_at": "Mon Jan 18 18:12:31 +0000 2016",
+    "id": 689148377213366300,
+    "id_str": "689148377213366272",
+    "text": "Хаха, да, всё будет, я тут несколько отвлеклась на лингвосрачик. https://t.co/Dv1WYZa1vq",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -55,17 +55,30 @@
     "contributors": [
       138476432
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 689147603703967700,
+    "quoted_status_id_str": "689147603703967744",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Dv1WYZa1vq",
+          "expanded_url": "https://twitter.com/ipronix/status/689147603703967744",
+          "display_url": "twitter.com/ipronix/status…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
