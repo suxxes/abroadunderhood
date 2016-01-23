@@ -26,59 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 1061,
+  "followers_count": 1062,
   "friends_count": 0,
-  "listed_count": 37,
+  "listed_count": 38,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 93,
+  "favourites_count": 103,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5255,
+  "statuses_count": 5415,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 22 23:36:23 +0000 2016",
-    "id": 690679432827269100,
-    "id_str": "690679432827269121",
-    "text": "18-20 градусов считается нормальной температурой.\nВ Н нет культуры в трусах по дому рассекать https://t.co/WkGZugfCoD",
+    "created_at": "Sat Jan 23 21:58:42 +0000 2016",
+    "id": 691017239349325800,
+    "id_str": "691017239349325824",
+    "text": "@olyapka ненене, я пописываю отдельно, чтобы подряд несколько твитов отправить :) отвлеклась на наш мини мастер-класс ;)",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 691016999187669000,
+    "in_reply_to_status_id_str": "691016999187668992",
+    "in_reply_to_user_id": 10533432,
+    "in_reply_to_user_id_str": "10533432",
+    "in_reply_to_screen_name": "olyapka",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       138476432
     ],
-    "quoted_status_id": 690676329726001200,
-    "quoted_status_id_str": "690676329726001153",
-    "is_quote_status": true,
-    "retweet_count": 1,
-    "favorite_count": 3,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/WkGZugfCoD",
-          "expanded_url": "https://twitter.com/Vocxo/status/690676329726001153",
-          "display_url": "twitter.com/Vocxo/status/6…",
+          "screen_name": "olyapka",
+          "name": "olyapka",
+          "id": 10533432,
+          "id_str": "10533432",
           "indices": [
-            94,
-            117
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
