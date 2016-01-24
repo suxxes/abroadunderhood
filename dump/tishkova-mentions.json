@@ -75767,6 +75767,181 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 24 20:00:34 +0000 2016",
+      "id": 691349897459712000,
+      "id_str": "691349897459712000",
+      "text": "@abroadunderhood спасибо! было круто!",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691322429734547500,
+      "in_reply_to_status_id_str": "691322429734547457",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 56738961,
+        "id_str": "56738961"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 24 20:07:29 +0000 2016",
+      "id": 691351636665565200,
+      "id_str": "691351636665565184",
+      "text": "@abroadunderhood @tishkova я и раньше хотел съездить в Н, но теперь эта страна значительно поднялась в плане моих будущих поездок ))",
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 106682285,
+        "id_str": "106682285"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2687353a814ec904",
+        "url": "https://api.twitter.com/1.1/geo/id/2687353a814ec904.json",
+        "place_type": "neighborhood",
+        "name": "Bogenhausen",
+        "full_name": "Bogenhausen, München",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.594621,
+                48.134382
+              ],
+              [
+                11.695824,
+                48.134382
+              ],
+              [
+                11.695824,
+                48.182857
+              ],
+              [
+                11.594621,
+                48.182857
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "tishkova",
+            "name": "Maria Tishkova",
+            "id": 138476432,
+            "id_str": "138476432",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 24 20:20:04 +0000 2016",
+      "id": 691354801775452200,
+      "id_str": "691354801775452161",
+      "text": "Вдохновились фотками Норвегии от @abroadunderhood и посмотрели Troll hunter. Фильм не огонь, но норм. Крайне смешно троллят поляков))",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 19856378,
+        "id_str": "19856378"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              33,
+              49
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
