@@ -1,3 +1,48 @@
 {
-  "mentions": []
+  "mentions": [
+    {
+      "created_at": "Sun Jan 24 22:21:22 +0000 2016",
+      "id": 691385330101002200,
+      "id_str": "691385330101002240",
+      "text": "@abroadunderhood ой, здравствуйте, Япония! Надеюсь, вас будет читать также интересно, как моих фаворитов - Норвегию и Эстонию)",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 691384409564381200,
+      "in_reply_to_status_id_str": "691384409564381184",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 92826575,
+        "id_str": "92826575"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
 }
