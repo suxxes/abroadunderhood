@@ -35,13 +35,13 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 5761,
+  "statuses_count": 5765,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 25 23:38:23 +0000 2016",
-    "id": 691767097299443700,
-    "id_str": "691767097299443714",
-    "text": "Средний японец наверное стоически бы пошёл к госпиталю в такой ситуации и помер где-нибудь в пути. Как мне кажется, мы ходим к врачам чаще.",
+    "created_at": "Mon Jan 25 23:43:36 +0000 2016",
+    "id": 691768410754175000,
+    "id_str": "691768410754174977",
+    "text": "Чаще именно так, к сожалению.\nhttps://t.co/9xKCgCopO2",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -55,17 +55,30 @@
     "contributors": [
       24153949
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 691768204746715100,
+    "quoted_status_id_str": "691768204746715137",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/9xKCgCopO2",
+          "expanded_url": "https://twitter.com/badgercat/status/691768204746715137",
+          "display_url": "twitter.com/badgercat/stat…",
+          "indices": [
+            30,
+            53
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
