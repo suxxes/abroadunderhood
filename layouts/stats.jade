@@ -34,9 +34,9 @@ block content
                 th.host-stats__col.host-stats__col_left: span.sortable Автор
                 th.host-stats__col.col__author: span.sortable Читатели
                 th.host-stats__col: span.sortable Твиты
-                th.host-stats__col: span.tweet-stats.tweet-stats_own.sortable Написал
-                th.host-stats__col: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнул
-                th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Ответил
+                th.host-stats__col: span.tweet-stats.tweet-stats_own.sortable Написано
+                th.host-stats__col: span.tweet-stats.tweet-stats_retweets.sortable Ретвитнуто
+                th.host-stats__col: span.tweet-stats.tweet-stats_replies.sortable Отвечено
                 th.host-stats__col.host-stats__col_retweeted.rted--1p.hidden-sm: nobr
                   span.sortable Ретвитнули всего
                   = " / "
@@ -81,13 +81,13 @@ block content
                 td.host-stats__col(data-title='Твиты' data-sort=author.tweets)
                   span.cell(class={ 'cell--best': author.maxTweets } ): span.cell__content
                     = author.tweets
-                td.host-stats__col(data-title='Написал' data-sort=author.own.total)
+                td.host-stats__col(data-title='Написано' data-sort=author.own.total)
                   span.cell(class={ 'cell--best': author.maxOwnTotal }): span.cell__content
                     = author.own.total
-                td.host-stats__col(data-title='Ретвитнул' data-sort=author.retweets.total)
+                td.host-stats__col(data-title='Ретвитнуто' data-sort=author.retweets.total)
                   span.cell(class={ 'cell--best': author.maxRetweetsTotal }): span.cell__content
                     = author.retweets.total
-                td.host-stats__col(data-title='Ответил' data-sort=author.replies.total)
+                td.host-stats__col(data-title='Отвечено' data-sort=author.replies.total)
                   span.cell(class={ 'cell--best': author.maxRepliesTotal }): span.cell__content
                     = author.replies.total
                 td.host-stats__col.host-stats__col_kpi.rted--1p.hidden-sm(data-title='Ретвитнули всего' data-sort=author.retweeted.total)
