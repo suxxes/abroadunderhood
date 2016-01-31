@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1256,
+  "followers_count": 1259,
   "friends_count": 0,
-  "listed_count": 42,
+  "listed_count": 43,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 113,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6043,
+  "statuses_count": 6080,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jan 30 13:45:42 +0000 2016",
-    "id": 693429886891896800,
-    "id_str": "693429886891896832",
-    "text": "А сейчас мы со швейцарско-нигерийско-американским другом будем угововаривать остаться в Японии нашего общего канадаско-гонконгского друга.",
+    "created_at": "Sun Jan 31 15:48:10 +0000 2016",
+    "id": 693823092225765400,
+    "id_str": "693823092225765377",
+    "text": "Если вам предстоит командировка, учёба или работа в Токио, то пишите на @ikvyk, встретимся :)\nВсем спасибо ещё раз и пока! Было здорово.",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -57,11 +57,22 @@
     ],
     "is_quote_status": false,
     "retweet_count": 1,
-    "favorite_count": 1,
+    "favorite_count": 7,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "ikvyk",
+          "name": "ｲｱﾝ",
+          "id": 24153949,
+          "id_str": "24153949",
+          "indices": [
+            72,
+            78
+          ]
+        }
+      ],
       "urls": []
     },
     "favorited": false,
