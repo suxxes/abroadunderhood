@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1320,
+  "followers_count": 1335,
   "friends_count": 0,
-  "listed_count": 48,
+  "listed_count": 49,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 111,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6237,
+  "statuses_count": 6291,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 02 20:10:45 +0000 2016",
-    "id": 694613948180631600,
-    "id_str": "694613948180631552",
-    "text": "Так как твиты про вино собирают больше всего лайков, то вот вам фотография винного стеллажа из соседнего магазина https://t.co/5BhVeNu8Gp",
+    "created_at": "Wed Feb 03 22:09:24 +0000 2016",
+    "id": 695006195468361700,
+    "id_str": "695006195468361728",
+    "text": "Тонкий момент. Пока сам не могу сказать, что «интегрировался». Принимают радушно, но без хорошего знания языка никак https://t.co/2BLFnPYLId",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -66,90 +66,24 @@
     "contributors": [
       269433815
     ],
-    "is_quote_status": false,
-    "retweet_count": 5,
-    "favorite_count": 11,
+    "quoted_status_id": 695002992760770600,
+    "quoted_status_id_str": "695002992760770560",
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 694613918984060900,
-          "id_str": "694613918984060930",
+          "url": "https://t.co/2BLFnPYLId",
+          "expanded_url": "https://twitter.com/wizardzloy/status/695002992760770560",
+          "display_url": "twitter.com/wizardzloy/sta…",
           "indices": [
-            114,
-            137
-          ],
-          "media_url": "http://pbs.twimg.com/media/CaPDrdkWQAImfc_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CaPDrdkWQAImfc_.jpg",
-          "url": "https://t.co/5BhVeNu8Gp",
-          "display_url": "pic.twitter.com/5BhVeNu8Gp",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/694613948180631552/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 1365,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 800,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 453,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 694613918984060900,
-          "id_str": "694613918984060930",
-          "indices": [
-            114,
-            137
-          ],
-          "media_url": "http://pbs.twimg.com/media/CaPDrdkWQAImfc_.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CaPDrdkWQAImfc_.jpg",
-          "url": "https://t.co/5BhVeNu8Gp",
-          "display_url": "pic.twitter.com/5BhVeNu8Gp",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/694613948180631552/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 1024,
-              "h": 1365,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 600,
-              "h": 800,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 340,
-              "h": 453,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
