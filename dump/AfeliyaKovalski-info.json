@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1360,
+  "followers_count": 1369,
   "friends_count": 0,
   "listed_count": 51,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 107,
+  "favourites_count": 108,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 6438,
+  "statuses_count": 6483,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 08 10:12:41 +0000 2016",
-    "id": 696637769074999300,
-    "id_str": "696637769074999296",
-    "text": "Да, кстати, цены я буду указывать в PLN, злотых.",
+    "created_at": "Mon Feb 08 19:55:28 +0000 2016",
+    "id": 696784429134565400,
+    "id_str": "696784429134565376",
+    "text": "Можно, правда, я не покупаю - у меня проездной, который стоит 89зл в месяц. 20-минутная поездка по городу стоит 2.80 https://t.co/j5Y5Z9yGgT",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
     "in_reply_to_status_id": null,
@@ -55,17 +55,30 @@
     "contributors": [
       155685775
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 696782225778597900,
+    "quoted_status_id_str": "696782225778597888",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/j5Y5Z9yGgT",
+          "expanded_url": "https://twitter.com/olyapka/status/696782225778597888",
+          "display_url": "twitter.com/olyapka/status…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
