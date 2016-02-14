@@ -21730,6 +21730,1546 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sat Feb 13 22:01:34 +0000 2016",
+      "id": 698628102801514500,
+      "id_str": "698628102801514496",
+      "text": "Кроссовки Nike Air в Украине я даже не представляю, сколько стоят. В Factory Outlet - меньше 50$.  https://t.co/GpOLvBwS6v",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698553763553022000,
+      "quoted_status_id_str": "698553763553021957",
+      "quoted_status": {
+        "created_at": "Sat Feb 13 17:06:10 +0000 2016",
+        "id": 698553763553022000,
+        "id_str": "698553763553021957",
+        "text": "@abroadunderhood мне показалось, особенно если ехать в outlet, то в разы дешевле чем в Украине",
+        "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon Plus</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698472604940816400,
+        "in_reply_to_status_id_str": "698472604940816384",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 16997087,
+          "id_str": "16997087"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GpOLvBwS6v",
+            "expanded_url": "https://twitter.com/andrey_sinyagin/status/698553763553021957",
+            "display_url": "twitter.com/andrey_sinyagi…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:10:58 +0000 2016",
+      "id": 698630467801739300,
+      "id_str": "698630467801739264",
+      "text": "Не буду врать - читала, что некоторые конторы предлагают часть зарплаты отдавать в конверте.  https://t.co/ddncKkiDHp",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698503570551918600,
+      "quoted_status_id_str": "698503570551918592",
+      "quoted_status": {
+        "created_at": "Sat Feb 13 13:46:43 +0000 2016",
+        "id": 698503570551918600,
+        "id_str": "698503570551918592",
+        "text": "@GoblinGame @abroadunderhood Я про сферу IT, про остальных не интересно",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698496104241958900,
+        "in_reply_to_status_id_str": "698496104241958912",
+        "in_reply_to_user_id": 38142013,
+        "in_reply_to_user_id_str": "38142013",
+        "in_reply_to_screen_name": "GoblinGame",
+        "user": {
+          "id": 62915964,
+          "id_str": "62915964"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "0112bdb03ace5ee9",
+          "url": "https://api.twitter.com/1.1/geo/id/0112bdb03ace5ee9.json",
+          "place_type": "city",
+          "name": "Novi Sad",
+          "full_name": "Novi Sad, Srbija",
+          "country_code": "RS",
+          "country": "Srbija",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  19.555448,
+                  45.149702
+                ],
+                [
+                  20.105798,
+                  45.149702
+                ],
+                [
+                  20.105798,
+                  45.430658
+                ],
+                [
+                  19.555448,
+                  45.430658
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "GoblinGame",
+              "name": "Waste of time",
+              "id": 38142013,
+              "id_str": "38142013",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                12,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ddncKkiDHp",
+            "expanded_url": "https://twitter.com/kipruss/status/698503570551918592",
+            "display_url": "twitter.com/kipruss/status…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:15:36 +0000 2016",
+      "id": 698631636771061800,
+      "id_str": "698631636771061761",
+      "text": "В Казимеже еще можно сходить в новое бистро Zenit (открылось недавно, мы там не были) - https://t.co/6CYSSHnqu9 https://t.co/sLd29MGd1D",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698488894833164300,
+      "quoted_status_id_str": "698488894833164288",
+      "quoted_status": {
+        "created_at": "Sat Feb 13 12:48:24 +0000 2016",
+        "id": 698488894833164300,
+        "id_str": "698488894833164288",
+        "text": "@abroadunderhood а вместо под вавелем что тогда послветуете?",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698487938385109000,
+        "in_reply_to_status_id_str": "698487938385108992",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 1689022184,
+          "id_str": "1689022184"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6CYSSHnqu9",
+            "expanded_url": "https://www.facebook.com/Zenit-Miodowa-19-1499788707004330",
+            "display_url": "facebook.com/Zenit-Miodowa-…",
+            "indices": [
+              88,
+              111
+            ]
+          },
+          {
+            "url": "https://t.co/sLd29MGd1D",
+            "expanded_url": "https://twitter.com/graurau/status/698488894833164288",
+            "display_url": "twitter.com/graurau/status…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:22:42 +0000 2016",
+      "id": 698633422156275700,
+      "id_str": "698633422156275712",
+      "text": "Цены на бензин можно посмотреть здесь: https://t.co/lAU7fwZHAg и здесь: https://t.co/vMKyQ9zN91",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lAU7fwZHAg",
+            "expanded_url": "http://www.cenabenzyny.strefa.pl",
+            "display_url": "cenabenzyny.strefa.pl",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "url": "https://t.co/vMKyQ9zN91",
+            "expanded_url": "http://moto.money.pl/ceny-paliw/",
+            "display_url": "moto.money.pl/ceny-paliw/",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:53:01 +0000 2016",
+      "id": 698641051578470400,
+      "id_str": "698641051578470400",
+      "text": "Билеты в кино нам сегодня обошлись в 27 злотых на человека, ходили на Дедпула.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:53:27 +0000 2016",
+      "id": 698641161548910600,
+      "id_str": "698641161548910593",
+      "text": "Дедпул, кстати, 10/10, а с польскими субтитрами - 11/10.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 13 22:54:19 +0000 2016",
+      "id": 698641379531079700,
+      "id_str": "698641379531079684",
+      "text": "Да, в кинотеатрах тут фильмы показывают на языке оригинала с польскими субтитрами. На польском дублируют только всякие мультфильмы.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:24:02 +0000 2016",
+      "id": 698830049429086200,
+      "id_str": "698830049429086208",
+      "text": "Dzień dobry! Неделя Польши подходит к концу.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Feb 14 11:24:45 +0000 2016",
+      "id": 698830232707592200,
+      "id_str": "698830232707592192",
+      "text": "В зимние выходные мы обычно катаемся на сноубордах в горах. Но эта зима что-то совсем не радует снегом :(",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:26:44 +0000 2016",
+      "id": 698830728914714600,
+      "id_str": "698830728914714625",
+      "text": "Я уже лет 8 не смотрю телевизор... https://t.co/2cMLAbpiNa",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698664859160809500,
+      "quoted_status_id_str": "698664859160809472",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 00:27:37 +0000 2016",
+        "id": 698664859160809500,
+        "id_str": "698664859160809472",
+        "text": "@olyapka @abroadunderhood а у вас там свой Володарский есть? ЗВ на польском наверное забавно",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698642534503968800,
+        "in_reply_to_status_id_str": "698642534503968769",
+        "in_reply_to_user_id": 10533432,
+        "in_reply_to_user_id_str": "10533432",
+        "in_reply_to_screen_name": "olyapka",
+        "user": {
+          "id": 198569128,
+          "id_str": "198569128"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "olyapka",
+              "name": "olyapka",
+              "id": 10533432,
+              "id_str": "10533432",
+              "indices": [
+                0,
+                8
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                9,
+                25
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2cMLAbpiNa",
+            "expanded_url": "https://twitter.com/ostelaymetaule/status/698664859160809472",
+            "display_url": "twitter.com/ostelaymetaule…",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:27:31 +0000 2016",
+      "id": 698830926550343700,
+      "id_str": "698830926550343680",
+      "text": "Нет, это недорого. Ну как, цена одного обеда. https://t.co/s5wwvR2ut2",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698743376347316200,
+      "quoted_status_id_str": "698743376347316225",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 05:39:37 +0000 2016",
+        "id": 698743376347316200,
+        "id_str": "698743376347316225",
+        "text": "@abroadunderhood это дорогие билеты считаются ? Или это средняя цена ?",
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698641051578470400,
+        "in_reply_to_status_id_str": "698641051578470400",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 29657792,
+          "id_str": "29657792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s5wwvR2ut2",
+            "expanded_url": "https://twitter.com/MaxBorisov/status/698743376347316225",
+            "display_url": "twitter.com/MaxBorisov/sta…",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:29:13 +0000 2016",
+      "id": 698831353719210000,
+      "id_str": "698831353719209984",
+      "text": "Лол, незрячие, наверное, специальные варианты качают? https://t.co/NrT103H0DN",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698753963680755700,
+      "quoted_status_id_str": "698753963680755712",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 06:21:41 +0000 2016",
+        "id": 698753963680755700,
+        "id_str": "698753963680755712",
+        "text": "@abroadunderhood Интересно, а как эти фильмы незрячие у них смотрят?  Или кругом есть тифлокомментарии? Странный подход - одни субтитры.",
+        "source": "<a href=\"http://theqube.oire.org\" rel=\"nofollow\">The Qube</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698641379531079700,
+        "in_reply_to_status_id_str": "698641379531079684",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 4526758048,
+          "id_str": "4526758048"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NrT103H0DN",
+            "expanded_url": "https://twitter.com/uznavaemaya/status/698753963680755712",
+            "display_url": "twitter.com/uznavaemaya/st…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:30:39 +0000 2016",
+      "id": 698831715884728300,
+      "id_str": "698831715884728320",
+      "text": "Для этого есть фильмы, книги, Интернет. У меня сложилось впечатление, что поляки могут издать книгу про любую фигню. https://t.co/rvfMVLrdSk",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698831003557748700,
+      "quoted_status_id_str": "698831003557748736",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 11:27:49 +0000 2016",
+        "id": 698831003557748700,
+        "id_str": "698831003557748736",
+        "text": "@abroadunderhood а для большего понимания языка, кстати, полезно :) да и вообще видеть, чем страна живёт и что волнует, интересно",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698830728914714600,
+        "in_reply_to_status_id_str": "698830728914714625",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rvfMVLrdSk",
+            "expanded_url": "https://twitter.com/olyapka/status/698831003557748736",
+            "display_url": "twitter.com/olyapka/status…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 11:31:13 +0000 2016",
+      "id": 698831858625355800,
+      "id_str": "698831858625355777",
+      "text": "А судить по телевизору, чем живет страна - ну, знаете, у нас не самые положительные примеры такого подхода перед глазами.",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:21:33 +0000 2016",
+      "id": 698844527625441300,
+      "id_str": "698844527625441280",
+      "text": "100 км. Прошлая зима была снежная, сейчас снег в горах настреливают. https://t.co/MA88mQ9pas",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698839574898995200,
+      "quoted_status_id_str": "698839574898995202",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 12:01:53 +0000 2016",
+        "id": 698839574898995200,
+        "id_str": "698839574898995202",
+        "text": "@abroadunderhood мы вторую зиму тут, снег дольше двух недель не лежал. А у вас ведь и ещё теплее. А до Закопане от вас далеко?",
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698830232707592200,
+        "in_reply_to_status_id_str": "698830232707592192",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MA88mQ9pas",
+            "expanded_url": "https://twitter.com/olyapka/status/698839574898995202",
+            "display_url": "twitter.com/olyapka/status…",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:25:30 +0000 2016",
+      "id": 698845519037276200,
+      "id_str": "698845519037276160",
+      "text": "Кстати, вот хороший магазин сноубордов и аксессуаров: https://t.co/rbaBcgQhcE",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rbaBcgQhcE",
+            "expanded_url": "http://sklepsnowboardowy.pl",
+            "display_url": "sklepsnowboardowy.pl",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:33:27 +0000 2016",
+      "id": 698847518642344000,
+      "id_str": "698847518642343936",
+      "text": "Татры. А фоточки - вот одна непосредственно с трассы в Białka Tatrzańska https://t.co/DhDdOj6KJc https://t.co/zmhQz20xbn",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698846088430751700,
+      "quoted_status_id_str": "698846088430751744",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 12:27:46 +0000 2016",
+        "id": 698846088430751700,
+        "id_str": "698846088430751744",
+        "text": "@abroadunderhood а в каких горах? а есть фоточки? :)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698830232707592200,
+        "in_reply_to_status_id_str": "698830232707592192",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 303719184,
+          "id_str": "303719184"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DhDdOj6KJc",
+            "expanded_url": "https://www.instagram.com/p/BBdAXTpCX11/?taken-by=komokurono",
+            "display_url": "instagram.com/p/BBdAXTpCX11/…",
+            "indices": [
+              73,
+              96
+            ]
+          },
+          {
+            "url": "https://t.co/zmhQz20xbn",
+            "expanded_url": "https://twitter.com/palpatinen/status/698846088430751744",
+            "display_url": "twitter.com/palpatinen/sta…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Feb 14 12:42:33 +0000 2016",
+      "id": 698849809759936500,
+      "id_str": "698849809759936512",
+      "text": "Еще одно фото прекрасных зимних гор, вот это уже в Zakopane:  https://t.co/ZXSLn6p9I7",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ZXSLn6p9I7",
+            "expanded_url": "https://pbs.twimg.com/media/B-cgXZNIAAAE5Nz.jpg:large",
+            "display_url": "pbs.twimg.com/media/B-cgXZNI…",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:44:11 +0000 2016",
+      "id": 698850220071915500,
+      "id_str": "698850220071915520",
+      "text": "Съезжаешь с Polana Szymoszkowa и идешь в корчму у подножья пить бабский чай: https://t.co/8BWZ7vhoWe",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8BWZ7vhoWe",
+            "expanded_url": "https://pbs.twimg.com/media/B_lJRbHW8AAV3rV.jpg",
+            "display_url": "pbs.twimg.com/media/B_lJRbHW…",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Sun Feb 14 12:45:16 +0000 2016",
+      "id": 698850494173810700,
+      "id_str": "698850494173810688",
+      "text": "RT @palpatinen: @abroadunderhood гугл говорит в Татрах 200м перепад, когда в Закопане аж 1200, это уже сильно привлекательней :)",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "retweeted_status": {
+        "created_at": "Sun Feb 14 12:43:52 +0000 2016",
+        "id": 698850140480786400,
+        "id_str": "698850140480786432",
+        "text": "@abroadunderhood гугл говорит в Татрах 200м перепад, когда в Закопане аж 1200, это уже сильно привлекательней :)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698849809759936500,
+        "in_reply_to_status_id_str": "698849809759936512",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 303719184,
+          "id_str": "303719184"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "palpatinen",
+            "name": "Nikita Penzin",
+            "id": 303719184,
+            "id_str": "303719184",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:49:06 +0000 2016",
+      "id": 698851458612076500,
+      "id_str": "698851458612076544",
+      "text": "Татранский чай - это к словакам! https://t.co/Dj5NNcTjpl",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "quoted_status_id": 698850776739872800,
+      "quoted_status_id_str": "698850776739872768",
+      "quoted_status": {
+        "created_at": "Sun Feb 14 12:46:23 +0000 2016",
+        "id": 698850776739872800,
+        "id_str": "698850776739872768",
+        "text": "@abroadunderhood а Татранский чай - ваше изобретение?)",
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "truncated": false,
+        "in_reply_to_status_id": 698847518642344000,
+        "in_reply_to_status_id_str": "698847518642343936",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 178778392,
+          "id_str": "178778392"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "is_quote_status": true,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Dj5NNcTjpl",
+            "expanded_url": "https://twitter.com/Swither/status/698850776739872768",
+            "display_url": "twitter.com/Swither/status…",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 14 12:55:57 +0000 2016",
+      "id": 698853182420742100,
+      "id_str": "698853182420742144",
+      "text": "Зарисовка из жизни в Польше: https://t.co/2jqdSJyVrm",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        155685775
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2jqdSJyVrm",
+            "expanded_url": "https://pbs.twimg.com/media/CNV1H8WXAAAIFNH.jpg:large",
+            "display_url": "pbs.twimg.com/media/CNV1H8WX…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
