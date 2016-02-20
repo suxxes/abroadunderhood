@@ -37,29 +37,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1384,
+  "followers_count": 1382,
   "friends_count": 0,
   "listed_count": 52,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 174,
+  "favourites_count": 179,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7233,
+  "statuses_count": 7265,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Feb 19 18:23:04 +0000 2016",
-    "id": 700747443273650200,
-    "id_str": "700747443273650177",
-    "text": "во Франкфурте открыли новую оперу. Перископ https://t.co/1KKZEmZQO2",
+    "created_at": "Sat Feb 20 20:30:18 +0000 2016",
+    "id": 701141851412234200,
+    "id_str": "701141851412234242",
+    "text": "@sergeyminkin ну так оно 3 евро стоит) а что за рейтинг?",
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "truncated": false,
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 701129521135804400,
+    "in_reply_to_status_id_str": "701129521135804418",
+    "in_reply_to_user_id": 62473973,
+    "in_reply_to_user_id_str": "62473973",
+    "in_reply_to_screen_name": "sergeyminkin",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -72,23 +72,23 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/1KKZEmZQO2",
-          "expanded_url": "https://periscope.tv/raxpost/1nAKElbVqelxL",
-          "display_url": "periscope.tv/raxpost/1nAKEl…",
+          "screen_name": "sergeyminkin",
+          "name": "Sergey Minkin",
+          "id": 62473973,
+          "id_str": "62473973",
           "indices": [
-            44,
-            67
+            0,
+            13
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "uk"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
