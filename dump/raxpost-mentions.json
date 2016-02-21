@@ -39183,6 +39183,50 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 21 19:12:50 +0000 2016",
+      "id": 701484744253562900,
+      "id_str": "701484744253562880",
+      "text": "@abroadunderhood скорее всего вас просили постелить полотенца, что б потом своим не капали на доски.",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": 701470415269584900,
+      "in_reply_to_status_id_str": "701470415269584897",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 113404896,
+        "id_str": "113404896"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
