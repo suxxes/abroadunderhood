@@ -406,13 +406,17 @@ tr {
 
 .author-wrapper {
   position: relative;
-  padding: 275px 24px 75px;
+  padding: 75px 24px;
   display: block;
   text-align: left;
   background-size: cover;
   background-position: center;
   overflow: hidden;
   line-height: 32px;
+}
+
+.author .author-wrapper {
+  padding: 275px 24px 75px;
 }
 
 .author-wrapper.now-playing {
