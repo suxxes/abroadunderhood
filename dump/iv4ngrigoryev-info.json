@@ -26,24 +26,24 @@
     }
   },
   "protected": false,
-  "followers_count": 1458,
+  "followers_count": 1505,
   "friends_count": 0,
   "listed_count": 54,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 188,
+  "favourites_count": 191,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 7452,
+  "statuses_count": 7549,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Feb 23 05:46:03 +0000 2016",
-    "id": 702006484935114800,
-    "id_str": "702006484935114752",
-    "text": "Налоги, зарплаты, поиск жилья, медицину? А ближе к концу недели, если вы не передумаете, про способы переезда? :) https://t.co/1TbHKTzZSA",
-    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "created_at": "Wed Feb 24 21:45:19 +0000 2016",
+    "id": 702610278970560500,
+    "id_str": "702610278970560512",
+    "text": "Итого, чтобы жить в Новой Зеландии нужно быть более-менее здоровым и покупать медиц. страховку ($100 мес). Peace! https://t.co/kkEovY9Jx8",
     "truncated": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -55,7 +55,7 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -63,22 +63,27 @@
       "urls": [],
       "media": [
         {
-          "id": 701995003912958000,
-          "id_str": "701995003912957953",
+          "id": 702580753024946200,
+          "id_str": "702580753024946176",
           "indices": [
             114,
             137
           ],
-          "media_url": "http://pbs.twimg.com/media/Cb38vJpUsAEBNvp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cb38vJpUsAEBNvp.jpg",
-          "url": "https://t.co/1TbHKTzZSA",
-          "display_url": "pic.twitter.com/1TbHKTzZSA",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/702006484935114752/photo/1",
+          "media_url": "http://pbs.twimg.com/media/CcARePIUEAA-kc4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcARePIUEAA-kc4.jpg",
+          "url": "https://t.co/kkEovY9Jx8",
+          "display_url": "pic.twitter.com/kkEovY9Jx8",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/702610278970560512/photo/1",
           "type": "photo",
           "sizes": {
             "medium": {
               "w": 1200,
               "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
               "resize": "fit"
             },
             "thumb": {
@@ -89,11 +94,6 @@
             "large": {
               "w": 1600,
               "h": 1067,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
               "resize": "fit"
             }
           }
@@ -103,22 +103,27 @@
     "extended_entities": {
       "media": [
         {
-          "id": 701995003912958000,
-          "id_str": "701995003912957953",
+          "id": 702580753024946200,
+          "id_str": "702580753024946176",
           "indices": [
             114,
             137
           ],
-          "media_url": "http://pbs.twimg.com/media/Cb38vJpUsAEBNvp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cb38vJpUsAEBNvp.jpg",
-          "url": "https://t.co/1TbHKTzZSA",
-          "display_url": "pic.twitter.com/1TbHKTzZSA",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/702006484935114752/photo/1",
+          "media_url": "http://pbs.twimg.com/media/CcARePIUEAA-kc4.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CcARePIUEAA-kc4.jpg",
+          "url": "https://t.co/kkEovY9Jx8",
+          "display_url": "pic.twitter.com/kkEovY9Jx8",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/702610278970560512/photo/1",
           "type": "photo",
           "sizes": {
             "medium": {
               "w": 1200,
               "h": 800,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 453,
               "resize": "fit"
             },
             "thumb": {
@@ -129,11 +134,6 @@
             "large": {
               "w": 1600,
               "h": 1067,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
               "resize": "fit"
             }
           }
