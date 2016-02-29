@@ -1,6 +1,6 @@
 export default [
   // post: false
-  // { username: 'sane_ak', start: '29 Feb 2016', first: '', post: false },
+  { username: 'sane_ak', start: '29 Feb 2016', first: '704205861216870400', post: false },
   { username: 'iv4ngrigoryev', start: '22 Feb 2016', first: '701495112279265280' },
   { username: 'raxpost', start: '15 Feb 2016', first: '699146271353868288' },
   { username: 'AfeliyaKovalski', start: '08 Feb 2016', first: '696610842540957696' },
