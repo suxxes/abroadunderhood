@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 1563,
+  "followers_count": 1562,
   "friends_count": 0,
   "listed_count": 58,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 242,
+  "favourites_count": 245,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 8267,
+  "statuses_count": 8284,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Mar 06 16:36:32 +0000 2016",
-    "id": 706518839119315000,
-    "id_str": "706518839119314944",
-    "text": "Здесь пока самый вкусный Burger King и в некоторых Макдаках есть аж тройной Роял Чиз!",
+    "created_at": "Sun Mar 06 19:35:58 +0000 2016",
+    "id": 706563994098643000,
+    "id_str": "706563994098642944",
+    "text": "Спасибо, что читали нас и задавали вопросы. Было интересно поучаствовать и получить новый опыт. И поделиться своим! https://t.co/rOGFtbL0oM",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -68,15 +68,94 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 4,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 706563585095303200,
+          "id_str": "706563585095303168",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc431kzVAAAtnWM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cc431kzVAAAtnWM.jpg",
+          "url": "https://t.co/rOGFtbL0oM",
+          "display_url": "pic.twitter.com/rOGFtbL0oM",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/706563994098642944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 706563585095303200,
+          "id_str": "706563585095303168",
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cc431kzVAAAtnWM.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cc431kzVAAAtnWM.jpg",
+          "url": "https://t.co/rOGFtbL0oM",
+          "display_url": "pic.twitter.com/rOGFtbL0oM",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/706563994098642944/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 682,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
