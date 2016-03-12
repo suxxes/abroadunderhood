@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1720,
+  "followers_count": 1750,
   "friends_count": 0,
-  "listed_count": 64,
+  "listed_count": 66,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 245,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 8928,
+  "statuses_count": 9052,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Mar 11 08:00:54 +0000 2016",
-    "id": 708201016177471500,
-    "id_str": "708201016177471489",
-    "text": "Как и в любой другой стране, в США государство не терпит обмана от граждан. Впрочем, это не подразумевает обратной силы.",
+    "created_at": "Sat Mar 12 12:43:43 +0000 2016",
+    "id": 708634576780832800,
+    "id_str": "708634576780832768",
+    "text": "Вот отрезок нашего путешествия на океан, посмотрите на американский интерстейт(между штатами) https://t.co/dKoOJqUlcw",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 708200825089175600,
-    "in_reply_to_status_id_str": "708200825089175556",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -57,15 +57,26 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 3,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/dKoOJqUlcw",
+          "expanded_url": "https://youtu.be/DVtAn4u3rmw?t=9s",
+          "display_url": "youtu.be/DVtAn4u3rmw?t=…",
+          "indices": [
+            94,
+            117
+          ]
+        }
+      ]
     },
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
