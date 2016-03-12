@@ -1,14 +1,12 @@
 #!/bin/bash
 
 echo "set git environment"
-git config user.email "iamstarkov+tachikombie@gmail.com"
-git config user.name "Tachikoma Zombie"
 git remote rm origin
-git remote add origin https://tachikombie:${GITHUB_TOKEN}@github.com/suxxes/abroadunderhood.git
+git remote add origin https://suxxes:${GITHUB_TOKEN}@github.com/suxxes/abroadunderhood.git
 git checkout master
 
 echo "run update"
-babel-node update
+npm run update
 
 echo "save dump"
 git add --all dump
