@@ -51114,6 +51114,128 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sat Mar 12 19:25:22 +0000 2016",
+      "id": 708735656617320400,
+      "id_str": "708735656617320448",
+      "text": "@0leGG @rusgautama у нас до русского магазина - 4 мили. 10 минут на машине, 1,5 часа на автобусе. Без машины не везде добраться можно.",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 708670289039654900,
+      "in_reply_to_status_id_str": "708670289039654912",
+      "in_reply_to_user_id": 12462592,
+      "in_reply_to_user_id_str": "12462592",
+      "in_reply_to_screen_name": "0leGG",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        108082235
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "rusgautama",
+            "name": "Rus Buddha",
+            "id": 101620431,
+            "id_str": "101620431",
+            "indices": [
+              7,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Mar 12 19:26:41 +0000 2016",
+      "id": 708735986503704600,
+      "id_str": "708735986503704577",
+      "text": "@SiliconBangalor @0leGG @rusgautama да, в даунтауне ещё и трудности с парковкой. Накладно.  А транспорта в центре хватает.",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 708671878748094500,
+      "in_reply_to_status_id_str": "708671878748094464",
+      "in_reply_to_user_id": 310745798,
+      "in_reply_to_user_id_str": "310745798",
+      "in_reply_to_screen_name": "SiliconBangalor",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        108082235
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SiliconBangalor",
+            "name": "Kremnievîi△Bangalor",
+            "id": 310745798,
+            "id_str": "310745798",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "rusgautama",
+            "name": "Rus Buddha",
+            "id": 101620431,
+            "id_str": "101620431",
+            "indices": [
+              24,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }

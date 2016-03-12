@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 1750,
+  "followers_count": 1751,
   "friends_count": 0,
   "listed_count": 66,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -35,20 +35,20 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 9052,
+  "statuses_count": 9054,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Mar 12 12:43:43 +0000 2016",
-    "id": 708634576780832800,
-    "id_str": "708634576780832768",
-    "text": "Вот отрезок нашего путешествия на океан, посмотрите на американский интерстейт(между штатами) https://t.co/dKoOJqUlcw",
+    "created_at": "Sat Mar 12 19:26:41 +0000 2016",
+    "id": 708735986503704600,
+    "id_str": "708735986503704577",
+    "text": "@SiliconBangalor @0leGG @rusgautama да, в даунтауне ещё и трудности с парковкой. Накладно.  А транспорта в центре хватает.",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 708671878748094500,
+    "in_reply_to_status_id_str": "708671878748094464",
+    "in_reply_to_user_id": 310745798,
+    "in_reply_to_user_id_str": "310745798",
+    "in_reply_to_screen_name": "SiliconBangalor",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -57,26 +57,46 @@
     ],
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/dKoOJqUlcw",
-          "expanded_url": "https://youtu.be/DVtAn4u3rmw?t=9s",
-          "display_url": "youtu.be/DVtAn4u3rmw?t=…",
+          "screen_name": "SiliconBangalor",
+          "name": "Kremnievîi△Bangalor",
+          "id": 310745798,
+          "id_str": "310745798",
           "indices": [
-            94,
-            117
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "0leGG",
+          "name": "Oleg Godovykh",
+          "id": 12462592,
+          "id_str": "12462592",
+          "indices": [
+            17,
+            23
+          ]
+        },
+        {
+          "screen_name": "rusgautama",
+          "name": "Rus Buddha",
+          "id": 101620431,
+          "id_str": "101620431",
+          "indices": [
+            24,
+            35
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
