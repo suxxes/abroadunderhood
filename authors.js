@@ -1,6 +1,7 @@
 export default [
   // post: false
-  { username: 'Yurban', start: '7 Mar 2016', first: '706585520810229760', post: false },
+  // { username: 'surkova', start: '14 Mar 2016', first: '', post: false },
+  { username: 'Yurban', start: '7 Mar 2016', first: '706585520810229760' },
   { username: 'sane_ak', start: '29 Feb 2016', first: '704205861216870400' },
   { username: 'iv4ngrigoryev', start: '22 Feb 2016', first: '701495112279265280' },
   { username: 'raxpost', start: '15 Feb 2016', first: '699146271353868288' },
