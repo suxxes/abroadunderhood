@@ -16878,6 +16878,106 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Mar 15 21:14:00 +0000 2016",
+      "id": 709850159023267800,
+      "id_str": "709850159023267840",
+      "text": "RT @ulya_mova: @abroadunderhood странно что в компаниях в непростые для ес времена до сих пор еще вообще работают мужчины 🙈 Это ж какая эко…",
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        8608182
+      ],
+      "retweeted_status": {
+        "created_at": "Tue Mar 15 20:54:05 +0000 2016",
+        "id": 709845144430837800,
+        "id_str": "709845144430837760",
+        "text": "@abroadunderhood странно что в компаниях в непростые для ес времена до сих пор еще вообще работают мужчины 🙈 Это ж какая экономия была бы!",
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 709812826043453400,
+        "in_reply_to_status_id_str": "709812826043453440",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 98641010,
+          "id_str": "98641010"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ulya_mova",
+            "name": "Клубочек ненависти",
+            "id": 98641010,
+            "id_str": "98641010",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }
