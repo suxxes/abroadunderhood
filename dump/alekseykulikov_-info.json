@@ -26,29 +26,29 @@
     }
   },
   "protected": false,
-  "followers_count": 1896,
+  "followers_count": 1921,
   "friends_count": 0,
   "listed_count": 69,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 250,
+  "favourites_count": 263,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 9938,
+  "statuses_count": 10008,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 21 08:50:24 +0000 2016",
-    "id": 711837352231096300,
-    "id_str": "711837352231096320",
-    "text": "Впрочем, это очень легко запутаться, кто в какое объединение входит в Европе. https://t.co/irvwFRVCBG",
+    "created_at": "Tue Mar 22 09:16:13 +0000 2016",
+    "id": 712206236662497300,
+    "id_str": "712206236662497280",
+    "text": "@lonlylocly @de_gis Итальянцы даже когда в соседнюю Словению приезжают продолжают говорить на Итальянском. Не раз со мной такие случаи были",
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 712181541363961900,
+    "in_reply_to_status_id_str": "712181541363961856",
+    "in_reply_to_user_id": 226113374,
+    "in_reply_to_user_id_str": "226113374",
+    "in_reply_to_screen_name": "lonlylocly",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -61,90 +61,32 @@
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 711837002023440400,
-          "id_str": "711837002023440384",
+          "screen_name": "lonlylocly",
+          "name": "Nikolay Vasiliev",
+          "id": 226113374,
+          "id_str": "226113374",
           "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/CeDz-1uWEAAhCdM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CeDz-1uWEAAhCdM.jpg",
-          "url": "https://t.co/irvwFRVCBG",
-          "display_url": "pic.twitter.com/irvwFRVCBG",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/711837352231096320/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+            0,
+            11
+          ]
+        },
         {
-          "id": 711837002023440400,
-          "id_str": "711837002023440384",
+          "screen_name": "de_gis",
+          "name": "Igor Galtsev",
+          "id": 229812906,
+          "id_str": "229812906",
           "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/CeDz-1uWEAAhCdM.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CeDz-1uWEAAhCdM.jpg",
-          "url": "https://t.co/irvwFRVCBG",
-          "display_url": "pic.twitter.com/irvwFRVCBG",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/711837352231096320/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 330,
-              "h": 233,
-              "resize": "fit"
-            }
-          }
+            12,
+            19
+          ]
         }
-      ]
+      ],
+      "urls": []
     },
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
