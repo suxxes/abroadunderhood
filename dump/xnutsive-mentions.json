@@ -1,0 +1,529 @@
+{
+  "mentions": [
+    {
+      "created_at": "Mon Mar 28 14:43:10 +0000 2016",
+      "id": 714462842586419200,
+      "id_str": "714462842586419200",
+      "text": "@xnutsive, ты пришёл в @abroadunderhood и решил неделю молчать? :)",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xnutsive",
+            "name": "Nate",
+            "id": 13397152,
+            "id_str": "13397152",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              23,
+              39
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 714397800520355800,
+      "in_reply_to_status_id_str": "714397800520355840",
+      "in_reply_to_user_id": 13397152,
+      "in_reply_to_user_id_str": "13397152",
+      "in_reply_to_screen_name": "xnutsive",
+      "user": {
+        "id": 70066349,
+        "id_str": "70066349"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "f0af1239cbebb474",
+        "url": "https://api.twitter.com/1.1/geo/id/f0af1239cbebb474.json",
+        "place_type": "country",
+        "name": "Cyprus",
+        "full_name": "Cyprus",
+        "country_code": "CY",
+        "country": "Cyprus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.2692963,
+                34.562636
+              ],
+              [
+                34.6063538,
+                34.562636
+              ],
+              [
+                34.6063538,
+                35.7087061
+              ],
+              [
+                32.2692963,
+                35.7087061
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:48:21 +0000 2016",
+      "id": 714464149120671700,
+      "id_str": "714464149120671744",
+      "text": "@abroadunderhood  а какая виза если не секрет?",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 714463652070481900,
+      "in_reply_to_status_id_str": "714463652070481920",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 80788184,
+        "id_str": "80788184"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:48:41 +0000 2016",
+      "id": 714464231677149200,
+      "id_str": "714464231677149185",
+      "text": "Вчера вечером @suxxes рассказал, что я на этой неделе в @abroadunderhood. Так что идите подписывайтесь туда, буду про Калифорнию писать.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "suxxes",
+            "name": "Father Frodo",
+            "id": 14722814,
+            "id_str": "14722814",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              56,
+              72
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 13397152,
+        "id_str": "13397152"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:54:57 +0000 2016",
+      "id": 714465808970162200,
+      "id_str": "714465808970162176",
+      "text": "@abroadunderhood, а без страховки не страшно? С обычным аппендицитом в больничку попадёшь и потом всю жизнь отрабатывать будешь.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 714465301354651600,
+      "in_reply_to_status_id_str": "714465301354651648",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 70066349,
+        "id_str": "70066349"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "f0af1239cbebb474",
+        "url": "https://api.twitter.com/1.1/geo/id/f0af1239cbebb474.json",
+        "place_type": "country",
+        "name": "Cyprus",
+        "full_name": "Cyprus",
+        "country_code": "CY",
+        "country": "Cyprus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.2692963,
+                34.562636
+              ],
+              [
+                34.6063538,
+                34.562636
+              ],
+              [
+                34.6063538,
+                35.7087061
+              ],
+              [
+                32.2692963,
+                35.7087061
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:55:48 +0000 2016",
+      "id": 714466020447137800,
+      "id_str": "714466020447137793",
+      "text": "@abroadunderhood а зачем username прилетел туда по турвизе без обратного билета и job offer, что дальше, легко работу с h1b найти?",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 714465301354651600,
+      "in_reply_to_status_id_str": "714465301354651648",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 495947990,
+        "id_str": "495947990"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:55:51 +0000 2016",
+      "id": 714466033021620200,
+      "id_str": "714466033021620225",
+      "text": "@abroadunderhood @xnutsive Ура!",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "xnutsive",
+            "name": "Nate",
+            "id": 13397152,
+            "id_str": "13397152",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 714462804703580200,
+      "in_reply_to_status_id_str": "714462804703580160",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3411018190,
+        "id_str": "3411018190"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:56:27 +0000 2016",
+      "id": 714466185971105800,
+      "id_str": "714466185971105792",
+      "text": "@abroadunderhood Ты уточняй. С семьей лететь в один конец не вариант. С высоким уровнем жизни тут и на дно там - тоже не вариант. :)",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 714465210048847900,
+      "in_reply_to_status_id_str": "714465210048847872",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 69532399,
+        "id_str": "69532399"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:56:40 +0000 2016",
+      "id": 714466238559359000,
+      "id_str": "714466238559358978",
+      "text": "@abroadunderhood хм интересно про O1. Я думал простым смертным ее не получить.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 714465758613532700,
+      "in_reply_to_status_id_str": "714465758613532674",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 80788184,
+        "id_str": "80788184"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 28 14:57:24 +0000 2016",
+      "id": 714466422932447200,
+      "id_str": "714466422932447232",
+      "text": "@abroadunderhood ну то есть США, без официального трудоустройства, — ахуенный вид экстремального туризма.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 714466076076150800,
+      "in_reply_to_status_id_str": "714466076076150784",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 70066349,
+        "id_str": "70066349"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "f0af1239cbebb474",
+        "url": "https://api.twitter.com/1.1/geo/id/f0af1239cbebb474.json",
+        "place_type": "country",
+        "name": "Cyprus",
+        "full_name": "Cyprus",
+        "country_code": "CY",
+        "country": "Cyprus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.2692963,
+                34.562636
+              ],
+              [
+                34.6063538,
+                34.562636
+              ],
+              [
+                34.6063538,
+                35.7087061
+              ],
+              [
+                32.2692963,
+                35.7087061
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
