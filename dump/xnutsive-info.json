@@ -37,26 +37,47 @@
     }
   },
   "protected": false,
-  "followers_count": 2071,
+  "followers_count": 2072,
   "friends_count": 0,
-  "listed_count": 72,
+  "listed_count": 73,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 277,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 10211,
+  "statuses_count": 10237,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Mar 30 09:01:08 +0000 2016",
-    "id": 715101542009823200,
-    "id_str": "715101542009823232",
-    "text": "Для O-визы компания-спонсор все равно нужна. С ней нужен summary of oral work agreement. Ваша петиция на визу подписывается у этой компании.",
+    "created_at": "Wed Mar 30 16:16:12 +0000 2016",
+    "id": 715211030004113400,
+    "id_str": "715211030004113408",
+    "text": "RT @roshelen: @abroadunderhood в среднем: теория $40, практика $40 (рент машины в автошколе, где сдаёшь экзамен = $50) и сама карточка driv…",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "roshelen",
+          "name": "Helen Rosnovskaya",
+          "id": 16853350,
+          "id_str": "16853350",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андэрхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            14,
+            30
+          ]
+        }
+      ],
       "urls": []
     },
     "truncated": false,
@@ -69,12 +90,54 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      13397152
+    ],
+    "retweeted_status": {
+      "created_at": "Wed Mar 30 15:39:43 +0000 2016",
+      "id": 715201849524035600,
+      "id_str": "715201849524035584",
+      "text": "@abroadunderhood в среднем: теория $40, практика $40 (рент машины в автошколе, где сдаёшь экзамен = $50) и сама карточка driver license $80",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 715070072923037700,
+      "in_reply_to_status_id_str": "715070072923037696",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
