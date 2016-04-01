@@ -12585,6 +12585,159 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 01 14:09:46 +0000 2016",
+      "id": 715903990286979100,
+      "id_str": "715903990286979072",
+      "text": "RT @FairHairedDevil: @abroadunderhood @hatarist golden gate не бесплатный! Стоит около 7 баксов. Чарджится по стороне с севера на юг в авто…",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FairHairedDevil",
+            "name": "Lisa Z",
+            "id": 223239442,
+            "id_str": "223239442",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              21,
+              37
+            ]
+          },
+          {
+            "screen_name": "hatarist",
+            "name": "Igor Hatarist",
+            "id": 2278745898,
+            "id_str": "2278745898",
+            "indices": [
+              38,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        13397152
+      ],
+      "retweeted_status": {
+        "created_at": "Fri Apr 01 14:07:56 +0000 2016",
+        "id": 715903529257279500,
+        "id_str": "715903529257279488",
+        "text": "@abroadunderhood @hatarist golden gate не бесплатный! Стоит около 7 баксов. Чарджится по стороне с севера на юг в автоматическом режиме",
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "hatarist",
+              "name": "Igor Hatarist",
+              "id": 2278745898,
+              "id_str": "2278745898",
+              "indices": [
+                17,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "truncated": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 715901186482769900,
+        "in_reply_to_status_id_str": "715901186482769920",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 223239442,
+          "id_str": "223239442"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Apr 01 14:30:32 +0000 2016",
+      "id": 715909215433265200,
+      "id_str": "715909215433265152",
+      "text": "Про работу. Разработчикам устроиться проще всего. Дизайнеры следующие. «Проджекты» без претензий дешевые, но тоже легко. Остальные мимо.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
