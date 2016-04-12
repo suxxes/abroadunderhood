@@ -26,27 +26,37 @@
     }
   },
   "protected": false,
-  "followers_count": 2223,
+  "followers_count": 2220,
   "friends_count": 0,
-  "listed_count": 78,
+  "listed_count": 79,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 305,
+  "favourites_count": 308,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 11191,
+  "statuses_count": 11283,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 12 07:34:20 +0000 2016",
-    "id": 719790742684725200,
-    "id_str": "719790742684725248",
-    "text": "Самые высокие зарплаты в Стране Басков - 1970 евро, в Мадриде 1930 евро, в Наварре 1750, в Каталунии - 1715.",
+    "created_at": "Tue Apr 12 11:29:48 +0000 2016",
+    "id": 719849998511419400,
+    "id_str": "719849998511419392",
+    "text": "Сама по себе омологация диплома не дает права работать в стране. Это как бы дополнение, если уже есть ВНЖ.  https://t.co/8XYOOJC7TW",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/8XYOOJC7TW",
+          "expanded_url": "https://twitter.com/iammykhas/status/719849071813468161",
+          "display_url": "twitter.com/iammykhas/stat…",
+          "indices": [
+            108,
+            131
+          ]
+        }
+      ]
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
@@ -61,11 +71,14 @@
     "contributors": [
       20683579
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 719849071813468200,
+    "quoted_status_id_str": "719849071813468161",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
