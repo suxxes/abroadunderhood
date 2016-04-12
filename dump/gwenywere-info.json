@@ -26,59 +26,67 @@
     }
   },
   "protected": false,
-  "followers_count": 2220,
+  "followers_count": 2221,
   "friends_count": 0,
   "listed_count": 79,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 308,
+  "favourites_count": 309,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 11283,
+  "statuses_count": 11314,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Apr 12 11:29:48 +0000 2016",
-    "id": 719849998511419400,
-    "id_str": "719849998511419392",
-    "text": "Сама по себе омологация диплома не дает права работать в стране. Это как бы дополнение, если уже есть ВНЖ.  https://t.co/8XYOOJC7TW",
+    "created_at": "Tue Apr 12 16:20:41 +0000 2016",
+    "id": 719923201011281900,
+    "id_str": "719923201011281920",
+    "text": "@23ydobemos @toivonens да у нас тоже разбирается. Но проблема пока остается.",
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/8XYOOJC7TW",
-          "expanded_url": "https://twitter.com/iammykhas/status/719849071813468161",
-          "display_url": "twitter.com/iammykhas/stat…",
+          "screen_name": "23ydobemos",
+          "name": "Илья Заяц",
+          "id": 269433815,
+          "id_str": "269433815",
           "indices": [
-            108,
-            131
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "toivonens",
+          "name": "var ya; // ru",
+          "id": 215559242,
+          "id_str": "215559242",
+          "indices": [
+            12,
+            22
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 719915567239589900,
+    "in_reply_to_status_id_str": "719915567239589888",
+    "in_reply_to_user_id": 269433815,
+    "in_reply_to_user_id_str": "269433815",
+    "in_reply_to_screen_name": "23ydobemos",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       20683579
     ],
-    "quoted_status_id": 719849071813468200,
-    "quoted_status_id_str": "719849071813468161",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
