@@ -26,37 +26,27 @@
     }
   },
   "protected": false,
-  "followers_count": 2315,
+  "followers_count": 2325,
   "friends_count": 0,
   "listed_count": 80,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 336,
+  "favourites_count": 343,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 12165,
+  "statuses_count": 12274,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Apr 21 21:19:43 +0000 2016",
-    "id": 723259944997363700,
-    "id_str": "723259944997363712",
-    "text": "Вот чего-чего, а медведей в Канаде точно больше, чем в России :-) https://t.co/1O6qpneQ2c",
+    "created_at": "Sun Apr 24 00:09:41 +0000 2016",
+    "id": 724027494140092400,
+    "id_str": "724027494140092416",
+    "text": "Но велосипеды все равно воруют...",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/1O6qpneQ2c",
-          "expanded_url": "https://twitter.com/tatevano/status/723258681266167810",
-          "display_url": "twitter.com/tatevano/statu…",
-          "indices": [
-            66,
-            89
-          ]
-        }
-      ]
+      "urls": []
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
@@ -71,14 +61,11 @@
     "contributors": [
       4899101609
     ],
-    "quoted_status_id": 723258681266167800,
-    "quoted_status_id_str": "723258681266167810",
-    "is_quote_status": true,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
