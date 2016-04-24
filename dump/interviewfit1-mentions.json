@@ -28283,6 +28283,83 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Apr 24 20:20:02 +0000 2016",
+      "id": 724332088611070000,
+      "id_str": "724332088611069952",
+      "text": "@abroadunderhood хорошо - это сколько CAD net per annum?=) у меня подход рациональный - где именно равные усилия дадут больше отдачи.",
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "truncated": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 724331605075058700,
+      "in_reply_to_status_id_str": "724331605075058689",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 160475395,
+        "id_str": "160475395"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "f0af1239cbebb474",
+        "url": "https://api.twitter.com/1.1/geo/id/f0af1239cbebb474.json",
+        "place_type": "country",
+        "name": "Cyprus",
+        "full_name": "Cyprus",
+        "country_code": "CY",
+        "country": "Cyprus",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                32.2692963,
+                34.562636
+              ],
+              [
+                34.6063538,
+                34.562636
+              ],
+              [
+                34.6063538,
+                35.7087061
+              ],
+              [
+                32.2692963,
+                35.7087061
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
