@@ -127,6 +127,22 @@ task('authoring', ['css'], () => {
     .pipe(dest('dist'));
 });
 
+task('instruction', ['css'], () => {
+  const readme = fs.readFileSync('./pages/instruction.md', { encoding: 'utf8' });
+  const article = articleData(readme, 'D MMMM YYYY', 'en'); // TODO change to 'ru' after moment/moment#2634 will be published
+  return src('layouts/article.jade')
+    .pipe(jade({
+      locals: Object.assign({}, article, {
+        title: 'Инструкция',
+        url: 'instruction/',
+        helpers: { bust },
+      }),
+    }))
+    .pipe(rename({ dirname: 'instruction' }))
+    .pipe(rename({ basename: 'index' }))
+    .pipe(dest('dist'));
+});
+
 task('map', ['css'], () => {
   const currentAuthor = head(authors.filter(author => author.post === false));
   const authorsToPost = authors.filter(author => author.post !== false);
@@ -221,8 +237,8 @@ task('server', () => {
  */
 task('clean', done => rimraf('dist', done));
 
-task('html', ['stats', 'authors', 'index', 'map', 'about', 'authoring']);
-task('build', done => sequence( 'html', 'css', 'js', 'stats', 'static', 'userpics', 'banners', 'current-media', done));
+task('html', ['stats', 'authors', 'index', 'map', 'about', 'authoring', 'instruction']);
+task('build', done => sequence( 'css', 'js', 'static', 'stats', 'html', 'userpics', 'banners', 'current-media', done));
 
 task('default', done => sequence('clean', 'watch', done));
 
