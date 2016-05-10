@@ -26,34 +26,64 @@
     }
   },
   "protected": false,
-  "followers_count": 2495,
+  "followers_count": 2533,
   "friends_count": 0,
-  "listed_count": 89,
+  "listed_count": 88,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 450,
+  "favourites_count": 451,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 13964,
+  "statuses_count": 14096,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 09 20:54:11 +0000 2016",
-    "id": 729776503085514800,
-    "id_str": "729776503085514752",
-    "text": "@lancedikson должен быть большой бак и маленький расход (так вообще бывает?), иначе не окупится",
+    "created_at": "Tue May 10 10:19:30 +0000 2016",
+    "id": 729979167681466400,
+    "id_str": "729979167681466368",
+    "text": "@el_trollo @freiksenet_ru @medvedi @badgercat а как kids то влияют? они на момент выдачи кредита no, а потом бац - и сразу двое.",
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "lancedikson",
-          "name": "Denis Demchenko",
-          "id": 305808776,
-          "id_str": "305808776",
+          "screen_name": "el_trollo",
+          "name": "Vitaly Sh",
+          "id": 29592754,
+          "id_str": "29592754",
           "indices": [
             0,
-            12
+            10
+          ]
+        },
+        {
+          "screen_name": "freiksenet_ru",
+          "name": "Михаил Новиков",
+          "id": 3411018190,
+          "id_str": "3411018190",
+          "indices": [
+            11,
+            25
+          ]
+        },
+        {
+          "screen_name": "medvedi",
+          "name": "Pavel Medvedev",
+          "id": 10356562,
+          "id_str": "10356562",
+          "indices": [
+            26,
+            34
+          ]
+        },
+        {
+          "screen_name": "badgercat",
+          "name": "That's you!",
+          "id": 19856378,
+          "id_str": "19856378",
+          "indices": [
+            35,
+            45
           ]
         }
       ],
@@ -61,11 +91,11 @@
     },
     "truncated": false,
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 729774366762881000,
-    "in_reply_to_status_id_str": "729774366762881024",
-    "in_reply_to_user_id": 305808776,
-    "in_reply_to_user_id_str": "305808776",
-    "in_reply_to_screen_name": "lancedikson",
+    "in_reply_to_status_id": 729978991780761600,
+    "in_reply_to_status_id_str": "729978991780761600",
+    "in_reply_to_user_id": 29592754,
+    "in_reply_to_user_id_str": "29592754",
+    "in_reply_to_screen_name": "el_trollo",
     "geo": null,
     "coordinates": null,
     "place": null,
