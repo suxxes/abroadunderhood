@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2570,
+  "followers_count": 2572,
   "friends_count": 0,
   "listed_count": 90,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -35,39 +35,18 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 15117,
+  "statuses_count": 15166,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 20 05:48:38 +0000 2016",
-    "id": 733534878675800000,
-    "id_str": "733534878675800064",
-    "text": "RT @roxy_haart: @abroadunderhood да это везде так. В США сразу видно, когда русский едет",
+    "created_at": "Fri May 20 17:39:13 +0000 2016",
+    "id": 733713703552573400,
+    "id_str": "733713703552573441",
+    "text": "Прощу прощения, но сегодня я уже не успеваю рассказать о медицине и родах. Закрутили домашние дела. В субботу и воскресенье восполню",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "roxy_haart",
-          "name": "Oksana",
-          "id": 198239339,
-          "id_str": "198239339",
-          "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            16,
-            32
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
@@ -82,51 +61,11 @@
     "contributors": [
       128857918
     ],
-    "retweeted_status": {
-      "created_at": "Fri May 20 05:43:05 +0000 2016",
-      "id": 733533482656235500,
-      "id_str": "733533482656235520",
-      "text": "@abroadunderhood да это везде так. В США сразу видно, когда русский едет",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 733246348158509000,
-      "in_reply_to_status_id_str": "733246348158509058",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 1,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
