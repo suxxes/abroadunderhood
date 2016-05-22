@@ -26,69 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2577,
+  "followers_count": 2581,
   "friends_count": 0,
-  "listed_count": 90,
+  "listed_count": 91,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 453,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 15333,
+  "statuses_count": 15384,
   "lang": "ru",
   "status": {
-    "created_at": "Sun May 22 09:46:29 +0000 2016",
-    "id": 734319514532352000,
-    "id_str": "734319514532352000",
-    "text": "RT @SiliconBangalor: @tishkova @syncromechanica @abroadunderhood это ж вроде акк для рассказа о стране, а не о том, что автор будет делать…",
+    "created_at": "Sun May 22 18:54:58 +0000 2016",
+    "id": 734457541841784800,
+    "id_str": "734457541841784832",
+    "text": "Ммм. Не совсем понимаю. Если про то, что в JLT закопали 2 озера с делали play area, то да. Всё также ;) https://t.co/rmlBbRFscP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "SiliconBangalor",
-          "name": "Kremnievîi△Bangalor☭",
-          "id": 310745798,
-          "id_str": "310745798",
+          "url": "https://t.co/rmlBbRFscP",
+          "expanded_url": "https://twitter.com/zeihlis/status/734456477931458562",
+          "display_url": "twitter.com/zeihlis/status…",
           "indices": [
-            3,
-            19
-          ]
-        },
-        {
-          "screen_name": "tishkova",
-          "name": "Maria Tishkova",
-          "id": 138476432,
-          "id_str": "138476432",
-          "indices": [
-            21,
-            30
-          ]
-        },
-        {
-          "screen_name": "syncromechanica",
-          "name": "Mr. Self Destruct",
-          "id": 342124158,
-          "id_str": "342124158",
-          "indices": [
-            31,
-            47
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            48,
-            64
+            104,
+            127
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -102,71 +71,14 @@
     "contributors": [
       128857918
     ],
-    "retweeted_status": {
-      "created_at": "Sun May 22 09:44:38 +0000 2016",
-      "id": 734319046980710400,
-      "id_str": "734319046980710400",
-      "text": "@tishkova @syncromechanica @abroadunderhood это ж вроде акк для рассказа о стране, а не о том, что автор будет делать когда сын гей",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "tishkova",
-            "name": "Maria Tishkova",
-            "id": 138476432,
-            "id_str": "138476432",
-            "indices": [
-              0,
-              9
-            ]
-          },
-          {
-            "screen_name": "syncromechanica",
-            "name": "Mr. Self Destruct",
-            "id": 342124158,
-            "id_str": "342124158",
-            "indices": [
-              10,
-              26
-            ]
-          },
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              27,
-              43
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "in_reply_to_status_id": 734318578837692400,
-      "in_reply_to_status_id_str": "734318578837692416",
-      "in_reply_to_user_id": 138476432,
-      "in_reply_to_user_id_str": "138476432",
-      "in_reply_to_screen_name": "tishkova",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
-    "is_quote_status": false,
-    "retweet_count": 1,
+    "quoted_status_id": 734456477931458600,
+    "quoted_status_id_str": "734456477931458562",
+    "is_quote_status": true,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
