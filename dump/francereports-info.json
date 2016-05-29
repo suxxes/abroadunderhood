@@ -37,38 +37,39 @@
     }
   },
   "protected": false,
-  "followers_count": 2628,
+  "followers_count": 2632,
   "friends_count": 0,
   "listed_count": 94,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 456,
+  "favourites_count": 457,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 15677,
+  "statuses_count": 15836,
   "lang": "ru",
   "status": {
-    "created_at": "Fri May 27 10:32:40 +0000 2016",
-    "id": 736143075052032000,
-    "id_str": "736143075052032000",
-    "text": "Чтобы прочитать продолжение истории, отправьте смс на короткий номер ... https://t.co/8Y7t600llQ",
+    "created_at": "Sun May 29 19:48:49 +0000 2016",
+    "id": 737007809968148500,
+    "id_str": "737007809968148482",
+    "text": "Спасибо всем большое! Мне было очень интересно с вами! Всего хорошего! @francereports",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/8Y7t600llQ",
-          "expanded_url": "https://twitter.com/tyurin_tyurin/status/736130370568097792",
-          "display_url": "twitter.com/tyurin_tyurin/…",
+          "screen_name": "francereports",
+          "name": "Тулуза, Франция",
+          "id": 22252276,
+          "id_str": "22252276",
           "indices": [
-            73,
-            96
+            71,
+            85
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -82,14 +83,11 @@
     "contributors": [
       22252276
     ],
-    "quoted_status_id": 736130370568097800,
-    "quoted_status_id_str": "736130370568097792",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 4,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
