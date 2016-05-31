@@ -3,20 +3,9 @@
   "id_str": "3955812173",
   "name": "Эброд Андэрхуд",
   "screen_name": "abroadunderhood",
-  "location": "Toulouse, France",
-  "profile_location": {
-    "id": "3980fd5d8a818646",
-    "url": "https://api.twitter.com/1.1/geo/id/3980fd5d8a818646.json",
-    "place_type": "unknown",
-    "name": "Toulouse, France",
-    "full_name": "Toulouse, France",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @francereports.",
+  "location": "Dublin, Ireland",
+  "profile_location": null,
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @b0noi.",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
     "url": {
@@ -37,39 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2632,
+  "followers_count": 2671,
   "friends_count": 0,
-  "listed_count": 94,
+  "listed_count": 95,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 457,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 15836,
+  "statuses_count": 15957,
   "lang": "ru",
   "status": {
-    "created_at": "Sun May 29 19:48:49 +0000 2016",
-    "id": 737007809968148500,
-    "id_str": "737007809968148482",
-    "text": "Спасибо всем большое! Мне было очень интересно с вами! Всего хорошего! @francereports",
+    "created_at": "Tue May 31 13:03:05 +0000 2016",
+    "id": 737630481554935800,
+    "id_str": "737630481554935813",
+    "text": "Заканчивать день без Ирландской песни? Ну уж нет: https://t.co/Wzl2J2jAGB я до Дублина я и не знал что это их песня а не Metallica.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "francereports",
-          "name": "Тулуза, Франция",
-          "id": 22252276,
-          "id_str": "22252276",
+          "url": "https://t.co/Wzl2J2jAGB",
+          "expanded_url": "https://youtu.be/8eOIU9ekSMk",
+          "display_url": "youtu.be/8eOIU9ekSMk",
           "indices": [
-            71,
-            85
+            50,
+            73
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +68,13 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": [
-      22252276
-    ],
+    "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
+    "retweet_count": 1,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -97,9 +84,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/734493003822292994/NEpVk8Km_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/734493003822292994/NEpVk8Km_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1463951745",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/737015342514503680/K_W0e_MW_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/737015342514503680/K_W0e_MW_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1464553116",
   "profile_link_color": "FF5032",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -114,8 +101,8 @@
   "suspended": false,
   "needs_phone_verification": false,
   "geometry": {
-    "lat": 43.604652,
-    "lng": 1.444209
+    "lat": 53.3498053,
+    "lng": -6.2603097
   },
-  "time_zone_offset": 120
+  "time_zone_offset": 60
 }
