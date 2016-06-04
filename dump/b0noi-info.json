@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2681,
+  "followers_count": 2680,
   "friends_count": 0,
-  "listed_count": 97,
+  "listed_count": 98,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 457,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 16366,
+  "statuses_count": 16497,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jun 03 11:30:26 +0000 2016",
-    "id": 738694327694561300,
-    "id_str": "738694327694561280",
-    "text": "А завтра будет много фото и \"экскурсий\" по стране.",
+    "created_at": "Sat Jun 04 09:41:02 +0000 2016",
+    "id": 739029181661470700,
+    "id_str": "739029181661470720",
+    "text": "Ну а сегодня вечером танцы!: https://t.co/lCXckGZhoP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/lCXckGZhoP",
+          "expanded_url": "https://youtu.be/0u0nUU126Hc",
+          "display_url": "youtu.be/0u0nUU126Hc",
+          "indices": [
+            29,
+            52
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
