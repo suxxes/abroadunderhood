@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2680,
+  "followers_count": 2670,
   "friends_count": 0,
   "listed_count": 98,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -35,46 +35,58 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 16497,
+  "statuses_count": 16693,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 04 09:41:02 +0000 2016",
-    "id": 739029181661470700,
-    "id_str": "739029181661470720",
-    "text": "Ну а сегодня вечером танцы!: https://t.co/lCXckGZhoP",
+    "created_at": "Sun Jun 05 21:16:58 +0000 2016",
+    "id": 739566709955166200,
+    "id_str": "739566709955166208",
+    "text": "@denis_nagibin @b0noi не скоро еще, нужно больше материала насобирать, поездить, с людьми пообщаться =) но постараюсь побыстрее",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/lCXckGZhoP",
-          "expanded_url": "https://youtu.be/0u0nUU126Hc",
-          "display_url": "youtu.be/0u0nUU126Hc",
+          "screen_name": "denis_nagibin",
+          "name": "Nagibin Denis",
+          "id": 349102738,
+          "id_str": "349102738",
           "indices": [
-            29,
-            52
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "b0noi",
+          "name": "Viacheslav",
+          "id": 21795879,
+          "id_str": "21795879",
+          "indices": [
+            15,
+            21
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 739563108126056400,
+    "in_reply_to_status_id_str": "739563108126056450",
+    "in_reply_to_user_id": 349102738,
+    "in_reply_to_user_id_str": "349102738",
+    "in_reply_to_screen_name": "denis_nagibin",
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
+    "contributors": [
+      21795879
+    ],
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
