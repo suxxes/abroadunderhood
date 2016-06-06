@@ -3853,6 +3853,481 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:47:54 +0000 2016",
+      "id": 739740585855160300,
+      "id_str": "739740585855160320",
+      "text": "@toivonens @abroadunderhood зависит от того где американский гражданин живет. В каких-то ситуациях и доплачивать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              11,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739717457103970300,
+      "in_reply_to_status_id_str": "739717457103970305",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 8608182,
+        "id_str": "8608182"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d56c5babcffde8ef",
+        "url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+        "place_type": "city",
+        "name": "Stockholm",
+        "full_name": "Stockholm, Sverige",
+        "country_code": "SE",
+        "country": "Sverige",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                17.7601322,
+                59.2271383
+              ],
+              [
+                18.1999856,
+                59.2271383
+              ],
+              [
+                18.1999856,
+                59.4402037
+              ],
+              [
+                17.7601322,
+                59.4402037
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:50:05 +0000 2016",
+      "id": 739741136940568600,
+      "id_str": "739741136940568577",
+      "text": "@abroadunderhood Ура, хороший андерхуд из США :) Очень looking forward.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739661152335089700,
+      "in_reply_to_status_id_str": "739661152335089664",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3411018190,
+        "id_str": "3411018190"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:51:54 +0000 2016",
+      "id": 739741596338507800,
+      "id_str": "739741596338507776",
+      "text": "@_L_A_S_ @surkova @abroadunderhood и в два раза больше отчетности!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_L_A_S_",
+            "name": "AlexL",
+            "id": 173874609,
+            "id_str": "173874609",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              9,
+              17
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              18,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739714600942342100,
+      "in_reply_to_status_id_str": "739714600942342144",
+      "in_reply_to_user_id": 173874609,
+      "in_reply_to_user_id_str": "173874609",
+      "in_reply_to_screen_name": "_L_A_S_",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:05:00 +0000 2016",
+      "id": 739744891555729400,
+      "id_str": "739744891555729408",
+      "text": "@surkova @abroadunderhood еще дети американского гражданина тоже граждане автоматически, и должны отчитываться о подработках на каникулах",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739740585855160300,
+      "in_reply_to_status_id_str": "739740585855160320",
+      "in_reply_to_user_id": 8608182,
+      "in_reply_to_user_id_str": "8608182",
+      "in_reply_to_screen_name": "surkova",
+      "user": {
+        "id": 215559242,
+        "id_str": "215559242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:06:49 +0000 2016",
+      "id": 739745347451420700,
+      "id_str": "739745347451420672",
+      "text": "@surkova @abroadunderhood читала про это пост американки, родившей детей в Шв. Заполняет их декларации. А из гр выйти нельзя пока маленький.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739740585855160300,
+      "in_reply_to_status_id_str": "739740585855160320",
+      "in_reply_to_user_id": 8608182,
+      "in_reply_to_user_id_str": "8608182",
+      "in_reply_to_screen_name": "surkova",
+      "user": {
+        "id": 215559242,
+        "id_str": "215559242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:15:07 +0000 2016",
+      "id": 739747436357398500,
+      "id_str": "739747436357398528",
+      "text": "@abroadunderhood а продолжал ли ты работать в России в эти полгода между апрелем и октябрём? Что надо сделать за полгода чтоб  to be ready?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739684724801687600,
+      "in_reply_to_status_id_str": "739684724801687552",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 89387573,
+        "id_str": "89387573"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:24:21 +0000 2016",
+      "id": 739749762010865700,
+      "id_str": "739749762010865664",
+      "text": "@karlicoss @sementry @abroadunderhood @0leGG @omruruch справка что нельзя работать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "karlicoss",
+            "name": "пфф",
+            "id": 119756204,
+            "id_str": "119756204",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "sementry",
+            "name": "Национал-гомотопии",
+            "id": 154201693,
+            "id_str": "154201693",
+            "indices": [
+              11,
+              20
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              21,
+              37
+            ]
+          },
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              38,
+              44
+            ]
+          },
+          {
+            "screen_name": "omruruch",
+            "name": "Sofia",
+            "id": 539257589,
+            "id_str": "539257589",
+            "indices": [
+              45,
+              54
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739608863205396500,
+      "in_reply_to_status_id_str": "739608863205396481",
+      "in_reply_to_user_id": 119756204,
+      "in_reply_to_user_id_str": "119756204",
+      "in_reply_to_screen_name": "karlicoss",
+      "user": {
+        "id": 322478509,
+        "id_str": "322478509"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:29:37 +0000 2016",
+      "id": 739751086974722000,
+      "id_str": "739751086974722048",
+      "text": "@abroadunderhood сколько нужного иметь после налогов чтобы комфортно жить ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739662121617739800,
+      "in_reply_to_status_id_str": "739662121617739776",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 14451220,
+        "id_str": "14451220"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
