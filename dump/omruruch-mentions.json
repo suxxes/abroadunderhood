@@ -4328,6 +4328,160 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:53:00 +0000 2016",
+      "id": 739756972350677000,
+      "id_str": "739756972350676992",
+      "text": "@abroadunderhood люди не хотят жить в России, но хотят русской еды, например. Претензии не корректны.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739668400872398800,
+      "in_reply_to_status_id_str": "739668400872398849",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 101620431,
+        "id_str": "101620431"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "016857d739bd1973",
+        "url": "https://api.twitter.com/1.1/geo/id/016857d739bd1973.json",
+        "place_type": "admin",
+        "name": "อ.เมืองภูเก็ต",
+        "full_name": "อ.เมืองภูเก็ต, จ.ภูเก็ต",
+        "country_code": "TH",
+        "country": "ประเทศไทย",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                98.2719503,
+                7.7331718
+              ],
+              [
+                98.4453309,
+                7.7331718
+              ],
+              [
+                98.4453309,
+                7.9692219
+              ],
+              [
+                98.2719503,
+                7.9692219
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 09:54:24 +0000 2016",
+      "id": 739757324512854000,
+      "id_str": "739757324512854017",
+      "text": "@abroadunderhood это и есть американская мечта — работаешь и получаешь то, что заслужил.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739661152335089700,
+      "in_reply_to_status_id_str": "739661152335089664",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 101620431,
+        "id_str": "101620431"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "016857d739bd1973",
+        "url": "https://api.twitter.com/1.1/geo/id/016857d739bd1973.json",
+        "place_type": "admin",
+        "name": "อ.เมืองภูเก็ต",
+        "full_name": "อ.เมืองภูเก็ต, จ.ภูเก็ต",
+        "country_code": "TH",
+        "country": "ประเทศไทย",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                98.2719503,
+                7.7331718
+              ],
+              [
+                98.4453309,
+                7.7331718
+              ],
+              [
+                98.4453309,
+                7.9692219
+              ],
+              [
+                98.2719503,
+                7.9692219
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
