@@ -42,7 +42,7 @@ block content
                   = " / "
                 th.host-stats__col.host-stats__col_retweeted.rted--2p.hidden-sm: span.sortable: nobr на твит
                 th.host-stats__col.host-stats__col_favorited.faved--1p.hidden-sm: nobr
-                  span.sortable Фавнули всего
+                  span.sortable Лайкнули всего
                   = " / "
                 th.host-stats__col.host-stats__col_favorited.faved--2p.hidden-sm: span.sortable: nobr на твит
 
@@ -96,9 +96,9 @@ block content
                 td.host-stats__col.host-stats__col_kpi.rted--2p.hidden-sm(data-title='Ретвитнули на 1 твит' data-sort=author.retweeted.average)
                   span.cell(class={ 'cell--best': author.maxRetweetedAverage }): span.cell__content
                     = author.retweeted.average
-                td.host-stats__col.host-stats__col_kpi.faved--1p.hidden-sm(data-title='Фавнули всего' data-sort=author.favorited.total)
+                td.host-stats__col.host-stats__col_kpi.faved--1p.hidden-sm(data-title='Лайкнули всего' data-sort=author.favorited.total)
                   span.cell(class={ 'cell--best': author.maxFavoritedTotal }): span.cell__content
                     = author.favorited.total
-                td.host-stats__col.host-stats__col_kpi.faved--2p.hidden-sm(data-title='Фавнули на 1 твит' data-sort=author.favorited.average)
+                td.host-stats__col.host-stats__col_kpi.faved--2p.hidden-sm(data-title='Лайкнули на 1 твит' data-sort=author.favorited.average)
                   span.cell(class={ 'cell--best': author.maxFavoritedAverage }): span.cell__content
                     = author.favorited.average
