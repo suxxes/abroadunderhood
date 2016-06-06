@@ -142,6 +142,3717 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Sun Jun 05 23:42:00 +0000 2016",
+      "id": 739603207870132200,
+      "id_str": "739603207870132224",
+      "text": "@abroadunderhood у них есть доширак?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 739602978835959800,
+      "in_reply_to_status_id_str": "739602978835959809",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 145469624,
+        "id_str": "145469624"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 05 23:43:15 +0000 2016",
+      "id": 739603520291213300,
+      "id_str": "739603520291213312",
+      "text": "А пока вы все спите, я поблагодарю @b0noi за его неделю про пьяных зеленых человечков на @abroadunderhood. Архив — https://t.co/YXTZs9wXen",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "b0noi",
+            "name": "Viacheslav",
+            "id": 21795879,
+            "id_str": "21795879",
+            "indices": [
+              35,
+              41
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              89,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YXTZs9wXen",
+            "expanded_url": "http://abroadunderhood.ru/b0noi/",
+            "display_url": "abroadunderhood.ru/b0noi/",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14722814,
+        "id_str": "14722814"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 05 23:54:08 +0000 2016",
+      "id": 739606261948416000,
+      "id_str": "739606261948416000",
+      "text": "На этой неделе мы с @0leGG ведем твиттер @abroadunderhood, рассказываем, как живется в благословенной Америке (спойлер: охуенно)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              20,
+              26
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              41,
+              57
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 539257589,
+        "id_str": "539257589"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "319ee7b36c9149da",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+        "place_type": "city",
+        "name": "Arlington",
+        "full_name": "Arlington, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.172219,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.934311
+              ],
+              [
+                -77.172219,
+                38.934311
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 05 23:55:56 +0000 2016",
+      "id": 739606715130347500,
+      "id_str": "739606715130347520",
+      "text": "Кстати, мы с @omruruch теперь @abroadunderhood , рассказываем о том, что столица одна, столица — Вашингтон",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "omruruch",
+            "name": "Sofia",
+            "id": 539257589,
+            "id_str": "539257589",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              30,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 12462592,
+        "id_str": "12462592"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "319ee7b36c9149da",
+        "url": "https://api.twitter.com/1.1/geo/id/319ee7b36c9149da.json",
+        "place_type": "city",
+        "name": "Arlington",
+        "full_name": "Arlington, VA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.172219,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.827378
+              ],
+              [
+                -77.031779,
+                38.934311
+              ],
+              [
+                -77.172219,
+                38.934311
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 00:17:57 +0000 2016",
+      "id": 739612254430105600,
+      "id_str": "739612254430105600",
+      "text": "@abroadunderhood @0leGG @omruruch и чем ты занимаешься целыми днями?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "omruruch",
+            "name": "Sofia",
+            "id": 539257589,
+            "id_str": "539257589",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739607981231378400,
+      "in_reply_to_status_id_str": "739607981231378432",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 101620431,
+        "id_str": "101620431"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "00f4ea841aee9063",
+        "url": "https://api.twitter.com/1.1/geo/id/00f4ea841aee9063.json",
+        "place_type": "city",
+        "name": "ราไวย์",
+        "full_name": "ราไวย์, ประเทศไทย",
+        "country_code": "TH",
+        "country": "ประเทศไทย",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                98.3026414,
+                7.7577459
+              ],
+              [
+                98.3446082,
+                7.7577459
+              ],
+              [
+                98.3446082,
+                7.8251158
+              ],
+              [
+                98.3026414,
+                7.8251158
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 00:32:42 +0000 2016",
+      "id": 739615966355726300,
+      "id_str": "739615966355726336",
+      "text": "@abroadunderhood @0leGG Android? iOS?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              17,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739606211608358900,
+      "in_reply_to_status_id_str": "739606211608358912",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 300803558,
+        "id_str": "300803558"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "lt"
+    },
+    {
+      "created_at": "Mon Jun 06 01:14:27 +0000 2016",
+      "id": 739626472881655800,
+      "id_str": "739626472881655808",
+      "text": "@abroadunderhood лови",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739626179729072100,
+      "in_reply_to_status_id_str": "739626179729072128",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 127573172,
+        "id_str": "127573172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Jun 06 01:26:41 +0000 2016",
+      "id": 739629553849634800,
+      "id_str": "739629553849634824",
+      "text": "@abroadunderhood @omruruch Только сейчас понял, кто сегодня ведёт @abroadunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "omruruch",
+            "name": "Sofia",
+            "id": 539257589,
+            "id_str": "539257589",
+            "indices": [
+              17,
+              26
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              66,
+              82
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739628475020152800,
+      "in_reply_to_status_id_str": "739628475020152832",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 2782357399,
+        "id_str": "2782357399"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 01:39:40 +0000 2016",
+      "id": 739632820180668400,
+      "id_str": "739632820180668417",
+      "text": "@abroadunderhood Ахаха, удивил видом :) https://t.co/gvnyJBtpmt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 739632812618338300,
+            "id_str": "739632812618338305",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkO0H9RW0AEIQvt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkO0H9RW0AEIQvt.jpg",
+            "url": "https://t.co/gvnyJBtpmt",
+            "display_url": "pic.twitter.com/gvnyJBtpmt",
+            "expanded_url": "http://twitter.com/suxxes/status/739632820180668417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739632812618338300,
+            "id_str": "739632812618338305",
+            "indices": [
+              40,
+              63
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkO0H9RW0AEIQvt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkO0H9RW0AEIQvt.jpg",
+            "url": "https://t.co/gvnyJBtpmt",
+            "display_url": "pic.twitter.com/gvnyJBtpmt",
+            "expanded_url": "http://twitter.com/suxxes/status/739632820180668417/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739627382127132700,
+      "in_reply_to_status_id_str": "739627382127132672",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 14722814,
+        "id_str": "14722814"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 02:26:11 +0000 2016",
+      "id": 739644523681329200,
+      "id_str": "739644523681329153",
+      "text": "@abroadunderhood да и вообще куда-либо :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739643247690166300,
+      "in_reply_to_status_id_str": "739643247690166273",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 02:33:13 +0000 2016",
+      "id": 739646293916713000,
+      "id_str": "739646293916712962",
+      "text": "@abroadunderhood то есть можно ухать по студ визе и кодить с индусами в сыром подвале, получая зп мятыми двадцатками?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739645298050519000,
+      "in_reply_to_status_id_str": "739645298050519040",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 212989612,
+        "id_str": "212989612"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:03:21 +0000 2016",
+      "id": 739653877709033500,
+      "id_str": "739653877709033472",
+      "text": "В @abroadunderhood опытом переезда делится в основном народ из сферы IT. Я аж начинаю комплексовать со своими дипломами экономиста и юриста)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              2,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 287356039,
+        "id_str": "287356039"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:05:31 +0000 2016",
+      "id": 739654425728405500,
+      "id_str": "739654425728405504",
+      "text": "@abroadunderhood походу все шутки про работу гуманитариев в Макдональдсе - таки не шутки))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739653877709033500,
+      "in_reply_to_status_id_str": "739653877709033472",
+      "in_reply_to_user_id": 287356039,
+      "in_reply_to_user_id_str": "287356039",
+      "in_reply_to_screen_name": "dedigor_ua",
+      "user": {
+        "id": 287356039,
+        "id_str": "287356039"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:19:04 +0000 2016",
+      "id": 739657832803520500,
+      "id_str": "739657832803520512",
+      "text": "@abroadunderhood и обязательству отчитываться о доходах в США до конца дней своих.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739651775918137300,
+      "in_reply_to_status_id_str": "739651775918137346",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 8608182,
+        "id_str": "8608182"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "d56c5babcffde8ef",
+        "url": "https://api.twitter.com/1.1/geo/id/d56c5babcffde8ef.json",
+        "place_type": "city",
+        "name": "Stockholm",
+        "full_name": "Stockholm, Sverige",
+        "country_code": "SE",
+        "country": "Sverige",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                17.7601322,
+                59.2271383
+              ],
+              [
+                18.1999856,
+                59.2271383
+              ],
+              [
+                18.1999856,
+                59.4402037
+              ],
+              [
+                17.7601322,
+                59.4402037
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:38:06 +0000 2016",
+      "id": 739662622228893700,
+      "id_str": "739662622228893701",
+      "text": "@abroadunderhood c мест сообщают, что после поездки на W&amp;T сильно усложняется получение других виз.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739649022131064800,
+      "in_reply_to_status_id_str": "739649022131064832",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 8909172,
+        "id_str": "8909172"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:51:12 +0000 2016",
+      "id": 739665921250205700,
+      "id_str": "739665921250205696",
+      "text": "@jtraub @abroadunderhood у меня знакомый по W&amp;T 4 раза ездил(2008-11), и по туристической вернулся 2 недели назад из США(получал в 2015).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jtraub",
+            "name": "Kostya (18+)",
+            "id": 8909172,
+            "id_str": "8909172",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              8,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739664987090604000,
+      "in_reply_to_status_id_str": "739664987090604034",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 108082235,
+        "id_str": "108082235"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 03:58:06 +0000 2016",
+      "id": 739667658497531900,
+      "id_str": "739667658497531904",
+      "text": "@Yurban @abroadunderhood @jtraub 4 года между W&amp;T и получением тур.визы -норм. \"Недавно\"- это подаваться сразу после возвращения / через год",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Yurban",
+            "name": "Other side of Earth",
+            "id": 108082235,
+            "id_str": "108082235",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              8,
+              24
+            ]
+          },
+          {
+            "screen_name": "jtraub",
+            "name": "Kostya (18+)",
+            "id": 8909172,
+            "id_str": "8909172",
+            "indices": [
+              25,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739665921250205700,
+      "in_reply_to_status_id_str": "739665921250205696",
+      "in_reply_to_user_id": 108082235,
+      "in_reply_to_user_id_str": "108082235",
+      "in_reply_to_screen_name": "Yurban",
+      "user": {
+        "id": 329059426,
+        "id_str": "329059426"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:01:30 +0000 2016",
+      "id": 739668511992094700,
+      "id_str": "739668511992094721",
+      "text": "@abroadunderhood разжигать!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739668040049033200,
+      "in_reply_to_status_id_str": "739668040049033216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 539257589,
+        "id_str": "539257589"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3f5897b87d2bf56c",
+        "url": "https://api.twitter.com/1.1/geo/id/3f5897b87d2bf56c.json",
+        "place_type": "admin",
+        "name": "Delaware",
+        "full_name": "Delaware, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -75.7887564,
+                38.4510398
+              ],
+              [
+                -74.984165,
+                38.4510398
+              ],
+              [
+                -74.984165,
+                39.839007
+              ],
+              [
+                -75.7887564,
+                39.839007
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:01:32 +0000 2016",
+      "id": 739668521278447600,
+      "id_str": "739668521278447617",
+      "text": "@abroadunderhood бессмертное: https://t.co/t0IlE8TMv9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 739668511790751700,
+            "id_str": "739668511790751744",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkPUl7DUYAAWvYr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkPUl7DUYAAWvYr.jpg",
+            "url": "https://t.co/t0IlE8TMv9",
+            "display_url": "pic.twitter.com/t0IlE8TMv9",
+            "expanded_url": "http://twitter.com/lzcrc/status/739668521278447617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739668511790751700,
+            "id_str": "739668511790751744",
+            "indices": [
+              30,
+              53
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkPUl7DUYAAWvYr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkPUl7DUYAAWvYr.jpg",
+            "url": "https://t.co/t0IlE8TMv9",
+            "display_url": "pic.twitter.com/t0IlE8TMv9",
+            "expanded_url": "http://twitter.com/lzcrc/status/739668521278447617/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 367,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739668040049033200,
+      "in_reply_to_status_id_str": "739668040049033216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:04:10 +0000 2016",
+      "id": 739669182623547400,
+      "id_str": "739669182623547393",
+      "text": "@abroadunderhood справедливости ради замечу, что и экспаты так делают",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739667704148308000,
+      "in_reply_to_status_id_str": "739667704148307968",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 539257589,
+        "id_str": "539257589"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3f5897b87d2bf56c",
+        "url": "https://api.twitter.com/1.1/geo/id/3f5897b87d2bf56c.json",
+        "place_type": "admin",
+        "name": "Delaware",
+        "full_name": "Delaware, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -75.7887564,
+                38.4510398
+              ],
+              [
+                -74.984165,
+                38.4510398
+              ],
+              [
+                -74.984165,
+                39.839007
+              ],
+              [
+                -75.7887564,
+                39.839007
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:26:19 +0000 2016",
+      "id": 739674758455889900,
+      "id_str": "739674758455889920",
+      "text": "@abroadunderhood и грустят по далекой Родине)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739668040049033200,
+      "in_reply_to_status_id_str": "739668040049033216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 287356039,
+        "id_str": "287356039"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:31:36 +0000 2016",
+      "id": 739676088360697900,
+      "id_str": "739676088360697857",
+      "text": "@abroadunderhood https://t.co/NhMcrE3azl",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 739676082824220700,
+            "id_str": "739676082824220672",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkPbenWXEAARlnl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkPbenWXEAARlnl.jpg",
+            "url": "https://t.co/NhMcrE3azl",
+            "display_url": "pic.twitter.com/NhMcrE3azl",
+            "expanded_url": "http://twitter.com/lzcrc/status/739676088360697857/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 739676082824220700,
+            "id_str": "739676082824220672",
+            "indices": [
+              17,
+              40
+            ],
+            "media_url": "http://pbs.twimg.com/media/CkPbenWXEAARlnl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CkPbenWXEAARlnl.jpg",
+            "url": "https://t.co/NhMcrE3azl",
+            "display_url": "pic.twitter.com/NhMcrE3azl",
+            "expanded_url": "http://twitter.com/lzcrc/status/739676088360697857/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 639,
+                "h": 393,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739675478433386500,
+      "in_reply_to_status_id_str": "739675478433386496",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 06 04:32:13 +0000 2016",
+      "id": 739676241196929000,
+      "id_str": "739676241196929024",
+      "text": "@abroadunderhood стартап по доставке бывших",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739676088360697900,
+      "in_reply_to_status_id_str": "739676088360697857",
+      "in_reply_to_user_id": 93904017,
+      "in_reply_to_user_id_str": "93904017",
+      "in_reply_to_screen_name": "lzcrc",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:46:45 +0000 2016",
+      "id": 739679900034949100,
+      "id_str": "739679900034949121",
+      "text": "@abroadunderhood Весь Сакраменто состоит из таких чудаков. Даже английского не знают.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739668040049033200,
+      "in_reply_to_status_id_str": "739668040049033216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 213785019,
+        "id_str": "213785019"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:49:50 +0000 2016",
+      "id": 739680677596147700,
+      "id_str": "739680677596147713",
+      "text": "@abroadunderhood в смысле \"ни удалённо, где бы то ни было\"?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739607981231378400,
+      "in_reply_to_status_id_str": "739607981231378432",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 74059237,
+        "id_str": "74059237"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 04:53:33 +0000 2016",
+      "id": 739681610749083600,
+      "id_str": "739681610749083648",
+      "text": "@abroadunderhood @Sigiller а чем это обосновано? то есть, кому от этого выгода",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739681186847576000,
+      "in_reply_to_status_id_str": "739681186847576064",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:23:59 +0000 2016",
+      "id": 739689270319960000,
+      "id_str": "739689270319960064",
+      "text": "На этой неделе @abroadunderhood рассказывают про трудовую эмиграцию в Вашингтон, USA",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              15,
+              31
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 49032919,
+        "id_str": "49032919"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:47:31 +0000 2016",
+      "id": 739695193302175700,
+      "id_str": "739695193302175744",
+      "text": "@abroadunderhood @Sigiller То есть, по идее, работать можно, а деньги пусть шлют на карточку супруга?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              17,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739681186847576000,
+      "in_reply_to_status_id_str": "739681186847576064",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 156573985,
+        "id_str": "156573985"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:54:53 +0000 2016",
+      "id": 739697045120786400,
+      "id_str": "739697045120786437",
+      "text": "@abroadunderhood это из разряда \"Одна бабка сказала\".Моя знакомая 4 раза сдавала экзамен на гражданство.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739652008681046000,
+      "in_reply_to_status_id_str": "739652008681046016",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 198239339,
+        "id_str": "198239339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:55:56 +0000 2016",
+      "id": 739697309898833900,
+      "id_str": "739697309898833920",
+      "text": "@abroadunderhood кто-то ждет и меньше.В Майкрософте особо ценным сотрудникам сразу гринкарты начинают делать.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739654173529100300,
+      "in_reply_to_status_id_str": "739654173529100288",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 198239339,
+        "id_str": "198239339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:57:13 +0000 2016",
+      "id": 739697634135412700,
+      "id_str": "739697634135412736",
+      "text": "@abroadunderhood, мексиканская миграция «Эль визо» — как с L1, но без (и с мандаринами).",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739621318149079000,
+      "in_reply_to_status_id_str": "739621318149079041",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 13397152,
+        "id_str": "13397152"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:57:38 +0000 2016",
+      "id": 739697740221943800,
+      "id_str": "739697740221943808",
+      "text": "@abroadunderhood, алсо для маленьких fast&amp;dirty есть J1, она куда проще H1B :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739621318149079000,
+      "in_reply_to_status_id_str": "739621318149079041",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 13397152,
+        "id_str": "13397152"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 05:58:01 +0000 2016",
+      "id": 739697836070080500,
+      "id_str": "739697836070080513",
+      "text": "@abroadunderhood при студенческой визе можно работать 20 часов в неделю.Вполне хороший вариант для эмиграции.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739655485897445400,
+      "in_reply_to_status_id_str": "739655485897445376",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 198239339,
+        "id_str": "198239339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:07:55 +0000 2016",
+      "id": 739700327717457900,
+      "id_str": "739700327717457921",
+      "text": "@roxy_haart @abroadunderhood это бенефит для переезжающих",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "roxy_haart",
+            "name": "Oksana",
+            "id": 198239339,
+            "id_str": "198239339",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739697309898833900,
+      "in_reply_to_status_id_str": "739697309898833920",
+      "in_reply_to_user_id": 198239339,
+      "in_reply_to_user_id_str": "198239339",
+      "in_reply_to_screen_name": "roxy_haart",
+      "user": {
+        "id": 8608012,
+        "id_str": "8608012"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:08:59 +0000 2016",
+      "id": 739700593724268500,
+      "id_str": "739700593724268545",
+      "text": "@gimlis если бы :) Кому как повезет :) ну и от должности зависит :) @abroadunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gimlis",
+            "name": "Mikhail",
+            "id": 8608012,
+            "id_str": "8608012",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              68,
+              84
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739700327717457900,
+      "in_reply_to_status_id_str": "739700327717457921",
+      "in_reply_to_user_id": 8608012,
+      "in_reply_to_user_id_str": "8608012",
+      "in_reply_to_screen_name": "gimlis",
+      "user": {
+        "id": 198239339,
+        "id_str": "198239339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:10:15 +0000 2016",
+      "id": 739700913795915800,
+      "id_str": "739700913795915776",
+      "text": "@roxy_haart @abroadunderhood если MS делает h1b/l1, то входит",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "roxy_haart",
+            "name": "Oksana",
+            "id": 198239339,
+            "id_str": "198239339",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739700593724268500,
+      "in_reply_to_status_id_str": "739700593724268545",
+      "in_reply_to_user_id": 198239339,
+      "in_reply_to_user_id_str": "198239339",
+      "in_reply_to_screen_name": "roxy_haart",
+      "user": {
+        "id": 8608012,
+        "id_str": "8608012"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:16:51 +0000 2016",
+      "id": 739702574937452500,
+      "id_str": "739702574937452544",
+      "text": "@abroadunderhood иначе \"the foreign workers become a captive stable of cheap labor”? https://t.co/4SYnDhzzbJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4SYnDhzzbJ",
+            "expanded_url": "http://www.computerworld.com/article/3079224/it-careers/judge-sends-two-to-prison-for-7-years-for-h-1b-fraud.html",
+            "display_url": "computerworld.com/article/307922…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739631504624648200,
+      "in_reply_to_status_id_str": "739631504624648192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jun 06 06:18:36 +0000 2016",
+      "id": 739703016723521500,
+      "id_str": "739703016723521537",
+      "text": "@abroadunderhood а разве не работодатель переезд оплачивает?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739639214065778700,
+      "in_reply_to_status_id_str": "739639214065778688",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:26:27 +0000 2016",
+      "id": 739704991661891600,
+      "id_str": "739704991661891584",
+      "text": "@surkova @abroadunderhood почти как в Российским паспортом!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739657832803520500,
+      "in_reply_to_status_id_str": "739657832803520512",
+      "in_reply_to_user_id": 8608182,
+      "in_reply_to_user_id_str": "8608182",
+      "in_reply_to_screen_name": "surkova",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:29:33 +0000 2016",
+      "id": 739705772666413000,
+      "id_str": "739705772666413058",
+      "text": "@abroadunderhood можно заселиться на Брайтон Бич и мандеть на набережной круглые сутки",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739661152335089700,
+      "in_reply_to_status_id_str": "739661152335089664",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:30:37 +0000 2016",
+      "id": 739706038849568800,
+      "id_str": "739706038849568768",
+      "text": "@abroadunderhood @dedigor_ua я вообще врач-кардиолог. Читаю и плачу.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "dedigor_ua",
+            "name": "Igor",
+            "id": 287356039,
+            "id_str": "287356039",
+            "indices": [
+              17,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739654710857224200,
+      "in_reply_to_status_id_str": "739654710857224192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 2849849937,
+        "id_str": "2849849937"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:31:34 +0000 2016",
+      "id": 739706277576728600,
+      "id_str": "739706277576728576",
+      "text": "@abroadunderhood у чайна-таунов кстати отличная дешевая сеть автобусов по США.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739674152559206400,
+      "in_reply_to_status_id_str": "739674152559206401",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:31:45 +0000 2016",
+      "id": 739706325555351600,
+      "id_str": "739706325555351553",
+      "text": "@esumain @abroadunderhood врачам только это и остается делать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "esumain",
+            "name": "Руслан Ромальдович",
+            "id": 2849849937,
+            "id_str": "2849849937",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739706038849568800,
+      "in_reply_to_status_id_str": "739706038849568768",
+      "in_reply_to_user_id": 2849849937,
+      "in_reply_to_user_id_str": "2849849937",
+      "in_reply_to_screen_name": "esumain",
+      "user": {
+        "id": 1214506488,
+        "id_str": "1214506488"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:32:00 +0000 2016",
+      "id": 739706386855125000,
+      "id_str": "739706386855124992",
+      "text": "@abroadunderhood и еще куча малоизвестных перков которые позволяют порядочно сэкономить если про них знать",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739674152559206400,
+      "in_reply_to_status_id_str": "739674152559206401",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:33:33 +0000 2016",
+      "id": 739706775772012500,
+      "id_str": "739706775772012544",
+      "text": "@abroadunderhood @lzcrc @Sigiller стимулируют не только отнимать рабочие места, но еще и местных партнеров",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "lzcrc",
+            "name": "Alex Badarin",
+            "id": 93904017,
+            "id_str": "93904017",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739682182210289700,
+      "in_reply_to_status_id_str": "739682182210289670",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:34:32 +0000 2016",
+      "id": 739707026041933800,
+      "id_str": "739707026041933824",
+      "text": "@abroadunderhood @lzcrc @Sigiller А вобще в штатах же киндер-кюхен-кирхен по полной",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "lzcrc",
+            "name": "Alex Badarin",
+            "id": 93904017,
+            "id_str": "93904017",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739682182210289700,
+      "in_reply_to_status_id_str": "739682182210289670",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:36:55 +0000 2016",
+      "id": 739707625592500200,
+      "id_str": "739707625592500224",
+      "text": "@GoblinGame @abroadunderhood @Sigiller ну что уж вы так, не во всех же :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GoblinGame",
+            "name": "Inner Mongolia",
+            "id": 38142013,
+            "id_str": "38142013",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              29,
+              38
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739707026041933800,
+      "in_reply_to_status_id_str": "739707026041933824",
+      "in_reply_to_user_id": 38142013,
+      "in_reply_to_user_id_str": "38142013",
+      "in_reply_to_screen_name": "GoblinGame",
+      "user": {
+        "id": 93904017,
+        "id_str": "93904017"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:37:07 +0000 2016",
+      "id": 739707675261313000,
+      "id_str": "739707675261313024",
+      "text": "@abroadunderhood @0leGG @omruruch при определенных условиях уже можно - https://t.co/oeUff0Miiv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "0leGG",
+            "name": "Oleg Godovykh",
+            "id": 12462592,
+            "id_str": "12462592",
+            "indices": [
+              17,
+              23
+            ]
+          },
+          {
+            "screen_name": "omruruch",
+            "name": "Sofia",
+            "id": 539257589,
+            "id_str": "539257589",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/oeUff0Miiv",
+            "expanded_url": "https://www.uscis.gov/news/dhs-extends-eligibility-employment-authorization-certain-h-4-dependent-spouses-h-1b-nonimmigrants-seeking-employment-based-lawful-permanent-residence",
+            "display_url": "uscis.gov/news/dhs-exten…",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739607981231378400,
+      "in_reply_to_status_id_str": "739607981231378432",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 9028872,
+        "id_str": "9028872"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:39:53 +0000 2016",
+      "id": 739708369909452800,
+      "id_str": "739708369909452800",
+      "text": "@lzcrc @abroadunderhood @Sigiller да в общем-то во всех если на статистику посмотреть",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lzcrc",
+            "name": "Alex Badarin",
+            "id": 93904017,
+            "id_str": "93904017",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              7,
+              23
+            ]
+          },
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 739707625592500200,
+      "in_reply_to_status_id_str": "739707625592500224",
+      "in_reply_to_user_id": 93904017,
+      "in_reply_to_user_id_str": "93904017",
+      "in_reply_to_screen_name": "lzcrc",
+      "user": {
+        "id": 38142013,
+        "id_str": "38142013"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:41:58 +0000 2016",
+      "id": 739708895560671200,
+      "id_str": "739708895560671232",
+      "text": "@Sigiller @abroadunderhood если деньги переводят на российскую карточку, то можно (ибо IRS не знает), но валютный контроль в РФ м.б. против",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Sigiller",
+            "name": "S̳ị̴͙̣̞g̜͞i̴̥̯l͕ler",
+            "id": 74059237,
+            "id_str": "74059237",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739680677596147700,
+      "in_reply_to_status_id_str": "739680677596147713",
+      "in_reply_to_user_id": 74059237,
+      "in_reply_to_user_id_str": "74059237",
+      "in_reply_to_screen_name": "Sigiller",
+      "user": {
+        "id": 21035874,
+        "id_str": "21035874"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 06:59:44 +0000 2016",
+      "id": 739713364918718500,
+      "id_str": "739713364918718464",
+      "text": "@abroadunderhood а хватает \"на откладывать\"?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739661770499985400,
+      "in_reply_to_status_id_str": "739661770499985408",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 520759404,
+        "id_str": "520759404"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:04:38 +0000 2016",
+      "id": 739714600942342100,
+      "id_str": "739714600942342144",
+      "text": "@GoblinGame @surkova @abroadunderhood российский и американский паспорт это супер комбо почти весь мир без границ🌎",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GoblinGame",
+            "name": "Inner Mongolia",
+            "id": 38142013,
+            "id_str": "38142013",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              12,
+              20
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              21,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739704991661891600,
+      "in_reply_to_status_id_str": "739704991661891584",
+      "in_reply_to_user_id": 38142013,
+      "in_reply_to_user_id_str": "38142013",
+      "in_reply_to_screen_name": "GoblinGame",
+      "user": {
+        "id": 173874609,
+        "id_str": "173874609"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:05:23 +0000 2016",
+      "id": 739714790516482000,
+      "id_str": "739714790516482048",
+      "text": "@abroadunderhood @dedigor_ua а я тут собрался в it контору по H1B c дипломом master of marketing :) Так что не комплексуй Игорь)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "dedigor_ua",
+            "name": "Igor",
+            "id": 287356039,
+            "id_str": "287356039",
+            "indices": [
+              17,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 739654710857224200,
+      "in_reply_to_status_id_str": "739654710857224192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 1536861326,
+        "id_str": "1536861326"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:06:10 +0000 2016",
+      "id": 739714985115439100,
+      "id_str": "739714985115439104",
+      "text": "@abroadunderhood а как проходит проверка опыта для Н1В? При условии что есть высшее?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 739654173529100300,
+      "in_reply_to_status_id_str": "739654173529100288",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 1536861326,
+        "id_str": "1536861326"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:13:07 +0000 2016",
+      "id": 739716735830478800,
+      "id_str": "739716735830478848",
+      "text": "@abroadunderhood да, это опасно ггг",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 739621655245262800,
+      "in_reply_to_status_id_str": "739621655245262848",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 14384501,
+        "id_str": "14384501"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2c178ccb7bb73852",
+        "url": "https://api.twitter.com/1.1/geo/id/2c178ccb7bb73852.json",
+        "place_type": "neighborhood",
+        "name": "Prenzlauer Berg",
+        "full_name": "Prenzlauer Berg, Berlin",
+        "country_code": "DE",
+        "country": "Deutschland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                13.39672,
+                52.5199389
+              ],
+              [
+                13.472289,
+                52.5199389
+              ],
+              [
+                13.472289,
+                52.558254
+              ],
+              [
+                13.39672,
+                52.558254
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:15:59 +0000 2016",
+      "id": 739717457103970300,
+      "id_str": "739717457103970305",
+      "text": "@surkova @abroadunderhood только отчитываться или ещё и доплачивать налоги?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "surkova",
+            "name": "Vera Olsson",
+            "id": 8608182,
+            "id_str": "8608182",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              9,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739657832803520500,
+      "in_reply_to_status_id_str": "739657832803520512",
+      "in_reply_to_user_id": 8608182,
+      "in_reply_to_user_id_str": "8608182",
+      "in_reply_to_screen_name": "surkova",
+      "user": {
+        "id": 215559242,
+        "id_str": "215559242"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:30:09 +0000 2016",
+      "id": 739721021285126100,
+      "id_str": "739721021285126144",
+      "text": "@abroadunderhood а если у одного из супругов гринка то может ли второй поехать и работать?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 739624376824254500,
+      "in_reply_to_status_id_str": "739624376824254464",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 520759404,
+        "id_str": "520759404"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 07:54:09 +0000 2016",
+      "id": 739727062215327700,
+      "id_str": "739727062215327744",
+      "text": "@abroadunderhood Как так вышло, что бакалавр потянул на магистра? Перевод корочки или всей дипломной работы? Как они его оценивали то?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 739613820130201600,
+      "in_reply_to_status_id_str": "739613820130201600",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 714347924063436800,
+        "id_str": "714347924063436800"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:08:50 +0000 2016",
+      "id": 739730754440167400,
+      "id_str": "739730754440167424",
+      "text": "@abroadunderhood а через год надо лететь в Россию продлять?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739619279037816800,
+      "in_reply_to_status_id_str": "739619279037816833",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 10533432,
+        "id_str": "10533432"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "341052b72a294f4b",
+        "url": "https://api.twitter.com/1.1/geo/id/341052b72a294f4b.json",
+        "place_type": "city",
+        "name": "Lublin",
+        "full_name": "Lublin, Polska",
+        "country_code": "PL",
+        "country": "Polska",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.453445,
+                51.1394924
+              ],
+              [
+                22.673515,
+                51.1394924
+              ],
+              [
+                22.673515,
+                51.29656
+              ],
+              [
+                22.453445,
+                51.29656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:11:03 +0000 2016",
+      "id": 739731312752361500,
+      "id_str": "739731312752361472",
+      "text": "@abroadunderhood вы очень интересно рассказываете! Зачиталась😊",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739626179729072100,
+      "in_reply_to_status_id_str": "739626179729072128",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 10533432,
+        "id_str": "10533432"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "341052b72a294f4b",
+        "url": "https://api.twitter.com/1.1/geo/id/341052b72a294f4b.json",
+        "place_type": "city",
+        "name": "Lublin",
+        "full_name": "Lublin, Polska",
+        "country_code": "PL",
+        "country": "Polska",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                22.453445,
+                51.1394924
+              ],
+              [
+                22.673515,
+                51.1394924
+              ],
+              [
+                22.673515,
+                51.29656
+              ],
+              [
+                22.453445,
+                51.29656
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 06 08:17:02 +0000 2016",
+      "id": 739732819941961700,
+      "id_str": "739732819941961728",
+      "text": "@abroadunderhood like 😉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 739626179729072100,
+      "in_reply_to_status_id_str": "739626179729072128",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 157762931,
+        "id_str": "157762931"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2edb6e240797c549",
+        "url": "https://api.twitter.com/1.1/geo/id/2edb6e240797c549.json",
+        "place_type": "country",
+        "name": "ישראל",
+        "full_name": "ישראל",
+        "country_code": "IL",
+        "country": "ישראל",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                34.266924,
+                29.393973
+              ],
+              [
+                35.669933,
+                29.393973
+              ],
+              [
+                35.669933,
+                33.290533
+              ],
+              [
+                34.266924,
+                33.290533
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Jun 06 08:36:04 +0000 2016",
+      "id": 739737607895023600,
+      "id_str": "739737607895023616",
+      "text": "@gimlis я имею ввиду то,что кому-то сразу начинают гринкарты оформлять, а кому-то спустя энное количество времени @abroadunderhood",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gimlis",
+            "name": "Mikhail",
+            "id": 8608012,
+            "id_str": "8608012",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              114,
+              130
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 739700913795915800,
+      "in_reply_to_status_id_str": "739700913795915776",
+      "in_reply_to_user_id": 8608012,
+      "in_reply_to_user_id_str": "8608012",
+      "in_reply_to_screen_name": "gimlis",
+      "user": {
+        "id": 198239339,
+        "id_str": "198239339"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
