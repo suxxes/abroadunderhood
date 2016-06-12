@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 2721,
+  "followers_count": 2731,
   "friends_count": 0,
   "listed_count": 101,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 475,
+  "favourites_count": 483,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 17747,
+  "statuses_count": 17927,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 11 16:02:56 +0000 2016",
-    "id": 741662006068060200,
-    "id_str": "741662006068060160",
-    "text": "RT @Arwy: Он вам со всем поможет: со страховкой, планированием налогов, планированием estate, investment accounts, mortgages. // @abroadund…",
+    "created_at": "Sun Jun 12 20:40:44 +0000 2016",
+    "id": 742094305267978200,
+    "id_str": "742094305267978240",
+    "text": "RT @badgercat: @abroadunderhood ахаха. Спасибо за неделю, было классно :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Arwy",
-          "name": "Anna Borzilo",
-          "id": 12608112,
-          "id_str": "12608112",
+          "screen_name": "badgercat",
+          "name": "That's you!",
+          "id": 19856378,
+          "id_str": "19856378",
           "indices": [
             3,
-            8
+            13
           ]
         },
         {
@@ -63,8 +63,8 @@
           "id": 3955812173,
           "id_str": "3955812173",
           "indices": [
-            129,
-            140
+            15,
+            31
           ]
         }
       ],
@@ -80,13 +80,13 @@
     "coordinates": null,
     "place": null,
     "contributors": [
-      539257589
+      12462592
     ],
     "retweeted_status": {
-      "created_at": "Sat Jun 11 15:36:49 +0000 2016",
-      "id": 741655434285584400,
-      "id_str": "741655434285584384",
-      "text": "Он вам со всем поможет: со страховкой, планированием налогов, планированием estate, investment accounts, mortgages. // @abroadunderhood",
+      "created_at": "Sun Jun 12 20:40:29 +0000 2016",
+      "id": 742094240994459600,
+      "id_str": "742094240994459650",
+      "text": "@abroadunderhood ахаха. Спасибо за неделю, было классно :)",
       "truncated": false,
       "entities": {
         "hashtags": [],
@@ -98,34 +98,34 @@
             "id": 3955812173,
             "id_str": "3955812173",
             "indices": [
-              119,
-              135
+              0,
+              16
             ]
           }
         ],
         "urls": []
       },
-      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-      "in_reply_to_status_id": null,
-      "in_reply_to_status_id_str": null,
-      "in_reply_to_user_id": null,
-      "in_reply_to_user_id_str": null,
-      "in_reply_to_screen_name": null,
+      "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+      "in_reply_to_status_id": 742089361634799600,
+      "in_reply_to_status_id_str": "742089361634799616",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
       "geo": null,
       "coordinates": null,
       "place": null,
       "contributors": null,
       "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 4,
-      "favorited": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": true,
       "retweeted": true,
       "lang": "ru"
     },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 2,
     "favorite_count": 0,
-    "favorited": false,
+    "favorited": true,
     "retweeted": true,
     "lang": "ru"
   },
