@@ -1,6 +1,7 @@
 export default [
   // post: false
-  { username: 'nashulmans', start: '13 Jun 2016', first: '742128889082875904', post: false },
+  // { username: 'krysyonysh', start: '20 Jun 2016', first: '', post: false },
+  { username: 'nashulmans', start: '13 Jun 2016', first: '742128889082875904' },
   { username: 'omruruch', start: '06 Jun 2016', first: '739601418219364356' },
   { username: 'b0noi', start: '30 May 2016', first: '737267398386950144' },
   { username: 'francereports', start: '23 May 2016', first: '734495917848596486' },
