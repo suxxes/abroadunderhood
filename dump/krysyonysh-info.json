@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 2745,
+  "followers_count": 2753,
   "friends_count": 0,
-  "listed_count": 103,
+  "listed_count": 104,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 483,
+  "favourites_count": 502,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 18155,
+  "statuses_count": 18367,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jun 20 06:58:19 +0000 2016",
-    "id": 744786438852481000,
-    "id_str": "744786438852481024",
-    "text": "Про случаи, когда человек вот прямо из России с нуля нашёл работу в CH, пишут в Интернете, но лично таких людей я не знаю.",
+    "created_at": "Tue Jun 21 19:58:43 +0000 2016",
+    "id": 745345220393443300,
+    "id_str": "745345220393443328",
+    "text": "Все по страховой https://t.co/NvUdVG20MH",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/NvUdVG20MH",
+          "expanded_url": "https://twitter.com/YraSunrise/status/745344981343297536",
+          "display_url": "twitter.com/YraSunrise/sta…",
+          "indices": [
+            17,
+            40
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -61,11 +71,14 @@
     "contributors": [
       148048570
     ],
-    "is_quote_status": false,
+    "quoted_status_id": 745344981343297500,
+    "quoted_status_id_str": "745344981343297536",
+    "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
