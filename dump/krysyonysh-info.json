@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 2753,
+  "followers_count": 2755,
   "friends_count": 0,
   "listed_count": 104,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 502,
+  "favourites_count": 508,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 18367,
+  "statuses_count": 18502,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jun 21 19:58:43 +0000 2016",
-    "id": 745345220393443300,
-    "id_str": "745345220393443328",
-    "text": "Все по страховой https://t.co/NvUdVG20MH",
+    "created_at": "Fri Jun 24 08:33:15 +0000 2016",
+    "id": 746259883201290200,
+    "id_str": "746259883201290244",
+    "text": "Наркотики не легализованы, цифры по алкоголю здесь: https://t.co/82MAitFPcq https://t.co/ihIhqImik2",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -49,12 +49,21 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/NvUdVG20MH",
-          "expanded_url": "https://twitter.com/YraSunrise/status/745344981343297536",
-          "display_url": "twitter.com/YraSunrise/sta…",
+          "url": "https://t.co/82MAitFPcq",
+          "expanded_url": "https://www.eav.admin.ch/eav/de/eidgenoessische_alkoholverwaltung/themen/steuersaetze.html",
+          "display_url": "eav.admin.ch/eav/de/eidgeno…",
           "indices": [
-            17,
-            40
+            52,
+            75
+          ]
+        },
+        {
+          "url": "https://t.co/ihIhqImik2",
+          "expanded_url": "https://twitter.com/FancyWriter/status/746253402301173760",
+          "display_url": "twitter.com/FancyWriter/st…",
+          "indices": [
+            76,
+            99
           ]
         }
       ]
@@ -71,8 +80,8 @@
     "contributors": [
       148048570
     ],
-    "quoted_status_id": 745344981343297500,
-    "quoted_status_id_str": "745344981343297536",
+    "quoted_status_id": 746253402301173800,
+    "quoted_status_id_str": "746253402301173760",
     "is_quote_status": true,
     "retweet_count": 0,
     "favorite_count": 0,
