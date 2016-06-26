@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 2757,
+  "followers_count": 2766,
   "friends_count": 0,
   "listed_count": 104,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 517,
+  "favourites_count": 526,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 18675,
+  "statuses_count": 18681,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Jun 26 10:40:20 +0000 2016",
-    "id": 747016641230307300,
-    "id_str": "747016641230307328",
-    "text": "Из зеленой варят суп. Но я как-то уже отвыкла есть гречку :) https://t.co/R6lyDwIpIk",
+    "created_at": "Sun Jun 26 19:48:09 +0000 2016",
+    "id": 747154502449500200,
+    "id_str": "747154502449500162",
+    "text": "Всем пока, большое спасибо за интерактив! Надеюсь, узнали что-то полезное/интересное. https://t.co/rXCKmE53hO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/R6lyDwIpIk",
-          "expanded_url": "https://twitter.com/Hysterieanfall/status/747014599665422336",
-          "display_url": "twitter.com/Hysterieanfall…",
+          "id": 747154495465984000,
+          "id_str": "747154495465984000",
           "indices": [
-            61,
-            84
-          ]
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cl5tDhaWEAAav3w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cl5tDhaWEAAav3w.jpg",
+          "url": "https://t.co/rXCKmE53hO",
+          "display_url": "pic.twitter.com/rXCKmE53hO",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/747154502449500162/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1005,
+              "h": 330,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1005,
+              "h": 330,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 223,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 747154495465984000,
+          "id_str": "747154495465984000",
+          "indices": [
+            86,
+            109
+          ],
+          "media_url": "http://pbs.twimg.com/media/Cl5tDhaWEAAav3w.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Cl5tDhaWEAAav3w.jpg",
+          "url": "https://t.co/rXCKmE53hO",
+          "display_url": "pic.twitter.com/rXCKmE53hO",
+          "expanded_url": "http://twitter.com/abroadunderhood/status/747154502449500162/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1005,
+              "h": 330,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1005,
+              "h": 330,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 223,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -71,11 +139,9 @@
     "contributors": [
       148048570
     ],
-    "quoted_status_id": 747014599665422300,
-    "quoted_status_id_str": "747014599665422336",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 10,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
