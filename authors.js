@@ -1,6 +1,6 @@
 export default [
   // post: false
-  // { username: '_vpol_', start: '27 Jun 2016', first: '', post: false },
+  { username: '_vpol_', start: '27 Jun 2016', first: '747339715477573633', post: false },
   { username: 'krysyonysh', start: '20 Jun 2016', first: '744752303173959680' },
   { username: 'nashulmans', start: '13 Jun 2016', first: '742128889082875904' },
   { username: 'omruruch', start: '06 Jun 2016', first: '739601418219364356' },
