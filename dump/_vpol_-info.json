@@ -41,34 +41,24 @@
   "friends_count": 0,
   "listed_count": 104,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 530,
+  "favourites_count": 533,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 18841,
+  "statuses_count": 18863,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jun 29 16:13:28 +0000 2016",
-    "id": 748187637484232700,
-    "id_str": "748187637484232704",
-    "text": "Просто два года с дождем не каждый день, а через день. Успели потренироваться. https://t.co/lilhJRiH4D",
+    "created_at": "Thu Jun 30 12:09:32 +0000 2016",
+    "id": 748488637176754200,
+    "id_str": "748488637176754176",
+    "text": "Банка кока-колы в corner-shop может стоить 1.2£. Не ведитесь. В Tesco 12 банок 3.40£.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/lilhJRiH4D",
-          "expanded_url": "https://twitter.com/GruZZ/status/748182993622212608",
-          "display_url": "twitter.com/GruZZ/status/7…",
-          "indices": [
-            79,
-            102
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -82,14 +72,11 @@
     "contributors": [
       4252460704
     ],
-    "quoted_status_id": 748182993622212600,
-    "quoted_status_id_str": "748182993622212608",
-    "is_quote_status": true,
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
