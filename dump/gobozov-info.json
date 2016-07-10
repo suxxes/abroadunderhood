@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 2882,
+  "followers_count": 2886,
   "friends_count": 0,
   "listed_count": 108,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,26 +46,37 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 19399,
+  "statuses_count": 19408,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Jul 10 03:22:42 +0000 2016",
-    "id": 751979937939075100,
-    "id_str": "751979937939075073",
-    "text": "Опять требуется подтверждение адреса, которое, возможно, будет сложно сразу получить. Я до сих пор хожу с загран паспортом,пока без проблем.",
+    "created_at": "Sun Jul 10 09:20:34 +0000 2016",
+    "id": 752069994289066000,
+    "id_str": "752069994289065985",
+    "text": "@tant_mielz удачной поездки!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "tant_mielz",
+          "name": "Tanya",
+          "id": 154861094,
+          "id_str": "154861094",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 752069798197137400,
+    "in_reply_to_status_id_str": "752069798197137408",
+    "in_reply_to_user_id": 154861094,
+    "in_reply_to_user_id_str": "154861094",
+    "in_reply_to_screen_name": "tant_mielz",
     "geo": null,
     "coordinates": null,
     "place": null,
