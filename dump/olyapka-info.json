@@ -37,124 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 3246,
+  "followers_count": 3240,
   "friends_count": 0,
   "listed_count": 110,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 600,
+  "favourites_count": 611,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 21908,
+  "statuses_count": 22125,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jul 27 15:56:51 +0000 2016",
-    "id": 758330317287657500,
-    "id_str": "758330317287657472",
-    "text": "@VD_1979 уже да, но притащили с улицы) вообще их две)) https://t.co/1vaB5pyjYX",
+    "created_at": "Thu Jul 28 12:25:58 +0000 2016",
+    "id": 758639636344348700,
+    "id_str": "758639636344348672",
+    "text": "@badgercat Женя в понедельник тут целую телегу написал! Я в этом ничего не понимаю))) @eakukin",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "VD_1979",
-          "name": "Не той",
-          "id": 2190434709,
-          "id_str": "2190434709",
+          "screen_name": "badgercat",
+          "name": "That's you!",
+          "id": 19856378,
+          "id_str": "19856378",
           "indices": [
             0,
-            8
+            10
+          ]
+        },
+        {
+          "screen_name": "eakukin",
+          "name": "eakukin",
+          "id": 10866212,
+          "id_str": "10866212",
+          "indices": [
+            86,
+            94
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 758330311495258100,
-          "id_str": "758330311495258113",
-          "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/CoYhZocWEAE8or4.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CoYhZocWEAE8or4.jpg",
-          "url": "https://t.co/1vaB5pyjYX",
-          "display_url": "pic.twitter.com/1vaB5pyjYX",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/758330317287657472/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1600,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 758330311495258100,
-          "id_str": "758330311495258113",
-          "indices": [
-            55,
-            78
-          ],
-          "media_url": "http://pbs.twimg.com/media/CoYhZocWEAE8or4.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CoYhZocWEAE8or4.jpg",
-          "url": "https://t.co/1vaB5pyjYX",
-          "display_url": "pic.twitter.com/1vaB5pyjYX",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/758330317287657472/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1600,
-              "h": 1200,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
-    "in_reply_to_status_id": 758330142397726700,
-    "in_reply_to_status_id_str": "758330142397726720",
-    "in_reply_to_user_id": 2190434709,
-    "in_reply_to_user_id_str": "2190434709",
-    "in_reply_to_screen_name": "VD_1979",
+    "in_reply_to_status_id": 758638706689511400,
+    "in_reply_to_status_id_str": "758638706689511424",
+    "in_reply_to_user_id": 19856378,
+    "in_reply_to_user_id_str": "19856378",
+    "in_reply_to_screen_name": "badgercat",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -164,7 +96,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
