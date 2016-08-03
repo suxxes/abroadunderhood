@@ -1,4 +1,6 @@
-export default [
+import authorId from './helpers/author-id';
+
+export default authorId([
   // post: false
   { username: 'quince_simbolos', start: '1 Aug 2016', first: '759925996191621120', post: false },
   { username: 'olyapka', start: '25 Jul 2016', first: '757310142195130370' },
@@ -37,4 +39,4 @@ export default [
   { username: 'swither', start: '07 Dec 2015', first: '673792948782235648' },
   { username: 'damirca', start: '30 Nov 2015', first: '671225043679080448' },
   { username: 'ido_q', start: '23 Nov 2015', first: '668525310783045632' },
-];
+]);

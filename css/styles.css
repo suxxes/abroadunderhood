@@ -25,6 +25,10 @@ body {
   white-space: nowrap;
 }
 
+.nowrap {
+  white-space: nowrap;
+}
+
 th { cursor: pointer; color: rgb(51,122,183); }
 th span {  border-bottom: 1px dotted rgb(119,179,218); }
 th.no-sort { cursor: default; }
