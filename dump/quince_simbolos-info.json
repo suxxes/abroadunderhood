@@ -37,104 +37,36 @@
     }
   },
   "protected": false,
-  "followers_count": 3598,
+  "followers_count": 3588,
   "friends_count": 0,
-  "listed_count": 113,
+  "listed_count": 112,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 600,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 23444,
+  "statuses_count": 23530,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Aug 05 14:22:53 +0000 2016",
-    "id": 761568161225404400,
-    "id_str": "761568161225404416",
-    "text": "Кроме старого города есть базилика voto nacional - самая большая в латиносии. На все башенки можно забраться https://t.co/V4Bm0O7n6z",
+    "created_at": "Sat Aug 06 05:18:47 +0000 2016",
+    "id": 761793621775552500,
+    "id_str": "761793621775552512",
+    "text": "Я уже думал о том, насколько законно это в России) https://t.co/SluiLHG7ug",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 761567951413739500,
-          "id_str": "761567951413739525",
+          "url": "https://t.co/SluiLHG7ug",
+          "expanded_url": "https://twitter.com/saffil6403/status/761793442963922944",
+          "display_url": "twitter.com/saffil6403/sta…",
           "indices": [
-            109,
-            132
-          ],
-          "media_url": "http://pbs.twimg.com/media/CpGiBFBWgAUpniJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CpGiBFBWgAUpniJ.jpg",
-          "url": "https://t.co/V4Bm0O7n6z",
-          "display_url": "pic.twitter.com/V4Bm0O7n6z",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/761568161225404416/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 761567951413739500,
-          "id_str": "761567951413739525",
-          "indices": [
-            109,
-            132
-          ],
-          "media_url": "http://pbs.twimg.com/media/CpGiBFBWgAUpniJ.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CpGiBFBWgAUpniJ.jpg",
-          "url": "https://t.co/V4Bm0O7n6z",
-          "display_url": "pic.twitter.com/V4Bm0O7n6z",
-          "expanded_url": "http://twitter.com/abroadunderhood/status/761568161225404416/photo/1",
-          "type": "photo",
-          "sizes": {
-            "large": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 800,
-              "h": 600,
-              "resize": "fit"
-            }
-          }
+            51,
+            74
+          ]
         }
       ]
     },
@@ -150,7 +82,9 @@
     "contributors": [
       1040187932
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 761793442963923000,
+    "quoted_status_id_str": "761793442963922944",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
