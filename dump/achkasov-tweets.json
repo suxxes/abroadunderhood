@@ -47809,6 +47809,5707 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 11:27:06 +0000 2016",
+      "id": 764785415425589200,
+      "id_str": "764785415425589248",
+      "text": "RT @Quantum_Ornith: @abroadunderhood @achkasov видел в центре Гааги дерево с сотней александрийских попугаев орущих поутру, дайте видео)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Quantum_Ornith",
+            "name": "Квантовый Орнитолог",
+            "id": 2848372460,
+            "id_str": "2848372460",
+            "indices": [
+              3,
+              18
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              20,
+              36
+            ]
+          },
+          {
+            "screen_name": "achkasov",
+            "name": "мамкин сибиряк",
+            "id": 105991888,
+            "id_str": "105991888",
+            "indices": [
+              37,
+              46
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "retweeted_status": {
+        "created_at": "Sun Aug 14 11:22:58 +0000 2016",
+        "id": 764784375196160000,
+        "id_str": "764784375196160000",
+        "text": "@abroadunderhood @achkasov видел в центре Гааги дерево с сотней александрийских попугаев орущих поутру, дайте видео)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "achkasov",
+              "name": "мамкин сибиряк",
+              "id": 105991888,
+              "id_str": "105991888",
+              "indices": [
+                17,
+                26
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764783651112439800,
+        "in_reply_to_status_id_str": "764783651112439808",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2848372460,
+          "id_str": "2848372460"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 11:28:04 +0000 2016",
+      "id": 764785658820952000,
+      "id_str": "764785658820952064",
+      "text": ". @Quantum_Ornith У меня нет видео, но в Брюсселе летает очень много диких зелёных попугаев. https://t.co/IzH7i4C6mf",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Quantum_Ornith",
+            "name": "Квантовый Орнитолог",
+            "id": 2848372460,
+            "id_str": "2848372460",
+            "indices": [
+              2,
+              17
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 764785618308239400,
+            "id_str": "764785618308239362",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Qd8SXEAIDTCz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Qd8SXEAIDTCz.jpg",
+            "url": "https://t.co/IzH7i4C6mf",
+            "display_url": "pic.twitter.com/IzH7i4C6mf",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764785658820952064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 803,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764785618308239400,
+            "id_str": "764785618308239362",
+            "indices": [
+              93,
+              116
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Qd8SXEAIDTCz.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Qd8SXEAIDTCz.jpg",
+            "url": "https://t.co/IzH7i4C6mf",
+            "display_url": "pic.twitter.com/IzH7i4C6mf",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764785658820952064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 803,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 455,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1371,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764784375196160000,
+      "in_reply_to_status_id_str": "764784375196160000",
+      "in_reply_to_user_id": 2848372460,
+      "in_reply_to_user_id_str": "2848372460",
+      "in_reply_to_screen_name": "Quantum_Ornith",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 11:40:07 +0000 2016",
+      "id": 764788690883182600,
+      "id_str": "764788690883182592",
+      "text": "В Брюсселе есть классный музей трамваев. Там же экскурсия на старом трамвае (без стен!) с контролёром той эпохи. https://t.co/VJIWdbL5OX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764772835038462000,
+            "id_str": "764772835038461953",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0E125WAAEOULQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0E125WAAEOULQ.jpg",
+            "url": "https://t.co/VJIWdbL5OX",
+            "display_url": "pic.twitter.com/VJIWdbL5OX",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764788690883182592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1224,
+                "h": 918,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764772835038462000,
+            "id_str": "764772835038461953",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0E125WAAEOULQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0E125WAAEOULQ.jpg",
+            "url": "https://t.co/VJIWdbL5OX",
+            "display_url": "pic.twitter.com/VJIWdbL5OX",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764788690883182592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1224,
+                "h": 918,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 11:41:03 +0000 2016",
+      "id": 764788925411921900,
+      "id_str": "764788925411921921",
+      "text": "Аутентичный экскурсионный трамвай. https://t.co/tjx8a5jad4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764773796435877900,
+            "id_str": "764773796435877889",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Ft0YWYAEYWNm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Ft0YWYAEYWNm.jpg",
+            "url": "https://t.co/tjx8a5jad4",
+            "display_url": "pic.twitter.com/tjx8a5jad4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764788925411921921/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 918,
+                "h": 1224,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764773796435877900,
+            "id_str": "764773796435877889",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Ft0YWYAEYWNm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Ft0YWYAEYWNm.jpg",
+            "url": "https://t.co/tjx8a5jad4",
+            "display_url": "pic.twitter.com/tjx8a5jad4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764788925411921921/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 918,
+                "h": 1224,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:00:46 +0000 2016",
+      "id": 764793886241763300,
+      "id_str": "764793886241763328",
+      "text": "Есть отличный музей военной истории, с самолётами и артиллерией. https://t.co/3c40sSwrJo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764773609835495400,
+            "id_str": "764773609835495424",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Fi9PWgAAP0f1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Fi9PWgAAP0f1.jpg",
+            "url": "https://t.co/3c40sSwrJo",
+            "display_url": "pic.twitter.com/3c40sSwrJo",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764793886241763328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764773609835495400,
+            "id_str": "764773609835495424",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Fi9PWgAAP0f1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Fi9PWgAAP0f1.jpg",
+            "url": "https://t.co/3c40sSwrJo",
+            "display_url": "pic.twitter.com/3c40sSwrJo",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764793886241763328/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:01:09 +0000 2016",
+      "id": 764793984648486900,
+      "id_str": "764793984648486912",
+      "text": "Знак \"не курить\" в музее военной истории. У бельгийцев порой очень своеобразный юмор :) https://t.co/bEeCOK2AQu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764774211378356200,
+            "id_str": "764774211378356224",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0GF-KWIAAkFuQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0GF-KWIAAkFuQ.jpg",
+            "url": "https://t.co/bEeCOK2AQu",
+            "display_url": "pic.twitter.com/bEeCOK2AQu",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764793984648486912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764774211378356200,
+            "id_str": "764774211378356224",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0GF-KWIAAkFuQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0GF-KWIAAkFuQ.jpg",
+            "url": "https://t.co/bEeCOK2AQu",
+            "display_url": "pic.twitter.com/bEeCOK2AQu",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764793984648486912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:20:09 +0000 2016",
+      "id": 764798763172888600,
+      "id_str": "764798763172888576",
+      "text": "Все зоопарки Бельгии — контактные. https://t.co/at0KKaJppG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764774717614067700,
+            "id_str": "764774717614067712",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0GjcCWEAAPru9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0GjcCWEAAPru9.jpg",
+            "url": "https://t.co/at0KKaJppG",
+            "display_url": "pic.twitter.com/at0KKaJppG",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764798763172888576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764774717614067700,
+            "id_str": "764774717614067712",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0GjcCWEAAPru9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0GjcCWEAAPru9.jpg",
+            "url": "https://t.co/at0KKaJppG",
+            "display_url": "pic.twitter.com/at0KKaJppG",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764798763172888576/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:39:33 +0000 2016",
+      "id": 764803645942759400,
+      "id_str": "764803645942759424",
+      "text": ". @mpak999 Хищники само собой ограждены от посетителей. Обычно естественными преградами (зоопарк Pairi Daiza). https://t.co/3H0Y5UnAcp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mpak999",
+            "name": "MpaK",
+            "id": 18864603,
+            "id_str": "18864603",
+            "indices": [
+              2,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 764803334859526100,
+            "id_str": "764803334859526146",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0glLlWEAIGb9e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0glLlWEAIGb9e.jpg",
+            "url": "https://t.co/3H0Y5UnAcp",
+            "display_url": "pic.twitter.com/3H0Y5UnAcp",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764803645942759424/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 533,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 533,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764803334859526100,
+            "id_str": "764803334859526146",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0glLlWEAIGb9e.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0glLlWEAIGb9e.jpg",
+            "url": "https://t.co/3H0Y5UnAcp",
+            "display_url": "pic.twitter.com/3H0Y5UnAcp",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764803645942759424/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 800,
+                "h": 533,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 800,
+                "h": 533,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 764803379910565900,
+            "id_str": "764803379910565888",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0gnzaWYAAk8hG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0gnzaWYAAk8hG.jpg",
+            "url": "https://t.co/3H0Y5UnAcp",
+            "display_url": "pic.twitter.com/3H0Y5UnAcp",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764803645942759424/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764798986804789200,
+      "in_reply_to_status_id_str": "764798986804789248",
+      "in_reply_to_user_id": 18864603,
+      "in_reply_to_user_id_str": "18864603",
+      "in_reply_to_screen_name": "mpak999",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:40:12 +0000 2016",
+      "id": 764803812271861800,
+      "id_str": "764803812271861760",
+      "text": "Зал ожидания в аэропорту Брюсселя стоит знаменитая рокета Эрже (из комикса Тинтин) https://t.co/3L8FWxe1sh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764775928329273300,
+            "id_str": "764775928329273344",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Hp6TWAAAtdWM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Hp6TWAAAtdWM.jpg",
+            "url": "https://t.co/3L8FWxe1sh",
+            "display_url": "pic.twitter.com/3L8FWxe1sh",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764803812271861760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764775928329273300,
+            "id_str": "764775928329273344",
+            "indices": [
+              83,
+              106
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0Hp6TWAAAtdWM.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0Hp6TWAAAtdWM.jpg",
+            "url": "https://t.co/3L8FWxe1sh",
+            "display_url": "pic.twitter.com/3L8FWxe1sh",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764803812271861760/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 12:59:18 +0000 2016",
+      "id": 764808617174401000,
+      "id_str": "764808617174401024",
+      "text": "Автомобильный музей тоже очень интересный. Находится напротив музея военной истории. Но вход платный. https://t.co/do9lDmoLfX",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/do9lDmoLfX",
+            "expanded_url": "https://twitter.com/oleg_zverev/status/764808249711464448",
+            "display_url": "twitter.com/oleg_zverev/st…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764808249711464400,
+      "quoted_status_id_str": "764808249711464448",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 12:57:50 +0000 2016",
+        "id": 764808249711464400,
+        "id_str": "764808249711464448",
+        "text": "@abroadunderhood еще очень впечатлил автомобильный музей AutoWorld рядом с Shuman.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+        "in_reply_to_status_id": 764793886241763300,
+        "in_reply_to_status_id_str": "764793886241763328",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 223919107,
+          "id_str": "223919107"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:01:12 +0000 2016",
+      "id": 764809094721003500,
+      "id_str": "764809094721003520",
+      "text": "Самыми знаминитыми комиксами Бельгии являются Тинтин и Смурфики. https://t.co/kzMfkbTqNg",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764777751291330600,
+            "id_str": "764777751291330560",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0JUBXXgAALWeE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0JUBXXgAALWeE.jpg",
+            "url": "https://t.co/kzMfkbTqNg",
+            "display_url": "pic.twitter.com/kzMfkbTqNg",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764809094721003520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1680,
+                "h": 1050,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764777751291330600,
+            "id_str": "764777751291330560",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0JUBXXgAALWeE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0JUBXXgAALWeE.jpg",
+            "url": "https://t.co/kzMfkbTqNg",
+            "display_url": "pic.twitter.com/kzMfkbTqNg",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764809094721003520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 750,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1680,
+                "h": 1050,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 425,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:11:59 +0000 2016",
+      "id": 764811808628670500,
+      "id_str": "764811808628670464",
+      "text": "Может быть потому что по-французски Смурфики называются Schtroumpf? https://t.co/fCNk0qHDYt",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fCNk0qHDYt",
+            "expanded_url": "https://twitter.com/GolubevVictor/status/764809556635578368",
+            "display_url": "twitter.com/GolubevVictor/…",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764809556635578400,
+      "quoted_status_id_str": "764809556635578368",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 13:03:02 +0000 2016",
+        "id": 764809556635578400,
+        "id_str": "764809556635578368",
+        "text": "@abroadunderhood Я думал что Тинтин французский, а смурфики - немецкие.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764809094721003500,
+        "in_reply_to_status_id_str": "764809094721003520",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3015120976,
+          "id_str": "3015120976"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "898490a367e9f1b7",
+          "url": "https://api.twitter.com/1.1/geo/id/898490a367e9f1b7.json",
+          "place_type": "city",
+          "name": "Воронеж",
+          "full_name": "Воронеж, Россия",
+          "country_code": "RU",
+          "country": "Россия",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  39.0137772,
+                  51.4853846
+                ],
+                [
+                  39.4582951,
+                  51.4853846
+                ],
+                [
+                  39.4582951,
+                  51.8732697
+                ],
+                [
+                  39.0137772,
+                  51.8732697
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:19:23 +0000 2016",
+      "id": 764813672992702500,
+      "id_str": "764813672992702464",
+      "text": "И конечно же в Смурфиках есть аллегории на языковой конфликт в Бельгии.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764811808628670500,
+      "in_reply_to_status_id_str": "764811808628670464",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:20:12 +0000 2016",
+      "id": 764813878605688800,
+      "id_str": "764813878605688832",
+      "text": "Комиксы в Бельгии очень популярны, в первую очередь европейские. Магазинов очень много. https://t.co/wk7jqPMgtw",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764778416268775400,
+            "id_str": "764778416268775424",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0J6umWEAA85Or.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0J6umWEAA85Or.jpg",
+            "url": "https://t.co/wk7jqPMgtw",
+            "display_url": "pic.twitter.com/wk7jqPMgtw",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764813878605688832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 831,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1418,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764778416268775400,
+            "id_str": "764778416268775424",
+            "indices": [
+              88,
+              111
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0J6umWEAA85Or.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0J6umWEAA85Or.jpg",
+            "url": "https://t.co/wk7jqPMgtw",
+            "display_url": "pic.twitter.com/wk7jqPMgtw",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764813878605688832/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 831,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1418,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:21:06 +0000 2016",
+      "id": 764814103193931800,
+      "id_str": "764814103193931777",
+      "text": "Новые приключения Саркозикса — политическая сатира основанная на комиксе являющимся политической сатирой :) https://t.co/JiHpUmbrCM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764778736449417200,
+            "id_str": "764778736449417216",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0KNXXW8AAdvTa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0KNXXW8AAdvTa.jpg",
+            "url": "https://t.co/JiHpUmbrCM",
+            "display_url": "pic.twitter.com/JiHpUmbrCM",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764814103193931777/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764778736449417200,
+            "id_str": "764778736449417216",
+            "indices": [
+              108,
+              131
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0KNXXW8AAdvTa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0KNXXW8AAdvTa.jpg",
+            "url": "https://t.co/JiHpUmbrCM",
+            "display_url": "pic.twitter.com/JiHpUmbrCM",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764814103193931777/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:27:14 +0000 2016",
+      "id": 764815645850660900,
+      "id_str": "764815645850660864",
+      "text": "FR, и/или NL, смотря в какой магазин зайдёте. Есть отдели ин. литературы, особенно большие в NL магазинах. https://t.co/HWA6WRYHY1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HWA6WRYHY1",
+            "expanded_url": "https://twitter.com/bosom_vascular/status/764814790950871041",
+            "display_url": "twitter.com/bosom_vascular…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764814790950871000,
+      "quoted_status_id_str": "764814790950871041",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 13:23:50 +0000 2016",
+        "id": 764814790950871000,
+        "id_str": "764814790950871041",
+        "text": "@abroadunderhood на каких языках продают книги в магазинах? есть какое-то разделение на отделы, переводят специально с анг на фр, например?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764814103193931800,
+        "in_reply_to_status_id_str": "764814103193931777",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2624302388,
+          "id_str": "2624302388"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 13:40:09 +0000 2016",
+      "id": 764818898201878500,
+      "id_str": "764818898201878528",
+      "text": "Бельгийская архитектура вторит школе бельгийского сюрреализма. https://t.co/6K0BgHVgk4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764779683812667400,
+            "id_str": "764779683812667392",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LEgkW8AAUytE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LEgkW8AAUytE.jpg",
+            "url": "https://t.co/6K0BgHVgk4",
+            "display_url": "pic.twitter.com/6K0BgHVgk4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764818898201878528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764779683812667400,
+            "id_str": "764779683812667392",
+            "indices": [
+              63,
+              86
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LEgkW8AAUytE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LEgkW8AAUytE.jpg",
+            "url": "https://t.co/6K0BgHVgk4",
+            "display_url": "pic.twitter.com/6K0BgHVgk4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764818898201878528/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 750,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:00:36 +0000 2016",
+      "id": 764824042448625700,
+      "id_str": "764824042448625664",
+      "text": "Социальная реклама тоже отдаёт дань сюрреализму: Не спускайтесь на рельсы, даже если вы иллюзионист. https://t.co/kAs6rXPMPb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764780065548820500,
+            "id_str": "764780065548820480",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LaupWYAAQRUp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LaupWYAAQRUp.jpg",
+            "url": "https://t.co/kAs6rXPMPb",
+            "display_url": "pic.twitter.com/kAs6rXPMPb",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764824042448625664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764780065548820500,
+            "id_str": "764780065548820480",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LaupWYAAQRUp.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LaupWYAAQRUp.jpg",
+            "url": "https://t.co/kAs6rXPMPb",
+            "display_url": "pic.twitter.com/kAs6rXPMPb",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764824042448625664/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:11:52 +0000 2016",
+      "id": 764826878716813300,
+      "id_str": "764826878716813312",
+      "text": "В Брюсселе всё дублируется на FR и NL. Даже время в расписании: FR 16h25 = NL 16u25. В регионах только на своём.\n\n https://t.co/KX34dkCEMJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KX34dkCEMJ",
+            "expanded_url": "https://twitter.com/dedigor_ua/status/764819861780500480",
+            "display_url": "twitter.com/dedigor_ua/sta…",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764819861780500500,
+      "quoted_status_id_str": "764819861780500480",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 13:43:59 +0000 2016",
+        "id": 764819861780500500,
+        "id_str": "764819861780500480",
+        "text": "@abroadunderhood стало любопытно: в жд и автобусных билетах вся инфо на каких языках? А на табло вокзалов инфо дублируется разными языками?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 287356039,
+          "id_str": "287356039"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:14:56 +0000 2016",
+      "id": 764827649487335400,
+      "id_str": "764827649487335424",
+      "text": "@holy_mommy Нам очень комфортно. Зимой +2°С, летом +20°С. Дожди часты, но не как в UK :). https://t.co/cXIEh4imfa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "holy_mommy",
+            "name": "очень плохая М",
+            "id": 186457310,
+            "id_str": "186457310",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cXIEh4imfa",
+            "expanded_url": "https://twitter.com/holy_mommy/status/764819841563955200",
+            "display_url": "twitter.com/holy_mommy/sta…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 186457310,
+      "in_reply_to_user_id_str": "186457310",
+      "in_reply_to_screen_name": "holy_mommy",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764819841563955200,
+      "quoted_status_id_str": "764819841563955200",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 13:43:54 +0000 2016",
+        "id": 764819841563955200,
+        "id_str": "764819841563955200",
+        "text": "@abroadunderhood прекрасно! а как там с климатом?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 764818898201878500,
+        "in_reply_to_status_id_str": "764818898201878528",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 186457310,
+          "id_str": "186457310"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:15:58 +0000 2016",
+      "id": 764827912294043600,
+      "id_str": "764827912294043648",
+      "text": "@f1yegor @HistoryInPix и это не самое худшее, что Бельгия делала.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "f1yegor",
+            "name": "Yegor Andreenko",
+            "id": 2159344531,
+            "id_str": "2159344531",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "HistoryInPix",
+            "name": "History In Pictures",
+            "id": 1557315432,
+            "id_str": "1557315432",
+            "indices": [
+              9,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764817486697074700,
+      "in_reply_to_status_id_str": "764817486697074688",
+      "in_reply_to_user_id": 2159344531,
+      "in_reply_to_user_id_str": "2159344531",
+      "in_reply_to_screen_name": "f1yegor",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:20:10 +0000 2016",
+      "id": 764828966821605400,
+      "id_str": "764828966821605376",
+      "text": "Витрины бельгийских аптек тоже порой сюрреалистичны. https://t.co/7auWTVsZnr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764780381619060700,
+            "id_str": "764780381619060736",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LtIGXgAAQu86.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LtIGXgAAQu86.jpg",
+            "url": "https://t.co/7auWTVsZnr",
+            "display_url": "pic.twitter.com/7auWTVsZnr",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764828966821605376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 621,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1095,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1869,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764780381619060700,
+            "id_str": "764780381619060736",
+            "indices": [
+              53,
+              76
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0LtIGXgAAQu86.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0LtIGXgAAQu86.jpg",
+            "url": "https://t.co/7auWTVsZnr",
+            "display_url": "pic.twitter.com/7auWTVsZnr",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764828966821605376/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 621,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1095,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1869,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:21:35 +0000 2016",
+      "id": 764829325652791300,
+      "id_str": "764829325652791296",
+      "text": "@hvylya_ это которые fr. Bob et Bobette? Они вроде за пределами Бельгии не особо известны.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "hvylya_",
+            "name": "волна хвилівна",
+            "id": 382634216,
+            "id_str": "382634216",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764823732720369700,
+      "in_reply_to_status_id_str": "764823732720369664",
+      "in_reply_to_user_id": 382634216,
+      "in_reply_to_user_id_str": "382634216",
+      "in_reply_to_screen_name": "hvylya_",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:22:16 +0000 2016",
+      "id": 764829498441334800,
+      "id_str": "764829498441334784",
+      "text": "@Naidovskiy да ну вы бросьте, это же домашний скот, они привыкшие )",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Naidovskiy",
+            "name": "Kirill Naidovskiy",
+            "id": 1395441608,
+            "id_str": "1395441608",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764826772290564100,
+      "in_reply_to_status_id_str": "764826772290564097",
+      "in_reply_to_user_id": 1395441608,
+      "in_reply_to_user_id_str": "1395441608",
+      "in_reply_to_screen_name": "Naidovskiy",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:29:20 +0000 2016",
+      "id": 764831275878416400,
+      "id_str": "764831275878416384",
+      "text": "RT @olse_est: @abroadunderhood @dedigor_ua камрад рассказывал. Едешь в поезде из Ф в В, посреди дороги меняется язык на табло, границу пере…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olse_est",
+            "name": "Да Нет Наверное",
+            "id": 990828758,
+            "id_str": "990828758",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "dedigor_ua",
+            "name": "Igor",
+            "id": 287356039,
+            "id_str": "287356039",
+            "indices": [
+              31,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "retweeted_status": {
+        "created_at": "Sun Aug 14 14:25:07 +0000 2016",
+        "id": 764830215596040200,
+        "id_str": "764830215596040196",
+        "text": "@abroadunderhood @dedigor_ua камрад рассказывал. Едешь в поезде из Ф в В, посреди дороги меняется язык на табло, границу пересекли.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "dedigor_ua",
+              "name": "Igor",
+              "id": 287356039,
+              "id_str": "287356039",
+              "indices": [
+                17,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 764826878716813300,
+        "in_reply_to_status_id_str": "764826878716813312",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 990828758,
+          "id_str": "990828758"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:30:17 +0000 2016",
+      "id": 764831512072032300,
+      "id_str": "764831512072032256",
+      "text": "Сюрреализм проявился и во время террактов. Полиция попросила не писать в твиттер, а Брюссельцы запустили смешной тэг #BrusselsLockdown",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "BrusselsLockdown",
+            "indices": [
+              117,
+              134
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:31:05 +0000 2016",
+      "id": 764831716015939600,
+      "id_str": "764831716015939584",
+      "text": "Вот хорошая статья про эту смешную ситуацию в тот трагический момент. https://t.co/L3LcyCTjdM",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L3LcyCTjdM",
+            "expanded_url": "http://www.usatoday.com/story/news/world/2015/11/22/brusselslockdown-terrorism-cats/76230548/",
+            "display_url": "usatoday.com/story/news/wor…",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:40:10 +0000 2016",
+      "id": 764833999386587100,
+      "id_str": "764833999386587136",
+      "text": "Про бельгийские аптеки. Они работают до 6pm и только по будням. В остальных случаях вам надо искать дежурную аптеку https://t.co/JgKIPuFmh8",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764780866564460500,
+            "id_str": "764780866564460544",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0MJWqXEAAQdmI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0MJWqXEAAQdmI.jpg",
+            "url": "https://t.co/JgKIPuFmh8",
+            "display_url": "pic.twitter.com/JgKIPuFmh8",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764833999386587136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764780866564460500,
+            "id_str": "764780866564460544",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0MJWqXEAAQdmI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0MJWqXEAAQdmI.jpg",
+            "url": "https://t.co/JgKIPuFmh8",
+            "display_url": "pic.twitter.com/JgKIPuFmh8",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764833999386587136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 350,
+                "h": 548,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 14:41:03 +0000 2016",
+      "id": 764834225514123300,
+      "id_str": "764834225514123265",
+      "text": "Узнать какие аптеки дежурят поблизости можно онлайн https://t.co/yoGxbqiZnd  \nДежурные берут доп.сумму за обслуживание в ночное время.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yoGxbqiZnd",
+            "expanded_url": "http://www.pharmacie.be/pharmacien/pharmacie-de-garde",
+            "display_url": "pharmacie.be/pharmacien/pha…",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 15:00:31 +0000 2016",
+      "id": 764839122666070000,
+      "id_str": "764839122666070018",
+      "text": "В городах Бельгии нет столбов и висящих проводов. Вместо заборов у жилых домов живые изгороди. https://t.co/nWSl32EN5F",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764782741267316700,
+            "id_str": "764782741267316736",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0N2eeWgAA3EKU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0N2eeWgAA3EKU.jpg",
+            "url": "https://t.co/nWSl32EN5F",
+            "display_url": "pic.twitter.com/nWSl32EN5F",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764839122666070018/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764782741267316700,
+            "id_str": "764782741267316736",
+            "indices": [
+              95,
+              118
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0N2eeWgAA3EKU.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0N2eeWgAA3EKU.jpg",
+            "url": "https://t.co/nWSl32EN5F",
+            "display_url": "pic.twitter.com/nWSl32EN5F",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764839122666070018/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 15:20:04 +0000 2016",
+      "id": 764844042081308700,
+      "id_str": "764844042081308672",
+      "text": "Символом Брюсселя является Атомиум построенный ко Всемирной выставке 1958 года. Размер структуры впечатляющий. https://t.co/5QDJU0xXn4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764787900277985300,
+            "id_str": "764787900277985280",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0SixSWEAAWIPG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0SixSWEAAWIPG.jpg",
+            "url": "https://t.co/5QDJU0xXn4",
+            "display_url": "pic.twitter.com/5QDJU0xXn4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764844042081308672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764787900277985300,
+            "id_str": "764787900277985280",
+            "indices": [
+              111,
+              134
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0SixSWEAAWIPG.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0SixSWEAAWIPG.jpg",
+            "url": "https://t.co/5QDJU0xXn4",
+            "display_url": "pic.twitter.com/5QDJU0xXn4",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764844042081308672/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1500,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 15:40:09 +0000 2016",
+      "id": 764849095806640100,
+      "id_str": "764849095806640130",
+      "text": "Таймлапс видео Антверпен: день — ночь. \nhttps://t.co/oIo1LoMI1y",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oIo1LoMI1y",
+            "expanded_url": "http://gfycat.com/CandidDentalJackal",
+            "display_url": "gfycat.com/CandidDentalJa…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 15:40:36 +0000 2016",
+      "id": 764849208469889000,
+      "id_str": "764849208469889024",
+      "text": "RT @achkasov: А давайте сделаем тип Ла-Манш? https://t.co/PfrPpmGAai",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "achkasov",
+            "name": "мамкин сибиряк",
+            "id": 105991888,
+            "id_str": "105991888",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 764846481039827000,
+            "id_str": "764846481039826944",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+            "url": "https://t.co/PfrPpmGAai",
+            "display_url": "pic.twitter.com/PfrPpmGAai",
+            "expanded_url": "http://twitter.com/achkasov/status/764846609763078144/video/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 764846609763078100,
+            "source_status_id_str": "764846609763078144",
+            "source_user_id": 105991888,
+            "source_user_id_str": "105991888"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764846481039827000,
+            "id_str": "764846481039826944",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+            "url": "https://t.co/PfrPpmGAai",
+            "display_url": "pic.twitter.com/PfrPpmGAai",
+            "expanded_url": "http://twitter.com/achkasov/status/764846609763078144/video/1",
+            "type": "video",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 338,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 576,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 764846609763078100,
+            "source_status_id_str": "764846609763078144",
+            "source_user_id": 105991888,
+            "source_user_id_str": "105991888",
+            "video_info": {
+              "aspect_ratio": [
+                16,
+                9
+              ],
+              "duration_millis": 4502,
+              "variants": [
+                {
+                  "content_type": "application/dash+xml",
+                  "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/pl/9U_oNAZh4iMSM-C9.mpd"
+                },
+                {
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/1280x720/Vm5DPOk0tfYeMJQk.mp4"
+                },
+                {
+                  "content_type": "application/x-mpegURL",
+                  "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/pl/9U_oNAZh4iMSM-C9.m3u8"
+                },
+                {
+                  "bitrate": 832000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/640x360/ZLRYjTD6Rp5-XeM-.mp4"
+                },
+                {
+                  "bitrate": 320000,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/320x180/sMUkp5HtQA4RbDGt.mp4"
+                }
+              ]
+            },
+            "additional_media_info": {
+              "monetizable": false,
+              "source_user": {
+                "id": 105991888,
+                "id_str": "105991888",
+                "name": "мамкин сибиряк",
+                "screen_name": "achkasov",
+                "location": "Мультифорск, Святая Сибирь",
+                "description": "https://t.co/7OIm2klw6d",
+                "url": null,
+                "entities": {
+                  "description": {
+                    "urls": [
+                      {
+                        "url": "https://t.co/7OIm2klw6d",
+                        "expanded_url": "https://www.instagram.com/achkasov/",
+                        "display_url": "instagram.com/achkasov/",
+                        "indices": [
+                          0,
+                          23
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "protected": false,
+                "followers_count": 287,
+                "friends_count": 166,
+                "listed_count": 15,
+                "created_at": "Mon Jan 18 04:34:32 +0000 2010",
+                "favourites_count": 7356,
+                "utc_offset": 10800,
+                "time_zone": "Volgograd",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 24919,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0C0C0",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000057642271/74022489e494cb3c80c2496762cdf616.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000057642271/74022489e494cb3c80c2496762cdf616.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/761862511209672705/FGiIg_8m_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/761862511209672705/FGiIg_8m_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/105991888/1450728855",
+                "profile_link_color": "383838",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "retweeted_status": {
+        "created_at": "Sun Aug 14 15:30:16 +0000 2016",
+        "id": 764846609763078100,
+        "id_str": "764846609763078144",
+        "text": "А давайте сделаем тип Ла-Манш? https://t.co/PfrPpmGAai",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 764846481039827000,
+              "id_str": "764846481039826944",
+              "indices": [
+                31,
+                54
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+              "url": "https://t.co/PfrPpmGAai",
+              "display_url": "pic.twitter.com/PfrPpmGAai",
+              "expanded_url": "http://twitter.com/achkasov/status/764846609763078144/video/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 338,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 764846481039827000,
+              "id_str": "764846481039826944",
+              "indices": [
+                31,
+                54
+              ],
+              "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+              "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/764846481039826944/pu/img/brG5LAgCHwlAm1qC.jpg",
+              "url": "https://t.co/PfrPpmGAai",
+              "display_url": "pic.twitter.com/PfrPpmGAai",
+              "expanded_url": "http://twitter.com/achkasov/status/764846609763078144/video/1",
+              "type": "video",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 600,
+                  "h": 338,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 340,
+                  "h": 191,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 576,
+                  "resize": "fit"
+                }
+              },
+              "video_info": {
+                "aspect_ratio": [
+                  16,
+                  9
+                ],
+                "duration_millis": 4502,
+                "variants": [
+                  {
+                    "content_type": "application/dash+xml",
+                    "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/pl/9U_oNAZh4iMSM-C9.mpd"
+                  },
+                  {
+                    "bitrate": 2176000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/1280x720/Vm5DPOk0tfYeMJQk.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/pl/9U_oNAZh4iMSM-C9.m3u8"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/640x360/ZLRYjTD6Rp5-XeM-.mp4"
+                  },
+                  {
+                    "bitrate": 320000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.com/ext_tw_video/764846481039826944/pu/vid/320x180/sMUkp5HtQA4RbDGt.mp4"
+                  }
+                ]
+              },
+              "additional_media_info": {
+                "monetizable": false
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "0653bb913c88c1ea",
+          "url": "https://api.twitter.com/1.1/geo/id/0653bb913c88c1ea.json",
+          "place_type": "city",
+          "name": "Brussel",
+          "full_name": "Brussel, België",
+          "country_code": "BE",
+          "country": "België",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.3139889,
+                  50.7963282
+                ],
+                [
+                  4.4369472,
+                  50.7963282
+                ],
+                [
+                  4.4369472,
+                  50.9137064
+                ],
+                [
+                  4.3139889,
+                  50.9137064
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 16:00:32 +0000 2016",
+      "id": 764854225457205200,
+      "id_str": "764854225457205248",
+      "text": "Многоквартирных жилых домов не много. Большая часть вот такая (наша улица). https://t.co/lRGlsZRcLD",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764792654567727100,
+            "id_str": "764792654567727105",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0W3gZWYAEGcEa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0W3gZWYAEGcEa.jpg",
+            "url": "https://t.co/lRGlsZRcLD",
+            "display_url": "pic.twitter.com/lRGlsZRcLD",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764854225457205248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764792654567727100,
+            "id_str": "764792654567727105",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp0W3gZWYAEGcEa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp0W3gZWYAEGcEa.jpg",
+            "url": "https://t.co/lRGlsZRcLD",
+            "display_url": "pic.twitter.com/lRGlsZRcLD",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764854225457205248/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 16:20:10 +0000 2016",
+      "id": 764859166989049900,
+      "id_str": "764859166989049856",
+      "text": "Если бельгиец найдёт потерянную кем-то вещь, то он её положит на ближайший подоконник. Люди теряют странные вещи :) https://t.co/yxdkLhOxKx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764832413331619800,
+            "id_str": "764832413331619840",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp07BxVWAAARb9q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp07BxVWAAARb9q.jpg",
+            "url": "https://t.co/yxdkLhOxKx",
+            "display_url": "pic.twitter.com/yxdkLhOxKx",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764859166989049856/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1003,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1003,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 666,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764832413331619800,
+            "id_str": "764832413331619840",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp07BxVWAAARb9q.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp07BxVWAAARb9q.jpg",
+            "url": "https://t.co/yxdkLhOxKx",
+            "display_url": "pic.twitter.com/yxdkLhOxKx",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764859166989049856/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1003,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1003,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 666,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 16:40:11 +0000 2016",
+      "id": 764864202758496300,
+      "id_str": "764864202758496256",
+      "text": "Подтверждаю. Бельгийцы ходят в квартире в обуви. Точнее так, хотят как удобно, удобно без — да пожалуйста. https://t.co/hIfXxfsKcZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hIfXxfsKcZ",
+            "expanded_url": "https://twitter.com/hvylya_/status/764833420249800704",
+            "display_url": "twitter.com/hvylya_/status…",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764833420249800700,
+      "quoted_status_id_str": "764833420249800704",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 14:37:51 +0000 2016",
+        "id": 764833420249800700,
+        "id_str": "764833420249800704",
+        "text": "@abroadunderhood потому все удивляются, что все ходят в обуви по квартире",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764516917419782100,
+        "in_reply_to_status_id_str": "764516917419782146",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 382634216,
+          "id_str": "382634216"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 17:01:04 +0000 2016",
+      "id": 764869461794885600,
+      "id_str": "764869461794885634",
+      "text": "Интересный момент — отношение бельгийцев к носкам. Носки нужны, чтобы обувь не натирала ноги. Дырка в носке — ерунда, нечего стрематься.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 17:01:28 +0000 2016",
+      "id": 764869560633729000,
+      "id_str": "764869560633729025",
+      "text": "В целом в культуре полностью отсутствует сама идея установки «что подумают люди?!».",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 17:20:09 +0000 2016",
+      "id": 764874260732977200,
+      "id_str": "764874260732977152",
+      "text": "Я слышал аналогичное. За что стоит заплатить, так это ночёвку внутри Атомиума для школьников https://t.co/kARx6c5Pmk https://t.co/Bm2dcbWzIN",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kARx6c5Pmk",
+            "expanded_url": "http://atomium.be/childrensphere.aspx",
+            "display_url": "atomium.be/childrensphere…",
+            "indices": [
+              93,
+              116
+            ]
+          },
+          {
+            "url": "https://t.co/Bm2dcbWzIN",
+            "expanded_url": "https://twitter.com/zezechai/status/764845068289269761",
+            "display_url": "twitter.com/zezechai/statu…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764845068289269800,
+      "quoted_status_id_str": "764845068289269761",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 15:24:09 +0000 2016",
+        "id": 764845068289269800,
+        "id_str": "764845068289269761",
+        "text": "@abroadunderhood но не стоит внутри музей тех денег, которые просят\nЛучше просто снаружи заценить.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 764844042081308700,
+        "in_reply_to_status_id_str": "764844042081308672",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 895775288,
+          "id_str": "895775288"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 17:40:06 +0000 2016",
+      "id": 764879282854166500,
+      "id_str": "764879282854166529",
+      "text": "Парацетамол и ибупрофен всегда отпускается без рецепта в Бельгии (как думаю и везде в мире). https://t.co/kshUsBU5ut",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/kshUsBU5ut",
+            "expanded_url": "https://twitter.com/Prophetoflost/status/764847702005915649",
+            "display_url": "twitter.com/Prophetoflost/…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764847702005915600,
+      "quoted_status_id_str": "764847702005915649",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 15:34:36 +0000 2016",
+        "id": 764847702005915600,
+        "id_str": "764847702005915649",
+        "text": "@abroadunderhood да и ночная аптека только пастинором поможет. Многие лекарства типа парацетамола и ибупрофена рецептурные.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764833999386587100,
+        "in_reply_to_status_id_str": "764833999386587136",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 23677176,
+          "id_str": "23677176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 18:36:55 +0000 2016",
+      "id": 764893580154511400,
+      "id_str": "764893580154511361",
+      "text": "Наконец-то добрался до заново открытой стании Маалбек. В вестибюле теперь \"олива\" и стихи Федерико Гарсии Лорки. https://t.co/kBXx3JZMKj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764893169511194600,
+            "id_str": "764893169511194625",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1ySPvWYAESfQH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1ySPvWYAESfQH.jpg",
+            "url": "https://t.co/kBXx3JZMKj",
+            "display_url": "pic.twitter.com/kBXx3JZMKj",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764893580154511361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764893169511194600,
+            "id_str": "764893169511194625",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1ySPvWYAESfQH.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1ySPvWYAESfQH.jpg",
+            "url": "https://t.co/kBXx3JZMKj",
+            "display_url": "pic.twitter.com/kBXx3JZMKj",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764893580154511361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 764893176868077600,
+            "id_str": "764893176868077568",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1ySrJXgAADMC2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1ySrJXgAADMC2.jpg",
+            "url": "https://t.co/kBXx3JZMKj",
+            "display_url": "pic.twitter.com/kBXx3JZMKj",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764893580154511361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 764893189937528800,
+            "id_str": "764893189937528832",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1yTb1XgAAUxmY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1yTb1XgAAUxmY.jpg",
+            "url": "https://t.co/kBXx3JZMKj",
+            "display_url": "pic.twitter.com/kBXx3JZMKj",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764893580154511361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 764893198317711400,
+            "id_str": "764893198317711361",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1yT7DW8AEo2Nx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1yT7DW8AEo2Nx.jpg",
+            "url": "https://t.co/kBXx3JZMKj",
+            "display_url": "pic.twitter.com/kBXx3JZMKj",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764893580154511361/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:01:12 +0000 2016",
+      "id": 764899693037969400,
+      "id_str": "764899693037969409",
+      "text": "В городах все провода под землёй, иногда по стенам домов. https://t.co/fAphTNDSeT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fAphTNDSeT",
+            "expanded_url": "https://twitter.com/gearmobile/status/764876736437837824",
+            "display_url": "twitter.com/gearmobile/sta…",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764876736437837800,
+      "quoted_status_id_str": "764876736437837824",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 17:29:59 +0000 2016",
+        "id": 764876736437837800,
+        "id_str": "764876736437837824",
+        "text": "@abroadunderhood  а где же они тогда, провода? )",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 764839122666070000,
+        "in_reply_to_status_id_str": "764839122666070018",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 85618387,
+          "id_str": "85618387"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:19:13 +0000 2016",
+      "id": 764904227126779900,
+      "id_str": "764904227126779904",
+      "text": "@saffil6403 на нескольких языках, в том числе и на русском.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "saffil6403",
+            "name": "Николай Сафронов",
+            "id": 1318450176,
+            "id_str": "1318450176",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764903162415353900,
+      "in_reply_to_status_id_str": "764903162415353856",
+      "in_reply_to_user_id": 1318450176,
+      "in_reply_to_user_id_str": "1318450176",
+      "in_reply_to_screen_name": "saffil6403",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:25:22 +0000 2016",
+      "id": 764905772320981000,
+      "id_str": "764905772320980992",
+      "text": "Увы, это правда. На Всемирной выставке 1958 года в Bxl, одной из экспозиций была традиционная деревня Конго. https://t.co/thl1Mn5FoT",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/thl1Mn5FoT",
+            "expanded_url": "https://twitter.com/teidoo/status/764902977589112832",
+            "display_url": "twitter.com/teidoo/status/…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764902977589112800,
+      "quoted_status_id_str": "764902977589112832",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 19:14:15 +0000 2016",
+        "id": 764902977589112800,
+        "id_str": "764902977589112832",
+        "text": "@abroadunderhood мне кажется что это неправда. Или реально было ?https://t.co/TqBxhBAOvO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/TqBxhBAOvO",
+              "expanded_url": "https://twitter.com/HistoryInPix/status/764813331119104000",
+              "display_url": "twitter.com/HistoryInPix/s…",
+              "indices": [
+                65,
+                88
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 159822730,
+          "id_str": "159822730"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 764813331119104000,
+        "quoted_status_id_str": "764813331119104000",
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:27:07 +0000 2016",
+      "id": 764906213918343200,
+      "id_str": "764906213918343169",
+      "text": "Конго получило независимость от Бельгии всего двумя годами спустя в 1960 году.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764905772320981000,
+      "in_reply_to_status_id_str": "764905772320980992",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:40:10 +0000 2016",
+      "id": 764909499391938600,
+      "id_str": "764909499391938560",
+      "text": "В Брюсселе есть своя Триумфальная арка в Парке пятидесятилетия, Parc du Cinquantenaire, Jubelpark. https://t.co/w2JYI68K35",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764894533213716500,
+            "id_str": "764894533213716483",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1zhn7XgAMqmMt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1zhn7XgAMqmMt.jpg",
+            "url": "https://t.co/w2JYI68K35",
+            "display_url": "pic.twitter.com/w2JYI68K35",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764909499391938560/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1361,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 797,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764894533213716500,
+            "id_str": "764894533213716483",
+            "indices": [
+              99,
+              122
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp1zhn7XgAMqmMt.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp1zhn7XgAMqmMt.jpg",
+            "url": "https://t.co/w2JYI68K35",
+            "display_url": "pic.twitter.com/w2JYI68K35",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764909499391938560/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1361,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 797,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 19:44:16 +0000 2016",
+      "id": 764910529030852600,
+      "id_str": "764910529030852609",
+      "text": "@teidoo https://t.co/9F0nnMM3KR",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "teidoo",
+            "name": "Michael",
+            "id": 159822730,
+            "id_str": "159822730",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/9F0nnMM3KR",
+            "expanded_url": "https://en.wikipedia.org/wiki/Human_zoo#1940s_to_the_present",
+            "display_url": "en.wikipedia.org/wiki/Human_zoo…",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764907938754560000,
+      "in_reply_to_status_id_str": "764907938754560000",
+      "in_reply_to_user_id": 159822730,
+      "in_reply_to_user_id_str": "159822730",
+      "in_reply_to_screen_name": "teidoo",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Aug 14 20:00:45 +0000 2016",
+      "id": 764914678837358600,
+      "id_str": "764914678837358592",
+      "text": "Как и в Нидерландах на Рождество кроме Святого Николая по легенде из Испании приплывает его помощник Чёрный Пит. https://t.co/wSfL5C7bZz",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 764896186885079000,
+            "id_str": "764896186885079040",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp11B4VWAAAvXSF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp11B4VWAAAvXSF.jpg",
+            "url": "https://t.co/wSfL5C7bZz",
+            "display_url": "pic.twitter.com/wSfL5C7bZz",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764914678837358592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764896186885079000,
+            "id_str": "764896186885079040",
+            "indices": [
+              113,
+              136
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp11B4VWAAAvXSF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp11B4VWAAAvXSF.jpg",
+            "url": "https://t.co/wSfL5C7bZz",
+            "display_url": "pic.twitter.com/wSfL5C7bZz",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764914678837358592/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 670,
+                "h": 376,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:01:05 +0000 2016",
+      "id": 764914764359225300,
+      "id_str": "764914764359225344",
+      "text": "Чёрный Пит привозит с собой сладости, подарки, и... неотъемлемый элемент советского новогоднего торжества — мандарины!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:14:51 +0000 2016",
+      "id": 764918228334379000,
+      "id_str": "764918228334379008",
+      "text": "В нидерландском языке слово neger (читается нэйхр) не является уничижительным, но чёрный, zwart — является. https://t.co/Ox3Rk09Nmq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ox3Rk09Nmq",
+            "expanded_url": "https://twitter.com/GolubevVictor/status/764916939621883904",
+            "display_url": "twitter.com/GolubevVictor/…",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764916939621883900,
+      "quoted_status_id_str": "764916939621883904",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 20:09:44 +0000 2016",
+        "id": 764916939621883900,
+        "id_str": "764916939621883904",
+        "text": "@abroadunderhood А в Бельгии можно негров называть неграми?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764914678837358600,
+        "in_reply_to_status_id_str": "764914678837358592",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3015120976,
+          "id_str": "3015120976"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:16:05 +0000 2016",
+      "id": 764918535831388200,
+      "id_str": "764918535831388162",
+      "text": "Во французском в Бельгии наоборот чёрный, noir является более допустимым, чем nègre. https://t.co/Ox3Rk09Nmq",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ox3Rk09Nmq",
+            "expanded_url": "https://twitter.com/GolubevVictor/status/764916939621883904",
+            "display_url": "twitter.com/GolubevVictor/…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764916939621883900,
+      "quoted_status_id_str": "764916939621883904",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 20:09:44 +0000 2016",
+        "id": 764916939621883900,
+        "id_str": "764916939621883904",
+        "text": "@abroadunderhood А в Бельгии можно негров называть неграми?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 764914678837358600,
+        "in_reply_to_status_id_str": "764914678837358592",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3015120976,
+          "id_str": "3015120976"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:20:05 +0000 2016",
+      "id": 764919543181537300,
+      "id_str": "764919543181537281",
+      "text": "Если сравнивать с США, то их терзаний нет вообще. Конго по прежнему эксплуатируем — алмазы. https://t.co/8mAykLRqUv",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8mAykLRqUv",
+            "expanded_url": "https://twitter.com/Vocxo/status/764919041165262850",
+            "display_url": "twitter.com/Vocxo/status/7…",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764919041165262800,
+      "quoted_status_id_str": "764919041165262850",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 20:18:05 +0000 2016",
+        "id": 764919041165262800,
+        "id_str": "764919041165262850",
+        "text": "@abroadunderhood у бельгийцев присутствуют терзания по поводу колониального прошлого?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 13020892,
+          "id_str": "13020892"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:20:10 +0000 2016",
+      "id": 764919566187192300,
+      "id_str": "764919566187192320",
+      "text": "В последние годы Нидерланды дали слабину, и начали заминать тему с Чёрным Питом. По этическим соображениям.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:21:10 +0000 2016",
+      "id": 764919816188600300,
+      "id_str": "764919816188600322",
+      "text": "Но бельгосы не из робких. Для них традиция важнее. Они просто сказали, что Пит чёрный т.к. приносит подарки в дом через трубу. И всё :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:24:50 +0000 2016",
+      "id": 764920741003423700,
+      "id_str": "764920741003423749",
+      "text": "когда я рассказал про Россию им очень понравились наши НГ персонажи: дед и «внучка» ;) https://t.co/DJZNJP8mYj",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DJZNJP8mYj",
+            "expanded_url": "https://twitter.com/Nikulich/status/764920324668272640",
+            "display_url": "twitter.com/Nikulich/statu…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": true,
+      "quoted_status_id": 764920324668272600,
+      "quoted_status_id_str": "764920324668272640",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 20:23:11 +0000 2016",
+        "id": 764920324668272600,
+        "id_str": "764920324668272640",
+        "text": "@abroadunderhood ну точно, а Санта на шухере )",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 764919816188600300,
+        "in_reply_to_status_id_str": "764919816188600322",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 515243127,
+          "id_str": "515243127"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:28:16 +0000 2016",
+      "id": 764921601842417700,
+      "id_str": "764921601842417664",
+      "text": "Чёрный Пит и Св. Николай приносят детям подарки в ночь 6 декабря. Задолго до Рождества.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:34:14 +0000 2016",
+      "id": 764923106309902300,
+      "id_str": "764923106309902336",
+      "text": "@StrashniyYad @teidoo @HistoryInPix между этой статьёй и той фотографией 100 лет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StrashniyYad",
+            "name": "Григорий",
+            "id": 85805711,
+            "id_str": "85805711",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "teidoo",
+            "name": "Michael",
+            "id": 159822730,
+            "id_str": "159822730",
+            "indices": [
+              14,
+              21
+            ]
+          },
+          {
+            "screen_name": "HistoryInPix",
+            "name": "History In Pictures",
+            "id": 1557315432,
+            "id_str": "1557315432",
+            "indices": [
+              22,
+              35
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": 764922238797840400,
+      "in_reply_to_status_id_str": "764922238797840385",
+      "in_reply_to_user_id": 85805711,
+      "in_reply_to_user_id_str": "85805711",
+      "in_reply_to_screen_name": "StrashniyYad",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": [
+        105991888
+      ],
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:40:05 +0000 2016",
+      "id": 764924577730355200,
+      "id_str": "764924577730355200",
+      "text": "Каждое лето на Гран плас, главной площади Бельгии, «расстелают» потрясающий ковёр из цветов. https://t.co/Y5boNxBH5x",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y5boNxBH5x",
+            "expanded_url": "https://twitter.com/achkasov/status/764870267168514048",
+            "display_url": "twitter.com/achkasov/statu…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 764870267168514000,
+      "quoted_status_id_str": "764870267168514048",
+      "quoted_status": {
+        "created_at": "Sun Aug 14 17:04:16 +0000 2016",
+        "id": 764870267168514000,
+        "id_str": "764870267168514048",
+        "text": "Grand Place сейчас. https://t.co/JxzBOPVPa4",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 764870212311220200,
+              "id_str": "764870212311220224",
+              "indices": [
+                20,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cp1dZ9gWgAA6_1a.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cp1dZ9gWgAA6_1a.jpg",
+              "url": "https://t.co/JxzBOPVPa4",
+              "display_url": "pic.twitter.com/JxzBOPVPa4",
+              "expanded_url": "http://twitter.com/achkasov/status/764870267168514048/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 344,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 764870212311220200,
+              "id_str": "764870212311220224",
+              "indices": [
+                20,
+                43
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cp1dZ9gWgAA6_1a.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cp1dZ9gWgAA6_1a.jpg",
+              "url": "https://t.co/JxzBOPVPa4",
+              "display_url": "pic.twitter.com/JxzBOPVPa4",
+              "expanded_url": "http://twitter.com/achkasov/status/764870267168514048/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1024,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 344,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 1024,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "78bfaf3f12c05982",
+          "url": "https://api.twitter.com/1.1/geo/id/78bfaf3f12c05982.json",
+          "place_type": "country",
+          "name": "België",
+          "full_name": "België",
+          "country_code": "BE",
+          "country": "België",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  2.5456398,
+                  49.4972655
+                ],
+                [
+                  6.4079065,
+                  49.4972655
+                ],
+                [
+                  6.4079065,
+                  51.5050807
+                ],
+                [
+                  2.5456398,
+                  51.5050807
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 14 20:50:06 +0000 2016",
+      "id": 764927098108510200,
+      "id_str": "764927098108510210",
+      "text": "Большое спасибо за интересные вопросы. Всем хорошего лета!\n\nС вами был @achkasov из Брюсселя. https://t.co/Ry9gqpA8Ac",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "achkasov",
+            "name": "мамкин сибиряк",
+            "id": 105991888,
+            "id_str": "105991888",
+            "indices": [
+              71,
+              80
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 764898840063385600,
+            "id_str": "764898840063385601",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp13cUMWIAENVz7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp13cUMWIAENVz7.jpg",
+            "url": "https://t.co/Ry9gqpA8Ac",
+            "display_url": "pic.twitter.com/Ry9gqpA8Ac",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764927098108510210/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 764898840063385600,
+            "id_str": "764898840063385601",
+            "indices": [
+              94,
+              117
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cp13cUMWIAENVz7.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cp13cUMWIAENVz7.jpg",
+            "url": "https://t.co/Ry9gqpA8Ac",
+            "display_url": "pic.twitter.com/Ry9gqpA8Ac",
+            "expanded_url": "http://twitter.com/abroadunderhood/status/764927098108510210/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 479,
+                "h": 601,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
