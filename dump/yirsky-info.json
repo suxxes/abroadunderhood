@@ -26,123 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 3701,
+  "followers_count": 3716,
   "friends_count": 0,
   "listed_count": 122,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 760,
+  "favourites_count": 772,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 26171,
+  "statuses_count": 26201,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Sep 03 19:03:53 +0000 2016",
-    "id": 772148125234524200,
-    "id_str": "772148125234524160",
-    "text": "В Бахрейне есть очень приличный зоопарк. https://t.co/SrevYDHNnh",
+    "created_at": "Sun Sep 04 04:22:22 +0000 2016",
+    "id": 772288673584934900,
+    "id_str": "772288673584934912",
+    "text": "@spacetag @yirsky у нас только началась ночь и я просплю весь Ваш день, поэтому прощаюсь сейчас.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 772148086399533000,
-          "id_str": "772148086399533056",
+          "screen_name": "spacetag",
+          "name": "Un Chico normale",
+          "id": 111558916,
+          "id_str": "111558916",
           "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/Crc4l_PXgAAWuXc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Crc4l_PXgAAWuXc.jpg",
-          "url": "https://t.co/SrevYDHNnh",
-          "display_url": "pic.twitter.com/SrevYDHNnh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/772148125234524160/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+            0,
+            9
+          ]
+        },
         {
-          "id": 772148086399533000,
-          "id_str": "772148086399533056",
+          "screen_name": "yirsky",
+          "name": "Lara",
+          "id": 2359135320,
+          "id_str": "2359135320",
           "indices": [
-            41,
-            64
-          ],
-          "media_url": "http://pbs.twimg.com/media/Crc4l_PXgAAWuXc.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Crc4l_PXgAAWuXc.jpg",
-          "url": "https://t.co/SrevYDHNnh",
-          "display_url": "pic.twitter.com/SrevYDHNnh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/772148125234524160/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 900,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1536,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
+            10,
+            17
+          ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 772287558168358900,
+    "in_reply_to_status_id_str": "772287558168358912",
+    "in_reply_to_user_id": 111558916,
+    "in_reply_to_user_id_str": "111558916",
+    "in_reply_to_screen_name": "spacetag",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
