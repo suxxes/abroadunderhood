@@ -37,28 +37,106 @@
     }
   },
   "protected": false,
-  "followers_count": 3795,
+  "followers_count": 3793,
   "friends_count": 0,
   "listed_count": 128,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 822,
+  "favourites_count": 827,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 27200,
+  "statuses_count": 27225,
   "lang": "ru",
   "status": {
-    "created_at": "Thu Sep 15 15:40:10 +0000 2016",
-    "id": 776445513721864200,
-    "id_str": "776445513721864192",
-    "text": "Только порядка ~15% имеют высшее образование в Чехии. Подавляющее большинство имеют среднее специальное. Похожая статистика в Германии.",
+    "created_at": "Fri Sep 16 18:10:08 +0000 2016",
+    "id": 776845639032381400,
+    "id_str": "776845639032381440",
+    "text": "Рубрика Перестройка: В пражском метро все старые советские вагоны прошли реконструкцию, используются на двух ветках: https://t.co/nVZAXBRSxF",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [],
+      "media": [
+        {
+          "id": 776844859487420400,
+          "id_str": "776844859487420420",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
+          "url": "https://t.co/nVZAXBRSxF",
+          "display_url": "pic.twitter.com/nVZAXBRSxF",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/776845639032381440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1330,
+              "h": 472,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 241,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 776844859487420400,
+          "id_str": "776844859487420420",
+          "indices": [
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
+          "url": "https://t.co/nVZAXBRSxF",
+          "display_url": "pic.twitter.com/nVZAXBRSxF",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/776845639032381440/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 426,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1330,
+              "h": 472,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 241,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -73,10 +151,11 @@
       95778308
     ],
     "is_quote_status": false,
-    "retweet_count": 6,
-    "favorite_count": 0,
+    "retweet_count": 8,
+    "favorite_count": 7,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
