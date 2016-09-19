@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 3797,
+  "followers_count": 3803,
   "friends_count": 0,
   "listed_count": 128,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,95 +46,38 @@
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 27225,
+  "statuses_count": 27232,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Sep 16 18:10:08 +0000 2016",
-    "id": 776845639032381400,
-    "id_str": "776845639032381440",
-    "text": "Рубрика Перестройка: В пражском метро все старые советские вагоны прошли реконструкцию, используются на двух ветках: https://t.co/nVZAXBRSxF",
+    "created_at": "Sun Sep 18 17:00:50 +0000 2016",
+    "id": 777552976659488800,
+    "id_str": "777552976659488768",
+    "text": "Всем спасибо! Пишите: @NicolettaRu\n\nPS: Группа INXS с композиций \"Never Tear Us Apart\", клип полностью снят в Праге.\nhttps://t.co/lRVNcwqS9i",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 776844859487420400,
-          "id_str": "776844859487420420",
+          "screen_name": "NicolettaRu",
+          "name": "Nicoletta",
+          "id": 95778308,
+          "id_str": "95778308",
           "indices": [
-            117,
-            140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
-          "url": "https://t.co/nVZAXBRSxF",
-          "display_url": "pic.twitter.com/nVZAXBRSxF",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/776845639032381440/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 426,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1330,
-              "h": 472,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 241,
-              "resize": "fit"
-            }
-          }
+            22,
+            34
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
+      ],
+      "urls": [
         {
-          "id": 776844859487420400,
-          "id_str": "776844859487420420",
+          "url": "https://t.co/lRVNcwqS9i",
+          "expanded_url": "https://www.youtube.com/watch?v=_VU9DjQpvMQ",
+          "display_url": "youtube.com/watch?v=_VU9Dj…",
           "indices": [
             117,
             140
-          ],
-          "media_url": "http://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/CsfoSKdWAAQJBIp.jpg",
-          "url": "https://t.co/nVZAXBRSxF",
-          "display_url": "pic.twitter.com/nVZAXBRSxF",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/776845639032381440/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 426,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1330,
-              "h": 472,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 241,
-              "resize": "fit"
-            }
-          }
+          ]
         }
       ]
     },
@@ -151,8 +94,8 @@
       95778308
     ],
     "is_quote_status": false,
-    "retweet_count": 9,
-    "favorite_count": 10,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
