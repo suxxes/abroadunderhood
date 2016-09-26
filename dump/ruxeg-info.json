@@ -37,105 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 3877,
+  "followers_count": 3876,
   "friends_count": 0,
   "listed_count": 128,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 834,
+  "favourites_count": 835,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": false,
   "verified": false,
-  "statuses_count": 27766,
+  "statuses_count": 27767,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Sep 26 13:52:43 +0000 2016",
-    "id": 780404737636261900,
-    "id_str": "780404737636261888",
-    "text": "RT @achkasov: @abroadunderhood у нас в отдел устроилась девушка из Литвы. За обедом сразу спросила нужна ли мне гречка, т.к. ей родители мн…",
+    "created_at": "Mon Sep 26 13:54:45 +0000 2016",
+    "id": 780405250045931500,
+    "id_str": "780405250045931520",
+    "text": "@dcromster опыта с местными не было )",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "achkasov",
-          "name": "Dmitry Achkasov",
-          "id": 105991888,
-          "id_str": "105991888",
+          "screen_name": "dcromster",
+          "name": "Roman Milovskiy",
+          "id": 81103006,
+          "id_str": "81103006",
           "indices": [
-            3,
-            12
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андэрхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            14,
-            30
+            0,
+            10
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 780404784067145700,
+    "in_reply_to_status_id_str": "780404784067145729",
+    "in_reply_to_user_id": 81103006,
+    "in_reply_to_user_id_str": "81103006",
+    "in_reply_to_screen_name": "dcromster",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Sep 26 13:48:03 +0000 2016",
-      "id": 780403565949050900,
-      "id_str": "780403565949050880",
-      "text": "@abroadunderhood у нас в отдел устроилась девушка из Литвы. За обедом сразу спросила нужна ли мне гречка, т.к. ей родители много отправили )",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андэрхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 780400422318174200,
-      "in_reply_to_status_id_str": "780400422318174208",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
