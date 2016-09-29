@@ -37,82 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3884,
+  "followers_count": 3885,
   "friends_count": 0,
-  "listed_count": 135,
+  "listed_count": 137,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 884,
+  "favourites_count": 908,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28120,
+  "statuses_count": 28285,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Sep 28 18:33:08 +0000 2016",
-    "id": 781200081596870700,
-    "id_str": "781200081596870656",
-    "text": "@olyapka я уже пробовал сс картошкой, очень ок)",
+    "created_at": "Thu Sep 29 23:39:17 +0000 2016",
+    "id": 781639517270896600,
+    "id_str": "781639517270896640",
+    "text": "Так, Лондон идёт спать (на самом деле нет), увидимся завтра :)\nДоброй ночи",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "olyapka",
-          "name": "olyapka",
-          "id": 10533432,
-          "id_str": "10533432",
-          "indices": [
-            0,
-            8
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 781194975463825400,
-    "in_reply_to_status_id_str": "781194975463825409",
-    "in_reply_to_user_id": 10533432,
-    "in_reply_to_user_id_str": "10533432",
-    "in_reply_to_screen_name": "olyapka",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "06b9691f34c91d1c",
-      "url": "https://api.twitter.com/1.1/geo/id/06b9691f34c91d1c.json",
-      "place_type": "city",
-      "name": "Tottenham",
-      "full_name": "Tottenham, London",
-      "country_code": "GB",
-      "country": "United Kingdom",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.170246,
-              51.564585
-            ],
-            [
-              -0.034078,
-              51.564585
-            ],
-            [
-              -0.034078,
-              51.6112184
-            ],
-            [
-              -0.170246,
-              51.6112184
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
