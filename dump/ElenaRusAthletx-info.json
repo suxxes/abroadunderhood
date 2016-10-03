@@ -37,59 +37,57 @@
     }
   },
   "protected": false,
-  "followers_count": 3904,
+  "followers_count": 3898,
   "friends_count": 0,
-  "listed_count": 136,
+  "listed_count": 135,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 951,
+  "favourites_count": 967,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 28720,
+  "statuses_count": 28855,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Oct 03 13:01:02 +0000 2016",
-    "id": 782928448914325500,
-    "id_str": "782928448914325504",
-    "text": "Вы шутите, а Нью-Йорк и правда очень уязвимое место. Плотность населения большая, вода со всех сторон, основное соо… https://t.co/HVptk6ogeg",
-    "truncated": true,
+    "created_at": "Mon Oct 03 22:47:22 +0000 2016",
+    "id": 783076000959762400,
+    "id_str": "783076000959762434",
+    "text": "@grim_juz возможно, я просто не по этому делу, никогда не интересовалась",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/HVptk6ogeg",
-          "expanded_url": "https://twitter.com/i/web/status/782928448914325504",
-          "display_url": "twitter.com/i/web/status/7…",
+          "screen_name": "grim_juz",
+          "name": "teška hughes",
+          "id": 2774887892,
+          "id_str": "2774887892",
           "indices": [
-            117,
-            140
+            0,
+            9
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 783074652646244400,
+    "in_reply_to_status_id_str": "783074652646244352",
+    "in_reply_to_user_id": 2774887892,
+    "in_reply_to_user_id_str": "2774887892",
+    "in_reply_to_screen_name": "grim_juz",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       69359445
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 782927248533913600,
-    "quoted_status_id_str": "782927248533913600",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
