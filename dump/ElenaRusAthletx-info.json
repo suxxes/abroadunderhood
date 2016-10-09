@@ -37,28 +37,38 @@
     }
   },
   "protected": false,
-  "followers_count": 3870,
+  "followers_count": 3871,
   "friends_count": 0,
   "listed_count": 134,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 1211,
+  "favourites_count": 1233,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 30164,
+  "statuses_count": 30180,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Oct 09 04:33:00 +0000 2016",
-    "id": 784974924851150800,
-    "id_str": "784974924851150848",
-    "text": "Пишите вопросы! Отвечу и подведу итоги. Вроде все основное рассказала:)",
-    "truncated": false,
+    "created_at": "Sun Oct 09 16:26:57 +0000 2016",
+    "id": 785154595542753300,
+    "id_str": "785154595542753280",
+    "text": "Китайские дешевле особенно если не заранее покупать а за день-два до выезда. Но в целом да, Greyhound, Bolt Bus, Me… https://t.co/i02635KPA1",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/i02635KPA1",
+          "expanded_url": "https://twitter.com/i/web/status/785154595542753280",
+          "display_url": "twitter.com/i/web/status/7…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -72,11 +82,14 @@
     "contributors": [
       69359445
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 785132983338475500,
+    "quoted_status_id_str": "785132983338475520",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
