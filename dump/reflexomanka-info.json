@@ -37,59 +37,46 @@
     }
   },
   "protected": false,
-  "followers_count": 4053,
+  "followers_count": 4054,
   "friends_count": 0,
-  "listed_count": 132,
+  "listed_count": 133,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 1725,
+  "favourites_count": 1861,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 33352,
+  "statuses_count": 33822,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 15 16:23:34 +0000 2016",
-    "id": 798562092592861200,
-    "id_str": "798562092592861184",
-    "text": "\"Хуже не будет\" или \"не повредит\" https://t.co/41ftkMPjq1",
+    "created_at": "Sat Nov 19 23:49:18 +0000 2016",
+    "id": 800123817976860700,
+    "id_str": "800123817976860672",
+    "text": "Если семейного врача нет, то идут в walk-in клинику, и там тоже терапевт принимает аналогичное решение",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/41ftkMPjq1",
-          "expanded_url": "https://twitter.com/gearmobile/status/798561905954750464",
-          "display_url": "twitter.com/gearmobile/sta…",
-          "indices": [
-            34,
-            57
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 800123643762266100,
+    "in_reply_to_status_id_str": "800123643762266112",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       397286703
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 798561905954750500,
-    "quoted_status_id_str": "798561905954750464",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
