@@ -37,46 +37,59 @@
     }
   },
   "protected": false,
-  "followers_count": 4054,
+  "followers_count": 4056,
   "friends_count": 0,
   "listed_count": 133,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 1861,
+  "favourites_count": 1875,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 33822,
+  "statuses_count": 33933,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Nov 19 23:49:18 +0000 2016",
-    "id": 800123817976860700,
-    "id_str": "800123817976860672",
-    "text": "Если семейного врача нет, то идут в walk-in клинику, и там тоже терапевт принимает аналогичное решение",
-    "truncated": false,
+    "created_at": "Sun Nov 20 15:36:44 +0000 2016",
+    "id": 800362248208351200,
+    "id_str": "800362248208351232",
+    "text": "Я ж просто ещё рожала в 23, а вот после 35 тут уже в спец клиниках мамы наблюдаются, и больше анализов сдают, наско… https://t.co/YmG8sDd7LK",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/YmG8sDd7LK",
+          "expanded_url": "https://twitter.com/i/web/status/800362248208351232",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-    "in_reply_to_status_id": 800123643762266100,
-    "in_reply_to_status_id_str": "800123643762266112",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": [
       397286703
     ],
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 800361904950673400,
+    "quoted_status_id_str": "800361904950673409",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
