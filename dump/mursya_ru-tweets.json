@@ -1,0 +1,664 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 21 06:57:48 +0000 2016",
+      "id": 800594043721969700,
+      "id_str": "800594043721969664",
+      "text": "Привет всем! Я @mursya_ru, и эту неделю я буду с вами :)\n\nНа фото текущий момент — темное Амстердамское утро (почти… https://t.co/eKvHArjK7N",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mursya_ru",
+            "name": "Елена Джетпыспаева",
+            "id": 68250765,
+            "id_str": "68250765",
+            "indices": [
+              15,
+              25
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eKvHArjK7N",
+            "expanded_url": "https://twitter.com/i/web/status/800594043721969664",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "8a0aa2774e7cb37c",
+        "url": "https://api.twitter.com/1.1/geo/id/8a0aa2774e7cb37c.json",
+        "place_type": "admin",
+        "name": "Noord-Holland",
+        "full_name": "Noord-Holland, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.4744202,
+                52.1657429
+              ],
+              [
+                5.3776278,
+                52.1657429
+              ],
+              [
+                5.3776278,
+                53.2139128
+              ],
+              [
+                4.4744202,
+                53.2139128
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:00:22 +0000 2016",
+      "id": 800594686813605900,
+      "id_str": "800594686813605888",
+      "text": "Работаю маркетологом в Bright Computing (@BrightDevTeam) — cluster/cloud management software\n\nПереехала в 2015 из Москвы, работала в Яндексе",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "BrightDevTeam",
+            "name": "Bright Developers",
+            "id": 743377188372676600,
+            "id_str": "743377188372676608",
+            "indices": [
+              41,
+              55
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800594043721969700,
+      "in_reply_to_status_id_str": "800594043721969664",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Nov 21 07:02:41 +0000 2016",
+      "id": 800595268618059800,
+      "id_str": "800595268618059776",
+      "text": "Темы на эту неделю: поиск работы оттуда и на месте, переезд, жизнь, туризм, еда, коммьюнити, работа, люди, медицина + фоточки 😉",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:03:41 +0000 2016",
+      "id": 800595520947388400,
+      "id_str": "800595520947388416",
+      "text": "Чтобы неделя прошла для вас с пользой, пишите вопросы, предлагайте темы!\n\nПостараюсь найти ответы или подсказать, у кого спросить ☺️",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800595268618059800,
+      "in_reply_to_status_id_str": "800595268618059776",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:05:05 +0000 2016",
+      "id": 800595875584217100,
+      "id_str": "800595875584217088",
+      "text": "Надеюсь, нам вместе будет интересно, уютно, полезно и хорошо 🙃\n\nПриятного пробуждения и отличного понедельника!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800595520947388400,
+      "in_reply_to_status_id_str": "800595520947388416",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:05:40 +0000 2016",
+      "id": 800596019402641400,
+      "id_str": "800596019402641408",
+      "text": "@iShprot постараюсь :) спасибо!!!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iShprot",
+            "name": "Shprot",
+            "id": 325109589,
+            "id_str": "325109589",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800594892699344900,
+      "in_reply_to_status_id_str": "800594892699344896",
+      "in_reply_to_user_id": 325109589,
+      "in_reply_to_user_id_str": "325109589",
+      "in_reply_to_screen_name": "iShprot",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:06:47 +0000 2016",
+      "id": 800596303369662500,
+      "id_str": "800596303369662464",
+      "text": "@FancyWriter нет, только сегодня, чтобы успеть начать трансляцию и сделать кое-какие дела до работы :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FancyWriter",
+            "name": "Pavel Kozlov",
+            "id": 766347187,
+            "id_str": "766347187",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800595827685109800,
+      "in_reply_to_status_id_str": "800595827685109760",
+      "in_reply_to_user_id": 766347187,
+      "in_reply_to_user_id_str": "766347187",
+      "in_reply_to_screen_name": "FancyWriter",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 07:27:54 +0000 2016",
+      "id": 800601615829004300,
+      "id_str": "800601615829004288",
+      "text": "@D0NM спасибо :) попробую не разочаровать!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "D0NM",
+            "name": "D0N MIGUEL ☭ D0R",
+            "id": 29412598,
+            "id_str": "29412598",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800597529368924200,
+      "in_reply_to_status_id_str": "800597529368924160",
+      "in_reply_to_user_id": 29412598,
+      "in_reply_to_user_id_str": "29412598",
+      "in_reply_to_screen_name": "D0NM",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 21 08:27:31 +0000 2016",
+      "id": 800616619156193300,
+      "id_str": "800616619156193280",
+      "text": "На ближайшие 8 часов не теряйте! Буду в работе, мыслями с вами :)\n\nКак закончится рабочий день, напишу вам разного интересного. Мониторю ?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 800595875584217100,
+      "in_reply_to_status_id_str": "800595875584217088",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
