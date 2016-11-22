@@ -26,52 +26,83 @@
     }
   },
   "protected": false,
-  "followers_count": 4094,
+  "followers_count": 4106,
   "friends_count": 0,
   "listed_count": 133,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 1959,
+  "favourites_count": 2005,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34066,
+  "statuses_count": 34141,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 21 23:55:41 +0000 2016",
-    "id": 800850200055058400,
-    "id_str": "800850200055058432",
-    "text": "На этой 💤 ноте желаю спокойной ночи и приятного пробуждения!\n\nНас ждут ответы на ? с утра и целый день разговоров п… https://t.co/YsvbD9545y",
-    "truncated": true,
+    "created_at": "Tue Nov 22 21:27:50 +0000 2016",
+    "id": 801175380216414200,
+    "id_str": "801175380216414208",
+    "text": "@cremonaaa @afonin @tyurin_tyurin мы миримся с паучарами и silverfish https://t.co/wI2ax74l7b",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "cremonaaa",
+          "name": "Julia Antonova",
+          "id": 318960665,
+          "id_str": "318960665",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "afonin",
+          "name": "Sergey Afonin",
+          "id": 19809150,
+          "id_str": "19809150",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "screen_name": "tyurin_tyurin",
+          "name": "Alx",
+          "id": 484696133,
+          "id_str": "484696133",
+          "indices": [
+            19,
+            33
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/YsvbD9545y",
-          "expanded_url": "https://twitter.com/i/web/status/800850200055058432",
-          "display_url": "twitter.com/i/web/status/8…",
+          "url": "https://t.co/wI2ax74l7b",
+          "expanded_url": "https://en.wikipedia.org/wiki/Silverfish",
+          "display_url": "en.wikipedia.org/wiki/Silverfish",
           "indices": [
-            117,
-            140
+            70,
+            93
           ]
         }
       ]
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 800848222985949200,
-    "in_reply_to_status_id_str": "800848222985949184",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": 801171889859088400,
+    "in_reply_to_status_id_str": "801171889859088385",
+    "in_reply_to_user_id": 318960665,
+    "in_reply_to_user_id_str": "318960665",
+    "in_reply_to_screen_name": "cremonaaa",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
