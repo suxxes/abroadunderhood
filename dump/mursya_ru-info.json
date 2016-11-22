@@ -26,77 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 4090,
+  "followers_count": 4094,
   "friends_count": 0,
   "listed_count": 133,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 1929,
+  "favourites_count": 1959,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34008,
+  "statuses_count": 34066,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Nov 21 08:27:31 +0000 2016",
-    "id": 800616619156193300,
-    "id_str": "800616619156193280",
-    "text": "На ближайшие 8 часов не теряйте! Буду в работе, мыслями с вами :)\n\nКак закончится рабочий день, напишу вам разного интересного. Мониторю ?",
-    "truncated": false,
+    "created_at": "Mon Nov 21 23:55:41 +0000 2016",
+    "id": 800850200055058400,
+    "id_str": "800850200055058432",
+    "text": "На этой 💤 ноте желаю спокойной ночи и приятного пробуждения!\n\nНас ждут ответы на ? с утра и целый день разговоров п… https://t.co/YsvbD9545y",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/YsvbD9545y",
+          "expanded_url": "https://twitter.com/i/web/status/800850200055058432",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 800595875584217100,
-    "in_reply_to_status_id_str": "800595875584217088",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": 800848222985949200,
+    "in_reply_to_status_id_str": "800848222985949184",
     "in_reply_to_user_id": 3955812173,
     "in_reply_to_user_id_str": "3955812173",
     "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "99cdab25eddd6bce",
-      "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
-      "place_type": "city",
-      "name": "Amsterdam",
-      "full_name": "Amsterdam, Nederland",
-      "country_code": "NL",
-      "country": "Nederland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.7288999,
-              52.2782266
-            ],
-            [
-              5.0792072,
-              52.2782266
-            ],
-            [
-              5.0792072,
-              52.4312289
-            ],
-            [
-              4.7288999,
-              52.4312289
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
