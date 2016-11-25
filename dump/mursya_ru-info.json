@@ -5,7 +5,7 @@
   "screen_name": "abroadunderhood",
   "location": "Amsterdam, The Netherlands",
   "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @mursya_ru",
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @mursya_ru / @mursya",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
     "url": {
@@ -26,76 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 4106,
+  "followers_count": 4107,
   "friends_count": 0,
   "listed_count": 133,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2005,
+  "favourites_count": 2046,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 34141,
+  "statuses_count": 34320,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Nov 22 21:27:50 +0000 2016",
-    "id": 801175380216414200,
-    "id_str": "801175380216414208",
-    "text": "@cremonaaa @afonin @tyurin_tyurin мы миримся с паучарами и silverfish https://t.co/wI2ax74l7b",
+    "created_at": "Fri Nov 25 15:38:15 +0000 2016",
+    "id": 802174570522411000,
+    "id_str": "802174570522411008",
+    "text": "@idajantis @f1yegor не облагаются или облагаются?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "cremonaaa",
-          "name": "Julia Antonova",
-          "id": 318960665,
-          "id_str": "318960665",
+          "screen_name": "idajantis",
+          "name": "Dmitry Ivanov",
+          "id": 113651615,
+          "id_str": "113651615",
           "indices": [
             0,
             10
           ]
         },
         {
-          "screen_name": "afonin",
-          "name": "Sergey Afonin",
-          "id": 19809150,
-          "id_str": "19809150",
+          "screen_name": "f1yegor",
+          "name": "Yegor Andreenko",
+          "id": 2159344531,
+          "id_str": "2159344531",
           "indices": [
             11,
-            18
-          ]
-        },
-        {
-          "screen_name": "tyurin_tyurin",
-          "name": "Alx",
-          "id": 484696133,
-          "id_str": "484696133",
-          "indices": [
-            19,
-            33
+            19
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/wI2ax74l7b",
-          "expanded_url": "https://en.wikipedia.org/wiki/Silverfish",
-          "display_url": "en.wikipedia.org/wiki/Silverfish",
-          "indices": [
-            70,
-            93
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 801171889859088400,
-    "in_reply_to_status_id_str": "801171889859088385",
-    "in_reply_to_user_id": 318960665,
-    "in_reply_to_user_id_str": "318960665",
-    "in_reply_to_screen_name": "cremonaaa",
+    "in_reply_to_status_id": 802140022656954400,
+    "in_reply_to_status_id_str": "802140022656954369",
+    "in_reply_to_user_id": 113651615,
+    "in_reply_to_user_id_str": "113651615",
+    "in_reply_to_screen_name": "idajantis",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -105,7 +85,6 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
