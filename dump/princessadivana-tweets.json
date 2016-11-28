@@ -1,0 +1,592 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 28 15:10:52 +0000 2016",
+      "id": 803254840335831000,
+      "id_str": "803254840335831041",
+      "text": "Всем привет! Меня зовут Диана. С небольшим опозданием начинаю неделю вещания из не такой уж заграницы Польши, а конкретно Варшавы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:12:07 +0000 2016",
+      "id": 803255154296455200,
+      "id_str": "803255154296455168",
+      "text": "Какого-то конкретного плана повествования у меня нет, поэтому буду рада любым вопросам и темам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803254840335831000,
+      "in_reply_to_status_id_str": "803254840335831041",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:14:56 +0000 2016",
+      "id": 803255864899543000,
+      "id_str": "803255864899543040",
+      "text": "Моя история будет отличаться от 90% того,что я успела прочитать в этом аккаунте по 2 причинам\n1 у меня нет мужа/жениха айтишника (пока что))",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803255154296455200,
+      "in_reply_to_status_id_str": "803255154296455168",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:15:54 +0000 2016",
+      "id": 803256108555104300,
+      "id_str": "803256108555104256",
+      "text": "... и сама с айти я тоже не связана\n2 у меня польское происхождение",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803255864899543000,
+      "in_reply_to_status_id_str": "803255864899543040",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:17:03 +0000 2016",
+      "id": 803256397974667300,
+      "id_str": "803256397974667264",
+      "text": "@ELukyanov  кстати именно @olyapka подтолкнула меня к тому, чтобы провести неделю здесь:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ELukyanov",
+            "name": "Лукьянов Евгений А.",
+            "id": 169993781,
+            "id_str": "169993781",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              26,
+              34
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803255337184821200,
+      "in_reply_to_status_id_str": "803255337184821248",
+      "in_reply_to_user_id": 169993781,
+      "in_reply_to_user_id_str": "169993781",
+      "in_reply_to_screen_name": "ELukyanov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:20:05 +0000 2016",
+      "id": 803257159530250200,
+      "id_str": "803257159530250240",
+      "text": "В Варшаве я живу 3 года. За это время успела получить права, диплом бакалавра (finance and accounting) и ПМЖ, съездить на Эразмус.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:20:59 +0000 2016",
+      "id": 803257387503194100,
+      "id_str": "803257387503194112",
+      "text": "Сейчас я работаю во французском инвестиционном банке, собираю документы на гражданство и готовлюсь к магистратуре.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803257159530250200,
+      "in_reply_to_status_id_str": "803257159530250240",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:21:52 +0000 2016",
+      "id": 803257609008582700,
+      "id_str": "803257609008582656",
+      "text": "Так что на все эти темы могу поооворить долго и много:)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 803257387503194100,
+      "in_reply_to_status_id_str": "803257387503194112",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:29:30 +0000 2016",
+      "id": 803259530297667600,
+      "id_str": "803259530297667584",
+      "text": "Моими условиями переезда была общага и учеба впереди.))\nВообще переехать достаточно легко, по крайней мере с визой… https://t.co/uJJSzzJvTC",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uJJSzzJvTC",
+            "expanded_url": "https://twitter.com/i/web/status/803259530297667584",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 803255395112325100,
+      "quoted_status_id_str": "803255395112325120",
+      "quoted_status": {
+        "created_at": "Mon Nov 28 15:13:04 +0000 2016",
+        "id": 803255395112325100,
+        "id_str": "803255395112325120",
+        "text": "@abroadunderhood Легко ли переехать, кого любят перевозить, кого нет. Условия переезда?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 803254840335831000,
+        "in_reply_to_status_id_str": "803254840335831041",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 15528455,
+          "id_str": "15528455"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:29:50 +0000 2016",
+      "id": 803259613139337200,
+      "id_str": "803259613139337217",
+      "text": "Я из Минска, Беларусь. https://t.co/1ZncB7dwU0",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1ZncB7dwU0",
+            "expanded_url": "https://twitter.com/olyapka/status/803255664147501056",
+            "display_url": "twitter.com/olyapka/status…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 803255664147501000,
+      "quoted_status_id_str": "803255664147501056",
+      "quoted_status": {
+        "created_at": "Mon Nov 28 15:14:08 +0000 2016",
+        "id": 803255664147501000,
+        "id_str": "803255664147501056",
+        "text": "@abroadunderhood а откуда вы изначально?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 803254840335831000,
+        "in_reply_to_status_id_str": "803254840335831041",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "341052b72a294f4b",
+          "url": "https://api.twitter.com/1.1/geo/id/341052b72a294f4b.json",
+          "place_type": "city",
+          "name": "Lublin",
+          "full_name": "Lublin, Polska",
+          "country_code": "PL",
+          "country": "Polska",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.453445,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.29656
+                ],
+                [
+                  22.453445,
+                  51.29656
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 28 15:31:44 +0000 2016",
+      "id": 803260091260665900,
+      "id_str": "803260091260665856",
+      "text": "Не только айтишники по заграницам выезжают! https://t.co/2B05KIYK9J",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2B05KIYK9J",
+            "expanded_url": "https://twitter.com/scarcelyiam/status/803256402160422913",
+            "display_url": "twitter.com/scarcelyiam/st…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 803256402160422900,
+      "quoted_status_id_str": "803256402160422913",
+      "quoted_status": {
+        "created_at": "Mon Nov 28 15:17:04 +0000 2016",
+        "id": 803256402160422900,
+        "id_str": "803256402160422913",
+        "text": "@abroadunderhood ничего себе! на аброде наконец-то кто-то не из айти!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 803256108555104300,
+        "in_reply_to_status_id_str": "803256108555104256",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 60628838,
+          "id_str": "60628838"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
