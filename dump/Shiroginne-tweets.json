@@ -1,0 +1,446 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 05 10:05:37 +0000 2016",
+      "id": 805714737992499200,
+      "id_str": "805714737992499200",
+      "text": "Доброе утро! (у нас еще утро)\n\nНачну через пару помидоров :) https://t.co/SFH4K7pkTx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 805714725216587800,
+            "id_str": "805714725216587776",
+            "indices": [
+              61,
+              84
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cy55RhLWEAAEuBT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy55RhLWEAAEuBT.jpg",
+            "url": "https://t.co/SFH4K7pkTx",
+            "display_url": "pic.twitter.com/SFH4K7pkTx",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/805714737992499200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1801,
+                "h": 1350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 805714725216587800,
+            "id_str": "805714725216587776",
+            "indices": [
+              61,
+              84
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cy55RhLWEAAEuBT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cy55RhLWEAAEuBT.jpg",
+            "url": "https://t.co/SFH4K7pkTx",
+            "display_url": "pic.twitter.com/SFH4K7pkTx",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/805714737992499200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1801,
+                "h": 1350,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:15:05 +0000 2016",
+      "id": 805732220929536000,
+      "id_str": "805732220929536000",
+      "text": "6, если быть точным: Ordnung muss sein! https://t.co/SRu2Eoqfwb",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SRu2Eoqfwb",
+            "expanded_url": "https://twitter.com/FancyWriter/status/805718806098284544",
+            "display_url": "twitter.com/FancyWriter/st…",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 805718806098284500,
+      "quoted_status_id_str": "805718806098284544",
+      "quoted_status": {
+        "created_at": "Mon Dec 05 10:21:47 +0000 2016",
+        "id": 805718806098284500,
+        "id_str": "805718806098284544",
+        "text": "@Lidler @GolubevVictor @abroadunderhood а вот про четвёрый рейх уже раз десятый пишут наверное. Первый раз было интересно, да.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Lidler",
+              "name": "Eugenio",
+              "id": 25740113,
+              "id_str": "25740113",
+              "indices": [
+                0,
+                7
+              ]
+            },
+            {
+              "screen_name": "GolubevVictor",
+              "name": "Виктор Голубев",
+              "id": 3015120976,
+              "id_str": "3015120976",
+              "indices": [
+                8,
+                22
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                23,
+                39
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 805718492750213100,
+        "in_reply_to_status_id_str": "805718492750213120",
+        "in_reply_to_user_id": 25740113,
+        "in_reply_to_user_id_str": "25740113",
+        "in_reply_to_screen_name": "Lidler",
+        "user": {
+          "id": 766347187,
+          "id_str": "766347187"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Dec 05 11:15:46 +0000 2016",
+      "id": 805732392250077200,
+      "id_str": "805732392250077185",
+      "text": ".@olyapka спрашивала что за помидоры и стоит ли в меня их кидать: стоит :) я вот про эту штуку https://t.co/y7jykUsXg2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              1,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/y7jykUsXg2",
+            "expanded_url": "http://cirillocompany.de/pages/pomodoro-technique",
+            "display_url": "cirillocompany.de/pages/pomodoro…",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:16:05 +0000 2016",
+      "id": 805732470561931300,
+      "id_str": "805732470561931264",
+      "text": "У нас тут work/twitter balance не прописан, поэтому в рабочее время только в перерывы ¯\\_(ツ)_/¯",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:17:12 +0000 2016",
+      "id": 805732751953588200,
+      "id_str": "805732751953588224",
+      "text": "Формальное приветствие: добрый день, меня зовут Евгений (в интернетах Mac Shifford), живу в Германии в земле, которой не должно было быть*",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:17:43 +0000 2016",
+      "id": 805732880995520500,
+      "id_str": "805732880995520513",
+      "text": "*по моему мнению, потому что: пива нет совсем, зато есть вино, вокруг одни виноградники и виноделы, шницели стоят непомерно дорого (15€+)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:18:23 +0000 2016",
+      "id": 805733049497452500,
+      "id_str": "805733049497452544",
+      "text": "а большинство табличек в городе продублированы французским языком. Земля - Рейнланд-Пфальца и город Майнц 🌇",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 05 11:19:23 +0000 2016",
+      "id": 805733299964481500,
+      "id_str": "805733299964481536",
+      "text": "К величайшему сожалению - программист и переехал по БК ¯\\_(ツ)_/¯\n\nПереехал с супругой и 2 котами",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
