@@ -26,7 +26,7 @@
     }
   },
   "protected": false,
-  "followers_count": 4089,
+  "followers_count": 4090,
   "friends_count": 0,
   "listed_count": 138,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -35,19 +35,29 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 35393,
+  "statuses_count": 35455,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 05 11:19:23 +0000 2016",
-    "id": 805733299964481500,
-    "id_str": "805733299964481536",
-    "text": "К величайшему сожалению - программист и переехал по БК ¯\\_(ツ)_/¯\n\nПереехал с супругой и 2 котами",
+    "created_at": "Mon Dec 05 15:49:56 +0000 2016",
+    "id": 805801389507145700,
+    "id_str": "805801389507145728",
+    "text": "Для любителей велосипедов, тут рядом небольшой маршрут есть https://t.co/MPJt49W36Y вокруг Майнца ~10-20 км будет по виноградникам",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/MPJt49W36Y",
+          "expanded_url": "http://www.biroto.eu/en/cycle-route/germany/hessian-long-distance-cycling-route-r3-rhine-main-kinzig-r3/rt00000246",
+          "display_url": "biroto.eu/en/cycle-route…",
+          "indices": [
+            60,
+            83
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
@@ -61,9 +71,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
