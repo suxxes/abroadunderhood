@@ -26,108 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 4090,
+  "followers_count": 4086,
   "friends_count": 0,
-  "listed_count": 138,
+  "listed_count": 140,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2109,
+  "favourites_count": 2119,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 35567,
+  "statuses_count": 35901,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Dec 06 08:44:13 +0000 2016",
-    "id": 806056639518408700,
-    "id_str": "806056639518408708",
-    "text": "Не месте https://t.co/R9HofySDwB",
+    "created_at": "Wed Dec 07 18:58:51 +0000 2016",
+    "id": 806573705291825200,
+    "id_str": "806573705291825159",
+    "text": "Я вот тоже пришла к этому же выводу https://t.co/Iw4ufu1siz",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 806056620857970700,
-          "id_str": "806056620857970689",
+          "url": "https://t.co/Iw4ufu1siz",
+          "expanded_url": "https://twitter.com/corristo/status/806554549314064385",
+          "display_url": "twitter.com/corristo/statu…",
           "indices": [
-            9,
-            32
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cy-wOdsXUAENjbb.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cy-wOdsXUAENjbb.jpg",
-          "url": "https://t.co/R9HofySDwB",
-          "display_url": "pic.twitter.com/R9HofySDwB",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/806056639518408708/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            }
-          }
+            36,
+            59
+          ]
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 806056620857970700,
-          "id_str": "806056620857970689",
-          "indices": [
-            9,
-            32
-          ],
-          "media_url": "http://pbs.twimg.com/media/Cy-wOdsXUAENjbb.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Cy-wOdsXUAENjbb.jpg",
-          "url": "https://t.co/R9HofySDwB",
-          "display_url": "pic.twitter.com/R9HofySDwB",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/806056639518408708/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 510,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 768,
-              "h": 1024,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -137,7 +69,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 806554549314064400,
+    "quoted_status_id_str": "806554549314064385",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
@@ -152,8 +86,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/805714468953067520/qSLyGk7X_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/805714468953067520/qSLyGk7X_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/806398244418949120/5-RJxEiB_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/806398244418949120/5-RJxEiB_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1480936310",
   "profile_link_color": "FF5032",
   "profile_sidebar_border_color": "000000",
