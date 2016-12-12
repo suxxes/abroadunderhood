@@ -1,0 +1,1189 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 12 09:40:06 +0000 2016",
+      "id": 808245032616595500,
+      "id_str": "808245032616595456",
+      "text": "привет! меня зовут Даша, на этой неделе буду рассказывать вам о жарком Кипре. самое время среди зимы 😆",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 09:41:22 +0000 2016",
+      "id": 808245351232761900,
+      "id_str": "808245351232761856",
+      "text": "сейчас я уже не живу на Кипре, так что прямой трансляции не будет. но будет куча воспоминаний и впечатлений за полтора года на острове",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808245032616595500,
+      "in_reply_to_status_id_str": "808245032616595456",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 09:43:47 +0000 2016",
+      "id": 808245959390064600,
+      "id_str": "808245959390064640",
+      "text": "мой переезд на остров очень необычный, не то что у вас всех, предыдущих авторов 😆",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808245351232761900,
+      "in_reply_to_status_id_str": "808245351232761856",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 09:46:18 +0000 2016",
+      "id": 808246592415432700,
+      "id_str": "808246592415432704",
+      "text": "попробуйте отгадать! попала я на остров потому что:",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808245959390064600,
+      "in_reply_to_status_id_str": "808245959390064640",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 09:47:42 +0000 2016",
+      "id": 808246944124534800,
+      "id_str": "808246944124534784",
+      "text": "пока вы отгадываете, я пойду поработаю",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808246592415432700,
+      "in_reply_to_status_id_str": "808246592415432704",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "99cdab25eddd6bce",
+        "url": "https://api.twitter.com/1.1/geo/id/99cdab25eddd6bce.json",
+        "place_type": "city",
+        "name": "Amsterdam",
+        "full_name": "Amsterdam, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.7288999,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.2782266
+              ],
+              [
+                5.0792072,
+                52.4312289
+              ],
+              [
+                4.7288999,
+                52.4312289
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:25:40 +0000 2016",
+      "id": 808256497515987000,
+      "id_str": "808256497515986944",
+      "text": "вы вот смеетесь, а я знаю чувака, который на Кипр попал из Африки в отделении для шасси самолета https://t.co/IWQTwvg4oJ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IWQTwvg4oJ",
+            "expanded_url": "https://twitter.com/vocxo/status/808246959928725504",
+            "display_url": "twitter.com/vocxo/status/8…",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 808246959928725500,
+      "quoted_status_id_str": "808246959928725504",
+      "quoted_status": {
+        "created_at": "Mon Dec 12 09:47:46 +0000 2016",
+        "id": 808246959928725500,
+        "id_str": "808246959928725504",
+        "text": "@abroadunderhood в Африке не было работы и пришлось плыть на надувном крокодиле?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume for Android</a>",
+        "in_reply_to_status_id": 808246592415432700,
+        "in_reply_to_status_id_str": "808246592415432704",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 13020892,
+          "id_str": "13020892"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:26:35 +0000 2016",
+      "id": 808256729196675100,
+      "id_str": "808256729196675072",
+      "text": "бежал от призыва в армию. потом его маму за это в тюрьму посадили",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 808256497515987000,
+      "in_reply_to_status_id_str": "808256497515986944",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:28:51 +0000 2016",
+      "id": 808257301132021800,
+      "id_str": "808257301132021760",
+      "text": "ужас какой! на Кипре сейчас +16. я хоть и не там, но за погодой посматриваю https://t.co/1OhRrevpKr",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1OhRrevpKr",
+            "expanded_url": "https://twitter.com/elukyanov/status/808246308553236480",
+            "display_url": "twitter.com/elukyanov/stat…",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 808246308553236500,
+      "quoted_status_id_str": "808246308553236480",
+      "quoted_status": {
+        "created_at": "Mon Dec 12 09:45:11 +0000 2016",
+        "id": 808246308553236500,
+        "id_str": "808246308553236480",
+        "text": "@abroadunderhood о, привет. Мы ждём минус 15 к концу недели 👍",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
+        "in_reply_to_status_id": 808245032616595500,
+        "in_reply_to_status_id_str": "808245032616595456",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 169993781,
+          "id_str": "169993781"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:30:03 +0000 2016",
+      "id": 808257601872023600,
+      "id_str": "808257601872023552",
+      "text": "ну а оказалось, что мужик программист https://t.co/YkD1XiLs62",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/YkD1XiLs62",
+            "expanded_url": "https://twitter.com/olse_est/status/808250359567253505",
+            "display_url": "twitter.com/olse_est/statu…",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 808250359567253500,
+      "quoted_status_id_str": "808250359567253505",
+      "quoted_status": {
+        "created_at": "Mon Dec 12 10:01:16 +0000 2016",
+        "id": 808250359567253500,
+        "id_str": "808250359567253505",
+        "text": "@abroadunderhood чорт, а я думал мужик программист..",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 808246592415432700,
+        "in_reply_to_status_id_str": "808246592415432704",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 990828758,
+          "id_str": "990828758"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:35:22 +0000 2016",
+      "id": 808258938273726500,
+      "id_str": "808258938273726464",
+      "text": "Эфиопия. летел в Израиль вообще, на Кипре случилась аварийная посадка, попросил политическое убежище, живет на Кипре https://t.co/Tvp32fHJbc",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Tvp32fHJbc",
+            "expanded_url": "https://twitter.com/truetobetrue/status/808257261130878976",
+            "display_url": "twitter.com/truetobetrue/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 808257261130879000,
+      "quoted_status_id_str": "808257261130878976",
+      "quoted_status": {
+        "created_at": "Mon Dec 12 10:28:42 +0000 2016",
+        "id": 808257261130879000,
+        "id_str": "808257261130878976",
+        "text": "@abroadunderhood офигеть, что за страна? и чем дело кончилось?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 808256729196675100,
+        "in_reply_to_status_id_str": "808256729196675072",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 169636821,
+          "id_str": "169636821"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:39:58 +0000 2016",
+      "id": 808260096799207400,
+      "id_str": "808260096799207425",
+      "text": "сегодня расскажу о моем переезде на остров, о перевозке кота, о простой легализации кота и непростой легализации меня",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:40:15 +0000 2016",
+      "id": 808260166789595100,
+      "id_str": "808260166789595136",
+      "text": "еще на этой неделе собираюсь охватить следующие темы: \nВТ\n- климат\n- устройство острова: города, дороги, транспорт и т.п.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260096799207400,
+      "in_reply_to_status_id_str": "808260096799207425",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:40:47 +0000 2016",
+      "id": 808260300348813300,
+      "id_str": "808260300348813312",
+      "text": "СР\n- местные и приезжие\n- цены\n- медицина и страховка",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260166789595100,
+      "in_reply_to_status_id_str": "808260166789595136",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:41:11 +0000 2016",
+      "id": 808260405021802500,
+      "id_str": "808260405021802496",
+      "text": "ЧТ практические советы\n- процесс поиска жилья, выбор и особенности жилья\n- получение водительских прав\n- покупка и продажа машины",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260300348813300,
+      "in_reply_to_status_id_str": "808260300348813312",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:42:03 +0000 2016",
+      "id": 808260619992531000,
+      "id_str": "808260619992530944",
+      "text": "ПТ о самом приятном\n- гастрономия\n- путешествия по острову",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260405021802500,
+      "in_reply_to_status_id_str": "808260405021802496",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:42:44 +0000 2016",
+      "id": 808260792298651600,
+      "id_str": "808260792298651648",
+      "text": "СБ и ВС\n- что очень бесит (причины валить не оглядываясь)\n- северная часть острова",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260619992531000,
+      "in_reply_to_status_id_str": "808260619992530944",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 12 10:43:50 +0000 2016",
+      "id": 808261071622602800,
+      "id_str": "808261071622602753",
+      "text": "прошу предлагать свои темы, если что-то не озвучила. что интересно узнать об острове?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 808260792298651600,
+      "in_reply_to_status_id_str": "808260792298651648",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "280b2451d4f8f73f",
+        "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
+        "place_type": "city",
+        "name": "Haarlem",
+        "full_name": "Haarlem, Nederland",
+        "country_code": "NL",
+        "country": "Nederland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                4.5993661,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.3388496
+              ],
+              [
+                4.6866562,
+                52.4287298
+              ],
+              [
+                4.5993661,
+                52.4287298
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
