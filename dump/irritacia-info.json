@@ -39,75 +39,55 @@
   "protected": false,
   "followers_count": 4088,
   "friends_count": 0,
-  "listed_count": 141,
+  "listed_count": 140,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2119,
+  "favourites_count": 2131,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 36403,
+  "statuses_count": 36757,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 12 10:43:50 +0000 2016",
-    "id": 808261071622602800,
-    "id_str": "808261071622602753",
-    "text": "прошу предлагать свои темы, если что-то не озвучила. что интересно узнать об острове?",
-    "truncated": false,
+    "created_at": "Wed Dec 14 22:29:16 +0000 2016",
+    "id": 809163375657816000,
+    "id_str": "809163375657816064",
+    "text": "меня вчера ТП назвали за то, что я негатив о Кипре пишу. да и не только меня, а всех девушек-авторов здесь. не трат… https://t.co/ibTgJ1n8Ro",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ibTgJ1n8Ro",
+          "expanded_url": "https://twitter.com/i/web/status/809163375657816064",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 808260792298651600,
-    "in_reply_to_status_id_str": "808260792298651648",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "280b2451d4f8f73f",
-      "url": "https://api.twitter.com/1.1/geo/id/280b2451d4f8f73f.json",
-      "place_type": "city",
-      "name": "Haarlem",
-      "full_name": "Haarlem, Nederland",
-      "country_code": "NL",
-      "country": "Nederland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              4.5993661,
-              52.3388496
-            ],
-            [
-              4.6866562,
-              52.3388496
-            ],
-            [
-              4.6866562,
-              52.4287298
-            ],
-            [
-              4.5993661,
-              52.4287298
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 809161511910473700,
+    "quoted_status_id_str": "809161511910473728",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
