@@ -1,0 +1,2436 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 19 08:43:43 +0000 2016",
+      "id": 810767555082289200,
+      "id_str": "810767555082289153",
+      "text": "Всем привет! Меня зовут Андрей. Я родом из Ярославля 🇷🇺, но с 2008 года живу в столице Австрии 🇦🇹 — городе Вене.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:45:26 +0000 2016",
+      "id": 810767986936180700,
+      "id_str": "810767986936180736",
+      "text": "Я постараюсь ответить на любые вопросы, так что не стесняйтесь и задавайте.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:48:22 +0000 2016",
+      "id": 810768724806500400,
+      "id_str": "810768724806500353",
+      "text": "Буду постить много фото, так как люблю фотографировать. Мой эккаунт на фликре: https://t.co/v30lSlMTyi",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v30lSlMTyi",
+            "expanded_url": "https://m.flickr.com/#/photos/andreika/",
+            "display_url": "m.flickr.com/#/photos/andre…",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:49:47 +0000 2016",
+      "id": 810769085122441200,
+      "id_str": "810769085122441216",
+      "text": "Айтишник, но без кота 😿 https://t.co/OhRm7q0Qf4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OhRm7q0Qf4",
+            "expanded_url": "https://twitter.com/Shiroginne/status/810768339651985408",
+            "display_url": "twitter.com/Shiroginne/sta…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810768339651985400,
+      "quoted_status_id_str": "810768339651985408",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:46:50 +0000 2016",
+        "id": 810768339651985400,
+        "id_str": "810768339651985408",
+        "text": "@abroadunderhood айтишник с котом? :)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 810767986936180700,
+        "in_reply_to_status_id_str": "810767986936180736",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:51:40 +0000 2016",
+      "id": 810769555610095600,
+      "id_str": "810769555610095616",
+      "text": "RT @achkasov: @abroadunderhood Ярославль классный!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "achkasov",
+            "name": "Dmitry Achkasov",
+            "id": 105991888,
+            "id_str": "105991888",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              14,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 19 08:47:52 +0000 2016",
+        "id": 810768601020067800,
+        "id_str": "810768601020067841",
+        "text": "@abroadunderhood Ярославль классный!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810767555082289200,
+        "in_reply_to_status_id_str": "810767555082289153",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:51:41 +0000 2016",
+      "id": 810769561465319400,
+      "id_str": "810769561465319424",
+      "text": "Спасибо! Я только что оттуда. Там холодно и сугробы. https://t.co/pvQrPgYC3i https://t.co/aUBHFYxc7c",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pvQrPgYC3i",
+            "expanded_url": "https://twitter.com/achkasov/status/810768601020067841",
+            "display_url": "twitter.com/achkasov/statu…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 810769538807726100,
+            "id_str": "810769538807726081",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0BumZNXgAE-ykk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0BumZNXgAE-ykk.jpg",
+            "url": "https://t.co/aUBHFYxc7c",
+            "display_url": "pic.twitter.com/aUBHFYxc7c",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810769561465319424/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 810769538807726100,
+            "id_str": "810769538807726081",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0BumZNXgAE-ykk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0BumZNXgAE-ykk.jpg",
+            "url": "https://t.co/aUBHFYxc7c",
+            "display_url": "pic.twitter.com/aUBHFYxc7c",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810769561465319424/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810768601020067800,
+      "quoted_status_id_str": "810768601020067841",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:47:52 +0000 2016",
+        "id": 810768601020067800,
+        "id_str": "810768601020067841",
+        "text": "@abroadunderhood Ярославль классный!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810767555082289200,
+        "in_reply_to_status_id_str": "810767555082289153",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 105991888,
+          "id_str": "105991888"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:54:26 +0000 2016",
+      "id": 810770251747094500,
+      "id_str": "810770251747094528",
+      "text": "Я работаю. фронтенд разработчиком. Сейчас на фрилансе. Работал в местных компаниях, но больше удаленно.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:56:58 +0000 2016",
+      "id": 810770890346598400,
+      "id_str": "810770890346598400",
+      "text": "Ещё я совладелец third-wave  кофейни @kaffemik в центре Вены. https://t.co/NIHPVhNUn4 https://t.co/t1p8iRry9R",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kaffemik",
+            "name": "kaffemik",
+            "id": 2400328704,
+            "id_str": "2400328704",
+            "indices": [
+              37,
+              46
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/NIHPVhNUn4",
+            "expanded_url": "https://www.kaffemik.at/",
+            "display_url": "kaffemik.at",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 810770877713449000,
+            "id_str": "810770877713448961",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+            "url": "https://t.co/t1p8iRry9R",
+            "display_url": "pic.twitter.com/t1p8iRry9R",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810770890346598400/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 810770877713449000,
+            "id_str": "810770877713448961",
+            "indices": [
+              86,
+              109
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+            "url": "https://t.co/t1p8iRry9R",
+            "display_url": "pic.twitter.com/t1p8iRry9R",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810770890346598400/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1280,
+                "h": 853,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:58:52 +0000 2016",
+      "id": 810771369935929300,
+      "id_str": "810771369935929344",
+      "text": "Если будете в Вене, обязательно заходите. У нас очень хороший кофе. Zollergasse 5, 1070 Wien. https://t.co/JwWiodDkIC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/JwWiodDkIC",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810770890346598400",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 810770890346598400,
+      "in_reply_to_status_id_str": "810770890346598400",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.19905753,
+          16.35131778
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.35131778,
+          48.19905753
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810770890346598400,
+      "quoted_status_id_str": "810770890346598400",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:56:58 +0000 2016",
+        "id": 810770890346598400,
+        "id_str": "810770890346598400",
+        "text": "Ещё я совладелец third-wave  кофейни @kaffemik в центре Вены. https://t.co/NIHPVhNUn4 https://t.co/t1p8iRry9R",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "kaffemik",
+              "name": "kaffemik",
+              "id": 2400328704,
+              "id_str": "2400328704",
+              "indices": [
+                37,
+                46
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/NIHPVhNUn4",
+              "expanded_url": "https://www.kaffemik.at/",
+              "display_url": "kaffemik.at",
+              "indices": [
+                62,
+                85
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 810770877713449000,
+              "id_str": "810770877713448961",
+              "indices": [
+                86,
+                109
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+              "url": "https://t.co/t1p8iRry9R",
+              "display_url": "pic.twitter.com/t1p8iRry9R",
+              "expanded_url": "https://twitter.com/abroadunderhood/status/810770890346598400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 853,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 810770877713449000,
+              "id_str": "810770877713448961",
+              "indices": [
+                86,
+                109
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0Bv0VBXgAEZZUJ.jpg",
+              "url": "https://t.co/t1p8iRry9R",
+              "display_url": "pic.twitter.com/t1p8iRry9R",
+              "expanded_url": "https://twitter.com/abroadunderhood/status/810770890346598400/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 800,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 453,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 1280,
+                  "h": 853,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3955812173,
+          "id_str": "3955812173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "9f659d51e5c5deae",
+          "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+          "place_type": "city",
+          "name": "Wien",
+          "full_name": "Wien, Österreich",
+          "country_code": "AT",
+          "country": "Österreich",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16.18218,
+                  48.117666
+                ],
+                [
+                  16.577511,
+                  48.117666
+                ],
+                [
+                  16.577511,
+                  48.322574
+                ],
+                [
+                  16.18218,
+                  48.322574
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 18,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 08:59:16 +0000 2016",
+      "id": 810771470079184900,
+      "id_str": "810771470079184896",
+      "text": "https://t.co/zL5u8xyRS7 https://t.co/Egpxkfyrwu",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/zL5u8xyRS7",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810771369935929344",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/Egpxkfyrwu",
+            "expanded_url": "https://twitter.com/_e_popov/status/810770319132790784",
+            "display_url": "twitter.com/_e_popov/statu…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.19905284,
+          16.3513143
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.3513143,
+          48.19905284
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810770319132790800,
+      "quoted_status_id_str": "810770319132790784",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:54:42 +0000 2016",
+        "id": 810770319132790800,
+        "id_str": "810770319132790784",
+        "text": "@abroadunderhood интересно будет послушать :) адрес кофейни не подскажите?) https://t.co/KGliU5Qgz1",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 810770302699442200,
+              "id_str": "810770302699442176",
+              "indices": [
+                76,
+                99
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0BvS27WEAAhzrx.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0BvS27WEAAhzrx.jpg",
+              "url": "https://t.co/KGliU5Qgz1",
+              "display_url": "pic.twitter.com/KGliU5Qgz1",
+              "expanded_url": "https://twitter.com/_e_popov/status/810770319132790784/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 810770302699442200,
+              "id_str": "810770302699442176",
+              "indices": [
+                76,
+                99
+              ],
+              "media_url": "http://pbs.twimg.com/media/C0BvS27WEAAhzrx.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/C0BvS27WEAAhzrx.jpg",
+              "url": "https://t.co/KGliU5Qgz1",
+              "display_url": "pic.twitter.com/KGliU5Qgz1",
+              "expanded_url": "https://twitter.com/_e_popov/status/810770319132790784/photo/1",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 768,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 810767555082289200,
+        "in_reply_to_status_id_str": "810767555082289153",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 250564993,
+          "id_str": "250564993"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Dec 19 09:03:20 +0000 2016",
+      "id": 810772494466646000,
+      "id_str": "810772494466646017",
+      "text": "В Вене много традиционных кофеен с плохим кофе, хамским обслуживанием и тортом «Захер». У нас по-другому :)… https://t.co/MVT4kWmqWl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MVT4kWmqWl",
+            "expanded_url": "https://twitter.com/i/web/status/810772494466646017",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.19900667,
+          16.35129372
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.35129372,
+          48.19900667
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810771347886506000,
+      "quoted_status_id_str": "810771347886505984",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:58:47 +0000 2016",
+        "id": 810771347886506000,
+        "id_str": "810771347886505984",
+        "text": "@abroadunderhood Сёрд-вейв — это что? Звучит как хипстерский булшит ;-)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 810770890346598400,
+        "in_reply_to_status_id_str": "810770890346598400",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:04:02 +0000 2016",
+      "id": 810772669012525000,
+      "id_str": "810772669012525056",
+      "text": "Но в целом ты прав. Даже в штатах, откуда этот термин родом, никто не говорит про это. https://t.co/jgTkL6cDq4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jgTkL6cDq4",
+            "expanded_url": "https://twitter.com/sapegin/status/810771347886505984",
+            "display_url": "twitter.com/sapegin/status…",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.19905149,
+          16.35128353
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.35128353,
+          48.19905149
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810771347886506000,
+      "quoted_status_id_str": "810771347886505984",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:58:47 +0000 2016",
+        "id": 810771347886506000,
+        "id_str": "810771347886505984",
+        "text": "@abroadunderhood Сёрд-вейв — это что? Звучит как хипстерский булшит ;-)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 810770890346598400,
+        "in_reply_to_status_id_str": "810770890346598400",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:06:45 +0000 2016",
+      "id": 810773354596749300,
+      "id_str": "810773354596749312",
+      "text": "Правильнее сказать, что @kaffemik — это про спешиалити кофе. Но звучит тоже странно. https://t.co/jgTkL6cDq4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kaffemik",
+            "name": "kaffemik",
+            "id": 2400328704,
+            "id_str": "2400328704",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/jgTkL6cDq4",
+            "expanded_url": "https://twitter.com/sapegin/status/810771347886505984",
+            "display_url": "twitter.com/sapegin/status…",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.19902208,
+          16.35131256
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.35131256,
+          48.19902208
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810771347886506000,
+      "quoted_status_id_str": "810771347886505984",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:58:47 +0000 2016",
+        "id": 810771347886506000,
+        "id_str": "810771347886505984",
+        "text": "@abroadunderhood Сёрд-вейв — это что? Звучит как хипстерский булшит ;-)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 810770890346598400,
+        "in_reply_to_status_id_str": "810770890346598400",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 31656594,
+          "id_str": "31656594"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:09:23 +0000 2016",
+      "id": 810774016814420000,
+      "id_str": "810774016814419968",
+      "text": "Кстати, я как раз сейчас в @kaffemik и пишу оттуда. Я снимаю стол в офисе рядом и поэтому хожу пить кофе 2 раза в д… https://t.co/31D14f9vKB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "kaffemik",
+            "name": "kaffemik",
+            "id": 2400328704,
+            "id_str": "2400328704",
+            "indices": [
+              27,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/31D14f9vKB",
+            "expanded_url": "https://twitter.com/i/web/status/810774016814419968",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          48.1990294,
+          16.35129986
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          16.35129986,
+          48.1990294
+        ]
+      },
+      "place": {
+        "id": "9f659d51e5c5deae",
+        "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
+        "place_type": "city",
+        "name": "Wien",
+        "full_name": "Wien, Österreich",
+        "country_code": "AT",
+        "country": "Österreich",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                16.18218,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.117666
+              ],
+              [
+                16.577511,
+                48.322574
+              ],
+              [
+                16.18218,
+                48.322574
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:27:28 +0000 2016",
+      "id": 810778565721595900,
+      "id_str": "810778565721595904",
+      "text": "С голоду не помрете, но на праздники все магазины и многие рестораны и кафе закрыты, поэтому планируйте заранее. https://t.co/GFwkrIlgKE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GFwkrIlgKE",
+            "expanded_url": "https://twitter.com/logunoff/status/810769191775170560",
+            "display_url": "twitter.com/logunoff/statu…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810769191775170600,
+      "quoted_status_id_str": "810769191775170560",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:50:13 +0000 2016",
+        "id": 810769191775170600,
+        "id_str": "810769191775170560",
+        "text": "@abroadunderhood О! Сразу же вопрос: 24 и 25 что-то(магазины/кафе) будет в Вене работать? С голоду не помрём там?))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810767555082289200,
+        "in_reply_to_status_id_str": "810767555082289153",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 114605441,
+          "id_str": "114605441"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:34:01 +0000 2016",
+      "id": 810780213416263700,
+      "id_str": "810780213416263680",
+      "text": "Сложный вопрос. Сейчас мало где люди уверена себя чувствуют. Я в один из дней попишу про политику и экономику. https://t.co/xMGWyqRiLF",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xMGWyqRiLF",
+            "expanded_url": "https://twitter.com/Pan_krat/status/810769540237889536",
+            "display_url": "twitter.com/Pan_krat/statu…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810769540237889500,
+      "quoted_status_id_str": "810769540237889536",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:51:36 +0000 2016",
+        "id": 810769540237889500,
+        "id_str": "810769540237889536",
+        "text": "@abroadunderhood Жизнь в Австрии перспективнее жизни в России?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810767986936180700,
+        "in_reply_to_status_id_str": "810767986936180736",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2360613732,
+          "id_str": "2360613732"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:38:08 +0000 2016",
+      "id": 810781250717945900,
+      "id_str": "810781250717945856",
+      "text": "Исключение — продуктовые магазины на вокзалах, но там будет толкучка. В центре почти все кафе будут работать. https://t.co/GFwkrIlgKE",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GFwkrIlgKE",
+            "expanded_url": "https://twitter.com/logunoff/status/810769191775170560",
+            "display_url": "twitter.com/logunoff/statu…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810769191775170600,
+      "quoted_status_id_str": "810769191775170560",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 08:50:13 +0000 2016",
+        "id": 810769191775170600,
+        "id_str": "810769191775170560",
+        "text": "@abroadunderhood О! Сразу же вопрос: 24 и 25 что-то(магазины/кафе) будет в Вене работать? С голоду не помрём там?))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810767555082289200,
+        "in_reply_to_status_id_str": "810767555082289153",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 114605441,
+          "id_str": "114605441"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 09:50:05 +0000 2016",
+      "id": 810784258054824000,
+      "id_str": "810784258054823936",
+      "text": "Я завтра буду писать про переезд и расскажу как было у меня. https://t.co/8p1biz5gbH",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8p1biz5gbH",
+            "expanded_url": "https://twitter.com/visualwatermark/status/810774763304009728",
+            "display_url": "twitter.com/visualwatermar…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810774763304009700,
+      "quoted_status_id_str": "810774763304009728",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 09:12:21 +0000 2016",
+        "id": 810774763304009700,
+        "id_str": "810774763304009728",
+        "text": "@abroadunderhood спасибо за наводку:) Вы работаете на Австрийскую компанию? Если нет, как переезжали?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810774016814420000,
+        "in_reply_to_status_id_str": "810774016814419968",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 284122822,
+          "id_str": "284122822"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 10:22:31 +0000 2016",
+      "id": 810792421885968400,
+      "id_str": "810792421885968384",
+      "text": "Изменилось, поэтому я расскажу и про то как сейчас :) https://t.co/tJI1PA7QV4",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tJI1PA7QV4",
+            "expanded_url": "https://twitter.com/toivonens/status/810784554080473088",
+            "display_url": "twitter.com/toivonens/stat…",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810784554080473100,
+      "quoted_status_id_str": "810784554080473088",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 09:51:15 +0000 2016",
+        "id": 810784554080473100,
+        "id_str": "810784554080473088",
+        "text": "@abroadunderhood А ничего за такой большой срок не изменилось в процедуре?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": 810784258054824000,
+        "in_reply_to_status_id_str": "810784258054823936",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 215559242,
+          "id_str": "215559242"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 10:30:07 +0000 2016",
+      "id": 810794331888111600,
+      "id_str": "810794331888111616",
+      "text": "Что-то среднее. У нас 6 инвесторов, так что почти что “крауд” :) https://t.co/4xP2HX5vhI",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4xP2HX5vhI",
+            "expanded_url": "https://twitter.com/mourner/status/810792910836924416",
+            "display_url": "twitter.com/mourner/status…",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810792910836924400,
+      "quoted_status_id_str": "810792910836924416",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 10:24:28 +0000 2016",
+        "id": 810792910836924400,
+        "id_str": "810792910836924416",
+        "text": "@abroadunderhood круто! Расскажешь, как стал совладельцем? Это \"краудфандинговое\" кафе или более традиционно основанное?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810771369935929300,
+        "in_reply_to_status_id_str": "810771369935929344",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 615703,
+          "id_str": "615703"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 10:34:46 +0000 2016",
+      "id": 810795501473923100,
+      "id_str": "810795501473923073",
+      "text": "Немного про Австрию 🇦🇹: расположена в центральной Европе. Население около 8 млн. чел. Выхода к морю нет, зато есть высокие горы — Альпы.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
