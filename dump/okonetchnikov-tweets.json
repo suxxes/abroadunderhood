@@ -2431,6 +2431,279 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 10:38:23 +0000 2016",
+      "id": 810796414053871600,
+      "id_str": "810796414053871616",
+      "text": "Многие путают её с Австралией, поэтому тут продают футболки с надписью “No kangaroos in Austria” :) https://t.co/a1uvJLswEa",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 810796410866167800,
+            "id_str": "810796410866167808",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0CHCjbW8AACdpf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0CHCjbW8AACdpf.jpg",
+            "url": "https://t.co/a1uvJLswEa",
+            "display_url": "pic.twitter.com/a1uvJLswEa",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810796414053871616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 704,
+                "h": 396,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 704,
+                "h": 396,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 810796410866167800,
+            "id_str": "810796410866167808",
+            "indices": [
+              100,
+              123
+            ],
+            "media_url": "http://pbs.twimg.com/media/C0CHCjbW8AACdpf.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/C0CHCjbW8AACdpf.jpg",
+            "url": "https://t.co/a1uvJLswEa",
+            "display_url": "pic.twitter.com/a1uvJLswEa",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810796414053871616/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 704,
+                "h": 396,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 704,
+                "h": 396,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 19 10:39:35 +0000 2016",
+      "id": 810796715167150100,
+      "id_str": "810796715167150080",
+      "text": "https://t.co/I6pMDsSHwg https://t.co/LoSjMQ7eUO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/I6pMDsSHwg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/810772494466646017",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "url": "https://t.co/LoSjMQ7eUO",
+            "expanded_url": "https://twitter.com/koderhan/status/810794640819503104",
+            "display_url": "twitter.com/koderhan/statu…",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 810794640819503100,
+      "quoted_status_id_str": "810794640819503104",
+      "quoted_status": {
+        "created_at": "Mon Dec 19 10:31:20 +0000 2016",
+        "id": 810794640819503100,
+        "id_str": "810794640819503104",
+        "text": "@abroadunderhood Какая особенность у этого кафе? Зачем мне приходить именно туда?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 810794331888111600,
+        "in_reply_to_status_id_str": "810794331888111616",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3935761463,
+          "id_str": "3935761463"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Dec 19 10:51:58 +0000 2016",
+      "id": 810799830234779600,
+      "id_str": "810799830234779648",
+      "text": "Зато в Австрии много горных козлов и других парнокопытных.\n\nhttps://t.co/sXZuzo5AO6\n\nhttps://t.co/EY8EhkXJqw\n\nhttps://t.co/Siqm4CjPnn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sXZuzo5AO6",
+            "expanded_url": "https://www.flickr.com/photos/andreika/8066077787/",
+            "display_url": "flickr.com/photos/andreik…",
+            "indices": [
+              60,
+              83
+            ]
+          },
+          {
+            "url": "https://t.co/EY8EhkXJqw",
+            "expanded_url": "https://www.flickr.com/photos/andreika/15483125451/",
+            "display_url": "flickr.com/photos/andreik…",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "url": "https://t.co/Siqm4CjPnn",
+            "expanded_url": "https://www.flickr.com/photos/andreika/14815402782/",
+            "display_url": "flickr.com/photos/andreik…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
