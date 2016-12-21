@@ -26,54 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 4148,
-  "friends_count": 1,
-  "listed_count": 142,
+  "followers_count": 4176,
+  "friends_count": 2,
+  "listed_count": 140,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2132,
+  "favourites_count": 2133,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 37064,
+  "statuses_count": 37200,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Dec 19 10:51:58 +0000 2016",
-    "id": 810799830234779600,
-    "id_str": "810799830234779648",
-    "text": "Зато в Австрии много горных козлов и других парнокопытных.\n\nhttps://t.co/sXZuzo5AO6\n\nhttps://t.co/EY8EhkXJqw\n\nhttps://t.co/Siqm4CjPnn",
+    "created_at": "Wed Dec 21 11:22:06 +0000 2016",
+    "id": 811532192719441900,
+    "id_str": "811532192719441921",
+    "text": "Отношение к еде очень трепетное. Все мои знакомые умеют хорошо готовить. Есть куча био магазинов и фермерских рынков https://t.co/GB7vQP6wHz",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/sXZuzo5AO6",
-          "expanded_url": "https://www.flickr.com/photos/andreika/8066077787/",
-          "display_url": "flickr.com/photos/andreik…",
+          "id": 811532189527588900,
+          "id_str": "811532189527588864",
           "indices": [
-            60,
-            83
-          ]
-        },
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0MkOgiWQAAOVhQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0MkOgiWQAAOVhQ.jpg",
+          "url": "https://t.co/GB7vQP6wHz",
+          "display_url": "pic.twitter.com/GB7vQP6wHz",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/811532192719441921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
         {
-          "url": "https://t.co/EY8EhkXJqw",
-          "expanded_url": "https://www.flickr.com/photos/andreika/15483125451/",
-          "display_url": "flickr.com/photos/andreik…",
+          "id": 811532189527588900,
+          "id_str": "811532189527588864",
           "indices": [
-            85,
-            108
-          ]
-        },
-        {
-          "url": "https://t.co/Siqm4CjPnn",
-          "expanded_url": "https://www.flickr.com/photos/andreika/14815402782/",
-          "display_url": "flickr.com/photos/andreik…",
-          "indices": [
-            110,
-            133
-          ]
+            117,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/C0MkOgiWQAAOVhQ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/C0MkOgiWQAAOVhQ.jpg",
+          "url": "https://t.co/GB7vQP6wHz",
+          "display_url": "pic.twitter.com/GB7vQP6wHz",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/811532192719441921/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 640,
+              "h": 426,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
