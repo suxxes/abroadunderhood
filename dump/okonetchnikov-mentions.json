@@ -27918,6 +27918,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 26 15:08:35 +0000 2016",
+      "id": 813401128071204900,
+      "id_str": "813401128071204864",
+      "text": "@tishkova спасибо за статью на @abroadunderhood, хоть и с задержкой. прочитал с удовольствием! Норвегия прекрасна.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tishkova",
+            "name": "Maria Tishkova",
+            "id": 138476432,
+            "id_str": "138476432",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андэрхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              31,
+              47
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 138476432,
+      "in_reply_to_user_id_str": "138476432",
+      "in_reply_to_screen_name": "tishkova",
+      "user": {
+        "id": 366605629,
+        "id_str": "366605629"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
