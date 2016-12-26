@@ -26,102 +26,44 @@
     }
   },
   "protected": false,
-  "followers_count": 4181,
+  "followers_count": 4205,
   "friends_count": 2,
   "listed_count": 140,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2142,
+  "favourites_count": 2145,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 37341,
+  "statuses_count": 37371,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Dec 24 14:16:27 +0000 2016",
-    "id": 812663231735021600,
-    "id_str": "812663231735021568",
-    "text": "Покупной глинтвейн? Фу же! Сами делайте. Все остальное пойло. https://t.co/bN4sBs3v8F",
+    "created_at": "Sun Dec 25 16:17:25 +0000 2016",
+    "id": 813056061829763100,
+    "id_str": "813056061829763073",
+    "text": "В завершении моей недели хотелось бы всем пожелать всего самого хорошего в наступающем 2017! 🎉",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/bN4sBs3v8F",
-          "expanded_url": "https://twitter.com/iBubelo/status/812649294050299904",
-          "display_url": "twitter.com/iBubelo/status…",
-          "indices": [
-            62,
-            85
-          ]
-        }
-      ]
+      "urls": []
     },
-    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
     "in_reply_to_user_id_str": null,
     "in_reply_to_screen_name": null,
-    "geo": {
-      "type": "Point",
-      "coordinates": [
-        48.22056947,
-        16.38086825
-      ]
-    },
-    "coordinates": {
-      "type": "Point",
-      "coordinates": [
-        16.38086825,
-        48.22056947
-      ]
-    },
-    "place": {
-      "id": "9f659d51e5c5deae",
-      "url": "https://api.twitter.com/1.1/geo/id/9f659d51e5c5deae.json",
-      "place_type": "city",
-      "name": "Wien",
-      "full_name": "Wien, Österreich",
-      "country_code": "AT",
-      "country": "Österreich",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              16.18218,
-              48.117666
-            ],
-            [
-              16.577511,
-              48.117666
-            ],
-            [
-              16.577511,
-              48.322574
-            ],
-            [
-              16.18218,
-              48.322574
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 812649294050299900,
-    "quoted_status_id_str": "812649294050299904",
-    "retweet_count": 1,
-    "favorite_count": 5,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 25,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
