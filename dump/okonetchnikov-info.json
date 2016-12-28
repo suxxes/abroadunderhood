@@ -3,9 +3,20 @@
   "id_str": "3955812173",
   "name": "Эброд Андэрхуд",
   "screen_name": "abroadunderhood",
-  "location": "Vienna",
-  "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @okonetchnikov",
+  "location": "Antwerp, Belgium",
+  "profile_location": {
+    "id": "2a8a74486cd0d519",
+    "url": "https://api.twitter.com/1.1/geo/id/2a8a74486cd0d519.json",
+    "place_type": "unknown",
+    "name": "Antwerp, Belgium",
+    "full_name": "Antwerp, Belgium",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @prophetoflost",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
     "url": {
@@ -26,30 +37,40 @@
     }
   },
   "protected": false,
-  "followers_count": 4205,
+  "followers_count": 4192,
   "friends_count": 2,
   "listed_count": 140,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2145,
+  "favourites_count": 2147,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 37371,
+  "statuses_count": 37710,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Dec 25 16:17:25 +0000 2016",
-    "id": 813056061829763100,
-    "id_str": "813056061829763073",
-    "text": "В завершении моей недели хотелось бы всем пожелать всего самого хорошего в наступающем 2017! 🎉",
+    "created_at": "Wed Dec 28 19:22:57 +0000 2016",
+    "id": 814189917857349600,
+    "id_str": "814189917857349632",
+    "text": "Вот кодовые фразы для получения шавермы. https://t.co/xApxBBncof",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/xApxBBncof",
+          "expanded_url": "https://twitter.com/Ampleyan/status/814189217354018817",
+          "display_url": "twitter.com/Ampleyan/statu…",
+          "indices": [
+            41,
+            64
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -59,11 +80,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 814189217354018800,
+    "quoted_status_id_str": "814189217354018817",
     "retweet_count": 0,
-    "favorite_count": 25,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -73,9 +97,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/810760588565643264/uuuAWd4U_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/810760588565643264/uuuAWd4U_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1482135512",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/813403817580564480/LWSk1eGj_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/813403817580564480/LWSk1eGj_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1482777818",
   "profile_link_color": "FF5032",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -91,8 +115,8 @@
   "suspended": false,
   "needs_phone_verification": false,
   "geometry": {
-    "lat": 48.2081743,
-    "lng": 16.3738189
+    "lat": 51.2194475,
+    "lng": 4.4024643
   },
   "time_zone_offset": 60
 }
