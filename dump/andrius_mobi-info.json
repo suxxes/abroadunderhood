@@ -26,35 +26,45 @@
     }
   },
   "protected": false,
-  "followers_count": 4150,
+  "followers_count": 4161,
   "friends_count": 0,
-  "listed_count": 144,
+  "listed_count": 145,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2171,
+  "favourites_count": 2206,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 38710,
+  "statuses_count": 38997,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jan 07 12:00:14 +0000 2017",
-    "id": 817702381978783700,
-    "id_str": "817702381978783744",
-    "text": "Про медицину я писал, допишу про стоимость. Она тут недешева, если у вас нет страховки, то любой визит к врачу обойдется в 80-150 евро",
-    "truncated": false,
+    "created_at": "Sun Jan 08 21:26:35 +0000 2017",
+    "id": 818207296480223200,
+    "id_str": "818207296480223233",
+    "text": "Я еще здесь. Деньги придут. Вот всегда открывается окно возможностей. Главное определиться со страной и местом и че… https://t.co/egRl8okc0D",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/egRl8okc0D",
+          "expanded_url": "https://twitter.com/i/web/status/818207296480223233",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-    "in_reply_to_status_id": 817702140437295100,
-    "in_reply_to_status_id_str": "817702140437295105",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": {
@@ -92,11 +102,14 @@
       "attributes": {}
     },
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 818202723212558300,
+    "quoted_status_id_str": "818202723212558336",
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
