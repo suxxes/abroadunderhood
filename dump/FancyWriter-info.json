@@ -39,154 +39,42 @@
   "protected": false,
   "followers_count": 4162,
   "friends_count": 0,
-  "listed_count": 146,
+  "listed_count": 147,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2217,
+  "favourites_count": 2223,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 39337,
+  "statuses_count": 39534,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Jan 10 20:08:21 +0000 2017",
-    "id": 818912382252675100,
-    "id_str": "818912382252675072",
-    "text": "Подарок от немцев из Бремена, как и обещал. https://t.co/rHv9eSwQ1g",
+    "created_at": "Wed Jan 11 18:47:27 +0000 2017",
+    "id": 819254412841484300,
+    "id_str": "819254412841484289",
+    "text": "То есть цифры в 30-40 тысяч - настоящая фикция. Не знаю, закреплён ли законодательно лимит страхового случая, но лучше бы он был больше.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
-        {
-          "id": 818912243375108100,
-          "id_str": "818912243375108096",
-          "indices": [
-            44,
-            67
-          ],
-          "media_url": "http://pbs.twimg.com/media/C11cWLiXcAAY-FR.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/C11cWLiXcAAY-FR.jpg",
-          "url": "https://t.co/rHv9eSwQ1g",
-          "display_url": "pic.twitter.com/rHv9eSwQ1g",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/818912382252675072/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 818912243375108100,
-          "id_str": "818912243375108096",
-          "indices": [
-            44,
-            67
-          ],
-          "media_url": "http://pbs.twimg.com/media/C11cWLiXcAAY-FR.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/C11cWLiXcAAY-FR.jpg",
-          "url": "https://t.co/rHv9eSwQ1g",
-          "display_url": "pic.twitter.com/rHv9eSwQ1g",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/818912382252675072/photo/1",
-          "type": "photo",
-          "sizes": {
-            "medium": {
-              "w": 675,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 383,
-              "h": 680,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "large": {
-              "w": 1152,
-              "h": 2048,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 819253850142031900,
+    "in_reply_to_status_id_str": "819253850142031872",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "1d73626cc863c69f",
-      "url": "https://api.twitter.com/1.1/geo/id/1d73626cc863c69f.json",
-      "place_type": "city",
-      "name": "Rīga",
-      "full_name": "Rīga, Latvija",
-      "country_code": "LV",
-      "country": "Latvija",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              23.9325829,
-              56.8570671
-            ],
-            [
-              24.3247299,
-              56.8570671
-            ],
-            [
-              24.3247299,
-              57.0859184
-            ],
-            [
-              23.9325829,
-              57.0859184
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
