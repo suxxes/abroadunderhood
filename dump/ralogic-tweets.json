@@ -1,0 +1,1241 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Jan 15 22:43:52 +0000 2017",
+      "id": 820763460925526000,
+      "id_str": "820763460925526019",
+      "text": "Всем доброго времени суток. Я пишу вам из замечательной во всех отношениях Ирландии, и следующую неделю, если все будет хорошо, буду с вами.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 22:45:46 +0000 2017",
+      "id": 820763936668655600,
+      "id_str": "820763936668655617",
+      "text": "прежде всего, огромное спасибо @FancyWriter за очень интересную неделю. Постараюсь быть ненамного хуже.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FancyWriter",
+            "name": "Pavel Kozlov",
+            "id": 766347187,
+            "id_str": "766347187",
+            "indices": [
+              31,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 22:48:45 +0000 2017",
+      "id": 820764688619307000,
+      "id_str": "820764688619307009",
+      "text": "мне 42, я из Воронежа (sic!), и мы с женой переехали в Ирландию 3 года назад. Переехали из Москвы, но она была далеко не первая моя станция.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 22:51:54 +0000 2017",
+      "id": 820765479455326200,
+      "id_str": "820765479455326208",
+      "text": "мы живем в Dun Laoghaire, это рядом с Дублином. Я работаю general counsel в гейминговой компании. Ну, помогаю другим бизнесам иногда.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 22:55:18 +0000 2017",
+      "id": 820766337832194000,
+      "id_str": "820766337832194048",
+      "text": "опыт переезда (в 12-ю страну) 42-летнего лоера достаточно специфичен, и мне будет помогать очаровательная @polinaMUA. У нее это 1-й переезд.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "polinaMUA",
+            "name": "makeupinstructor",
+            "id": 781074231119536100,
+            "id_str": "781074231119536128",
+            "indices": [
+              106,
+              116
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 22:56:54 +0000 2017",
+      "id": 820766739256512500,
+      "id_str": "820766739256512514",
+      "text": "@princessadivana huge thanxx) 😘",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "princessadivana",
+            "name": "Diana",
+            "id": 542026249,
+            "id_str": "542026249",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820765680358326300,
+      "in_reply_to_status_id_str": "820765680358326273",
+      "in_reply_to_user_id": 542026249,
+      "in_reply_to_user_id_str": "542026249",
+      "in_reply_to_screen_name": "princessadivana",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Jan 15 22:57:14 +0000 2017",
+      "id": 820766825541750800,
+      "id_str": "820766825541750786",
+      "text": "@princessadivana не хотел бы прямо говорить",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "princessadivana",
+            "name": "Diana",
+            "id": 542026249,
+            "id_str": "542026249",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820765958474178600,
+      "in_reply_to_status_id_str": "820765958474178560",
+      "in_reply_to_user_id": 542026249,
+      "in_reply_to_user_id_str": "542026249",
+      "in_reply_to_screen_name": "princessadivana",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:00:16 +0000 2017",
+      "id": 820767588670173200,
+      "id_str": "820767588670173185",
+      "text": "начну с истории, географии, экономики и бизнеса (считаю, что важно, поскольку переезжать неплохо бы в растущую экономику). А там как пойдет.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:01:38 +0000 2017",
+      "id": 820767930837332000,
+      "id_str": "820767930837331968",
+      "text": "лоер. Не люблю смешение французского с нижегородским, но не вижу русского слова, точно переводящего английское lawy… https://t.co/x9Vol3QKk5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x9Vol3QKk5",
+            "expanded_url": "https://twitter.com/i/web/status/820767930837331968",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 820767414178680800,
+      "quoted_status_id_str": "820767414178680835",
+      "quoted_status": {
+        "created_at": "Sun Jan 15 22:59:35 +0000 2017",
+        "id": 820767414178680800,
+        "id_str": "820767414178680835",
+        "text": "@abroadunderhood а что за профессия?)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 820765479455326200,
+        "in_reply_to_status_id_str": "820765479455326208",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "341052b72a294f4b",
+          "url": "https://api.twitter.com/1.1/geo/id/341052b72a294f4b.json",
+          "place_type": "city",
+          "name": "Lublin",
+          "full_name": "Lublin, Polska",
+          "country_code": "PL",
+          "country": "Polska",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.453445,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.1394924
+                ],
+                [
+                  22.673515,
+                  51.29656
+                ],
+                [
+                  22.453445,
+                  51.29656
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:01:56 +0000 2017",
+      "id": 820768007031033900,
+      "id_str": "820768007031033857",
+      "text": "@olyapka @polinaMUA да, Видное",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "polinaMUA",
+            "name": "makeupinstructor",
+            "id": 781074231119536100,
+            "id_str": "781074231119536128",
+            "indices": [
+              9,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820767637227655200,
+      "in_reply_to_status_id_str": "820767637227655170",
+      "in_reply_to_user_id": 10533432,
+      "in_reply_to_user_id_str": "10533432",
+      "in_reply_to_screen_name": "olyapka",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:04:28 +0000 2017",
+      "id": 820768645701894100,
+      "id_str": "820768645701894144",
+      "text": "итак, начнем. Про этот зеленый остров известно всем, и я ответственно заявляю, что он сказочный.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:05:12 +0000 2017",
+      "id": 820768829617868800,
+      "id_str": "820768829617868800",
+      "text": "@agataklarchen надеюсь на помощь и своевременные поправки)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "agataklarchen",
+            "name": "⚜Fleur⚜",
+            "id": 1687592029,
+            "id_str": "1687592029",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 820768290511392800,
+      "in_reply_to_status_id_str": "820768290511392769",
+      "in_reply_to_user_id": 1687592029,
+      "in_reply_to_user_id_str": "1687592029",
+      "in_reply_to_screen_name": "agataklarchen",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:11:28 +0000 2017",
+      "id": 820770404411314200,
+      "id_str": "820770404411314180",
+      "text": "Ирландия - развитая страна, c ВВП на душу в 56k. (GDP PPP 52k.), что ставит ее на 7-е (в одном рейтинге 15-е) место в мире по доходам.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:15:49 +0000 2017",
+      "id": 820771498193469400,
+      "id_str": "820771498193469440",
+      "text": "Ирландия живет следующим:\nAlcoholic beverage\nFinancial services\nAircraft leasing\nEngineering\nICT\nSoftware\nMedical technologies\nPharma",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Jan 15 23:17:28 +0000 2017",
+      "id": 820771915451289600,
+      "id_str": "820771915451289600",
+      "text": "русское \"юрист\" не совсем соответствует английскому lawyer в силу отсутствия в РФ права как такового, но лучше не б… https://t.co/Zy8CP4oogz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Zy8CP4oogz",
+            "expanded_url": "https://twitter.com/i/web/status/820771915451289600",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 820771404748570600,
+      "quoted_status_id_str": "820771404748570625",
+      "quoted_status": {
+        "created_at": "Sun Jan 15 23:15:26 +0000 2017",
+        "id": 820771404748570600,
+        "id_str": "820771404748570625",
+        "text": "@abroadunderhood юрист?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 820767930837332000,
+        "in_reply_to_status_id_str": "820767930837331968",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 46118269,
+          "id_str": "46118269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "uk"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jan 15 23:18:51 +0000 2017",
+      "id": 820772261678514200,
+      "id_str": "820772261678514176",
+      "text": "производство тоже, и много https://t.co/yoQ95ts048",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yoQ95ts048",
+            "expanded_url": "https://twitter.com/not_logan/status/820771776884047872",
+            "display_url": "twitter.com/not_logan/stat…",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 820771776884047900,
+      "quoted_status_id_str": "820771776884047872",
+      "quoted_status": {
+        "created_at": "Sun Jan 15 23:16:55 +0000 2017",
+        "id": 820771776884047900,
+        "id_str": "820771776884047872",
+        "text": "@abroadunderhood pharma - производство или только лицензии и регистрации?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андэрхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 820771498193469400,
+        "in_reply_to_status_id_str": "820771498193469440",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 46118269,
+          "id_str": "46118269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
