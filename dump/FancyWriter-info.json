@@ -37,55 +37,110 @@
     }
   },
   "protected": false,
-  "followers_count": 4151,
+  "followers_count": 4167,
   "friends_count": 0,
   "listed_count": 147,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2244,
+  "favourites_count": 2276,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 40008,
+  "statuses_count": 40429,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Jan 13 21:50:48 +0000 2017",
-    "id": 820025330740166700,
-    "id_str": "820025330740166657",
-    "text": "@sichev у меня родители в Воронеже до сих пор на ADSL сидят, другого варианта нет в их доме. :) Но стоит дешевле, по-моему (не уверен уже).",
+    "created_at": "Sun Jan 15 20:52:39 +0000 2017",
+    "id": 820735469151457300,
+    "id_str": "820735469151457280",
+    "text": "RT @invsman: Походу слово \"работать\" ещё тот мем. По-шведски \"я работаю\" = \"jag jobbar\" https://t.co/nvwviS7zKm",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "sichev",
-          "name": "Dmitry Sichev",
-          "id": 14359909,
-          "id_str": "14359909",
+          "screen_name": "invsman",
+          "name": "Alexey Ivanov",
+          "id": 151954123,
+          "id_str": "151954123",
           "indices": [
-            0,
-            7
+            3,
+            11
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/nvwviS7zKm",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/820216512053202944",
+          "display_url": "twitter.com/abroadunderhoo…",
+          "indices": [
+            88,
+            111
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 820025012317016000,
-    "in_reply_to_status_id_str": "820025012317016065",
-    "in_reply_to_user_id": 14359909,
-    "in_reply_to_user_id_str": "14359909",
-    "in_reply_to_screen_name": "sichev",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
+    "retweeted_status": {
+      "created_at": "Sun Jan 15 20:52:16 +0000 2017",
+      "id": 820735376071491600,
+      "id_str": "820735376071491584",
+      "text": "Походу слово \"работать\" ещё тот мем. По-шведски \"я работаю\" = \"jag jobbar\" https://t.co/nvwviS7zKm",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/nvwviS7zKm",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/820216512053202944",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 820216512053203000,
+      "quoted_status_id_str": "820216512053202944",
+      "retweet_count": 5,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 820216512053203000,
+    "quoted_status_id_str": "820216512053202944",
+    "retweet_count": 5,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
