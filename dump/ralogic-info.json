@@ -26,57 +26,98 @@
     }
   },
   "protected": false,
-  "followers_count": 4169,
+  "followers_count": 4177,
   "friends_count": 0,
-  "listed_count": 149,
+  "listed_count": 150,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2281,
+  "favourites_count": 2337,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 40445,
+  "statuses_count": 40638,
   "lang": "ru",
   "status": {
-    "created_at": "Sun Jan 15 23:18:51 +0000 2017",
-    "id": 820772261678514200,
-    "id_str": "820772261678514176",
-    "text": "производство тоже, и много https://t.co/yoQ95ts048",
+    "created_at": "Mon Jan 16 14:29:45 +0000 2017",
+    "id": 821001498142343200,
+    "id_str": "821001498142343172",
+    "text": "@Truskova @Alex_MIPT BOI идеально работает у меня)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/yoQ95ts048",
-          "expanded_url": "https://twitter.com/not_logan/status/820771776884047872",
-          "display_url": "twitter.com/not_logan/stat…",
+          "screen_name": "Truskova",
+          "name": "Olga Truskova",
+          "id": 137115219,
+          "id_str": "137115219",
           "indices": [
-            27,
-            50
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "Alex_MIPT",
+          "name": "Alexander Taran",
+          "id": 158426124,
+          "id_str": "158426124",
+          "indices": [
+            10,
+            20
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 821001117777752000,
+    "in_reply_to_status_id_str": "821001117777752064",
+    "in_reply_to_user_id": 137115219,
+    "in_reply_to_user_id_str": "137115219",
+    "in_reply_to_screen_name": "Truskova",
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "7dde0febc9ef245b",
+      "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+      "place_type": "city",
+      "name": "Dublin City",
+      "full_name": "Dublin City, Ireland",
+      "country_code": "IE",
+      "country": "Ireland",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.387438,
+              53.2987449
+            ],
+            [
+              -6.1078047,
+              53.2987449
+            ],
+            [
+              -6.1078047,
+              53.4110598
+            ],
+            [
+              -6.387438,
+              53.4110598
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 820771776884047900,
-    "quoted_status_id_str": "820771776884047872",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
