@@ -26,57 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 4233,
+  "followers_count": 4235,
   "friends_count": 0,
-  "listed_count": 151,
+  "listed_count": 150,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 2764,
+  "favourites_count": 3316,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 41367,
+  "statuses_count": 41879,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Jan 18 23:54:53 +0000 2017",
-    "id": 821868496640507900,
-    "id_str": "821868496640507904",
-    "text": "Наладили, слава Богу! Сейчас везде электронная очередь. Нужно иметь ввиду, кстати. Теперь запись сильно заранее (за… https://t.co/VlAvyd313D",
-    "truncated": true,
+    "created_at": "Fri Jan 20 22:22:58 +0000 2017",
+    "id": 822570138050433000,
+    "id_str": "822570138050433024",
+    "text": "@agataklarchen @Alex_MIPT нет. В пятый раз - я считаю, что Ваш опыт гораздо более личный, чем иллюстрирующий характерное для страны явление.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/VlAvyd313D",
-          "expanded_url": "https://twitter.com/i/web/status/821868496640507904",
-          "display_url": "twitter.com/i/web/status/8…",
+          "screen_name": "agataklarchen",
+          "name": "⚜Fleur⚜",
+          "id": 1687592029,
+          "id_str": "1687592029",
           "indices": [
-            117,
-            140
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "Alex_MIPT",
+          "name": "Alexander Taran",
+          "id": 158426124,
+          "id_str": "158426124",
+          "indices": [
+            15,
+            25
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 822569207355363300,
+    "in_reply_to_status_id_str": "822569207355363328",
+    "in_reply_to_user_id": 1687592029,
+    "in_reply_to_user_id_str": "1687592029",
+    "in_reply_to_screen_name": "agataklarchen",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 821866385987031000,
-    "quoted_status_id_str": "821866385987031040",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -86,8 +94,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/821649230465011712/F8dIr28a_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/821649230465011712/F8dIr28a_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/822380473800335360/M9hPcViG_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/822380473800335360/M9hPcViG_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1484519993",
   "profile_link_color": "FF5032",
   "profile_sidebar_border_color": "000000",
