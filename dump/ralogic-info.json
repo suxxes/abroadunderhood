@@ -26,75 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 4312,
+  "followers_count": 4331,
   "friends_count": 0,
-  "listed_count": 150,
+  "listed_count": 151,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3400,
+  "favourites_count": 3466,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 42036,
+  "statuses_count": 42160,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jan 21 12:09:40 +0000 2017",
-    "id": 822778186106687500,
-    "id_str": "822778186106687488",
-    "text": "много попадалось русских из Прибалтики, тут крымнаш рулит. Что понятно, поскольку они тут (да и дома) не банкиры, а гордиться чем-то хочется",
+    "created_at": "Sun Jan 22 01:03:26 +0000 2017",
+    "id": 822972911099277300,
+    "id_str": "822972911099277317",
+    "text": "@anferovma нет, там без вариантов. Народ, ЕС, США, МВФ.. вопрос времени только.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "anferovma",
+          "name": "Максим Есенин",
+          "id": 339206588,
+          "id_str": "339206588",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 822968754153918500,
+    "in_reply_to_status_id_str": "822968754153918465",
+    "in_reply_to_user_id": 339206588,
+    "in_reply_to_user_id_str": "339206588",
+    "in_reply_to_screen_name": "anferovma",
     "geo": null,
     "coordinates": null,
-    "place": {
-      "id": "7dde0febc9ef245b",
-      "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
-      "place_type": "city",
-      "name": "Dublin City",
-      "full_name": "Dublin City, Ireland",
-      "country_code": "IE",
-      "country": "Ireland",
-      "contained_within": [],
-      "bounding_box": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -6.387438,
-              53.2987449
-            ],
-            [
-              -6.1078047,
-              53.2987449
-            ],
-            [
-              -6.1078047,
-              53.4110598
-            ],
-            [
-              -6.387438,
-              53.4110598
-            ]
-          ]
-        ]
-      },
-      "attributes": {}
-    },
+    "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 2,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
