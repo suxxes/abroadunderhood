@@ -4,18 +4,7 @@
   "name": "Эброд Андэрхуд",
   "screen_name": "abroadunderhood",
   "location": "Montréal, Québec",
-  "profile_location": {
-    "id": "36775d842cbec509",
-    "url": "https://api.twitter.com/1.1/geo/id/36775d842cbec509.json",
-    "place_type": "unknown",
-    "name": "Montréal, Québec",
-    "full_name": "Montréal, Québec",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал, с новым автором каждую неделю. Автор недели — @svidersky_leo",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -37,38 +26,39 @@
     }
   },
   "protected": false,
-  "followers_count": 4367,
+  "followers_count": 4402,
   "friends_count": 0,
-  "listed_count": 155,
+  "listed_count": 158,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3783,
+  "favourites_count": 3772,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 43214,
+  "statuses_count": 44213,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Jan 30 20:59:32 +0000 2017",
-    "id": 826173019714359300,
-    "id_str": "826173019714359297",
-    "text": "Это и есть бывшая церковь :) Тут такая история, что они повсеместно. Расскажу в разделе про Квебек. https://t.co/rFKbZFvb2z",
+    "created_at": "Mon Feb 06 01:54:20 +0000 2017",
+    "id": 828421535526428700,
+    "id_str": "828421535526428672",
+    "text": "Кто хочет продолжить общение, пошлите ко мне в @svidersky_leo, буду рад. По остальным буду скучать, было действительно классно. Всем пока!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/rFKbZFvb2z",
-          "expanded_url": "https://twitter.com/aharonsh/status/826165720711102465",
-          "display_url": "twitter.com/aharonsh/statu…",
+          "screen_name": "svidersky_leo",
+          "name": "Леонид Свидерский",
+          "id": 137588361,
+          "id_str": "137588361",
           "indices": [
-            100,
-            123
+            47,
+            61
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 826165720711102500,
-    "quoted_status_id_str": "826165720711102465",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
