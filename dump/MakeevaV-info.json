@@ -26,28 +26,38 @@
     }
   },
   "protected": false,
-  "followers_count": 4546,
+  "followers_count": 4548,
   "friends_count": 0,
-  "listed_count": 159,
+  "listed_count": 158,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3839,
+  "favourites_count": 3856,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 45598,
+  "statuses_count": 45711,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Feb 27 16:49:57 +0000 2017",
-    "id": 836257072966684700,
-    "id_str": "836257072966684672",
-    "text": "Итак, про работу. ЧГ рынок им крохотный. 600 тыс человек, 200 из которых в столице, часть на побережье, остальные разбросаны по горам.",
+    "created_at": "Wed Mar 01 10:26:10 +0000 2017",
+    "id": 836885266140901400,
+    "id_str": "836885266140901377",
+    "text": "Медуза по результатам отправки своего спец корреспондента к нам потом писала опровержение. Никто не идеален. https://t.co/ookrhPySeK",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ookrhPySeK",
+          "expanded_url": "https://twitter.com/raccoon1809/status/836879743635054592",
+          "display_url": "twitter.com/raccoon1809/st…",
+          "indices": [
+            109,
+            132
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -59,11 +69,14 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 836879743635054600,
+    "quoted_status_id_str": "836879743635054592",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
