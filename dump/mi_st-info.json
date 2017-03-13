@@ -5,7 +5,7 @@
   "screen_name": "abroadunderhood",
   "location": "Florence, Italy",
   "profile_location": null,
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели — Миша @mi_st",
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели — Миша @mi_st \n\nИнстаграм: https://t.co/Ekbl8knRxd",
   "url": "https://t.co/wSOhx8xRbv",
   "entities": {
     "url": {
@@ -22,48 +22,69 @@
       ]
     },
     "description": {
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Ekbl8knRxd",
+          "expanded_url": "https://www.instagram.com/strunin/",
+          "display_url": "instagram.com/strunin/",
+          "indices": [
+            126,
+            149
+          ]
+        }
+      ]
     }
   },
   "protected": false,
-  "followers_count": 4545,
+  "followers_count": 4589,
   "friends_count": 0,
-  "listed_count": 159,
+  "listed_count": 158,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3947,
+  "favourites_count": 3957,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 46223,
+  "statuses_count": 46579,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 06 10:03:33 +0000 2017",
-    "id": 838691512015794200,
-    "id_str": "838691512015794177",
-    "text": "Бюрократия тут запутанная и будьте готовы к стрессу после госуслуг. Но зато правила более гибкие.",
+    "created_at": "Sun Mar 12 23:13:27 +0000 2017",
+    "id": 841064624527142900,
+    "id_str": "841064624527142913",
+    "text": "Уф. Ладно, наверное на этой сумбурной ноте закончим. С вами был Misha Strunin.\n\nhttps://t.co/uh14Ue4ibA",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/uh14Ue4ibA",
+          "expanded_url": "https://www.instagram.com/strunin/",
+          "display_url": "instagram.com/strunin/",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix for Android</a>",
-    "in_reply_to_status_id": 838691087560618000,
-    "in_reply_to_status_id_str": "838691087560617984",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -75,7 +96,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/838685302831132672/nsSAwJXL_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/838685302831132672/nsSAwJXL_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1488793330",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1488887149",
   "profile_link_color": "7FDBB6",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
