@@ -1,0 +1,122 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андэрхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Los Angeles, CA",
+  "profile_location": {
+    "id": "3b77caf94bfc81fe",
+    "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+    "place_type": "unknown",
+    "name": "Los Angeles, CA",
+    "full_name": "Los Angeles, CA",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели — Андрей @akudievskiy",
+  "url": "https://t.co/wSOhx8xRbv",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8xRbv",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 4596,
+  "friends_count": 0,
+  "listed_count": 161,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 3989,
+  "utc_offset": 0,
+  "time_zone": "UTC",
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 47459,
+  "lang": "ru",
+  "status": {
+    "created_at": "Mon Mar 20 07:08:14 +0000 2017",
+    "id": 843720825077284900,
+    "id_str": "843720825077284865",
+    "text": "Через 5 лет после получения green card можно подавать на гражданство https://t.co/fdrxPo9485",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fdrxPo9485",
+          "expanded_url": "https://twitter.com/FancyWriter/status/843718674418749440",
+          "display_url": "twitter.com/FancyWriter/st…",
+          "indices": [
+            69,
+            92
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 843718674418749400,
+    "quoted_status_id_str": "843718674418749440",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/843673119000682497/x15s66Jh_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/843673119000682497/x15s66Jh_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1489982343",
+  "profile_link_color": "7FDBB6",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "geometry": {
+    "lat": 34.0522342,
+    "lng": -118.2436849
+  },
+  "time_zone_offset": -420
+}
