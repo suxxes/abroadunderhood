@@ -37,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 4596,
+  "followers_count": 4613,
   "friends_count": 0,
   "listed_count": 161,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3989,
+  "favourites_count": 3995,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 47459,
+  "statuses_count": 47771,
   "lang": "ru",
   "status": {
-    "created_at": "Mon Mar 20 07:08:14 +0000 2017",
-    "id": 843720825077284900,
-    "id_str": "843720825077284865",
-    "text": "Через 5 лет после получения green card можно подавать на гражданство https://t.co/fdrxPo9485",
+    "created_at": "Sat Mar 25 16:07:56 +0000 2017",
+    "id": 845668582319022100,
+    "id_str": "845668582319022080",
+    "text": "Доставка происходит сразу в дом молодоженов, вам не нужно думать что именно подарить, и гости не могут подарить одинаковые подарки",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/fdrxPo9485",
-          "expanded_url": "https://twitter.com/FancyWriter/status/843718674418749440",
-          "display_url": "twitter.com/FancyWriter/st…",
-          "indices": [
-            69,
-            92
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -78,16 +68,46 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "3b77caf94bfc81fe",
+      "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+      "place_type": "city",
+      "name": "Los Angeles",
+      "full_name": "Los Angeles, CA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.668404,
+              33.704538
+            ],
+            [
+              -118.155409,
+              33.704538
+            ],
+            [
+              -118.155409,
+              34.337041
+            ],
+            [
+              -118.668404,
+              34.337041
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 843718674418749400,
-    "quoted_status_id_str": "843718674418749440",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
