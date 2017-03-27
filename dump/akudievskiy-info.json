@@ -37,30 +37,51 @@
     }
   },
   "protected": false,
-  "followers_count": 4613,
+  "followers_count": 4616,
   "friends_count": 0,
-  "listed_count": 161,
+  "listed_count": 160,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 3995,
+  "favourites_count": 3997,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 47771,
+  "statuses_count": 47818,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Mar 25 16:07:56 +0000 2017",
-    "id": 845668582319022100,
-    "id_str": "845668582319022080",
-    "text": "Доставка происходит сразу в дом молодоженов, вам не нужно думать что именно подарить, и гости не могут подарить одинаковые подарки",
+    "created_at": "Sun Mar 26 15:23:09 +0000 2017",
+    "id": 846019698319773700,
+    "id_str": "846019698319773700",
+    "text": "Мой Twitter @akudievskiy https://t.co/Gh31P69DNT",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "akudievskiy",
+          "name": "Andrey Kudievskiy",
+          "id": 256667540,
+          "id_str": "256667540",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Gh31P69DNT",
+          "expanded_url": "https://twitter.com/sergeyosypchuk/status/845903209642143744",
+          "display_url": "twitter.com/sergeyosypchuk…",
+          "indices": [
+            25,
+            48
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -103,12 +124,15 @@
       "attributes": {}
     },
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 845903209642143700,
+    "quoted_status_id_str": "845903209642143744",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "cs"
   },
   "contributors_enabled": false,
   "is_translator": false,
