@@ -3,7 +3,7 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "Roma, Lazio",
+  "location": "Roma, Italia",
   "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели — @cupofteanyone",
   "url": "https://t.co/wSOhx8PsA5",
@@ -26,38 +26,47 @@
     }
   },
   "protected": false,
-  "followers_count": 5310,
+  "followers_count": 5285,
   "friends_count": 0,
-  "listed_count": 165,
+  "listed_count": 168,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 4184,
+  "favourites_count": 4287,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 49474,
+  "statuses_count": 50049,
   "lang": "ru",
   "status": {
-    "created_at": "Mon May 01 08:33:43 +0000 2017",
-    "id": 858962628097519600,
-    "id_str": "858962628097519617",
-    "text": "Привет☀️ https://t.co/6XGw3FYB2q",
+    "created_at": "Sun May 07 19:07:41 +0000 2017",
+    "id": 861296494544126000,
+    "id_str": "861296494544125953",
+    "text": "На сегодня завершаю рассказ про #Рим. Заходите в гости @cupofteanyone или в ig cupofcoffeeanyone\nОтличного воскресенья и новой недели! 🙌🏼☺️",
     "truncated": false,
     "entities": {
-      "hashtags": [],
-      "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "hashtags": [
         {
-          "url": "https://t.co/6XGw3FYB2q",
-          "expanded_url": "https://twitter.com/elukyanov/status/858961324457459713",
-          "display_url": "twitter.com/elukyanov/stat…",
+          "text": "Рим",
           "indices": [
-            9,
-            32
+            32,
+            36
           ]
         }
-      ]
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "cupofteanyone",
+          "name": "Alla",
+          "id": 38001935,
+          "id_str": "38001935",
+          "indices": [
+            55,
+            69
+          ]
+        }
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +78,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 858961324457459700,
-    "quoted_status_id_str": "858961324457459713",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
