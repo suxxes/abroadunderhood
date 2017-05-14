@@ -37,42 +37,63 @@
     }
   },
   "protected": false,
-  "followers_count": 5320,
+  "followers_count": 5322,
   "friends_count": 0,
-  "listed_count": 166,
+  "listed_count": 169,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 4287,
+  "favourites_count": 4292,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 50437,
+  "statuses_count": 50716,
   "lang": "ru",
   "status": {
-    "created_at": "Thu May 11 20:17:47 +0000 2017",
-    "id": 862763688444530700,
-    "id_str": "862763688444530688",
-    "text": "И магазины к вечеру уценяют некоторые вполне съедобные товары, чтобы побыстрее от них избавиться) Так что еду можно купить на 50-70% дешевле",
-    "truncated": false,
+    "created_at": "Sun May 14 21:46:54 +0000 2017",
+    "id": 863873280024903700,
+    "id_str": "863873280024903686",
+    "text": "@myz4 Можно туда будет как раз сходить - я сегодня тоже это милкшейк вспоминала. Предлагала название БонБон Бурбон.… https://t.co/jxaEdx5UwK",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "myz4",
+          "name": "Лізонька",
+          "id": 18648152,
+          "id_str": "18648152",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/jxaEdx5UwK",
+          "expanded_url": "https://twitter.com/i/web/status/863873280024903686",
+          "display_url": "twitter.com/i/web/status/8…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 863872754872930300,
+    "in_reply_to_status_id_str": "863872754872930306",
+    "in_reply_to_user_id": 18648152,
+    "in_reply_to_user_id_str": "18648152",
+    "in_reply_to_screen_name": "myz4",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
