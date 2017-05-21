@@ -26,55 +26,105 @@
     }
   },
   "protected": false,
-  "followers_count": 5337,
+  "followers_count": 5375,
   "friends_count": 0,
-  "listed_count": 166,
+  "listed_count": 165,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 4309,
+  "favourites_count": 4336,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 50914,
+  "statuses_count": 51282,
   "lang": "ru",
   "status": {
-    "created_at": "Tue May 16 23:55:23 +0000 2017",
-    "id": 864630387946831900,
-    "id_str": "864630387946831872",
-    "text": "@yeesha_ye Нет, насколько я знаю диких млекопитающих нельзя",
+    "created_at": "Sun May 21 11:45:22 +0000 2017",
+    "id": 866258614989672400,
+    "id_str": "866258614989672451",
+    "text": "RT @Olga__Wagner: @abroadunderhood ААА!!! От них еще и умирают!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "yeesha_ye",
-          "name": "Naru",
-          "id": 159059168,
-          "id_str": "159059168",
+          "screen_name": "Olga__Wagner",
+          "name": "Olga",
+          "id": 1603732728,
+          "id_str": "1603732728",
           "indices": [
-            0,
-            10
+            3,
+            16
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андерхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            18,
+            34
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
-    "in_reply_to_status_id": 864628508345094100,
-    "in_reply_to_status_id_str": "864628508345094144",
-    "in_reply_to_user_id": 159059168,
-    "in_reply_to_user_id_str": "159059168",
-    "in_reply_to_screen_name": "yeesha_ye",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun May 21 11:21:28 +0000 2017",
+      "id": 866252597321224200,
+      "id_str": "866252597321224192",
+      "text": "@abroadunderhood ААА!!! От них еще и умирают!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 866250764418564100,
+      "in_reply_to_status_id_str": "866250764418564096",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
