@@ -1,0 +1,2947 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 19 05:06:23 +0000 2017",
+      "id": 876667453442588700,
+      "id_str": "876667453442588672",
+      "text": "Всем привет! Меня зовут Алекс @alex_fadeev. На этой неделе перенесёмся из далёкой Канады в близкую (к России) Эстонию.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alex_fadeev",
+            "name": "Alex Fadeev",
+            "id": 189412813,
+            "id_str": "189412813",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:09:17 +0000 2017",
+      "id": 876668185231208400,
+      "id_str": "876668185231208448",
+      "text": "Я живу в городе Тарту уже почти год вместе со своей женой - Лилией @Veineleissa, которая будет помогать мне вести блог на этой неделе.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Veineleissa",
+            "name": "Lilia Fadeeva",
+            "id": 276036015,
+            "id_str": "276036015",
+            "indices": [
+              67,
+              79
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:11:20 +0000 2017",
+      "id": 876668699478028300,
+      "id_str": "876668699478028289",
+      "text": "В начале недели поговорим о переезде, бюрократии и прочих важных вещах, типа учёбы, работы, налогов и пр.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:12:11 +0000 2017",
+      "id": 876668915484635100,
+      "id_str": "876668915484635136",
+      "text": "В середине недели затронем тему быта: аренда, расходы на жизнь, медицина, авто...",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876668699478028300,
+      "in_reply_to_status_id_str": "876668699478028289",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:14:36 +0000 2017",
+      "id": 876669521444184000,
+      "id_str": "876669521444184065",
+      "text": "И к концу поговорим о весёлом: эстонский и русский языки, культура, лайфхаки для туристов и пр. Поехали!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876668915484635100,
+      "in_reply_to_status_id_str": "876668915484635136",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:45:48 +0000 2017",
+      "id": 876677373676093400,
+      "id_str": "876677373676093442",
+      "text": "@olse_est @alex_fadeev Я помню, что здесь есть кому меня поправить, если что)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olse_est",
+            "name": "Да Нет Наверное",
+            "id": 990828758,
+            "id_str": "990828758",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "alex_fadeev",
+            "name": "Alex Fadeev",
+            "id": 189412813,
+            "id_str": "189412813",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876676056572457000,
+      "in_reply_to_status_id_str": "876676056572456960",
+      "in_reply_to_user_id": 990828758,
+      "in_reply_to_user_id_str": "990828758",
+      "in_reply_to_screen_name": "olse_est",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:50:04 +0000 2017",
+      "id": 876678449657765900,
+      "id_str": "876678449657765888",
+      "text": "@KabanMadan Нет, сейчас, пожалуй, им и не стать, это \"привилегия\" тех, кто тут при распаде СССР жил.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KabanMadan",
+            "name": "Кабан Мадан",
+            "id": 515277374,
+            "id_str": "515277374",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876668188305625100,
+      "in_reply_to_status_id_str": "876668188305625088",
+      "in_reply_to_user_id": 515277374,
+      "in_reply_to_user_id_str": "515277374",
+      "in_reply_to_screen_name": "KabanMadan",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:51:44 +0000 2017",
+      "id": 876678865715908600,
+      "id_str": "876678865715908608",
+      "text": "@taxfreelt Боюсь точно не скажу - живу в Тарту, и естественно от квартиры зависит (особенно от способа отопления).… https://t.co/5fC5tCc7L9",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taxfreelt",
+            "name": "Paweł Wiśniewski",
+            "id": 6989942,
+            "id_str": "6989942",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/5fC5tCc7L9",
+            "expanded_url": "https://twitter.com/i/web/status/876678865715908608",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876678009738199000,
+      "in_reply_to_status_id_str": "876678009738199040",
+      "in_reply_to_user_id": 6989942,
+      "in_reply_to_user_id_str": "6989942",
+      "in_reply_to_screen_name": "taxfreelt",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:53:10 +0000 2017",
+      "id": 876679229563433000,
+      "id_str": "876679229563432961",
+      "text": "Общественный транспорт в городе бесплатный для жителей Таллина, исключая электрички, если не ошибаюсь. https://t.co/f4ZjHb1hzn",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/f4ZjHb1hzn",
+            "expanded_url": "https://twitter.com/taxfreelt/status/876678009738199040",
+            "display_url": "twitter.com/taxfreelt/stat…",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 876678009738199000,
+      "quoted_status_id_str": "876678009738199040",
+      "quoted_status": {
+        "created_at": "Mon Jun 19 05:48:20 +0000 2017",
+        "id": 876678009738199000,
+        "id_str": "876678009738199040",
+        "text": "@abroadunderhood @alex_fadeev Сразу вопрос, стоимость коммунальных услуг в Таллине, двушка 40-50 метров, и правда л… https://t.co/y8jkil9I7X",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "alex_fadeev",
+              "name": "Alex Fadeev",
+              "id": 189412813,
+              "id_str": "189412813",
+              "indices": [
+                17,
+                29
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/y8jkil9I7X",
+              "expanded_url": "https://twitter.com/i/web/status/876678009738199040",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 876667453442588700,
+        "in_reply_to_status_id_str": "876667453442588672",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 6989942,
+          "id_str": "6989942"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:56:37 +0000 2017",
+      "id": 876680097914376200,
+      "id_str": "876680097914376192",
+      "text": "@taxfreelt @alex_fadeev Можно посмотреть 2кмнт квартиры в Таллине на city24.ee (есть на русском), в описании нередк… https://t.co/irzgE1gust",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "taxfreelt",
+            "name": "Paweł Wiśniewski",
+            "id": 6989942,
+            "id_str": "6989942",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "alex_fadeev",
+            "name": "Alex Fadeev",
+            "id": 189412813,
+            "id_str": "189412813",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/irzgE1gust",
+            "expanded_url": "https://twitter.com/i/web/status/876680097914376192",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876678009738199000,
+      "in_reply_to_status_id_str": "876678009738199040",
+      "in_reply_to_user_id": 6989942,
+      "in_reply_to_user_id_str": "6989942",
+      "in_reply_to_screen_name": "taxfreelt",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 05:59:01 +0000 2017",
+      "id": 876680698236723200,
+      "id_str": "876680698236723200",
+      "text": "Tere hommikust! (Доброе утро!) еще раз всем. У Алекса сегодня занятой день, так что на связи пока что Лили, все претензии ко мне)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:01:42 +0000 2017",
+      "id": 876681374647939100,
+      "id_str": "876681374647939072",
+      "text": "Напишу главное: мы не айтишники. :) Но не очень радуйтесь: Алекс - филолог. Это те, кого в РФ нередко зовут \"свободная касса!\" :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876680698236723200,
+      "in_reply_to_status_id_str": "876680698236723200",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:02:52 +0000 2017",
+      "id": 876681669125824500,
+      "id_str": "876681669125824512",
+      "text": "С другой стороны, не все так плохо: по профессии он преподаватель английского. Я - несостоявшийся менеджер - сейчас домохозяйка.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876681374647939100,
+      "in_reply_to_status_id_str": "876681374647939072",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:07:42 +0000 2017",
+      "id": 876682884102459400,
+      "id_str": "876682884102459392",
+      "text": "Нам по 27 лет, мы из Петербурга, Алекс там родился, а я жила последние 10 лет (переехала учиться из Пскова). Без детей, с животными. :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876681669125824500,
+      "in_reply_to_status_id_str": "876681669125824512",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:08:15 +0000 2017",
+      "id": 876683025718943700,
+      "id_str": "876683025718943748",
+      "text": "RT @ValeriePtah: @abroadunderhood Электрички тоже бесплатные, если в границе земли\\области (Harjumaa только)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ValeriePtah",
+            "name": "Valerie Ptah",
+            "id": 64964819,
+            "id_str": "64964819",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 06:06:19 +0000 2017",
+        "id": 876682536386252800,
+        "id_str": "876682536386252800",
+        "text": "@abroadunderhood Электрички тоже бесплатные, если в границе земли\\области (Harjumaa только)",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 876679229563433000,
+        "in_reply_to_status_id_str": "876679229563432961",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 64964819,
+          "id_str": "64964819"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:09:29 +0000 2017",
+      "id": 876683335552163800,
+      "id_str": "876683335552163840",
+      "text": "@ELukyanov @alex_fadeev Привет, Евгееений! :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ELukyanov",
+            "name": "Лукьянов Евгений А.",
+            "id": 169993781,
+            "id_str": "169993781",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "alex_fadeev",
+            "name": "Alex Fadeev",
+            "id": 189412813,
+            "id_str": "189412813",
+            "indices": [
+              11,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876683102277578800,
+      "in_reply_to_status_id_str": "876683102277578752",
+      "in_reply_to_user_id": 169993781,
+      "in_reply_to_user_id_str": "169993781",
+      "in_reply_to_screen_name": "ELukyanov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:14:47 +0000 2017",
+      "id": 876684666505506800,
+      "id_str": "876684666505506816",
+      "text": "Кстати, все знают полную версию анекдота про \"тааааллеко ли до Таллиннааа\"? А то я не так давно сама узнала) https://t.co/RfckTYozKo",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RfckTYozKo",
+            "expanded_url": "https://twitter.com/ELukyanov/status/876683937300480001",
+            "display_url": "twitter.com/ELukyanov/stat…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 876683937300480000,
+      "quoted_status_id_str": "876683937300480001",
+      "quoted_status": {
+        "created_at": "Mon Jun 19 06:11:53 +0000 2017",
+        "id": 876683937300480000,
+        "id_str": "876683937300480001",
+        "text": "@abroadunderhood @alex_fadeev Доооооброееее утро))",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "alex_fadeev",
+              "name": "Alex Fadeev",
+              "id": 189412813,
+              "id_str": "189412813",
+              "indices": [
+                17,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2 Preview</a>",
+        "in_reply_to_status_id": 876683335552163800,
+        "in_reply_to_status_id_str": "876683335552163840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 169993781,
+          "id_str": "169993781"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:21:33 +0000 2017",
+      "id": 876686368956719100,
+      "id_str": "876686368956719104",
+      "text": "@ELukyanov Ого, спасибо ☺",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ELukyanov",
+            "name": "Лукьянов Евгений А.",
+            "id": 169993781,
+            "id_str": "169993781",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876686245144952800,
+      "in_reply_to_status_id_str": "876686245144952833",
+      "in_reply_to_user_id": 169993781,
+      "in_reply_to_user_id_str": "169993781",
+      "in_reply_to_screen_name": "ELukyanov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:30:41 +0000 2017",
+      "id": 876688669075263500,
+      "id_str": "876688669075263489",
+      "text": "Идет эстонец по дороге, видит телега едет.Спрашивает у мужика на телеге:\"А далекоо ли до Таллинааа?\" -\"Нет\"-\"А с ва… https://t.co/L11bImB0VP",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/L11bImB0VP",
+            "expanded_url": "https://twitter.com/i/web/status/876688669075263489",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 876687518447677400,
+      "quoted_status_id_str": "876687518447677443",
+      "quoted_status": {
+        "created_at": "Mon Jun 19 06:26:07 +0000 2017",
+        "id": 876687518447677400,
+        "id_str": "876687518447677443",
+        "text": "@abroadunderhood Нет, просим )",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 876684666505506800,
+        "in_reply_to_status_id_str": "876684666505506816",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 53802173,
+          "id_str": "53802173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:32:45 +0000 2017",
+      "id": 876689189567422500,
+      "id_str": "876689189567422465",
+      "text": "...Едут час, второй, третий. Эстонец не выдержал и спрашивает опять: \"Таллекоооо ли до Тааллина?\" Мужик: \"Теппеерь таллекооо...\"",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876688669075263500,
+      "in_reply_to_status_id_str": "876688669075263489",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:34:26 +0000 2017",
+      "id": 876689611598307300,
+      "id_str": "876689611598307331",
+      "text": "@agataklarchen Привет нормальным от \"нормальных\")",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "agataklarchen",
+            "name": "⚜Fleur⚜",
+            "id": 1687592029,
+            "id_str": "1687592029",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876688779087630300,
+      "in_reply_to_status_id_str": "876688779087630336",
+      "in_reply_to_user_id": 1687592029,
+      "in_reply_to_user_id_str": "1687592029",
+      "in_reply_to_screen_name": "agataklarchen",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:41:25 +0000 2017",
+      "id": 876691370546802700,
+      "id_str": "876691370546802688",
+      "text": "@AndreyKaliningr Мы не в курсе, поделитесь?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876691174832181200,
+      "in_reply_to_status_id_str": "876691174832181248",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:44:08 +0000 2017",
+      "id": 876692055094939600,
+      "id_str": "876692055094939648",
+      "text": "RT @ELukyanov: @Veineleissa @abroadunderhood Фото в студию!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ELukyanov",
+            "name": "Лукьянов Евгений А.",
+            "id": 169993781,
+            "id_str": "169993781",
+            "indices": [
+              3,
+              13
+            ]
+          },
+          {
+            "screen_name": "Veineleissa",
+            "name": "Lilia Fadeeva",
+            "id": 276036015,
+            "id_str": "276036015",
+            "indices": [
+              15,
+              27
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              28,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 06:29:56 +0000 2017",
+        "id": 876688480406995000,
+        "id_str": "876688480406994944",
+        "text": "@Veineleissa @abroadunderhood Фото в студию!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Veineleissa",
+              "name": "Lilia Fadeeva",
+              "id": 276036015,
+              "id_str": "276036015",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                13,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2 Preview</a>",
+        "in_reply_to_status_id": 876687655240704000,
+        "in_reply_to_status_id_str": "876687655240704001",
+        "in_reply_to_user_id": 276036015,
+        "in_reply_to_user_id_str": "276036015",
+        "in_reply_to_screen_name": "Veineleissa",
+        "user": {
+          "id": 169993781,
+          "id_str": "169993781"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:45:18 +0000 2017",
+      "id": 876692347643457500,
+      "id_str": "876692347643457537",
+      "text": "@ELukyanov Единственное, где все вместе. Невозможно собрать их в кучу! https://t.co/rgt5SrafCy",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ELukyanov",
+            "name": "Лукьянов Евгений А.",
+            "id": 169993781,
+            "id_str": "169993781",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 876692316504936400,
+            "id_str": "876692316504936449",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCqjBFaXUAEz7yc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCqjBFaXUAEz7yc.jpg",
+            "url": "https://t.co/rgt5SrafCy",
+            "display_url": "pic.twitter.com/rgt5SrafCy",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/876692347643457537/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1333,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 876692316504936400,
+            "id_str": "876692316504936449",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCqjBFaXUAEz7yc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCqjBFaXUAEz7yc.jpg",
+            "url": "https://t.co/rgt5SrafCy",
+            "display_url": "pic.twitter.com/rgt5SrafCy",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/876692347643457537/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 800,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2000,
+                "h": 1333,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876688480406995000,
+      "in_reply_to_status_id_str": "876688480406994944",
+      "in_reply_to_user_id": 169993781,
+      "in_reply_to_user_id_str": "169993781",
+      "in_reply_to_screen_name": "ELukyanov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:50:22 +0000 2017",
+      "id": 876693623458467800,
+      "id_str": "876693623458467840",
+      "text": "@AndreyKaliningr Хохочу в голос))) Спасибо!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876693146654171100,
+      "in_reply_to_status_id_str": "876693146654171138",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:50:32 +0000 2017",
+      "id": 876693664382234600,
+      "id_str": "876693664382234624",
+      "text": "RT @AndreyKaliningr: @abroadunderhood Конечно https://t.co/vzbNiaqg05",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              3,
+              19
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              21,
+              37
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 876693136482947100,
+            "id_str": "876693136482947072",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+            "url": "https://t.co/vzbNiaqg05",
+            "display_url": "pic.twitter.com/vzbNiaqg05",
+            "expanded_url": "https://twitter.com/AndreyKaliningr/status/876693146654171138/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 577,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 577,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 876693146654171100,
+            "source_status_id_str": "876693146654171138",
+            "source_user_id": 3938594903,
+            "source_user_id_str": "3938594903"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 876693136482947100,
+            "id_str": "876693136482947072",
+            "indices": [
+              46,
+              69
+            ],
+            "media_url": "http://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+            "url": "https://t.co/vzbNiaqg05",
+            "display_url": "pic.twitter.com/vzbNiaqg05",
+            "expanded_url": "https://twitter.com/AndreyKaliningr/status/876693146654171138/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 577,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 577,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 383,
+                "h": 680,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 876693146654171100,
+            "source_status_id_str": "876693146654171138",
+            "source_user_id": 3938594903,
+            "source_user_id_str": "3938594903"
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 06:48:28 +0000 2017",
+        "id": 876693146654171100,
+        "id_str": "876693146654171138",
+        "text": "@abroadunderhood Конечно https://t.co/vzbNiaqg05",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 876693136482947100,
+              "id_str": "876693136482947072",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+              "url": "https://t.co/vzbNiaqg05",
+              "display_url": "pic.twitter.com/vzbNiaqg05",
+              "expanded_url": "https://twitter.com/AndreyKaliningr/status/876693146654171138/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 577,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 577,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 876693136482947100,
+              "id_str": "876693136482947072",
+              "indices": [
+                25,
+                48
+              ],
+              "media_url": "http://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/DCqjw0EW0AAg2aO.jpg",
+              "url": "https://t.co/vzbNiaqg05",
+              "display_url": "pic.twitter.com/vzbNiaqg05",
+              "expanded_url": "https://twitter.com/AndreyKaliningr/status/876693146654171138/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 577,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 577,
+                  "h": 1024,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 383,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 876691370546802700,
+        "in_reply_to_status_id_str": "876691370546802688",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3938594903,
+          "id_str": "3938594903"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:53:40 +0000 2017",
+      "id": 876694452622041100,
+      "id_str": "876694452622041088",
+      "text": "Кстати, заметьте: во всех анекдотах эстонцы говорят по-русски. 😉 Но об этом мы поговорим через пару дней.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:55:22 +0000 2017",
+      "id": 876694880227033100,
+      "id_str": "876694880227033090",
+      "text": "@AndreyKaliningr В этом анекдоте показана яркая эстонская черта - любовь к порядку: где взял - туда и вернул. Поэтому в Эстонии чисто. ☺",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876693146654171100,
+      "in_reply_to_status_id_str": "876693146654171138",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:56:32 +0000 2017",
+      "id": 876695173501259800,
+      "id_str": "876695173501259777",
+      "text": "@olse_est @KabanMadan Я думала, \"негры\" - это только те, кто так и не получил ни эстонское гражданство, ни русское.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olse_est",
+            "name": "Да Нет Наверное",
+            "id": 990828758,
+            "id_str": "990828758",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "KabanMadan",
+            "name": "Кабан Мадан",
+            "id": 515277374,
+            "id_str": "515277374",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876694932257484800,
+      "in_reply_to_status_id_str": "876694932257484800",
+      "in_reply_to_user_id": 990828758,
+      "in_reply_to_user_id_str": "990828758",
+      "in_reply_to_screen_name": "olse_est",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:57:47 +0000 2017",
+      "id": 876695490452127700,
+      "id_str": "876695490452127745",
+      "text": "@AndreyKaliningr У нас сосед-эстонец в возрасте. Чего у него только нет дома и в сарае! При этом все нужные вещи! З… https://t.co/TlmqxcDIDk",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TlmqxcDIDk",
+            "expanded_url": "https://twitter.com/i/web/status/876695490452127745",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 876695131021357000,
+      "in_reply_to_status_id_str": "876695131021357056",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 06:59:20 +0000 2017",
+      "id": 876695879738118100,
+      "id_str": "876695879738118144",
+      "text": "Еще про бесплатные электрички для таллинцев: https://t.co/Y0BAVqYHBx",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y0BAVqYHBx",
+            "expanded_url": "https://twitter.com/olse_est/status/876695608349929472",
+            "display_url": "twitter.com/olse_est/statu…",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 876695608349929500,
+      "quoted_status_id_str": "876695608349929472",
+      "quoted_status": {
+        "created_at": "Mon Jun 19 06:58:15 +0000 2017",
+        "id": 876695608349929500,
+        "id_str": "876695608349929472",
+        "text": "@ValeriePtah @abroadunderhood не совсем. бесплатно, пока электричка едет в границе Таллина. только выехала в Харьюмаа - покупай билет.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "ValeriePtah",
+              "name": "Valerie Ptah",
+              "id": 64964819,
+              "id_str": "64964819",
+              "indices": [
+                0,
+                12
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                13,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 876682536386252800,
+        "in_reply_to_status_id_str": "876682536386252800",
+        "in_reply_to_user_id": 64964819,
+        "in_reply_to_user_id_str": "64964819",
+        "in_reply_to_screen_name": "ValeriePtah",
+        "user": {
+          "id": 990828758,
+          "id_str": "990828758"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:04:13 +0000 2017",
+      "id": 876697107448647700,
+      "id_str": "876697107448647680",
+      "text": "@AndreyKaliningr Тоже не припомню, чтоб отказывали в помощи. Другое дело, что у молодежи порой приходится просить ее по-английски.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876696334237151200,
+      "in_reply_to_status_id_str": "876696334237151232",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:05:28 +0000 2017",
+      "id": 876697421434286100,
+      "id_str": "876697421434286081",
+      "text": "@Skaista_meitene Тогда ближе к концу недели будут заметки для вас. Готовьте вопросы - поможем чем сможем.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Skaista_meitene",
+            "name": "Skaista",
+            "id": 122303281,
+            "id_str": "122303281",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876696730284294100,
+      "in_reply_to_status_id_str": "876696730284294145",
+      "in_reply_to_user_id": 122303281,
+      "in_reply_to_user_id_str": "122303281",
+      "in_reply_to_screen_name": "Skaista_meitene",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:06:36 +0000 2017",
+      "id": 876697710019186700,
+      "id_str": "876697710019186689",
+      "text": "Знаю только, что это не гражданство - не дает права жить в Эстонии, например. Кто-то знает больше меня?) https://t.co/IZywJdngqp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IZywJdngqp",
+            "expanded_url": "https://twitter.com/KabanMadan/status/876696058088312832",
+            "display_url": "twitter.com/KabanMadan/sta…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 876696058088312800,
+      "quoted_status_id_str": "876696058088312832",
+      "quoted_status": {
+        "created_at": "Mon Jun 19 07:00:03 +0000 2017",
+        "id": 876696058088312800,
+        "id_str": "876696058088312832",
+        "text": "@abroadunderhood @olse_est Ладно, фиг с ними, с неграми. Расскажите про \"электронное гражданство\". Кто пользуется,… https://t.co/12qucAs8zs",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "olse_est",
+              "name": "Да Нет Наверное",
+              "id": 990828758,
+              "id_str": "990828758",
+              "indices": [
+                17,
+                26
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/12qucAs8zs",
+              "expanded_url": "https://twitter.com/i/web/status/876696058088312832",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 876695173501259800,
+        "in_reply_to_status_id_str": "876695173501259777",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 515277374,
+          "id_str": "515277374"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:08:55 +0000 2017",
+      "id": 876698290892542000,
+      "id_str": "876698290892541952",
+      "text": "@olse_est @KabanMadan Пожалуй, соглашусь. Дефилировать тут в кокошнике и в футболке с ВВП я б не советовала.В остал… https://t.co/0IxpJ57GGr",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olse_est",
+            "name": "Да Нет Наверное",
+            "id": 990828758,
+            "id_str": "990828758",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "KabanMadan",
+            "name": "Кабан Мадан",
+            "id": 515277374,
+            "id_str": "515277374",
+            "indices": [
+              10,
+              21
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/0IxpJ57GGr",
+            "expanded_url": "https://twitter.com/i/web/status/876698290892541952",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876697376362086400,
+      "in_reply_to_status_id_str": "876697376362086404",
+      "in_reply_to_user_id": 990828758,
+      "in_reply_to_user_id_str": "990828758",
+      "in_reply_to_screen_name": "olse_est",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:10:12 +0000 2017",
+      "id": 876698612482416600,
+      "id_str": "876698612482416641",
+      "text": "RT @olyapka: @abroadunderhood Я когда-то об этом подробную статью писала. Но не знаю, возможно, с тех пор что-то поменялось, но вряд ли гло…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olyapka",
+            "name": "olyapka",
+            "id": 10533432,
+            "id_str": "10533432",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 07:09:23 +0000 2017",
+        "id": 876698408354025500,
+        "id_str": "876698408354025472",
+        "text": "@abroadunderhood Я когда-то об этом подробную статью писала. Но не знаю, возможно, с тех пор что-то поменялось, но… https://t.co/q7B8DPh462",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/q7B8DPh462",
+              "expanded_url": "https://twitter.com/i/web/status/876698408354025472",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 876697710019186700,
+        "in_reply_to_status_id_str": "876697710019186689",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:11:48 +0000 2017",
+      "id": 876699015450169300,
+      "id_str": "876699015450169344",
+      "text": "RT @ValeriePtah: @abroadunderhood Эл. гражданство (e-residence) даёт право открыть бизнес (для этого и придумали), открыть банковский счёт…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ValeriePtah",
+            "name": "Valerie Ptah",
+            "id": 64964819,
+            "id_str": "64964819",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 19 07:10:52 +0000 2017",
+        "id": 876698782930546700,
+        "id_str": "876698782930546688",
+        "text": "@abroadunderhood Эл. гражданство (e-residence) даёт право открыть бизнес (для этого и придумали), открыть банковски… https://t.co/kBqDqwIc2H",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/kBqDqwIc2H",
+              "expanded_url": "https://twitter.com/i/web/status/876698782930546688",
+              "display_url": "twitter.com/i/web/status/8…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 876697710019186700,
+        "in_reply_to_status_id_str": "876697710019186689",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 64964819,
+          "id_str": "64964819"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:15:13 +0000 2017",
+      "id": 876699874728828900,
+      "id_str": "876699874728828928",
+      "text": "@AndreyKaliningr Абсолютно согласна. Я именно тут и подтянула разговорный английский: в Тарту много иностранцев и м… https://t.co/qr3zR5OVZB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/qr3zR5OVZB",
+            "expanded_url": "https://twitter.com/i/web/status/876699874728828928",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876698491346616300,
+      "in_reply_to_status_id_str": "876698491346616321",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:23:43 +0000 2017",
+      "id": 876702013786075100,
+      "id_str": "876702013786075136",
+      "text": "@AndreyKaliningr Площадь наверное помните Ратушную, она брусчатая, да, а универ за ней, но там нет брусчатки. Прост… https://t.co/KBNAUoRoTV",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/KBNAUoRoTV",
+            "expanded_url": "https://twitter.com/i/web/status/876702013786075136",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876700714390745100,
+      "in_reply_to_status_id_str": "876700714390745088",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:24:56 +0000 2017",
+      "id": 876702323191545900,
+      "id_str": "876702323191545856",
+      "text": "@Lanakramoleb Это когда ты домохозяйка и у тебя нет детей. Не знаю, как лучше объяснить)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lanakramoleb",
+            "name": "Вестник Ланиакеи",
+            "id": 231257772,
+            "id_str": "231257772",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876701596578709500,
+      "in_reply_to_status_id_str": "876701596578709504",
+      "in_reply_to_user_id": 231257772,
+      "in_reply_to_user_id_str": "231257772",
+      "in_reply_to_screen_name": "Lanakramoleb",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:26:42 +0000 2017",
+      "id": 876702768349806600,
+      "id_str": "876702768349806592",
+      "text": "@AndreyKaliningr Я как раз хотела написать: может и была тогда брусчатка. А вот гугл-панорам не было и проверить ст… https://t.co/ZTy4zPbCOi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/ZTy4zPbCOi",
+            "expanded_url": "https://twitter.com/i/web/status/876702768349806592",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876702429219352600,
+      "in_reply_to_status_id_str": "876702429219352578",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:27:28 +0000 2017",
+      "id": 876702960859963400,
+      "id_str": "876702960859963392",
+      "text": "@AndreyKaliningr Приезжайте по возможности посмотреть на Тарту: уверена, он здорово изменился с тех времен! И до сих пор меняется на глазах.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876702429219352600,
+      "in_reply_to_status_id_str": "876702429219352578",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:29:58 +0000 2017",
+      "id": 876703589409984500,
+      "id_str": "876703589409984512",
+      "text": "@USAIsAnAsshole @AndreyKaliningr Улетают умирать на природу, наверное. Я вообще мертвых птиц тут редко вижу, к счас… https://t.co/fo3qZe8g1k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "USAIsAnAsshole",
+            "name": "Alexander",
+            "id": 214953502,
+            "id_str": "214953502",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/fo3qZe8g1k",
+            "expanded_url": "https://twitter.com/i/web/status/876703589409984512",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876702089115824100,
+      "in_reply_to_status_id_str": "876702089115824128",
+      "in_reply_to_user_id": 214953502,
+      "in_reply_to_user_id_str": "214953502",
+      "in_reply_to_screen_name": "USAIsAnAsshole",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:31:29 +0000 2017",
+      "id": 876703969518735400,
+      "id_str": "876703969518735361",
+      "text": "@AndreyKaliningr Вы в Калининграде живете? Ну тогда не очень далеко ехать, если что. И Таллин тоже хорош, люблю его… https://t.co/uUlqAXPCM2",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/uUlqAXPCM2",
+            "expanded_url": "https://twitter.com/i/web/status/876703969518735361",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876703402624995300,
+      "in_reply_to_status_id_str": "876703402624995328",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:32:38 +0000 2017",
+      "id": 876704259768807400,
+      "id_str": "876704259768807424",
+      "text": "@Lanakramoleb По-русски тунеядка. Глядишь, скоро налог на меня введут. Не завидуйте, у меня ни пенсии, ни пособий н… https://t.co/GY5lnQQNKj",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lanakramoleb",
+            "name": "Вестник Ланиакеи",
+            "id": 231257772,
+            "id_str": "231257772",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/GY5lnQQNKj",
+            "expanded_url": "https://twitter.com/i/web/status/876704259768807424",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876703601518936000,
+      "in_reply_to_status_id_str": "876703601518936065",
+      "in_reply_to_user_id": 231257772,
+      "in_reply_to_user_id_str": "231257772",
+      "in_reply_to_screen_name": "Lanakramoleb",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 19 07:39:20 +0000 2017",
+      "id": 876705947464413200,
+      "id_str": "876705947464413184",
+      "text": "@AndreyKaliningr 10? Я думала поближе... На Латвию все жалуются, а мы только раз до Риги доехали, ну да, показалось… https://t.co/Jw4EoYyYrv",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndreyKaliningr",
+            "name": "Andrey",
+            "id": 3938594903,
+            "id_str": "3938594903",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Jw4EoYyYrv",
+            "expanded_url": "https://twitter.com/i/web/status/876705947464413184",
+            "display_url": "twitter.com/i/web/status/8…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+      "in_reply_to_status_id": 876705018644181000,
+      "in_reply_to_status_id_str": "876705018644180992",
+      "in_reply_to_user_id": 3938594903,
+      "in_reply_to_user_id_str": "3938594903",
+      "in_reply_to_screen_name": "AndreyKaliningr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
