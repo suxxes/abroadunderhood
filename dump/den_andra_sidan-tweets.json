@@ -1,0 +1,37 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Jun 25 22:40:09 +0000 2017",
+      "id": 879106972804677600,
+      "id_str": "879106972804677633",
+      "text": "привет всем, кто ещё не спит! меня зовут Соня, и я живу -- тадаам -- в Мюнхене. все подробности завтра, а пока -- спокойной ночи :)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
