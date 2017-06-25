@@ -26,56 +26,66 @@
     }
   },
   "protected": false,
-  "followers_count": 5521,
+  "followers_count": 5536,
   "friends_count": 0,
-  "listed_count": 167,
+  "listed_count": 166,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 4515,
+  "favourites_count": 4576,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 54756,
+  "statuses_count": 55056,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jun 24 11:21:10 +0000 2017",
-    "id": 878573712873861100,
-    "id_str": "878573712873861120",
-    "text": "Tartu https://t.co/sseIuzLpNU",
+    "created_at": "Sun Jun 25 21:34:56 +0000 2017",
+    "id": 879090560174358500,
+    "id_str": "879090560174358528",
+    "text": "@tlvtrs @Veineleissa Да, в своё время это был хит. Мы валялись от смеха. Сегодня переслушивали 🤣",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/sseIuzLpNU",
-          "expanded_url": "https://www.pscp.tv/w/bBzxFjFyYVFaRFJMeHFsanp8MW5BSkVCQVJuWFJ4TGinF0svBAZlvlwoP9M33Z4ZHoFEhJfrnDpbqVOM4b4-",
-          "display_url": "pscp.tv/w/bBzxFjFyYVFa…",
+          "screen_name": "tlvtrs",
+          "name": "morning theft",
+          "id": 1397220374,
+          "id_str": "1397220374",
           "indices": [
-            6,
-            29
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "Veineleissa",
+          "name": "Lilia Fadeeva",
+          "id": 276036015,
+          "id_str": "276036015",
+          "indices": [
+            8,
+            20
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 879083381870538800,
+    "in_reply_to_status_id_str": "879083381870538759",
+    "in_reply_to_user_id": 1397220374,
+    "in_reply_to_user_id_str": "1397220374",
+    "in_reply_to_screen_name": "tlvtrs",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "lt"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -86,7 +96,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/876661097692114944/3Gks_lgI_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/876661097692114944/3Gks_lgI_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1498292380",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1498376986",
   "profile_link_color": "7FDBB6",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
