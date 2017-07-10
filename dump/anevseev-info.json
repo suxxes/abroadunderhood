@@ -37,65 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 5562,
+  "followers_count": 5597,
   "friends_count": 0,
-  "listed_count": 169,
+  "listed_count": 168,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5195,
+  "favourites_count": 5252,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 56736,
+  "statuses_count": 56800,
   "lang": "ru",
   "status": {
-    "created_at": "Sat Jul 08 23:14:39 +0000 2017",
-    "id": 883826696813785100,
-    "id_str": "883826696813785088",
-    "text": "@OnePinchMan То есть каждый врач работает с ограниченным кругом страховых, ты не можешь идти к любому, лишь к тому… https://t.co/powxDtlLxJ",
-    "truncated": true,
+    "created_at": "Mon Jul 10 02:55:28 +0000 2017",
+    "id": 884244651707953200,
+    "id_str": "884244651707953154",
+    "text": "@vitalissimus73 Спасибо! Я в твиттер почти не пишу, но иногда в инстанрам https://t.co/f24kN10IkF\nЕсли поеду - закину туда :)",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "OnePinchMan",
-          "name": "Berserk",
-          "id": 495947990,
-          "id_str": "495947990",
+          "screen_name": "vitalissimus73",
+          "name": "Виталий Селицкий",
+          "id": 402164443,
+          "id_str": "402164443",
           "indices": [
             0,
-            12
+            15
           ]
         }
       ],
       "urls": [
         {
-          "url": "https://t.co/powxDtlLxJ",
-          "expanded_url": "https://twitter.com/i/web/status/883826696813785088",
-          "display_url": "twitter.com/i/web/status/8…",
+          "url": "https://t.co/f24kN10IkF",
+          "expanded_url": "https://www.instagram.com/anevseev/",
+          "display_url": "instagram.com/anevseev/",
           "indices": [
-            116,
-            139
+            74,
+            97
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 883826315253690400,
-    "in_reply_to_status_id_str": "883826315253690368",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": 884176061654761500,
+    "in_reply_to_status_id_str": "884176061654761473",
+    "in_reply_to_user_id": 402164443,
+    "in_reply_to_user_id_str": "402164443",
+    "in_reply_to_screen_name": "vitalissimus73",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
