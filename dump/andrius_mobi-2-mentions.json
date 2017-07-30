@@ -1,0 +1,517 @@
+{
+  "mentions": [
+    {
+      "created_at": "Sun Jul 30 22:55:15 +0000 2017",
+      "id": 891794347854876700,
+      "id_str": "891794347854876673",
+      "text": "@valeriiaarnaud @abroadunderhood Спасибо и - было действительно интересно!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "valeriiaarnaud",
+            "name": "Valeriia Arnaud",
+            "id": 1462001335,
+            "id_str": "1462001335",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 891786677940879400,
+      "in_reply_to_status_id_str": "891786677940879360",
+      "in_reply_to_user_id": 1462001335,
+      "in_reply_to_user_id_str": "1462001335",
+      "in_reply_to_screen_name": "valeriiaarnaud",
+      "user": {
+        "id": 8139102,
+        "id_str": "8139102"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:00:50 +0000 2017",
+      "id": 891795749670981600,
+      "id_str": "891795749670981636",
+      "text": "@abroadunderhood @andrius_mobi О, и снова здравствуйте!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "andrius_mobi",
+            "name": "Andrius Kairiukstis",
+            "id": 8139102,
+            "id_str": "8139102",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 891793331608584200,
+      "in_reply_to_status_id_str": "891793331608584192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 10533432,
+        "id_str": "10533432"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:01:45 +0000 2017",
+      "id": 891795981821517800,
+      "id_str": "891795981821517824",
+      "text": "@abroadunderhood @andrius_mobi Привет! Как и обещал!;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "andrius_mobi",
+            "name": "Andrius Kairiukstis",
+            "id": 8139102,
+            "id_str": "8139102",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 891793331608584200,
+      "in_reply_to_status_id_str": "891793331608584192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 19809150,
+        "id_str": "19809150"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          55.67210428,
+          37.52929805
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          37.52929805,
+          55.67210428
+        ]
+      },
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:01:52 +0000 2017",
+      "id": 891796011252944900,
+      "id_str": "891796011252944896",
+      "text": "@abroadunderhood @andrius_mobi только сегодня думал - куда же Вы делись? Скучал даже)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "andrius_mobi",
+            "name": "Andrius Kairiukstis",
+            "id": 8139102,
+            "id_str": "8139102",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 891793331608584200,
+      "in_reply_to_status_id_str": "891793331608584192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 577855660,
+        "id_str": "577855660"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:02:06 +0000 2017",
+      "id": 891796069369172000,
+      "id_str": "891796069369171970",
+      "text": "@abroadunderhood @valeriiaarnaud Да да! Большое спасибо! Было очень интересно!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "valeriiaarnaud",
+            "name": "Valeriia Arnaud",
+            "id": 1462001335,
+            "id_str": "1462001335",
+            "indices": [
+              17,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 891793712069607400,
+      "in_reply_to_status_id_str": "891793712069607424",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 19809150,
+        "id_str": "19809150"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          55.67210428,
+          37.52929805
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          37.52929805,
+          55.67210428
+        ]
+      },
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:02:27 +0000 2017",
+      "id": 891796156904341500,
+      "id_str": "891796156904341510",
+      "text": "@abroadunderhood @andrius_mobi Всивсле вернулся с литвой ;)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "andrius_mobi",
+            "name": "Andrius Kairiukstis",
+            "id": 8139102,
+            "id_str": "8139102",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 891795981821517800,
+      "in_reply_to_status_id_str": "891795981821517824",
+      "in_reply_to_user_id": 19809150,
+      "in_reply_to_user_id_str": "19809150",
+      "in_reply_to_screen_name": "afonin",
+      "user": {
+        "id": 19809150,
+        "id_str": "19809150"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          55.67210428,
+          37.52929805
+        ]
+      },
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          37.52929805,
+          55.67210428
+        ]
+      },
+      "place": {
+        "id": "4303d1afc1e98c37",
+        "url": "https://api.twitter.com/1.1/geo/id/4303d1afc1e98c37.json",
+        "place_type": "city",
+        "name": "Москва",
+        "full_name": "Москва, Россия",
+        "country_code": "RU",
+        "country": "Россия",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                36.8878157,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                55.4883244
+              ],
+              [
+                37.9674694,
+                56.0212511
+              ],
+              [
+                36.8878157,
+                56.0212511
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jul 30 23:05:00 +0000 2017",
+      "id": 891796798477660200,
+      "id_str": "891796798477660161",
+      "text": "@abroadunderhood @andrius_mobi Приветствуем)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "andrius_mobi",
+            "name": "Andrius Kairiukstis",
+            "id": 8139102,
+            "id_str": "8139102",
+            "indices": [
+              17,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 891793331608584200,
+      "in_reply_to_status_id_str": "891793331608584192",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 212741338,
+        "id_str": "212741338"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
