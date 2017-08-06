@@ -2,7 +2,8 @@ import authorId from './helpers/author-id';
 
 export default authorId([
   // post: false
-  { username: 'andrius_mobi-2', start: '31 Jul 2017', first: '891793331608584192', post: false },
+  // { username: 'teroff13', start: '7 Aug 2017', first: '', post: false },
+  { username: 'andrius_mobi-2', start: '31 Jul 2017', first: '891793331608584192' },
   { username: 'valeriiaarnaud', start: '24 Jul 2017', first: '889401907038572546' },
   { username: 'bellicht', start: '17 Jul 2017', first: '886879096361414656' },
   { username: 'biomehanik', start: '10 Jul 2017', first: '884395935962419201' },
