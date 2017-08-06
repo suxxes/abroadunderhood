@@ -37,55 +37,35 @@
     }
   },
   "protected": false,
-  "followers_count": 6742,
+  "followers_count": 6736,
   "friends_count": 0,
-  "listed_count": 171,
+  "listed_count": 170,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5467,
+  "favourites_count": 5474,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 58864,
+  "statuses_count": 59057,
   "lang": "ru",
   "status": {
-    "created_at": "Fri Aug 04 19:34:31 +0000 2017",
-    "id": 893555770138165200,
-    "id_str": "893555770138165248",
-    "text": "RT @Shiroginne: @olse_est @abroadunderhood да, очень страдаю когда не могу получить их :(",
+    "created_at": "Sun Aug 06 19:59:15 +0000 2017",
+    "id": 894286768400465900,
+    "id_str": "894286768400465922",
+    "text": "Итак, пост сдал :) С вами был @andrius_mobi и надеюсь идея приехать или переехать в Литву после недели со мной - вам понравится!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Shiroginne",
-          "name": "Mac Shifford",
-          "id": 25733176,
-          "id_str": "25733176",
+          "screen_name": "andrius_mobi",
+          "name": "Andrius Kairiukstis",
+          "id": 8139102,
+          "id_str": "8139102",
           "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "olse_est",
-          "name": "Да Нет Наверное",
-          "id": 990828758,
-          "id_str": "990828758",
-          "indices": [
-            16,
-            25
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андерхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            26,
-            42
+            30,
+            43
           ]
         }
       ],
@@ -101,61 +81,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Fri Aug 04 14:31:32 +0000 2017",
-      "id": 893479519046258700,
-      "id_str": "893479519046258688",
-      "text": "@olse_est @abroadunderhood да, очень страдаю когда не могу получить их :(",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "olse_est",
-            "name": "Да Нет Наверное",
-            "id": 990828758,
-            "id_str": "990828758",
-            "indices": [
-              0,
-              9
-            ]
-          },
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андерхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              10,
-              26
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "in_reply_to_status_id": 893479311612706800,
-      "in_reply_to_status_id_str": "893479311612706816",
-      "in_reply_to_user_id": 990828758,
-      "in_reply_to_user_id_str": "990828758",
-      "in_reply_to_screen_name": "olse_est",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": true,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
-    "favorited": true,
-    "retweeted": true,
+    "retweet_count": 0,
+    "favorite_count": 17,
+    "favorited": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
