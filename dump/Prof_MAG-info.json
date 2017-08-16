@@ -37,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 7322,
+  "followers_count": 7325,
   "friends_count": 0,
   "listed_count": 174,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5700,
+  "favourites_count": 5703,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 61902,
+  "statuses_count": 61922,
   "lang": "ru",
   "status": {
-    "created_at": "Tue Aug 15 11:30:15 +0000 2017",
-    "id": 897420167210295300,
-    "id_str": "897420167210295297",
-    "text": "Ну и не долго) Обычно все же 30-32 https://t.co/2MzfQyxylu",
+    "created_at": "Wed Aug 16 08:18:41 +0000 2017",
+    "id": 897734344143503400,
+    "id_str": "897734344143503360",
+    "text": "Время перерыва, постараюсь в обед рассказать о городском транспорте",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/2MzfQyxylu",
-          "expanded_url": "https://twitter.com/olyapka/status/897418192607379457",
-          "display_url": "twitter.com/olyapka/status…",
-          "indices": [
-            35,
-            58
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 897418192607379500,
-    "quoted_status_id_str": "897418192607379457",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
