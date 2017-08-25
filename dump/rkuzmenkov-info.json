@@ -4,18 +4,7 @@
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
   "location": "Dubai, United Arab Emirates",
-  "profile_location": {
-    "id": "001907e868d06e24",
-    "url": "https://api.twitter.com/1.1/geo/id/001907e868d06e24.json",
-    "place_type": "unknown",
-    "name": "Dubai, United Arab Emirates",
-    "full_name": "Dubai, United Arab Emirates",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели — @rkuzmenkov",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -37,45 +26,132 @@
     }
   },
   "protected": false,
-  "followers_count": 7341,
+  "followers_count": 7350,
   "friends_count": 0,
   "listed_count": 176,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5727,
+  "favourites_count": 5733,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 62522,
+  "statuses_count": 62779,
   "lang": "ru",
   "status": {
-    "created_at": "Wed Aug 23 13:10:31 +0000 2017",
-    "id": 900344500018700300,
-    "id_str": "900344500018700288",
-    "text": "Это еще один парадокс. Перелет Одесса-Киев-Дубай или Одесса-Стамбул-Дубай получается дешевле прямого. Тайны авиации. 😑",
+    "created_at": "Fri Aug 25 12:36:33 +0000 2017",
+    "id": 901060728655925200,
+    "id_str": "901060728655925248",
+    "text": "RT @ELukyanov: @abroadunderhood https://t.co/sv5Oe4tnmO",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "ELukyanov",
+          "name": "Лукьянов Евгений А.",
+          "id": 169993781,
+          "id_str": "169993781",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андерхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/sv5Oe4tnmO",
+          "expanded_url": "https://twitter.com/BaronM_/status/901047198959505410",
+          "display_url": "twitter.com/BaronM_/status…",
+          "indices": [
+            32,
+            55
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 900344137983160300,
-    "in_reply_to_status_id_str": "900344137983160320",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweeted_status": {
+      "created_at": "Fri Aug 25 12:22:52 +0000 2017",
+      "id": 901057284175953900,
+      "id_str": "901057284175953924",
+      "text": "@abroadunderhood https://t.co/sv5Oe4tnmO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/sv5Oe4tnmO",
+            "expanded_url": "https://twitter.com/BaronM_/status/901047198959505410",
+            "display_url": "twitter.com/BaronM_/status…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://mvilla.it/fenix\" rel=\"nofollow\">Fenix 2 Preview</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 901047198959505400,
+      "quoted_status_id_str": "901047198959505410",
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    "is_quote_status": true,
+    "quoted_status_id": 901047198959505400,
+    "quoted_status_id_str": "901047198959505410",
+    "retweet_count": 3,
+    "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "lang": "ru"
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
