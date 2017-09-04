@@ -2,7 +2,7 @@ import authorId from './helpers/author-id';
 
 export default authorId([
   // post: false
-  // { username: 'zezechai' start: '4 Sep 2017', first: '', post: false },
+  { username: 'zezechai', start: '4 Sep 2017', first: '904575385064615936', post: false },
   { username: 'grayraw', start: '28 Aug 2017', first: '902144914858819586' },
   { username: 'rkuzmenkov', start: '21 Aug 2017', first: '899513259862228992' },
   { username: 'Prof_MAG', start: '14 Aug 2017', first: '896974560461029379' },
