@@ -37,30 +37,137 @@
     }
   },
   "protected": false,
-  "followers_count": 7616,
+  "followers_count": 7646,
   "friends_count": 0,
   "listed_count": 182,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 5752,
+  "favourites_count": 5807,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 63866,
+  "statuses_count": 64285,
   "lang": "en",
   "status": {
-    "created_at": "Tue Sep 05 15:26:44 +0000 2017",
-    "id": 905089824977289200,
-    "id_str": "905089824977289216",
-    "text": "Вижу, куда все движется, поэтому начну рассказывать о голландцах.",
+    "created_at": "Sun Sep 10 19:54:30 +0000 2017",
+    "id": 906969147388710900,
+    "id_str": "906969147388710913",
+    "text": "RT @londonrotterdam: @abroadunderhood 9 способов разделить страну https://t.co/mObEPqQmp2",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "londonrotterdam",
+          "name": "Alx",
+          "id": 484696133,
+          "id_str": "484696133",
+          "indices": [
+            3,
+            19
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андерхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            21,
+            37
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 906967936736297000,
+          "id_str": "906967936736296962",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+          "url": "https://t.co/mObEPqQmp2",
+          "display_url": "pic.twitter.com/mObEPqQmp2",
+          "expanded_url": "https://twitter.com/londonrotterdam/status/906967991623077888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1050,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 595,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1828,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 906967991623077900,
+          "source_status_id_str": "906967991623077888",
+          "source_user_id": 484696133,
+          "source_user_id_str": "484696133"
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_entities": {
+      "media": [
+        {
+          "id": 906967936736297000,
+          "id_str": "906967936736296962",
+          "indices": [
+            66,
+            89
+          ],
+          "media_url": "http://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+          "url": "https://t.co/mObEPqQmp2",
+          "display_url": "pic.twitter.com/mObEPqQmp2",
+          "expanded_url": "https://twitter.com/londonrotterdam/status/906967991623077888/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1050,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 595,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1828,
+              "resize": "fit"
+            }
+          },
+          "source_status_id": 906967991623077900,
+          "source_status_id_str": "906967991623077888",
+          "source_user_id": 484696133,
+          "source_user_id_str": "484696133"
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -70,11 +177,131 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Sep 10 19:49:54 +0000 2017",
+      "id": 906967991623077900,
+      "id_str": "906967991623077888",
+      "text": "@abroadunderhood 9 способов разделить страну https://t.co/mObEPqQmp2",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 906967936736297000,
+            "id_str": "906967936736296962",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+            "url": "https://t.co/mObEPqQmp2",
+            "display_url": "pic.twitter.com/mObEPqQmp2",
+            "expanded_url": "https://twitter.com/londonrotterdam/status/906967991623077888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1050,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 595,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1600,
+                "h": 1828,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 906967936736297000,
+            "id_str": "906967936736296962",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DJYyiHvWAAIsZPV.jpg",
+            "url": "https://t.co/mObEPqQmp2",
+            "display_url": "pic.twitter.com/mObEPqQmp2",
+            "expanded_url": "https://twitter.com/londonrotterdam/status/906967991623077888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1050,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 595,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1600,
+                "h": 1828,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 906962655746953200,
+      "in_reply_to_status_id_str": "906962655746953216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 6,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
