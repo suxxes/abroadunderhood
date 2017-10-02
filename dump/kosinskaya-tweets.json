@@ -1,0 +1,1139 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Oct 02 09:17:54 +0000 2017",
+      "id": 914781475505102800,
+      "id_str": "914781475505102849",
+      "text": "Привет, я Аня. Я живу в Лондоне и работаю журналистом. До этого год училась по стипендии Chevening.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 45,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 09:19:15 +0000 2017",
+      "id": 914781816774684700,
+      "id_str": "914781816774684672",
+      "text": "Могу рассказать про образование, деньги, местную жизнь. Но давайте разберёмся в том, чего об Англии и Лондоне вы ещё здесь не читали",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 914781475505102800,
+      "in_reply_to_status_id_str": "914781475505102849",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 09:23:56 +0000 2017",
+      "id": 914782995747409900,
+      "id_str": "914782995747409920",
+      "text": "Я работаю в BBC Russia. Если уверенно знаешь язык, работу в Лондоне найти можно. Половина моих однокурсников из дру… https://t.co/F0H957l7sc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/F0H957l7sc",
+            "expanded_url": "https://twitter.com/i/web/status/914782995747409920",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914782119758622700,
+      "quoted_status_id_str": "914782119758622721",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:20:27 +0000 2017",
+        "id": 914782119758622700,
+        "id_str": "914782119758622721",
+        "text": "@abroadunderhood А в каком издании вы работаете? На английском пишете? Я вот никогда не могла себе представить, как… https://t.co/UkTNztDHsy",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/UkTNztDHsy",
+              "expanded_url": "https://twitter.com/i/web/status/914782119758622721",
+              "display_url": "twitter.com/i/web/status/9…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 914781994122403800,
+        "in_reply_to_status_id_str": "914781994122403845",
+        "in_reply_to_user_id": 10533432,
+        "in_reply_to_user_id_str": "10533432",
+        "in_reply_to_screen_name": "olyapka",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 09:24:46 +0000 2017",
+      "id": 914783202715340800,
+      "id_str": "914783202715340800",
+      "text": "Не очень хочется, но будет немного про Окси https://t.co/j3yoxqOnSY",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/j3yoxqOnSY",
+            "expanded_url": "https://twitter.com/ralogic/status/914782184979992577",
+            "display_url": "twitter.com/ralogic/status…",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914782184979992600,
+      "quoted_status_id_str": "914782184979992577",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:20:43 +0000 2017",
+        "id": 914782184979992600,
+        "id_str": "914782184979992577",
+        "text": "@abroadunderhood хочется Лондона Гая Ричи и Окси, а айти настобубнело уже",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 914781816774684700,
+        "in_reply_to_status_id_str": "914781816774684672",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 577855660,
+          "id_str": "577855660"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7dde0febc9ef245b",
+          "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+          "place_type": "city",
+          "name": "Dublin City",
+          "full_name": "Dublin City, Ireland",
+          "country_code": "IE",
+          "country": "Ireland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.387438,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.4110598
+                ],
+                [
+                  -6.387438,
+                  53.4110598
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 09:25:57 +0000 2017",
+      "id": 914783500913532900,
+      "id_str": "914783500913532928",
+      "text": "@ralogic Понятно!)",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ralogic",
+            "name": "Жiдобандера Воронеж",
+            "id": 577855660,
+            "id_str": "577855660",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 914783383686873100,
+      "in_reply_to_status_id_str": "914783383686873088",
+      "in_reply_to_user_id": 577855660,
+      "in_reply_to_user_id_str": "577855660",
+      "in_reply_to_screen_name": "ralogic",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:22:48 +0000 2017",
+      "id": 914797809420914700,
+      "id_str": "914797809420914688",
+      "text": "Я писала про это большой текст для @paperpaper_ru, где работала до этого. https://t.co/4fIdAL35sX О некоторых детал… https://t.co/RF65Z2xJWQ",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paperpaper_ru",
+            "name": "Газета «Бумага»",
+            "id": 205430752,
+            "id_str": "205430752",
+            "indices": [
+              35,
+              49
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4fIdAL35sX",
+            "expanded_url": "http://paperpaper.ru/photos/chevening/",
+            "display_url": "paperpaper.ru/photos/cheveni…",
+            "indices": [
+              74,
+              97
+            ]
+          },
+          {
+            "url": "https://t.co/RF65Z2xJWQ",
+            "expanded_url": "https://twitter.com/i/web/status/914797809420914688",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914782924326744000,
+      "quoted_status_id_str": "914782924326744065",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:23:39 +0000 2017",
+        "id": 914782924326744000,
+        "id_str": "914782924326744065",
+        "text": "@abroadunderhood Расскажи про получение степендии, пожалуйста.",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 914781816774684700,
+        "in_reply_to_status_id_str": "914781816774684672",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14314481,
+          "id_str": "14314481"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:24:17 +0000 2017",
+      "id": 914798183796150300,
+      "id_str": "914798183796150272",
+      "text": "Ты можешь жить в Великобритании до конца визы, ее дают, как правило по принципу «окончание курса+полгода». Правда б… https://t.co/CP49j7wET8",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CP49j7wET8",
+            "expanded_url": "https://twitter.com/i/web/status/914798183796150272",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914783237599359000,
+      "quoted_status_id_str": "914783237599358976",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:24:54 +0000 2017",
+        "id": 914783237599359000,
+        "id_str": "914783237599358976",
+        "text": "@abroadunderhood А разве эта стипендия не предполагает возращение на родину и работу в течении нескольких лет?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 914781475505102800,
+        "in_reply_to_status_id_str": "914781475505102849",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 236968961,
+          "id_str": "236968961"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "333a5811d6b0c1cb",
+          "url": "https://api.twitter.com/1.1/geo/id/333a5811d6b0c1cb.json",
+          "place_type": "country",
+          "name": "Republic of Belarus",
+          "full_name": "Republic of Belarus",
+          "country_code": "BY",
+          "country": "Republic of Belarus",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  23.179217,
+                  51.2626423
+                ],
+                [
+                  32.7769812,
+                  51.2626423
+                ],
+                [
+                  32.7769812,
+                  56.1717339
+                ],
+                [
+                  23.179217,
+                  56.1717339
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:25:30 +0000 2017",
+      "id": 914798489816764400,
+      "id_str": "914798489816764417",
+      "text": "@iartemy Попозже об этом",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "iartemy",
+            "name": "artemias",
+            "id": 203960682,
+            "id_str": "203960682",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 914786527519166500,
+      "in_reply_to_status_id_str": "914786527519166464",
+      "in_reply_to_user_id": 203960682,
+      "in_reply_to_user_id_str": "203960682",
+      "in_reply_to_screen_name": "iartemy",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:26:33 +0000 2017",
+      "id": 914798753353171000,
+      "id_str": "914798753353170945",
+      "text": "Тут важно сказать, что из-за условий стипендии я не могу подавать на рабочую визу после учебы. Живу все ещё по Tier… https://t.co/Gx54COPZEl",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Gx54COPZEl",
+            "expanded_url": "https://twitter.com/i/web/status/914798753353170945",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914787128940351500,
+      "quoted_status_id_str": "914787128940351488",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:40:22 +0000 2017",
+        "id": 914787128940351500,
+        "id_str": "914787128940351488",
+        "text": "@abroadunderhood этапы получения рабочей визы, на сколько ее дают, как продлевают",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 914781816774684700,
+        "in_reply_to_status_id_str": "914781816774684672",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 463761977,
+          "id_str": "463761977"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:28:26 +0000 2017",
+      "id": 914799226072309800,
+      "id_str": "914799226072309761",
+      "text": "У меня диплом редактора. Пять лет назад в Петербурге мы запустили @paperpaper_ru. В европейскую журналистику перебр… https://t.co/tIMttsZ6al",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "paperpaper_ru",
+            "name": "Газета «Бумага»",
+            "id": 205430752,
+            "id_str": "205430752",
+            "indices": [
+              66,
+              80
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/tIMttsZ6al",
+            "expanded_url": "https://twitter.com/i/web/status/914799226072309761",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914787418951311400,
+      "quoted_status_id_str": "914787418951311360",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 09:41:31 +0000 2017",
+        "id": 914787418951311400,
+        "id_str": "914787418951311360",
+        "text": "@abroadunderhood а образование у вас какое? как вообще удалось пробраться в европейскую журналистику?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
+        "in_reply_to_status_id": 914782995747409900,
+        "in_reply_to_status_id_str": "914782995747409920",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 17128062,
+          "id_str": "17128062"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:29:33 +0000 2017",
+      "id": 914799507405197300,
+      "id_str": "914799507405197312",
+      "text": "Мужа нет! ✊🏼✊🏼 https://t.co/pLT96z79bZ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pLT96z79bZ",
+            "expanded_url": "https://twitter.com/shiroginne/status/914793080657727488",
+            "display_url": "twitter.com/shiroginne/sta…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 914793080657727500,
+      "quoted_status_id_str": "914793080657727488",
+      "quoted_status": {
+        "created_at": "Mon Oct 02 10:04:01 +0000 2017",
+        "id": 914793080657727500,
+        "id_str": "914793080657727488",
+        "text": "@abroadunderhood Привет, классический вопрос: муж есть?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+        "in_reply_to_status_id": 914781475505102800,
+        "in_reply_to_status_id_str": "914781475505102849",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 25733176,
+          "id_str": "25733176"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:30:16 +0000 2017",
+      "id": 914799687126970400,
+      "id_str": "914799687126970369",
+      "text": "@fu_ri_ya https://t.co/4fIdAL35sX вот тут все, попозже ещё напишу",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "fu_ri_ya",
+            "name": "Переселенка",
+            "id": 755998887379365900,
+            "id_str": "755998887379365888",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/4fIdAL35sX",
+            "expanded_url": "http://paperpaper.ru/photos/chevening/",
+            "display_url": "paperpaper.ru/photos/cheveni…",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 914798805085802500,
+      "in_reply_to_status_id_str": "914798805085802496",
+      "in_reply_to_user_id": 755998887379365900,
+      "in_reply_to_user_id_str": "755998887379365888",
+      "in_reply_to_screen_name": "fu_ri_ya",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:30:52 +0000 2017",
+      "id": 914799839795454000,
+      "id_str": "914799839795453952",
+      "text": "@aia_yang Формально курс кончился 30 сентября, на деле — летом. Я сразу попала на BBC",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aia_yang",
+            "name": "Aya",
+            "id": 897738140072456200,
+            "id_str": "897738140072456196",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 914799002822078500,
+      "in_reply_to_status_id_str": "914799002822078466",
+      "in_reply_to_user_id": 897738140072456200,
+      "in_reply_to_user_id_str": "897738140072456196",
+      "in_reply_to_screen_name": "aia_yang",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:35:45 +0000 2017",
+      "id": 914801069473124400,
+      "id_str": "914801069473124354",
+      "text": "Итак, сначала расскажу при детали стипендии, про которые не говорят. Потом про жильё и транспорт 😞. Потом про 🦊 и 🐿 для разнообразия",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 02 10:38:13 +0000 2017",
+      "id": 914801689961607200,
+      "id_str": "914801689961607168",
+      "text": "Офис BBC изнутри 🙌🏼🙌🏼 (теперь немного поработаю) https://t.co/kSahMPDi4l",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 914801683712086000,
+            "id_str": "914801683712086016",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLIHSNWWkAAXOIq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLIHSNWWkAAXOIq.jpg",
+            "url": "https://t.co/kSahMPDi4l",
+            "display_url": "pic.twitter.com/kSahMPDi4l",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/914801689961607168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 914801683712086000,
+            "id_str": "914801683712086016",
+            "indices": [
+              49,
+              72
+            ],
+            "media_url": "http://pbs.twimg.com/media/DLIHSNWWkAAXOIq.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DLIHSNWWkAAXOIq.jpg",
+            "url": "https://t.co/kSahMPDi4l",
+            "display_url": "pic.twitter.com/kSahMPDi4l",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/914801689961607168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
