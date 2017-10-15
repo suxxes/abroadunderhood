@@ -26,127 +26,44 @@
     }
   },
   "protected": false,
-  "followers_count": 8074,
+  "followers_count": 8019,
   "friends_count": 0,
   "listed_count": 190,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 6179,
+  "favourites_count": 6197,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 66301,
+  "statuses_count": 67185,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 09 19:23:17 +0000 2017",
-    "id": 917470541300322300,
-    "id_str": "917470541300322304",
-    "text": "RT @jogspokoen: @abroadunderhood Вот здесь еще красота\nhttps://t.co/mhPxz9RvaS",
+    "created_at": "Sun Oct 15 20:13:31 +0000 2017",
+    "id": 919657508708511700,
+    "id_str": "919657508708511744",
+    "text": "Велкам ту грис! Хэв э найс холидейс",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "jogspokoen",
-          "name": "Maka",
-          "id": 26893303,
-          "id_str": "26893303",
-          "indices": [
-            3,
-            14
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андерхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            16,
-            32
-          ]
-        }
-      ],
-      "urls": [
-        {
-          "url": "https://t.co/mhPxz9RvaS",
-          "expanded_url": "https://www.instagram.com/cyprus_unconventional/",
-          "display_url": "instagram.com/cyprus_unconve…",
-          "indices": [
-            55,
-            78
-          ]
-        }
-      ]
+      "user_mentions": [],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 919657013805834200,
+    "in_reply_to_status_id_str": "919657013805834245",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Oct 09 19:13:29 +0000 2017",
-      "id": 917468074596536300,
-      "id_str": "917468074596536320",
-      "text": "@abroadunderhood Вот здесь еще красота\nhttps://t.co/mhPxz9RvaS",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андерхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/mhPxz9RvaS",
-            "expanded_url": "https://www.instagram.com/cyprus_unconventional/",
-            "display_url": "instagram.com/cyprus_unconve…",
-            "indices": [
-              39,
-              62
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "in_reply_to_status_id": 917451376447205400,
-      "in_reply_to_status_id_str": "917451376447205376",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "possibly_sensitive": false,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 0,
+    "retweet_count": 0,
+    "favorite_count": 4,
     "favorited": false,
-    "retweeted": true,
-    "possibly_sensitive": false,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
