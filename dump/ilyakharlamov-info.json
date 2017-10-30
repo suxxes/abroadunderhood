@@ -4,7 +4,18 @@
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
   "location": "Dallas, TX",
-  "profile_location": null,
+  "profile_location": {
+    "id": "18810aa5b43e76c7",
+    "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+    "place_type": "unknown",
+    "name": "Dallas, TX",
+    "full_name": "Dallas, TX",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели - @ilyakharlamov из Техаса",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -26,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 8130,
+  "followers_count": 8349,
   "friends_count": 0,
-  "listed_count": 192,
+  "listed_count": 191,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 6436,
+  "favourites_count": 6544,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 67743,
+  "statuses_count": 68378,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 23 21:06:37 +0000 2017",
-    "id": 922569975511916500,
-    "id_str": "922569975511916544",
-    "text": "Точно. Ради ГК (гринкарты) честно говоря, я бы, наверное, уехал если бы и вообще без зарплаты. Ради H1B и L - нет. https://t.co/Rl3L566fTS",
+    "created_at": "Sun Oct 29 20:30:42 +0000 2017",
+    "id": 924735264924295200,
+    "id_str": "924735264924295168",
+    "text": "Ну что, господа, на этом пора прощаться. Всем спасибо за поддержку и критику. Донт месс виз Тексас. Пут ё хэндс ин дэ эр. Би кул!",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/Rl3L566fTS",
-          "expanded_url": "https://twitter.com/olyapka/status/922569366868074496",
-          "display_url": "twitter.com/olyapka/status…",
-          "indices": [
-            115,
-            138
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -69,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 922569366868074500,
-    "quoted_status_id_str": "922569366868074496",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 161,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -88,7 +86,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/922556735151333376/rKoGzWuC_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/922556735151333376/rKoGzWuC_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1508136882",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1508891340",
   "profile_link_color": "1B95E0",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
