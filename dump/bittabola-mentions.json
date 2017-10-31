@@ -46079,6 +46079,115 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 31 21:52:18 +0000 2017",
+      "id": 925480573824634900,
+      "id_str": "925480573824634881",
+      "text": "@abroadunderhood Позёрство",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 925432746532466700,
+      "in_reply_to_status_id_str": "925432746532466688",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 756857552,
+        "id_str": "756857552"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Oct 31 21:53:05 +0000 2017",
+      "id": 925480771258810400,
+      "id_str": "925480771258810368",
+      "text": "@LaraSky7 @abroadunderhood Не гоните, это японцы изобрели в 1939 году.\nhttps://t.co/bKwIlNqb9k",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "LaraSky7",
+            "name": "larasky",
+            "id": 894707299410784300,
+            "id_str": "894707299410784256",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/bKwIlNqb9k",
+            "expanded_url": "https://en.wikipedia.org/wiki/Watermelon",
+            "display_url": "en.wikipedia.org/wiki/Watermelon",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+      "in_reply_to_status_id": 925441774520332300,
+      "in_reply_to_status_id_str": "925441774520332288",
+      "in_reply_to_user_id": 894707299410784300,
+      "in_reply_to_user_id_str": "894707299410784256",
+      "in_reply_to_screen_name": "LaraSky7",
+      "user": {
+        "id": 50225478,
+        "id_str": "50225478"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
