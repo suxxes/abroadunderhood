@@ -37,55 +37,98 @@
     }
   },
   "protected": false,
-  "followers_count": 8352,
+  "followers_count": 8465,
   "friends_count": 0,
-  "listed_count": 191,
+  "listed_count": 190,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 6544,
+  "favourites_count": 6663,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 68382,
+  "statuses_count": 68529,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 30 13:48:54 +0000 2017",
-    "id": 924996534675976200,
-    "id_str": "924996534675976192",
-    "text": "Свою историю я «коротко» изложил тут — https://t.co/9og2Fu4Ny3. Прошу прочесть, т.к. это обзорная статья о моем переезде.",
+    "created_at": "Tue Oct 31 20:12:09 +0000 2017",
+    "id": 925455372579610600,
+    "id_str": "925455372579610624",
+    "text": "@sergeant_lipka @gavrix 2-х этажный дом с 2 или 3-мя ваннами и 200 кв м площадью — это стандартные характеристики домов в этом районе.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/9og2Fu4Ny3",
-          "expanded_url": "https://vc.ru/26068-moving-to-canada",
-          "display_url": "vc.ru/26068-moving-t…",
+          "screen_name": "sergeant_lipka",
+          "name": "sergeant_lipka",
+          "id": 96836346,
+          "id_str": "96836346",
           "indices": [
-            39,
-            62
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "gavrix",
+          "name": "Sergey Gavrilyuk",
+          "id": 99111806,
+          "id_str": "99111806",
+          "indices": [
+            16,
+            23
           ]
         }
-      ]
+      ],
+      "urls": []
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 925454900192075800,
+    "in_reply_to_status_id_str": "925454900192075776",
+    "in_reply_to_user_id": 96836346,
+    "in_reply_to_user_id_str": "96836346",
+    "in_reply_to_screen_name": "sergeant_lipka",
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "53504716d445dcad",
+      "url": "https://api.twitter.com/1.1/geo/id/53504716d445dcad.json",
+      "place_type": "city",
+      "name": "Calgary",
+      "full_name": "Calgary, Alberta",
+      "country_code": "CA",
+      "country": "Canada",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.3160379,
+              50.84278
+            ],
+            [
+              -113.859664,
+              50.84278
+            ],
+            [
+              -113.859664,
+              51.212548
+            ],
+            [
+              -114.3160379,
+              51.212548
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
