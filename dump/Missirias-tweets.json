@@ -1,0 +1,293 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 06 15:49:47 +0000 2017",
+      "id": 927563671257145300,
+      "id_str": "927563671257145344",
+      "text": "Всем доброго времени суток! Меня зовут Ольга, я живу в Бразилии, в столице штата Мату Гроссу, и эту неделю я буду в… https://t.co/WfptTjqXkD",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WfptTjqXkD",
+            "expanded_url": "https://twitter.com/i/web/status/927563671257145344",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 15:50:54 +0000 2017",
+      "id": 927563955337384000,
+      "id_str": "927563955337383941",
+      "text": "Я переехала сюда по работе.  Я - кондитер. Делаю бразильские попы ещё более \"брзильскими\", хех) Живу здесь уже более 1.5 года.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 15:53:02 +0000 2017",
+      "id": 927564492539646000,
+      "id_str": "927564492539645954",
+      "text": "Да, завела здесь, но его совсем не наполняла. Как такового блога у меня нет. Разве что на Пикабу я пощу порой интер… https://t.co/0KSiR4OmCO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0KSiR4OmCO",
+            "expanded_url": "https://twitter.com/i/web/status/927564492539645954",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927563947896721400,
+      "quoted_status_id_str": "927563947896721409",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 15:50:53 +0000 2017",
+        "id": 927563947896721400,
+        "id_str": "927563947896721409",
+        "text": "@abroadunderhood Привет, Оля! А личный аккаунт уже завела? Или где тебя еще можно будет читать потом, после эброда?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 927563671257145300,
+        "in_reply_to_status_id_str": "927563671257145344",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 21441278,
+          "id_str": "21441278"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "084d0d0155787e9d",
+          "url": "https://api.twitter.com/1.1/geo/id/084d0d0155787e9d.json",
+          "place_type": "country",
+          "name": "Ukraine",
+          "full_name": "Ukraine",
+          "country_code": "UA",
+          "country": "Ukraine",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.1357201,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  44.386383
+                ],
+                [
+                  40.227172,
+                  52.379475
+                ],
+                [
+                  22.1357201,
+                  52.379475
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 06 15:58:26 +0000 2017",
+      "id": 927565851359883300,
+      "id_str": "927565851359883265",
+      "text": "История на самом деле интересная, где не последнюю роль сыграла простая удача. \nобщалась на одном сайте для \"подтяж… https://t.co/70yn3BHluF",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/70yn3BHluF",
+            "expanded_url": "https://twitter.com/i/web/status/927565851359883265",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 927564782139457500,
+      "quoted_status_id_str": "927564782139457536",
+      "quoted_status": {
+        "created_at": "Mon Nov 06 15:54:12 +0000 2017",
+        "id": 927564782139457500,
+        "id_str": "927564782139457536",
+        "text": "@abroadunderhood А как так подучилось, что вас занесло в Бразилию? Вы сами работа искали или вдруг филиал открыли? Почему Бразилия?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 927563955337384000,
+        "in_reply_to_status_id_str": "927563955337383941",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 478581720,
+          "id_str": "478581720"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
