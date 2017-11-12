@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели - @Missirias из Куяба (Мату Гроссу, 🇧🇷)",
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. Автор недели - @Missirias из Бразилии (Куяба, Мату Гроссу, 🇧🇷)",
   "url": "https://t.co/wSOhx8xRbv",
   "entities": {
     "url": {
@@ -37,57 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 8554,
+  "followers_count": 8833,
   "friends_count": 0,
-  "listed_count": 190,
+  "listed_count": 191,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7013,
+  "favourites_count": 7049,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 68933,
+  "statuses_count": 69479,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 06 15:58:26 +0000 2017",
-    "id": 927565851359883300,
-    "id_str": "927565851359883265",
-    "text": "История на самом деле интересная, где не последнюю роль сыграла простая удача. \nобщалась на одном сайте для \"подтяж… https://t.co/70yn3BHluF",
-    "truncated": true,
+    "created_at": "Sun Nov 12 19:53:10 +0000 2017",
+    "id": 929799251017830400,
+    "id_str": "929799251017830401",
+    "text": "@quantumcalc В районах Амазонии  и ещё парочку не стоит купаться. В остальных случаях, всё нормально и безопасно. Проверено лично мной.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/70yn3BHluF",
-          "expanded_url": "https://twitter.com/i/web/status/927565851359883265",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "quantumcalc",
+          "name": "Sergey Zhukov",
+          "id": 1566427802,
+          "id_str": "1566427802",
           "indices": [
-            117,
-            140
+            0,
+            12
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 929798858598768600,
+    "in_reply_to_status_id_str": "929798858598768650",
+    "in_reply_to_user_id": 1566427802,
+    "in_reply_to_user_id_str": "1566427802",
+    "in_reply_to_screen_name": "quantumcalc",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 927564782139457500,
-    "quoted_status_id_str": "927564782139457536",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
