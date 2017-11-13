@@ -1,0 +1,520 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 13 04:30:05 +0000 2017",
+      "id": 929929335779287000,
+      "id_str": "929929335779287040",
+      "text": "Всем привет! Меня зовут Таня, и на этой неделе я буду рассказывать о Лондоне https://t.co/6Kpp8VhVLd",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 929929332063195100,
+            "id_str": "929929332063195136",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOfFzO_X0AAkDeY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOfFzO_X0AAkDeY.jpg",
+            "url": "https://t.co/6Kpp8VhVLd",
+            "display_url": "pic.twitter.com/6Kpp8VhVLd",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/929929335779287040/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 929929332063195100,
+            "id_str": "929929332063195136",
+            "indices": [
+              77,
+              100
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOfFzO_X0AAkDeY.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOfFzO_X0AAkDeY.jpg",
+            "url": "https://t.co/6Kpp8VhVLd",
+            "display_url": "pic.twitter.com/6Kpp8VhVLd",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/929929335779287040/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 340,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 512,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 115,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 05:00:08 +0000 2017",
+      "id": 929936896280670200,
+      "id_str": "929936896280670208",
+      "text": "План на эту неделю:\nпн - Факты о Лондоне и Британии,\nвт - Адаптация,\nср - Британский быт,\nчт - Транспорт,\nпт - Еда,… https://t.co/5aKoQrZCcG",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5aKoQrZCcG",
+            "expanded_url": "https://twitter.com/i/web/status/929936896280670208",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 05:00:10 +0000 2017",
+      "id": 929936907261399000,
+      "id_str": "929936907261399041",
+      "text": "Пожалуйста, поделитесь темами которые вам наиболее интересны, чтобы я также смогла их осветить. На вопросы буду отв… https://t.co/PZ0FpDCQHL",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PZ0FpDCQHL",
+            "expanded_url": "https://twitter.com/i/web/status/929936907261399041",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 05:05:02 +0000 2017",
+      "id": 929938132434341900,
+      "id_str": "929938132434341888",
+      "text": "Мне 25, я работаю журналистом. В Великобританию переехали два года назад с мужем из Украины. Выбирали между Нью Йор… https://t.co/z1SjAluVHm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/z1SjAluVHm",
+            "expanded_url": "https://twitter.com/i/web/status/929938132434341888",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 37,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 07:00:08 +0000 2017",
+      "id": 929967094783004700,
+      "id_str": "929967094783004672",
+      "text": "Население Великобритании - 65 млн человек. Из них в Лондоне проживает 8 миллионов. Более более трети населения - им… https://t.co/dfEfAhuCIc",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dfEfAhuCIc",
+            "expanded_url": "https://twitter.com/i/web/status/929967094783004672",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 07:00:09 +0000 2017",
+      "id": 929967098985664500,
+      "id_str": "929967098985664512",
+      "text": "Средняя зарплата в Лондоне составляет £34,473, а в Великобритании - £22,044. Налог подоходный от 0 до 45%. Больше т… https://t.co/RPhCoRNGRn",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RPhCoRNGRn",
+            "expanded_url": "https://twitter.com/i/web/status/929967098985664512",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 07:00:09 +0000 2017",
+      "id": 929967102307504100,
+      "id_str": "929967102307504128",
+      "text": "Валютой в Британии выступает британский фунт. На сегодня один фунт приравнивается к 77.78 русским рублям или 34.76… https://t.co/t06EHCrFDm",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/t06EHCrFDm",
+            "expanded_url": "https://twitter.com/i/web/status/929967102307504128",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 07:00:10 +0000 2017",
+      "id": 929967104098480100,
+      "id_str": "929967104098480128",
+      "text": "Средняя продолжительность жизни - 81 год. Пенсионный возраст - 65 лет, но в 2020-м его увеличат до 66, а в 2028-м и вовсе до 67 лет",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 13 07:00:22 +0000 2017",
+      "id": 929967156707590100,
+      "id_str": "929967156707590144",
+      "text": "Больше всего приезжает людей из Польши, Индии, Пакистана, Ирландии и Германии https://t.co/58lqQoJtZp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 929967153838571500,
+            "id_str": "929967153838571520",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
+            "url": "https://t.co/58lqQoJtZp",
+            "display_url": "pic.twitter.com/58lqQoJtZp",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/929967156707590144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 334,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1452,
+                "h": 714,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 590,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 929967153838571500,
+            "id_str": "929967153838571520",
+            "indices": [
+              78,
+              101
+            ],
+            "media_url": "http://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
+            "url": "https://t.co/58lqQoJtZp",
+            "display_url": "pic.twitter.com/58lqQoJtZp",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/929967156707590144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 334,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1452,
+                "h": 714,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 590,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
