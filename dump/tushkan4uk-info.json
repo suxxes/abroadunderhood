@@ -26,108 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 8883,
+  "followers_count": 9025,
   "friends_count": 0,
-  "listed_count": 191,
+  "listed_count": 190,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7086,
+  "favourites_count": 7164,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 69489,
+  "statuses_count": 69595,
   "lang": "en",
   "status": {
-    "created_at": "Mon Nov 13 07:00:22 +0000 2017",
-    "id": 929967156707590100,
-    "id_str": "929967156707590144",
-    "text": "Больше всего приезжает людей из Польши, Индии, Пакистана, Ирландии и Германии https://t.co/58lqQoJtZp",
-    "truncated": false,
+    "created_at": "Tue Nov 14 20:28:19 +0000 2017",
+    "id": 930532871764406300,
+    "id_str": "930532871764406272",
+    "text": "Ничего в деталях особо не оглашают :) Просто присылают на почту контракт для ознакомления и подписания, но он подле… https://t.co/KGP24iaFH6",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 929967153838571500,
-          "id_str": "929967153838571520",
+          "url": "https://t.co/KGP24iaFH6",
+          "expanded_url": "https://twitter.com/i/web/status/930532871764406272",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
-          "url": "https://t.co/58lqQoJtZp",
-          "display_url": "pic.twitter.com/58lqQoJtZp",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/929967156707590144/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 334,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1452,
-              "h": 714,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 590,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 929967153838571500,
-          "id_str": "929967153838571520",
-          "indices": [
-            78,
-            101
-          ],
-          "media_url": "http://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DOfoMwFUQAA4G3d.jpg",
-          "url": "https://t.co/58lqQoJtZp",
-          "display_url": "pic.twitter.com/58lqQoJtZp",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/929967156707590144/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 334,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1452,
-              "h": 714,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 590,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -137,9 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 3,
-    "favorite_count": 7,
+    "is_quote_status": true,
+    "quoted_status_id": 930452079835078700,
+    "quoted_status_id_str": "930452079835078657",
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
