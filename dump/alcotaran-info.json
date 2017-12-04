@@ -46,29 +46,19 @@
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 71031,
+  "statuses_count": 71032,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 04 19:15:38 +0000 2017",
-    "id": 937762338081529900,
-    "id_str": "937762338081529859",
-    "text": "Таки почему нет? https://t.co/KDleqErbm9",
+    "created_at": "Mon Dec 04 19:17:41 +0000 2017",
+    "id": 937762850973605900,
+    "id_str": "937762850973605889",
+    "text": "По традиции эброда я просто обязан это сказать: мужа у меня нет.\nИ не будет.\nЭто вне области моих предпочтений :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/KDleqErbm9",
-          "expanded_url": "https://twitter.com/heygeekm/status/937761846681104385",
-          "display_url": "twitter.com/heygeekm/statu…",
-          "indices": [
-            17,
-            40
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,14 +70,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 937761846681104400,
-    "quoted_status_id_str": "937761846681104385",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -113,5 +100,10 @@
   "notifications": false,
   "translator_type": "none",
   "suspended": false,
-  "needs_phone_verification": false
+  "needs_phone_verification": false,
+  "geometry": {
+    "lat": 53.3498053,
+    "lng": -6.2603097
+  },
+  "time_zone_offset": 0
 }
