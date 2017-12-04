@@ -1,0 +1,515 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 04 19:01:37 +0000 2017",
+      "id": 937758808004206600,
+      "id_str": "937758808004206592",
+      "text": "Всем привет. Меня зовут Александр (@alcotaran), на этой неделе у нас здесь Ирландия, город Дублин.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alcotaran",
+            "name": "Alexander Taran",
+            "id": 158426124,
+            "id_str": "158426124",
+            "indices": [
+              35,
+              45
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:04:41 +0000 2017",
+      "id": 937759579290693600,
+      "id_str": "937759579290693638",
+      "text": "@alcotaran Я приехал в Ирландию чуть больше двух лет назад, работать программистом в компанию, занимающуюся контекстной рекламой в интернете",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alcotaran",
+            "name": "Alexander Taran",
+            "id": 158426124,
+            "id_str": "158426124",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 937758808004206600,
+      "in_reply_to_status_id_str": "937758808004206592",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:06:25 +0000 2017",
+      "id": 937760018564370400,
+      "id_str": "937760018564370434",
+      "text": "Таков был и один из первых комментариев, когда я переехал, так что это обязательно следовало запостить для протокола https://t.co/EG9teKcUiG",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EG9teKcUiG",
+            "expanded_url": "https://twitter.com/Skaista_meitene/status/937759054373556224",
+            "display_url": "twitter.com/Skaista_meiten…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937759054373556200,
+      "quoted_status_id_str": "937759054373556224",
+      "quoted_status": {
+        "created_at": "Mon Dec 04 19:02:35 +0000 2017",
+        "id": 937759054373556200,
+        "id_str": "937759054373556224",
+        "text": "-Ту тикетс ту Даблин, плиз.\n- Куда, блин?\n- Ту Даблин.\n\nПростите, не удержалась))) https://t.co/z3InjsgQxD",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/z3InjsgQxD",
+              "expanded_url": "https://twitter.com/abroadunderhood/status/937758808004206592",
+              "display_url": "twitter.com/abroadunderhoo…",
+              "indices": [
+                83,
+                106
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 122303281,
+          "id_str": "122303281"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 937758808004206600,
+        "quoted_status_id_str": "937758808004206592",
+        "retweet_count": 0,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:09:05 +0000 2017",
+      "id": 937760687207649300,
+      "id_str": "937760687207649280",
+      "text": "Средняя стоимость почти любого обычного пива 5 евро, стандартное отклонение 0.5 https://t.co/QFjxr0nU3v",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QFjxr0nU3v",
+            "expanded_url": "https://twitter.com/_Kirill___/status/937760151456673792",
+            "display_url": "twitter.com/_Kirill___/sta…",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937760151456673800,
+      "quoted_status_id_str": "937760151456673792",
+      "quoted_status": {
+        "created_at": "Mon Dec 04 19:06:57 +0000 2017",
+        "id": 937760151456673800,
+        "id_str": "937760151456673792",
+        "text": "@abroadunderhood сколько стоит Харп в обычном пабе?",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://klinkerapps.com\" rel=\"nofollow\">Talon (Plus)</a>",
+        "in_reply_to_status_id": 937760018564370400,
+        "in_reply_to_status_id_str": "937760018564370434",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 926187702,
+          "id_str": "926187702"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:09:27 +0000 2017",
+      "id": 937760779331342300,
+      "id_str": "937760779331342337",
+      "text": "@5Socialite @alcotaran Dia dhuit!",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "5Socialite",
+            "name": "Инга",
+            "id": 1139520584,
+            "id_str": "1139520584",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "alcotaran",
+            "name": "Alexander Taran",
+            "id": 158426124,
+            "id_str": "158426124",
+            "indices": [
+              12,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 937759824271552500,
+      "in_reply_to_status_id_str": "937759824271552513",
+      "in_reply_to_user_id": 1139520584,
+      "in_reply_to_user_id_str": "1139520584",
+      "in_reply_to_screen_name": "5Socialite",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "in"
+    },
+    {
+      "created_at": "Mon Dec 04 19:13:31 +0000 2017",
+      "id": 937761803592982500,
+      "id_str": "937761803592982528",
+      "text": "У меня заготовлен некоторый список тем и историй, о которых я напишу в каком-нибудь порядке - как пойдет. Но в любо… https://t.co/vYCCHrtoG5",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vYCCHrtoG5",
+            "expanded_url": "https://twitter.com/i/web/status/937761803592982528",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:14:36 +0000 2017",
+      "id": 937762078382846000,
+      "id_str": "937762078382845952",
+      "text": "@nkapliev Тссс! Я не буду писать о том, как здесь плохо или хорошо - я напишу все как есть.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nkapliev",
+            "name": "Nick Kapliev",
+            "id": 2923767820,
+            "id_str": "2923767820",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 937761361605644300,
+      "in_reply_to_status_id_str": "937761361605644291",
+      "in_reply_to_user_id": 2923767820,
+      "in_reply_to_user_id_str": "2923767820",
+      "in_reply_to_screen_name": "nkapliev",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 04 19:15:38 +0000 2017",
+      "id": 937762338081529900,
+      "id_str": "937762338081529859",
+      "text": "Таки почему нет? https://t.co/KDleqErbm9",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/KDleqErbm9",
+            "expanded_url": "https://twitter.com/heygeekm/status/937761846681104385",
+            "display_url": "twitter.com/heygeekm/statu…",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 937761846681104400,
+      "quoted_status_id_str": "937761846681104385",
+      "quoted_status": {
+        "created_at": "Mon Dec 04 19:13:41 +0000 2017",
+        "id": 937761846681104400,
+        "id_str": "937761846681104385",
+        "text": "@abroadunderhood @alcotaran почему Ирландия???!",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "alcotaran",
+              "name": "Alexander Taran",
+              "id": 158426124,
+              "id_str": "158426124",
+              "indices": [
+                17,
+                27
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 937758808004206600,
+        "in_reply_to_status_id_str": "937758808004206592",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 1470157981,
+          "id_str": "1470157981"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
