@@ -69,7 +69,7 @@ task('index', ['css'], () => {
         desc: site.description,
         currentAuthor: head(authors),
         authors: authorsToPost,
-        helpers: { authorRender, bust, firstTweet, render },
+        helpers: { authorRender, bust },
       },
     }))
     .pipe(rename({ basename: 'index' }))

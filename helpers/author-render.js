@@ -38,12 +38,26 @@ const prevAuthor = author => {
   if (!isFirstAuthor(author)) return nth(inc(authorIndex(author)), authorsToPost);
 };
 
-const d = (input, offset) => (moment(new Date(input)).utcOffset(offset)).format('D MMMM YYYY');
-const gd = (input, offset) => (moment(new Date(input)).utcOffset(offset)).format('YYYY-MM-DD');
+const d = (input, offset) => (moment(input).utcOffset(offset)).format('D MMMM YYYY');
+const gd = (input, offset) => (moment(input).utcOffset(offset)).format('YYYY-MM-DD');
 const tweetsUnit = numd('твит', 'твита', 'твитов');
 const capitalize = converge(concat, [pipe(head, toUpper), tail]);
 const filterTimeline = item => (item.text[0] !== '@') || (item.text.indexOf('@abroadunderhood') === 0);
+const fullText = item => {
+  item.text = item.full_text || item.text;
+
+  if (item.quoted_status) {
+    item.quoted_status.text = item.quoted_status.full_text || item.quoted_status.text;
+  }
+
+  if (item.retweeted_status) {
+    item.retweeted_status.text = item.retweeted_status.full_text || item.retweeted_status.text;
+  }
+
+  return item;
+};
 const prepareTweets = (tweets, offset) => {
+  tweets = map(fullText, tweets);
   tweets = filter(filterTimeline, tweets);
   tweets = groupBy(item => gd(item.created_at, offset), tweets);
 

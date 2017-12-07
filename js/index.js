@@ -61,6 +61,10 @@ jQuery(window).on('load', () => {
 });
 
 jQuery(window).on('load resize', () => {
+  jQuery('.carousel').carousel({
+    interval: false,
+  });
+
   jQuery('#content').css('paddingBottom', () => {
     return jQuery('#footer').outerHeight();
   });

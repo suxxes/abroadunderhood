@@ -9,7 +9,7 @@ import got from 'got';
 import authors from './authors';
 
 import tokens from 'twitter-tokens';
-import getTweets from 'get-tweets';
+import getTweets from './helpers/get-tweets';
 import getInfo from 'get-twitter-info';
 import saveMedia from './helpers/save-media';
 import getFollowers from 'get-twitter-followers';
@@ -36,12 +36,14 @@ getTweets(tokens, 'abroadunderhood', tweetsSinceId, (err, newTweetsRaw) => {
 getInfo(tokens, 'abroadunderhood', (err, info) => {
   if (err) throw err;
 
+  info.time_zone_offset = 0;
+  info.geometry = { lat: 0.0, lng: 0.0 };
+
   got('https://maps.googleapis.com/maps/api/geocode/json?address=' + encodeURIComponent(info.location) + '&sensor=false')
     .then(response => {
       return JSON.parse(response.body).results[0].geometry.location;
     })
     .then(response => {
-      info.geometry = {};
       info.geometry.lat = response.lat;
       info.geometry.lng = response.lng;
 
