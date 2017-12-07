@@ -73,7 +73,7 @@ block content
                                   .item(class=(i === 0 ? 'active' : ''))
                                     img.img-responsive(src=image.media_url_https)
 
-                              - if tweet.retweeted_status.extended_entities.media.length > 1
+                              if tweet.retweeted_status.extended_entities.media.length > 1
                                 a.left.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='prev')
                                   span.glyphicon.glyphicon-chevron-left
                                 a.right.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='next')
@@ -101,7 +101,7 @@ block content
                                   .item(class=(i === 0 ? 'active' : ''))
                                     img.img-responsive(src=image.media_url_https)
 
-                              - if tweet.quoted_status.extended_entities.media.length > 1
+                              if tweet.quoted_status.extended_entities.media.length > 1
                                 a.left.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='prev')
                                   span.glyphicon.glyphicon-chevron-left
                                 a.right.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='next')
@@ -121,7 +121,7 @@ block content
                                 .item(class=(i === 0 ? 'active' : ''))
                                   img.img-responsive(src=image.media_url_https)
 
-                            - if tweet.extended_entities.media.length > 1
+                            if tweet.extended_entities.media.length > 1
                               a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
                                 span.glyphicon.glyphicon-chevron-left
                               a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
@@ -141,7 +141,7 @@ block content
                                 .item(class=(i === 0 ? 'active' : ''))
                                   img.img-responsive(src=image.media_url_https)
 
-                            - if tweet.extended_entities.media.length > 1
+                            if tweet.extended_entities.media.length > 1
                               a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
                                 span.glyphicon.glyphicon-chevron-left
                               a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
