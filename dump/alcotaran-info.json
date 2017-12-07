@@ -37,115 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 9825,
+  "followers_count": 9838,
   "friends_count": 0,
-  "listed_count": 198,
+  "listed_count": 197,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7640,
+  "favourites_count": 7672,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 71108,
+  "statuses_count": 71334,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 04 23:05:46 +0000 2017",
-    "id": 937820251227672600,
-    "id_str": "937820251227672576",
-    "text": "RT @pavel_urusov: @abroadunderhood ну так Дублин — провинциальная дыра, аренда вдвое дороже, чем в Берлине, климат очень мокрый, бухло доро…",
+    "created_at": "Thu Dec 07 14:31:37 +0000 2017",
+    "id": 938778023360376800,
+    "id_str": "938778023360376833",
+    "text": "@alborvolk сайт можно?",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "pavel_urusov",
-          "name": "Телеология и батрахомиомахия",
-          "id": 18020500,
-          "id_str": "18020500",
+          "screen_name": "alborvolk",
+          "name": "AleX-TRAIL © ✈",
+          "id": 2966756849,
+          "id_str": "2966756849",
           "indices": [
-            3,
-            16
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андерхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            18,
-            34
+            0,
+            10
           ]
         }
       ],
       "urls": []
     },
-    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 938777669583429600,
+    "in_reply_to_status_id_str": "938777669583429632",
+    "in_reply_to_user_id": 2966756849,
+    "in_reply_to_user_id_str": "2966756849",
+    "in_reply_to_screen_name": "alborvolk",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Dec 04 23:03:28 +0000 2017",
-      "id": 937819671247622100,
-      "id_str": "937819671247622144",
-      "text": "@abroadunderhood ну так Дублин — провинциальная дыра, аренда вдвое дороже, чем в Берлине, климат очень мокрый, бухл… https://t.co/aOFuUUH9aw",
-      "truncated": true,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андерхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": [
-          {
-            "url": "https://t.co/aOFuUUH9aw",
-            "expanded_url": "https://twitter.com/i/web/status/937819671247622144",
-            "display_url": "twitter.com/i/web/status/9…",
-            "indices": [
-              117,
-              140
-            ]
-          }
-        ]
-      },
-      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-      "in_reply_to_status_id": 937816185336365000,
-      "in_reply_to_status_id_str": "937816185336365057",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 2,
-      "favorite_count": 0,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 2,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -172,9 +112,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
+  "time_zone_offset": 0,
   "geometry": {
     "lat": 53.3498053,
     "lng": -6.2603097
-  },
-  "time_zone_offset": 0
+  }
 }
