@@ -73,10 +73,11 @@ block content
                                   .item(class=(i === 0 ? 'active' : ''))
                                     img.img-responsive(src=image.media_url_https)
 
-                              a.left.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='prev')
-                                span.glyphicon.glyphicon-chevron-left
-                              a.right.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='next')
-                                span.glyphicon.glyphicon-chevron-right
+                              - if tweet.retweeted_status.extended_entities.media.length > 1
+                                a.left.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='prev')
+                                  span.glyphicon.glyphicon-chevron-left
+                                a.right.carousel-control(href='#media-' + tweet.retweeted_status.id_str, 'data-slide'='next')
+                                  span.glyphicon.glyphicon-chevron-right
 
                         if tweet.retweeted_status.entities.urls
                           each url in tweet.retweeted_status.entities.urls
@@ -100,10 +101,11 @@ block content
                                   .item(class=(i === 0 ? 'active' : ''))
                                     img.img-responsive(src=image.media_url_https)
 
-                              a.left.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='prev')
-                                span.glyphicon.glyphicon-chevron-left
-                              a.right.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='next')
-                                span.glyphicon.glyphicon-chevron-right
+                              - if tweet.quoted_status.extended_entities.media.length > 1
+                                a.left.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='prev')
+                                  span.glyphicon.glyphicon-chevron-left
+                                a.right.carousel-control(href='#media-' + tweet.quoted_status.id_str, role='button', 'data-slide'='next')
+                                  span.glyphicon.glyphicon-chevron-right
 
                         if tweet.quoted_status.entities.urls
                           each url in tweet.quoted_status.entities.urls
@@ -119,10 +121,11 @@ block content
                                 .item(class=(i === 0 ? 'active' : ''))
                                   img.img-responsive(src=image.media_url_https)
 
-                            a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
-                              span.glyphicon.glyphicon-chevron-left
-                            a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
-                              span.glyphicon.glyphicon-chevron-right
+                            - if tweet.extended_entities.media.length > 1
+                              a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
+                                span.glyphicon.glyphicon-chevron-left
+                              a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
+                                span.glyphicon.glyphicon-chevron-right
 
                       if tweet.entities.urls
                         each url in tweet.entities.urls
@@ -138,10 +141,11 @@ block content
                                 .item(class=(i === 0 ? 'active' : ''))
                                   img.img-responsive(src=image.media_url_https)
 
-                            a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
-                              span.glyphicon.glyphicon-chevron-left
-                            a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
-                              span.glyphicon.glyphicon-chevron-right
+                            - if tweet.extended_entities.media.length > 1
+                              a.left.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='prev')
+                                span.glyphicon.glyphicon-chevron-left
+                              a.right.carousel-control(href='#media-' + tweet.id_str, role='button', 'data-slide'='next')
+                                span.glyphicon.glyphicon-chevron-right
 
                       if tweet.entities.urls
                         each url in tweet.entities.urls
