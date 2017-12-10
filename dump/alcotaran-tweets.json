@@ -52637,6 +52637,2039 @@
       "retweeted": false,
       "possibly_sensitive": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:05:24 +0000 2017",
+      "id": 939873690451349500,
+      "id_str": "939873690451349505",
+      "full_text": "RT @nkapliev: @abroadunderhood Коллеги ирландцы рассказывали, что в некоторых районах Дублина на большие праздники (типа хеллоуина, рождест…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nkapliev",
+            "name": "Nick Kapliev",
+            "id": 2923767820,
+            "id_str": "2923767820",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              14,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 15:04:44 +0000 2017",
+        "id": 939873523635572700,
+        "id_str": "939873523635572739",
+        "full_text": "@abroadunderhood Коллеги ирландцы рассказывали, что в некоторых районах Дублина на большие праздники (типа хеллоуина, рождества) местные заказывают спец сервис заколачивания окон досками.\nИначе, говорят, необузданный детский вандализм может к вам и ракету кинуть, и кирпич, и полено горящее.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          291
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939867584618483700,
+        "in_reply_to_status_id_str": "939867584618483712",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2923767820,
+          "id_str": "2923767820"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 9,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:08:27 +0000 2017",
+      "id": 939874458667450400,
+      "id_str": "939874458667450368",
+      "full_text": "А как мы выяснили, если 4 и 6 яиц стоят одинаково, то одно стоит ноль. https://t.co/5quJ3b4Yph",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5quJ3b4Yph",
+            "expanded_url": "https://twitter.com/nkapliev/status/939874144040177664",
+            "display_url": "twitter.com/nkapliev/statu…",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 939874144040177700,
+      "quoted_status_id_str": "939874144040177664",
+      "quoted_status": {
+        "created_at": "Sun Dec 10 15:07:12 +0000 2017",
+        "id": 939874144040177700,
+        "id_str": "939874144040177664",
+        "full_text": "@abroadunderhood Ещё вполне нормальная тема -- покидать яйца в прохожих. Собирается толпа детишек лет по 6-10 с коробками яиц и начинают запускать снаряды в автобусы, прохожих, машины, велосипедистов. Естественно в тех, которые едут на больший скорости, чтобы не затормозил резко и не догнал :/",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          294
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939873523635572700,
+        "in_reply_to_status_id_str": "939873523635572739",
+        "in_reply_to_user_id": 2923767820,
+        "in_reply_to_user_id_str": "2923767820",
+        "in_reply_to_screen_name": "nkapliev",
+        "user": {
+          "id": 2923767820,
+          "id_str": "2923767820"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:11:24 +0000 2017",
+      "id": 939875199104770000,
+      "id_str": "939875199104770050",
+      "full_text": "Автоинструктор один раз спросил: что делать, если машину окружили дети и не дают проехать?\nПравильный ответ: ждать, пока уйдут.\nНикаких легальных методов противодействия у вас нет. https://t.co/Ph3lkIoV32",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ph3lkIoV32",
+            "expanded_url": "https://twitter.com/nkapliev/status/939874834250641408",
+            "display_url": "twitter.com/nkapliev/statu…",
+            "indices": [
+              181,
+              204
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 939874834250641400,
+      "quoted_status_id_str": "939874834250641408",
+      "quoted_status": {
+        "created_at": "Sun Dec 10 15:09:57 +0000 2017",
+        "id": 939874834250641400,
+        "id_str": "939874834250641408",
+        "full_text": "@abroadunderhood И это не в какой-то глуши, это в центре города, на главной набережной, в столице государства :)\nА сделать таким детям ничего нельзя: прикасаться к чужим детям это атата. Полиции нет почти, а пока приедут, то уже все метатели разбегутся. Так что бойтесь ирландских детей ;)",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          289
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939874144040177700,
+        "in_reply_to_status_id_str": "939874144040177664",
+        "in_reply_to_user_id": 2923767820,
+        "in_reply_to_user_id_str": "2923767820",
+        "in_reply_to_screen_name": "nkapliev",
+        "user": {
+          "id": 2923767820,
+          "id_str": "2923767820"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:25:17 +0000 2017",
+      "id": 939878695753445400,
+      "id_str": "939878695753445377",
+      "full_text": "@bunnyforlove https://t.co/c8YvGhs7eF",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bunnyforlove",
+            "name": "Пиковая дама",
+            "id": 1086118082,
+            "id_str": "1086118082",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/c8YvGhs7eF",
+            "expanded_url": "https://meduza.io/cards/zachem-poluchat-vtoroy-zagranpasport",
+            "display_url": "meduza.io/cards/zachem-p…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939876118752096300,
+      "in_reply_to_status_id_str": "939876118752096256",
+      "in_reply_to_user_id": 1086118082,
+      "in_reply_to_user_id_str": "1086118082",
+      "in_reply_to_screen_name": "bunnyforlove",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Dec 10 15:25:28 +0000 2017",
+      "id": 939878741819514900,
+      "id_str": "939878741819514880",
+      "full_text": "RT @nkapliev: @anaspektor @abroadunderhood Наверняка, но я такого не видел. Во всяком случае в Петербурге.\nА тут можно пару раз в месяц вид…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nkapliev",
+            "name": "Nick Kapliev",
+            "id": 2923767820,
+            "id_str": "2923767820",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "anaspektor",
+            "name": "Anastasia",
+            "id": 195540983,
+            "id_str": "195540983",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              26,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 15:16:16 +0000 2017",
+        "id": 939876423896109000,
+        "id_str": "939876423896109056",
+        "full_text": "@anaspektor @abroadunderhood Наверняка, но я такого не видел. Во всяком случае в Петербурге.\nА тут можно пару раз в месяц видеть/слышать от коллег.\n\nВозможно дело в снеге: в России дети за зиму накидаются снежками и ок. А в Ирландии нет выхода этой энергии, руки просят, а взрослые вроде как и не запрещают.",
+        "truncated": false,
+        "display_text_range": [
+          29,
+          307
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anaspektor",
+              "name": "Anastasia",
+              "id": 195540983,
+              "id_str": "195540983",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                12,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939875107627028500,
+        "in_reply_to_status_id_str": "939875107627028483",
+        "in_reply_to_user_id": 195540983,
+        "in_reply_to_user_id_str": "195540983",
+        "in_reply_to_screen_name": "anaspektor",
+        "user": {
+          "id": 2923767820,
+          "id_str": "2923767820"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": true,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": true,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:26:03 +0000 2017",
+      "id": 939878888754307100,
+      "id_str": "939878888754307074",
+      "full_text": "@aylivex И на него тоже, точнее перед ним.\nНо не обязательно, в другое время года тоже случается.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aylivex",
+            "name": "Alexey Ivanov",
+            "id": 188640269,
+            "id_str": "188640269",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939878230646980600,
+      "in_reply_to_status_id_str": "939878230646980610",
+      "in_reply_to_user_id": 188640269,
+      "in_reply_to_user_id_str": "188640269",
+      "in_reply_to_screen_name": "aylivex",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:52:01 +0000 2017",
+      "id": 939885422213238800,
+      "id_str": "939885422213238784",
+      "full_text": "RT @aylivex: @abroadunderhood Я видел, как перед Halloween'ом дети тащили палеты. А в новостях по радио призывали быть осторожными, пожарны…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aylivex",
+            "name": "Alexey Ivanov",
+            "id": 188640269,
+            "id_str": "188640269",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 15:40:49 +0000 2017",
+        "id": 939882603078922200,
+        "id_str": "939882603078922240",
+        "full_text": "@abroadunderhood Я видел, как перед Halloween'ом дети тащили палеты. А в новостях по радио призывали быть осторожными, пожарных на всех не наберёшься.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          150
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939878888754307100,
+        "in_reply_to_status_id_str": "939878888754307074",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 188640269,
+          "id_str": "188640269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 15:52:22 +0000 2017",
+      "id": 939885511610683400,
+      "id_str": "939885511610683392",
+      "full_text": "@I_DAZZLER Об этом история умалчивает",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "I_DAZZLER",
+            "name": "Dazzler",
+            "id": 447361981,
+            "id_str": "447361981",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939884413428658200,
+      "in_reply_to_status_id_str": "939884413428658176",
+      "in_reply_to_user_id": 447361981,
+      "in_reply_to_user_id_str": "447361981",
+      "in_reply_to_screen_name": "I_DAZZLER",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 16:23:07 +0000 2017",
+      "id": 939893249577246700,
+      "id_str": "939893249577246720",
+      "full_text": "МОЖЕТ.\nhttps://t.co/c8YvGhs7eF\n\nВ местном посольстве РФ на Orwell Road делается 4 месяца. https://t.co/QCZpay2OAs",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        89
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/c8YvGhs7eF",
+            "expanded_url": "https://meduza.io/cards/zachem-poluchat-vtoroy-zagranpasport",
+            "display_url": "meduza.io/cards/zachem-p…",
+            "indices": [
+              7,
+              30
+            ]
+          },
+          {
+            "url": "https://t.co/QCZpay2OAs",
+            "expanded_url": "https://twitter.com/aylivex/status/939892685950935040",
+            "display_url": "twitter.com/aylivex/status…",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 939892685950935000,
+      "quoted_status_id_str": "939892685950935040",
+      "quoted_status": {
+        "created_at": "Sun Dec 10 16:20:53 +0000 2017",
+        "id": 939892685950935000,
+        "id_str": "939892685950935040",
+        "full_text": "@abroadunderhood А их может быть два? Впервые слышу",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          51
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939838333169135600,
+        "in_reply_to_status_id_str": "939838333169135616",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 188640269,
+          "id_str": "188640269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 17:46:54 +0000 2017",
+      "id": 939914332514803700,
+      "id_str": "939914332514803713",
+      "full_text": "RT @zhexter_Bu: @londonrotterdam @Cooolinair @abroadunderhood Donegal yarns :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zhexter_Bu",
+            "name": "Женик",
+            "id": 328601185,
+            "id_str": "328601185",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "londonrotterdam",
+            "name": "Alx",
+            "id": 484696133,
+            "id_str": "484696133",
+            "indices": [
+              16,
+              32
+            ]
+          },
+          {
+            "screen_name": "Cooolinair",
+            "name": "Кулинар",
+            "id": 2776050841,
+            "id_str": "2776050841",
+            "indices": [
+              33,
+              44
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              45,
+              61
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 17:38:16 +0000 2017",
+        "id": 939912162088181800,
+        "id_str": "939912162088181760",
+        "full_text": "@londonrotterdam @Cooolinair @abroadunderhood Donegal yarns :)",
+        "truncated": false,
+        "display_text_range": [
+          46,
+          62
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "londonrotterdam",
+              "name": "Alx",
+              "id": 484696133,
+              "id_str": "484696133",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "Cooolinair",
+              "name": "Кулинар",
+              "id": 2776050841,
+              "id_str": "2776050841",
+              "indices": [
+                17,
+                28
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                29,
+                45
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 939781222263414800,
+        "in_reply_to_status_id_str": "939781222263414784",
+        "in_reply_to_user_id": 484696133,
+        "in_reply_to_user_id_str": "484696133",
+        "in_reply_to_screen_name": "londonrotterdam",
+        "user": {
+          "id": 328601185,
+          "id_str": "328601185"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    {
+      "created_at": "Sun Dec 10 17:47:48 +0000 2017",
+      "id": 939914557950189600,
+      "id_str": "939914557950189569",
+      "full_text": "@interno7070 Да кому ваш U2 нужен. Что это вообще, какая-то старая попса?\nОн лишь и известен потому, что всем как-то раз в айфоны зафорсили!",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "interno7070",
+            "name": "inter",
+            "id": 2430045865,
+            "id_str": "2430045865",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939913886203043800,
+      "in_reply_to_status_id_str": "939913886203043840",
+      "in_reply_to_user_id": 2430045865,
+      "in_reply_to_user_id_str": "2430045865",
+      "in_reply_to_screen_name": "interno7070",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 17:47:53 +0000 2017",
+      "id": 939914580360400900,
+      "id_str": "939914580360400899",
+      "full_text": "RT @zhexter_Bu: @abroadunderhood С Глисоном есть отличная короткометражка Шестизарядник https://t.co/DepCAuKbzd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zhexter_Bu",
+            "name": "Женик",
+            "id": 328601185,
+            "id_str": "328601185",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/DepCAuKbzd",
+            "expanded_url": "https://youtu.be/T9w9BJXeL4E",
+            "display_url": "youtu.be/T9w9BJXeL4E",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 17:45:16 +0000 2017",
+        "id": 939913920424243200,
+        "id_str": "939913920424243200",
+        "full_text": "@abroadunderhood С Глисоном есть отличная короткометражка Шестизарядник https://t.co/DepCAuKbzd",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          95
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/DepCAuKbzd",
+              "expanded_url": "https://youtu.be/T9w9BJXeL4E",
+              "display_url": "youtu.be/T9w9BJXeL4E",
+              "indices": [
+                72,
+                95
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 938937779047796700,
+        "in_reply_to_status_id_str": "938937779047796737",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 328601185,
+          "id_str": "328601185"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:35:28 +0000 2017",
+      "id": 939926553814814700,
+      "id_str": "939926553814814723",
+      "full_text": "Итак, осталось всего несколько часов, так что пора потихноьку завершать эброд этой недели.\n\nЭто был непередаваемый опыт.\nСпасибо вам всем, спасибо, вы - отличная публика!\n\nЧто я еще могу сказать? Мне нужен этот гироскутер...\nhttps://t.co/HESBO3Tvv7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HESBO3Tvv7",
+            "expanded_url": "https://ru.aliexpress.com/item/France-Stock-8-inch-Bluetooth-Hoverboard-Two-Wheels-Electric-Skateboard-Self-Balancing-Scooter-Hover-Board-Remote/32830378489.html?ws_ab_test=searchweb0_0,searchweb201602_3_10152_10065_10151_10344_10068_10345_10342_5000018_5060018_10343_51102_10340_10341_5130018_10541_10084_10083_10307_10301_10134_10539_5080015_10312_10059_10313_10314_10534_100031_10604_10603_10103_10605_10594_10596_10142_10107_10125,searchweb201603_1,ppcSwitch_4&algo_expid=fb4c09d4-d55b-4db3-b6e4-426d1e12a1e6-0&algo_pvid=fb4c09d4-d55b-4db3-b6e4-426d1e12a1e6&rmStoreLevelAB=0",
+            "display_url": "ru.aliexpress.com/item/France-St…",
+            "indices": [
+              225,
+              248
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 48,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:39:02 +0000 2017",
+      "id": 939927452020768800,
+      "id_str": "939927452020768768",
+      "full_text": "Огромное спасибо:\n@nkapliev за ценные твиты про жизненный опыт\n@aylivex и @AntonPlotnikov - особенно за информацию, касающуюся детей, школ и т.д. в Ирландии\n@ralogic и @polinaMUA за красивые фотографии Dun Laoghaire (читается \"Дун лири\") и не только",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nkapliev",
+            "name": "Nick Kapliev",
+            "id": 2923767820,
+            "id_str": "2923767820",
+            "indices": [
+              18,
+              27
+            ]
+          },
+          {
+            "screen_name": "aylivex",
+            "name": "Alexey Ivanov",
+            "id": 188640269,
+            "id_str": "188640269",
+            "indices": [
+              63,
+              71
+            ]
+          },
+          {
+            "screen_name": "AntonPlotnikov",
+            "name": "Antony",
+            "id": 146406106,
+            "id_str": "146406106",
+            "indices": [
+              74,
+              89
+            ]
+          },
+          {
+            "screen_name": "ralogic",
+            "name": "Жiдобандера Воронеж",
+            "id": 577855660,
+            "id_str": "577855660",
+            "indices": [
+              157,
+              165
+            ]
+          },
+          {
+            "screen_name": "polinaMUA",
+            "name": "makeupinstructor",
+            "id": 781074231119536100,
+            "id_str": "781074231119536128",
+            "indices": [
+              168,
+              178
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:42:27 +0000 2017",
+      "id": 939928314453643300,
+      "id_str": "939928314453643264",
+      "full_text": "А также @celtic_gordin (он же @artemgordin ) за канал https://t.co/yB2Op8SMqk - там можно узнать, что актуального сейчас происходит в Ирландии, много малоизвестных фактов и местных традиций. Подписывайтесь!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "celtic_gordin",
+            "name": "Árdghal O'Gordin",
+            "id": 2538480997,
+            "id_str": "2538480997",
+            "indices": [
+              8,
+              22
+            ]
+          },
+          {
+            "screen_name": "artemgordin",
+            "name": "Artem Gordin",
+            "id": 25396941,
+            "id_str": "25396941",
+            "indices": [
+              30,
+              42
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/yB2Op8SMqk",
+            "expanded_url": "http://t.me/luckoftheirish",
+            "display_url": "t.me/luckoftheirish",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:47:06 +0000 2017",
+      "id": 939929485008363500,
+      "id_str": "939929485008363520",
+      "full_text": "У меня есть твиттер @alcotaran , где я много ругаюсь и одноименный инстаграм. Он закрытый, чтоб не спамили, но можно подписываться, если интересно - черкните пару строк, что вы с эброда.\nТам есть много фотографий с моих путешествий по Ирландии и не только.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alcotaran",
+            "name": "Alexander Taran",
+            "id": 158426124,
+            "id_str": "158426124",
+            "indices": [
+              20,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:54:21 +0000 2017",
+      "id": 939931309559906300,
+      "id_str": "939931309559906305",
+      "full_text": "Ну а я?\nЯ покидаю Ирландию.\nЧестно говоря, мне не понравилось тут жить.\nИмхо, Ирландия хорошая страна. Хорошая туристическая страна.\nИскренне рад за тех, кому тут понравилось и кто нашел тут свой дом.\nНо не я. Я еду дальше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 50,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 18:59:18 +0000 2017",
+      "id": 939932554328670200,
+      "id_str": "939932554328670208",
+      "full_text": "По приезду нужно было зарегистрироваться в полиции.\nМне выдали рецепт на бесплатную пачку таблеток иодида калия. С объяснением, что тут в 42км атомная станция.\nВот это серьезные ребята, да.\n\nМожет быть когда-нибудь меня пустят вести эбродандэрхуд еще раз?\n\nTO BE CONTINUED https://t.co/Ca64PYFep1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 939931646308085800,
+            "id_str": "939931646308085760",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DQtO2jNXcAAgVUP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQtO2jNXcAAgVUP.jpg",
+            "url": "https://t.co/Ca64PYFep1",
+            "display_url": "pic.twitter.com/Ca64PYFep1",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/939932554328670208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 939931646308085800,
+            "id_str": "939931646308085760",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DQtO2jNXcAAgVUP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQtO2jNXcAAgVUP.jpg",
+            "url": "https://t.co/Ca64PYFep1",
+            "display_url": "pic.twitter.com/Ca64PYFep1",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/939932554328670208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 939931647683776500,
+            "id_str": "939931647683776513",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/DQtO2oVW0AEfp7S.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DQtO2oVW0AEfp7S.jpg",
+            "url": "https://t.co/Ca64PYFep1",
+            "display_url": "pic.twitter.com/Ca64PYFep1",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/939932554328670208/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3acb748d0f1e9265",
+        "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json",
+        "place_type": "city",
+        "name": "Zurich",
+        "full_name": "Zurich, Switzerland",
+        "country_code": "CH",
+        "country": "Switzerland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.448081,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.434721
+              ],
+              [
+                8.448081,
+                47.434721
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 19:09:52 +0000 2017",
+      "id": 939935211386794000,
+      "id_str": "939935211386793986",
+      "full_text": "@amorucciatua неее, рано пока",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        29
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amorucciatua",
+            "name": "Малиновка",
+            "id": 1310864588,
+            "id_str": "1310864588",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939935026694840300,
+      "in_reply_to_status_id_str": "939935026694840320",
+      "in_reply_to_user_id": 1310864588,
+      "in_reply_to_user_id_str": "1310864588",
+      "in_reply_to_screen_name": "amorucciatua",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3acb748d0f1e9265",
+        "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json",
+        "place_type": "city",
+        "name": "Zurich",
+        "full_name": "Zurich, Switzerland",
+        "country_code": "CH",
+        "country": "Switzerland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.448081,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.434721
+              ],
+              [
+                8.448081,
+                47.434721
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 19:12:10 +0000 2017",
+      "id": 939935790536298500,
+      "id_str": "939935790536298498",
+      "full_text": "@amorucciatua Только переехал) Нечего пока рассказывать",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "amorucciatua",
+            "name": "Малиновка",
+            "id": 1310864588,
+            "id_str": "1310864588",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939935527075229700,
+      "in_reply_to_status_id_str": "939935527075229696",
+      "in_reply_to_user_id": 1310864588,
+      "in_reply_to_user_id_str": "1310864588",
+      "in_reply_to_screen_name": "amorucciatua",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3acb748d0f1e9265",
+        "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json",
+        "place_type": "city",
+        "name": "Zurich",
+        "full_name": "Zurich, Switzerland",
+        "country_code": "CH",
+        "country": "Switzerland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                8.448081,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.3202171
+              ],
+              [
+                8.625442,
+                47.434721
+              ],
+              [
+                8.448081,
+                47.434721
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 20:33:47 +0000 2017",
+      "id": 939956332018520000,
+      "id_str": "939956332018520070",
+      "full_text": "RT @aylivex: @abroadunderhood Обычно не снимают. Учитель английского не разувался.\nНо недавно приходил электрик, сам снял обувь и ходил в н…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aylivex",
+            "name": "Alexey Ivanov",
+            "id": 188640269,
+            "id_str": "188640269",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 20:31:35 +0000 2017",
+        "id": 939955775333654500,
+        "id_str": "939955775333654528",
+        "full_text": "@abroadunderhood Обычно не снимают. Учитель английского не разувался.\nНо недавно приходил электрик, сам снял обувь и ходил в носках. Когда агент приходила проверять состояние дома, она поинтересовалась, снимать или нет. Попросили снять.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          236
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 939839938366988300,
+        "in_reply_to_status_id_str": "939839938366988288",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 188640269,
+          "id_str": "188640269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7dde0febc9ef245b",
+          "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+          "place_type": "city",
+          "name": "Dublin City",
+          "full_name": "Dublin City, Ireland",
+          "country_code": "IE",
+          "country": "Ireland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.387438,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.4110598
+                ],
+                [
+                  -6.387438,
+                  53.4110598
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 10 20:33:50 +0000 2017",
+      "id": 939956343120724000,
+      "id_str": "939956343120723976",
+      "full_text": "RT @aylivex: @abroadunderhood Но здесь — в Ирландии — действительно чисто, даже когда на улице дождь.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aylivex",
+            "name": "Alexey Ivanov",
+            "id": 188640269,
+            "id_str": "188640269",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Sun Dec 10 20:32:48 +0000 2017",
+        "id": 939956083115921400,
+        "id_str": "939956083115921409",
+        "full_text": "@abroadunderhood Но здесь — в Ирландии — действительно чисто, даже когда на улице дождь.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          88
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 939955775333654500,
+        "in_reply_to_status_id_str": "939955775333654528",
+        "in_reply_to_user_id": 188640269,
+        "in_reply_to_user_id_str": "188640269",
+        "in_reply_to_screen_name": "aylivex",
+        "user": {
+          "id": 188640269,
+          "id_str": "188640269"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "7dde0febc9ef245b",
+          "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+          "place_type": "city",
+          "name": "Dublin City",
+          "full_name": "Dublin City, Ireland",
+          "country_code": "IE",
+          "country": "Ireland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -6.387438,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.2987449
+                ],
+                [
+                  -6.1078047,
+                  53.4110598
+                ],
+                [
+                  -6.387438,
+                  53.4110598
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
     }
   ]
 }

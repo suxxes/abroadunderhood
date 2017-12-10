@@ -3,13 +3,13 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "Dublin City, Ireland",
+  "location": "Zurich, Switzerland",
   "profile_location": {
-    "id": "7dde0febc9ef245b",
-    "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+    "id": "3acb748d0f1e9265",
+    "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json",
     "place_type": "unknown",
-    "name": "Dublin City, Ireland",
-    "full_name": "Dublin City, Ireland",
+    "name": "Zurich, Switzerland",
+    "full_name": "Zurich, Switzerland",
     "country_code": "",
     "country": "",
     "contained_within": [],
@@ -37,38 +37,49 @@
     }
   },
   "protected": false,
-  "followers_count": 9840,
+  "followers_count": 9853,
   "friends_count": 0,
-  "listed_count": 199,
+  "listed_count": 202,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7705,
+  "favourites_count": 7748,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 71603,
+  "statuses_count": 71625,
   "lang": "en",
   "status": {
-    "created_at": "Sun Dec 10 14:41:08 +0000 2017",
-    "id": 939867584618483700,
-    "id_str": "939867584618483712",
-    "text": "Несколько раз в год у меня на районе происходит необъяснимое: местные дети стаскивают в кучу мебель (диваны, кресла… https://t.co/ml25zM0O6H",
-    "truncated": true,
+    "created_at": "Sun Dec 10 20:33:50 +0000 2017",
+    "id": 939956343120724000,
+    "id_str": "939956343120723976",
+    "text": "RT @aylivex: @abroadunderhood Но здесь — в Ирландии — действительно чисто, даже когда на улице дождь.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/ml25zM0O6H",
-          "expanded_url": "https://twitter.com/i/web/status/939867584618483712",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "aylivex",
+          "name": "Alexey Ivanov",
+          "id": 188640269,
+          "id_str": "188640269",
           "indices": [
-            117,
-            140
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андерхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            13,
+            29
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -80,12 +91,84 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Dec 10 20:32:48 +0000 2017",
+      "id": 939956083115921400,
+      "id_str": "939956083115921409",
+      "text": "@abroadunderhood Но здесь — в Ирландии — действительно чисто, даже когда на улице дождь.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 939955775333654500,
+      "in_reply_to_status_id_str": "939955775333654528",
+      "in_reply_to_user_id": 188640269,
+      "in_reply_to_user_id_str": "188640269",
+      "in_reply_to_screen_name": "aylivex",
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "7dde0febc9ef245b",
+        "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+        "place_type": "city",
+        "name": "Dublin City",
+        "full_name": "Dublin City, Ireland",
+        "country_code": "IE",
+        "country": "Ireland",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -6.387438,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.2987449
+              ],
+              [
+                -6.1078047,
+                53.4110598
+              ],
+              [
+                -6.387438,
+                53.4110598
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 1,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
-    "possibly_sensitive": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,9 +178,9 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/937758208294301697/Disxlz60_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/937758208294301697/Disxlz60_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1512413979",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/939930011095781376/_WhIA6XH_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/939930011095781376/_WhIA6XH_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1512932102",
   "profile_link_color": "91D2FA",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
@@ -112,9 +195,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 60,
   "geometry": {
-    "lat": 53.3498053,
-    "lng": -6.2603097
+    "lat": 47.3768866,
+    "lng": 8.541694
   }
 }
