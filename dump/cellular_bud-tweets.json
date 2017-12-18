@@ -1,0 +1,1620 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 18 04:34:43 +0000 2017",
+      "id": 942614077020483600,
+      "id_str": "942614077020483584",
+      "full_text": "Всем привет! И из теплого и солнечного Майями мы перемещаемся в не менее жаркую Мексику! Поговорим о жизни в Латинской Америке, прокатимся прямиком от Тихого до Атлантического океана, отведаем блюда национальной кухни, выпьем текилы и, конечно, обсудим визовые вопросы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1027fcd83c280af3",
+        "url": "https://api.twitter.com/1.1/geo/id/1027fcd83c280af3.json",
+        "place_type": "city",
+        "name": "Lagos de Moreno",
+        "full_name": "Lagos de Moreno, Jalisco",
+        "country_code": "MX",
+        "country": "Mexico",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -102.16888,
+                21.1778369
+              ],
+              [
+                -101.568873,
+                21.1778369
+              ],
+              [
+                -101.568873,
+                21.8892021
+              ],
+              [
+                -102.16888,
+                21.8892021
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "favorite_count": 145,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:30:10 +0000 2017",
+      "id": 942628032975687700,
+      "id_str": "942628032975687681",
+      "full_text": "RT @NikolayZHT: @abroadunderhood О, ещё одна жаркая неделя! То что надо сейчас для тех, кто живет в России.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NikolayZHT",
+            "name": "Николай",
+            "id": 3121610569,
+            "id_str": "3121610569",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Dec 18 04:38:42 +0000 2017",
+        "id": 942615080688062500,
+        "id_str": "942615080688062464",
+        "full_text": "@abroadunderhood О, ещё одна жаркая неделя! То что надо сейчас для тех, кто живет в России.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          91
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3121610569,
+          "id_str": "3121610569"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:30:43 +0000 2017",
+      "id": 942628168925577200,
+      "id_str": "942628168925577216",
+      "full_text": "@NikolayZHT Не так жарко как хотелось бы, но в целом тоже неплохо. Обычно в это время всегда очень солнечно, но последние дни выдались на удивление пасмурные. https://t.co/aYiszBcxjR",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NikolayZHT",
+            "name": "Николай",
+            "id": 3121610569,
+            "id_str": "3121610569",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 942628107315429400,
+            "id_str": "942628107315429376",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTjRPPVwAAxCKQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTjRPPVwAAxCKQ.jpg",
+            "url": "https://t.co/aYiszBcxjR",
+            "display_url": "pic.twitter.com/aYiszBcxjR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942628168925577216/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1184,
+                "h": 1800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 447,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 789,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 942628107315429400,
+            "id_str": "942628107315429376",
+            "indices": [
+              159,
+              182
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTjRPPVwAAxCKQ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTjRPPVwAAxCKQ.jpg",
+            "url": "https://t.co/aYiszBcxjR",
+            "display_url": "pic.twitter.com/aYiszBcxjR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942628168925577216/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1184,
+                "h": 1800,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 447,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 789,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 942615080688062500,
+      "in_reply_to_status_id_str": "942615080688062464",
+      "in_reply_to_user_id": 3121610569,
+      "in_reply_to_user_id_str": "3121610569",
+      "in_reply_to_screen_name": "NikolayZHT",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:39:47 +0000 2017",
+      "id": 942630452669579300,
+      "id_str": "942630452669579264",
+      "full_text": "Я жил в Мексике несколько лет ранее, но с семьей мы перебрались сюда полтора года назад. Нас шестеро: я, жена, сын, кошка, прилетевшая с нами из России, интеллигентный мексиканский кот и дочка в ближайшей перспективе. Всегда хотел уехать, в Мексике захотелось остаться навсегда. https://t.co/3kfHk2e5DE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3kfHk2e5DE",
+            "expanded_url": "https://twitter.com/mustilsh/status/942615718788464640",
+            "display_url": "twitter.com/mustilsh/statu…",
+            "indices": [
+              279,
+              302
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942615718788464600,
+      "quoted_status_id_str": "942615718788464640",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 04:41:14 +0000 2017",
+        "id": 942615718788464600,
+        "id_str": "942615718788464640",
+        "full_text": "@abroadunderhood Кто? Откуда? Почему переехал?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          46
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 857206733093163000,
+          "id_str": "857206733093163008"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:46:50 +0000 2017",
+      "id": 942632225538965500,
+      "id_str": "942632225538965504",
+      "full_text": "Обязательно расскажем! Мексиканской культуре, праздникам и традиционной кухне хотел бы выделить отдельный день. Кстати приближается католическое Рождество и сочельник выпадет на мою неделю. https://t.co/GKB9oVIKZ3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GKB9oVIKZ3",
+            "expanded_url": "https://twitter.com/leni_ekb/status/942616889083269120",
+            "display_url": "twitter.com/leni_ekb/statu…",
+            "indices": [
+              190,
+              213
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942616889083269100,
+      "quoted_status_id_str": "942616889083269120",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 04:45:53 +0000 2017",
+        "id": 942616889083269100,
+        "id_str": "942616889083269120",
+        "full_text": "@abroadunderhood Привет! Как здорово! Будет очень интересно узнать про их праздники и традиции 😊",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          96
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 166065627,
+          "id_str": "166065627"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:51:37 +0000 2017",
+      "id": 942633429929287700,
+      "id_str": "942633429929287680",
+      "full_text": "Завтра буду разбивать сложившиеся у многих стереотипы в плане безопасности и пресловутых картелей. А про еду стереотипы разбивать не буду, она действительно очень вкусная! https://t.co/09rZcU4HXa",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/09rZcU4HXa",
+            "expanded_url": "https://twitter.com/SuburbanRussia/status/942619457838637061",
+            "display_url": "twitter.com/SuburbanRussia…",
+            "indices": [
+              172,
+              195
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942619457838637000,
+      "quoted_status_id_str": "942619457838637061",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 04:56:06 +0000 2017",
+        "id": 942619457838637000,
+        "id_str": "942619457838637061",
+        "full_text": "@abroadunderhood Здравствуйте ) Мексика -- это интересно. Интересуют вопросы безопасности, в плане уличной преступности и наркокартелей. Ну и отдельно, все, что касается еды.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          174
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 154663151,
+          "id_str": "154663151"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:55:37 +0000 2017",
+      "id": 942634436356640800,
+      "id_str": "942634436356640768",
+      "full_text": "Завтра по полочкам все разложу на тему безопасности. https://t.co/GpjJisJInr",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GpjJisJInr",
+            "expanded_url": "https://twitter.com/i_lsnsky/status/942625864390512640",
+            "display_url": "twitter.com/i_lsnsky/statu…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942625864390512600,
+      "quoted_status_id_str": "942625864390512640",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 05:21:33 +0000 2017",
+        "id": 942625864390512600,
+        "id_str": "942625864390512640",
+        "full_text": "@abroadunderhood О Мексике слышал только то, что там постоянно пропадают люди, и шансы отыскать минимальные. Так ли это?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          120
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 782821724157018100,
+          "id_str": "782821724157018112"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 05:56:19 +0000 2017",
+      "id": 942634611426955300,
+      "id_str": "942634611426955265",
+      "full_text": "@afonin У нас сейчас ночью тоже +6 градусов.",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "afonin",
+            "name": "Sergey Afonin",
+            "id": 19809150,
+            "id_str": "19809150",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 942628163099775000,
+      "in_reply_to_status_id_str": "942628163099774976",
+      "in_reply_to_user_id": 19809150,
+      "in_reply_to_user_id_str": "19809150",
+      "in_reply_to_screen_name": "afonin",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:03:00 +0000 2017",
+      "id": 942636295230312400,
+      "id_str": "942636295230312448",
+      "full_text": "Прошу меня просить, сейчас полночь, завтра я проснусь и начну свой первый день. Готовьте вопросы! https://t.co/jbhRJXTnj5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 942636282609414100,
+            "id_str": "942636282609414144",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTqtGlUMAAbwmW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTqtGlUMAAbwmW.jpg",
+            "url": "https://t.co/jbhRJXTnj5",
+            "display_url": "pic.twitter.com/jbhRJXTnj5",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942636295230312448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 942636282609414100,
+            "id_str": "942636282609414144",
+            "indices": [
+              98,
+              121
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTqtGlUMAAbwmW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTqtGlUMAAbwmW.jpg",
+            "url": "https://t.co/jbhRJXTnj5",
+            "display_url": "pic.twitter.com/jbhRJXTnj5",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942636295230312448/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:05:16 +0000 2017",
+      "id": 942636866314088400,
+      "id_str": "942636866314088448",
+      "full_text": "Штат Jalisco (Халиско). Знаменитый штат откуда родом текила. https://t.co/dX64Ds1Wjj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dX64Ds1Wjj",
+            "expanded_url": "https://twitter.com/coconutub/status/942634799172382720",
+            "display_url": "twitter.com/coconutub/stat…",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942634799172382700,
+      "quoted_status_id_str": "942634799172382720",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 05:57:04 +0000 2017",
+        "id": 942634799172382700,
+        "id_str": "942634799172382720",
+        "full_text": "@abroadunderhood А какой штат Мексики? Не Чьиапас?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          50
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 509817452,
+          "id_str": "509817452"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:10:58 +0000 2017",
+      "id": 942638298090045400,
+      "id_str": "942638298090045440",
+      "full_text": "Обычно наркотики сталкиваются со мной. Шучу, но на самом деле, наркотики в Мексике это целая культура. Отдельно расскажу про марихуану и затрону тяжелые наркотики и их пересечение с социумом. https://t.co/ztXgcTJg6C",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ztXgcTJg6C",
+            "expanded_url": "https://twitter.com/canada_hey/status/942634848803524608",
+            "display_url": "twitter.com/canada_hey/sta…",
+            "indices": [
+              192,
+              215
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942634848803524600,
+      "quoted_status_id_str": "942634848803524608",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 05:57:15 +0000 2017",
+        "id": 942634848803524600,
+        "id_str": "942634848803524608",
+        "full_text": "@abroadunderhood расскажите про наркотики, продают ли на улице, сталкивались ли вы сами?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          88
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://www.samruston.co.uk\" rel=\"nofollow\">Flamingo for Android</a>",
+        "in_reply_to_status_id": 942614077020483600,
+        "in_reply_to_status_id_str": "942614077020483584",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 244506759,
+          "id_str": "244506759"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:12:15 +0000 2017",
+      "id": 942638623811350500,
+      "id_str": "942638623811350529",
+      "full_text": "@Kyty3obb Был. Нравится больше Мексика. Сходства максимум, свободы больше.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        74
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kyty3obb",
+            "name": "Ёжик",
+            "id": 2155884179,
+            "id_str": "2155884179",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 942636756876386300,
+      "in_reply_to_status_id_str": "942636756876386305",
+      "in_reply_to_user_id": 2155884179,
+      "in_reply_to_user_id_str": "2155884179",
+      "in_reply_to_screen_name": "Kyty3obb",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:13:21 +0000 2017",
+      "id": 942638900715163600,
+      "id_str": "942638900715163648",
+      "full_text": "@Maxdisk @Kyty3obb Весело. Можно заниматься  любимым делом.",
+      "truncated": false,
+      "display_text_range": [
+        19,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Maxdisk",
+            "name": "Vitaliy Chernyavskiy",
+            "id": 70911683,
+            "id_str": "70911683",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "Kyty3obb",
+            "name": "Ёжик",
+            "id": 2155884179,
+            "id_str": "2155884179",
+            "indices": [
+              9,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": 942636962967703600,
+      "in_reply_to_status_id_str": "942636962967703552",
+      "in_reply_to_user_id": 70911683,
+      "in_reply_to_user_id_str": "70911683",
+      "in_reply_to_screen_name": "Maxdisk",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:20:56 +0000 2017",
+      "id": 942640808519454700,
+      "id_str": "942640808519454720",
+      "full_text": "Информация по перевозке домашнего животного за границу в самолете. В стране назначения по прилету вам нужно будет пройти ветеринарный контроль. https://t.co/mYJywVYg0K https://t.co/LNyVa9T7d4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/mYJywVYg0K",
+            "expanded_url": "https://twitter.com/varikka_art/status/942639131636715520",
+            "display_url": "twitter.com/varikka_art/st…",
+            "indices": [
+              144,
+              167
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 942640797282734100,
+            "id_str": "942640797282734080",
+            "indices": [
+              168,
+              191
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTuz5DUEAAfx8s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTuz5DUEAAfx8s.jpg",
+            "url": "https://t.co/LNyVa9T7d4",
+            "display_url": "pic.twitter.com/LNyVa9T7d4",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942640808519454720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 942640797282734100,
+            "id_str": "942640797282734080",
+            "indices": [
+              168,
+              191
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTuz5DUEAAfx8s.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTuz5DUEAAfx8s.jpg",
+            "url": "https://t.co/LNyVa9T7d4",
+            "display_url": "pic.twitter.com/LNyVa9T7d4",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942640808519454720/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 353,
+                "h": 550,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 942639131636715500,
+      "quoted_status_id_str": "942639131636715520",
+      "quoted_status": {
+        "created_at": "Mon Dec 18 06:14:17 +0000 2017",
+        "id": 942639131636715500,
+        "id_str": "942639131636715520",
+        "full_text": "@abroadunderhood кошку как перевезли? проблематично было?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          57
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 942630452669579300,
+        "in_reply_to_status_id_str": "942630452669579264",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 318976790,
+          "id_str": "318976790"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "aa5a3bba7e32448a",
+          "url": "https://api.twitter.com/1.1/geo/id/aa5a3bba7e32448a.json",
+          "place_type": "city",
+          "name": "Yakutsk",
+          "full_name": "Yakutsk, Russia",
+          "country_code": "RU",
+          "country": "Russia",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  129.5950817,
+                  61.949109
+                ],
+                [
+                  129.8662308,
+                  61.949109
+                ],
+                [
+                  129.8662308,
+                  62.1833831
+                ],
+                [
+                  129.5950817,
+                  62.1833831
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 18 06:27:38 +0000 2017",
+      "id": 942642491748208600,
+      "id_str": "942642491748208640",
+      "full_text": "@varikka_art @fizrastvor про кошку",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "varikka_art",
+            "name": "Várikka Artamónova",
+            "id": 318976790,
+            "id_str": "318976790",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "fizrastvor",
+            "name": "Fizrastvor",
+            "id": 814847184311091200,
+            "id_str": "814847184311091201",
+            "indices": [
+              13,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 942640808519454700,
+      "in_reply_to_status_id_str": "942640808519454720",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Dec 18 06:33:54 +0000 2017",
+      "id": 942644069280477200,
+      "id_str": "942644069280477184",
+      "full_text": "Вот она, путешественница. Купите в дорогу успокаивающие капли, впитывающие салфетки и не забудьте покормить и напоить перед тем, как отдадите переноску в багаж. https://t.co/Wvu3vd1xSR",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 942644043405672400,
+            "id_str": "942644043405672448",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTxw1zVQAAPPVv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTxw1zVQAAPPVv.jpg",
+            "url": "https://t.co/Wvu3vd1xSR",
+            "display_url": "pic.twitter.com/Wvu3vd1xSR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942644069280477184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1638,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 942644043405672400,
+            "id_str": "942644043405672448",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTxw1zVQAAPPVv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTxw1zVQAAPPVv.jpg",
+            "url": "https://t.co/Wvu3vd1xSR",
+            "display_url": "pic.twitter.com/Wvu3vd1xSR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942644069280477184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1638,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 942644043413983200,
+            "id_str": "942644043413983232",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTxw11UEAAevHu.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTxw11UEAAevHu.jpg",
+            "url": "https://t.co/Wvu3vd1xSR",
+            "display_url": "pic.twitter.com/Wvu3vd1xSR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942644069280477184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 942644043401502700,
+            "id_str": "942644043401502720",
+            "indices": [
+              161,
+              184
+            ],
+            "media_url": "http://pbs.twimg.com/media/DRTxw1yVoAAgs7E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DRTxw1yVoAAgs7E.jpg",
+            "url": "https://t.co/Wvu3vd1xSR",
+            "display_url": "pic.twitter.com/Wvu3vd1xSR",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/942644069280477184/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1638,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 960,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 55,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
