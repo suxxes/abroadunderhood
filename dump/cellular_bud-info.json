@@ -26,36 +26,104 @@
     }
   },
   "protected": false,
-  "followers_count": 10091,
+  "followers_count": 10148,
   "friends_count": 0,
-  "listed_count": 199,
+  "listed_count": 201,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 7957,
+  "favourites_count": 8015,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 72759,
+  "statuses_count": 73176,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 18 06:33:54 +0000 2017",
-    "id": 942644069280477200,
-    "id_str": "942644069280477184",
-    "text": "Вот она, путешественница. Купите в дорогу успокаивающие капли, впитывающие салфетки и не забудьте покормить и напои… https://t.co/iNTodgkVuG",
-    "truncated": true,
+    "created_at": "Thu Dec 21 04:07:34 +0000 2017",
+    "id": 943694409933172700,
+    "id_str": "943694409933172736",
+    "text": "Устал очень сегодня 😑 https://t.co/VVciQPwGV8",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/iNTodgkVuG",
-          "expanded_url": "https://twitter.com/i/web/status/942644069280477184",
-          "display_url": "twitter.com/i/web/status/9…",
+          "id": 943694383089573900,
+          "id_str": "943694383089573888",
           "indices": [
-            117,
-            140
-          ]
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
+          "url": "https://t.co/VVciQPwGV8",
+          "display_url": "pic.twitter.com/VVciQPwGV8",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/943694409933172736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 943694383089573900,
+          "id_str": "943694383089573888",
+          "indices": [
+            22,
+            45
+          ],
+          "media_url": "http://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
+          "url": "https://t.co/VVciQPwGV8",
+          "display_url": "pic.twitter.com/VVciQPwGV8",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/943694409933172736/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
@@ -70,8 +138,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 8,
-    "favorite_count": 55,
+    "retweet_count": 0,
+    "favorite_count": 12,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
