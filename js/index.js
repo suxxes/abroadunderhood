@@ -62,6 +62,7 @@ jQuery(window).on('load', () => {
 
 jQuery(window).on('load resize', () => {
   jQuery('.carousel').carousel({
+    pause: true,
     interval: false,
   });
 

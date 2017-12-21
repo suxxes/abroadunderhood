@@ -67,7 +67,7 @@ block content
                               = "@" + retweetedUser
 
                           if tweet.retweeted_status.extended_entities && tweet.retweeted_status.extended_entities.media
-                            .carousel.slide(id='media-' + tweet.retweeted_status.id_str, 'data-ride'='carousel')
+                            .carousel.slide(id='media-' + tweet.retweeted_status.id_str, 'data-ride'='carousel', 'data-interval'='false')
                               .carousel-inner
                                 each image, i in tweet.retweeted_status.extended_entities.media
                                   .item(class=(i === 0 ? 'active' : ''))
@@ -95,7 +95,7 @@ block content
                               = "@" + quotedUser
 
                           if tweet.quoted_status.extended_entities && tweet.quoted_status.extended_entities.media
-                            .carousel.slide(id='media-' + tweet.quoted_status.id_str, 'data-ride'='carousel')
+                            .carousel.slide(id='media-' + tweet.quoted_status.id_str, 'data-ride'='carousel', 'data-interval'='false')
                               .carousel-inner
                                 each image, i in tweet.quoted_status.extended_entities.media
                                   .item(class=(i === 0 ? 'active' : ''))
@@ -115,7 +115,7 @@ block content
                         != helpers.authorRender.render(tweet)
 
                         if tweet.extended_entities && tweet.extended_entities.media
-                          .carousel.slide(id='media-' + tweet.id_str, 'data-ride'='carousel')
+                          .carousel.slide(id='media-' + tweet.id_str, 'data-ride'='carousel', 'data-interval'='false')
                             .carousel-inner
                               each image, i in tweet.extended_entities.media
                                 .item(class=(i === 0 ? 'active' : ''))
@@ -135,7 +135,7 @@ block content
                         != helpers.authorRender.render(tweet)
 
                         if tweet.extended_entities && tweet.extended_entities.media
-                          .carousel.slide(id='media-' + tweet.id_str, 'data-ride'='carousel')
+                          .carousel.slide(id='media-' + tweet.id_str, 'data-ride'='carousel', 'data-interval'='false')
                             .carousel-inner
                               each image, i in tweet.extended_entities.media
                                 .item(class=(i === 0 ? 'active' : ''))
