@@ -26,108 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 10148,
+  "followers_count": 10317,
   "friends_count": 0,
-  "listed_count": 201,
+  "listed_count": 206,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8015,
+  "favourites_count": 8055,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 73176,
+  "statuses_count": 73391,
   "lang": "en",
   "status": {
-    "created_at": "Thu Dec 21 04:07:34 +0000 2017",
-    "id": 943694409933172700,
-    "id_str": "943694409933172736",
-    "text": "Устал очень сегодня 😑 https://t.co/VVciQPwGV8",
-    "truncated": false,
+    "created_at": "Sun Dec 24 22:05:13 +0000 2017",
+    "id": 945052769534214100,
+    "id_str": "945052769534214144",
+    "text": "Вот и всё! Время вышло. Оказывается, я даже опоздал на час. Надеюсь вам было интересно и вы узнали что-то новое про… https://t.co/2bIu8yew56",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [],
-      "media": [
+      "urls": [
         {
-          "id": 943694383089573900,
-          "id_str": "943694383089573888",
+          "url": "https://t.co/2bIu8yew56",
+          "expanded_url": "https://twitter.com/i/web/status/945052769534214144",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            22,
-            45
-          ],
-          "media_url": "http://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
-          "url": "https://t.co/VVciQPwGV8",
-          "display_url": "pic.twitter.com/VVciQPwGV8",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/943694409933172736/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
+            117,
+            140
+          ]
         }
       ]
     },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 943694383089573900,
-          "id_str": "943694383089573888",
-          "indices": [
-            22,
-            45
-          ],
-          "media_url": "http://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/DRitCqCV4AAuzOV.jpg",
-          "url": "https://t.co/VVciQPwGV8",
-          "display_url": "pic.twitter.com/VVciQPwGV8",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/943694409933172736/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 510,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 2048,
-              "h": 1536,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 1200,
-              "h": 900,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -138,11 +70,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 12,
+    "retweet_count": 4,
+    "favorite_count": 34,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
