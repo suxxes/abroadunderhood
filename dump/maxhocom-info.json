@@ -37,65 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 10319,
+  "followers_count": 10316,
   "friends_count": 0,
-  "listed_count": 203,
+  "listed_count": 204,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8058,
+  "favourites_count": 8087,
   "utc_offset": -39600,
   "time_zone": "International Date Line West",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 73498,
+  "statuses_count": 73699,
   "lang": "en",
   "status": {
-    "created_at": "Tue Dec 26 03:53:43 +0000 2017",
-    "id": 945502861672169500,
-    "id_str": "945502861672169472",
-    "text": "@V_Arina_ Вечером, порядочные люди в Винвуде сидят, крафтовое пиво пьют, с профурсеточками из UM обсуждают текущие… https://t.co/JnrB65TJ6X",
+    "created_at": "Thu Dec 28 08:36:15 +0000 2017",
+    "id": 946298739995549700,
+    "id_str": "946298739995549696",
+    "text": "Так, мне уже пора баиньки. Но вообще, я редко прошу, но сейчас очень важно помочь найти собаку пропавшую в Санта-Кл… https://t.co/JrRDdgK8Yw",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "V_Arina_",
-          "name": "Arina 🇺🇸",
-          "id": 213547201,
-          "id_str": "213547201",
-          "indices": [
-            0,
-            9
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/JnrB65TJ6X",
-          "expanded_url": "https://twitter.com/i/web/status/945502861672169472",
+          "url": "https://t.co/JrRDdgK8Yw",
+          "expanded_url": "https://twitter.com/i/web/status/946298739995549696",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 945499015919018000,
-    "in_reply_to_status_id_str": "945499015919017984",
-    "in_reply_to_user_id": 213547201,
-    "in_reply_to_user_id_str": "213547201",
-    "in_reply_to_screen_name": "V_Arina_",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 2,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -122,9 +112,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": -360,
+  "time_zone_offset": 0,
   "geometry": {
-    "lat": 37.09024,
-    "lng": -95.712891
+    "lat": 0,
+    "lng": 0
   }
 }
