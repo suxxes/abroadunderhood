@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 10502,
+  "followers_count": 11058,
   "friends_count": 0,
-  "listed_count": 206,
+  "listed_count": 208,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8208,
+  "favourites_count": 8288,
   "utc_offset": -39600,
   "time_zone": "Midway Island",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 74195,
+  "statuses_count": 75091,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 08 11:41:36 +0000 2018",
-    "id": 950331651825029100,
-    "id_str": "950331651825029120",
-    "text": "Наверняка, многим интересна зарплата. У меня она в среднем в месяц 1150-1200 после вычета налогов. Плюс есть еще 13… https://t.co/qZ7ZA486eG",
+    "created_at": "Sun Jan 14 22:07:34 +0000 2018",
+    "id": 952663507819999200,
+    "id_str": "952663507819999234",
+    "text": "Вот теперь можно окончательно с вами попрощаться:) Спасибо большое на то, что читали меня всю это неделю. Мне было… https://t.co/S96TJHsWMM",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,17 +49,17 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/qZ7ZA486eG",
-          "expanded_url": "https://twitter.com/i/web/status/950331651825029120",
+          "url": "https://t.co/S96TJHsWMM",
+          "expanded_url": "https://twitter.com/i/web/status/952663507819999234",
           "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
-    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -69,14 +69,11 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 950330809596153900,
-    "quoted_status_id_str": "950330809596153856",
+    "is_quote_status": false,
     "retweet_count": 3,
-    "favorite_count": 6,
+    "favorite_count": 33,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -103,9 +100,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 60,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 45.917978,
+    "lng": 12.857311
   }
 }
