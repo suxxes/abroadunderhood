@@ -37,35 +37,35 @@
     }
   },
   "protected": false,
-  "followers_count": 11161,
+  "followers_count": 11325,
   "friends_count": 0,
-  "listed_count": 208,
+  "listed_count": 209,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8288,
+  "favourites_count": 8294,
   "utc_offset": -39600,
   "time_zone": "Midway Island",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 75142,
+  "statuses_count": 75391,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 15 16:19:00 +0000 2018",
-    "id": 952938175546249200,
-    "id_str": "952938175546249216",
-    "text": "Небольшое исключение — Роттердам. Но у него своя занятная история, которую я, быть может, расскажу когда-нибудь поз… https://t.co/isZwzwe4MS",
-    "truncated": true,
+    "created_at": "Thu Jan 18 12:07:05 +0000 2018",
+    "id": 953961941197783000,
+    "id_str": "953961941197783040",
+    "text": "Я тоже приехал на велосипеде сегодня :) https://t.co/kml3vWkeYx",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/isZwzwe4MS",
-          "expanded_url": "https://twitter.com/i/web/status/952938175546249216",
-          "display_url": "twitter.com/i/web/status/9…",
+          "url": "https://t.co/kml3vWkeYx",
+          "expanded_url": "https://twitter.com/biercoff_enn/status/953961834796765184",
+          "display_url": "twitter.com/biercoff_enn/s…",
           "indices": [
-            117,
-            140
+            40,
+            63
           ]
         }
       ]
@@ -79,10 +79,14 @@
     "geo": null,
     "coordinates": null,
     "place": null,
-    "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "contributors": [
+      168749776
+    ],
+    "is_quote_status": true,
+    "quoted_status_id": 953961834796765200,
+    "quoted_status_id_str": "953961834796765184",
+    "retweet_count": 2,
+    "favorite_count": 6,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -97,7 +101,7 @@
   "profile_background_tile": false,
   "profile_image_url": "http://pbs.twimg.com/profile_images/952865262990225408/INIhgnN8_normal.jpg",
   "profile_image_url_https": "https://pbs.twimg.com/profile_images/952865262990225408/INIhgnN8_normal.jpg",
-  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1516015682",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1516058091",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
   "profile_sidebar_fill_color": "000000",
