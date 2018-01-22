@@ -37,38 +37,28 @@
     }
   },
   "protected": false,
-  "followers_count": 11325,
+  "followers_count": 11478,
   "friends_count": 0,
   "listed_count": 209,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8294,
+  "favourites_count": 8295,
   "utc_offset": -39600,
   "time_zone": "Midway Island",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 75391,
+  "statuses_count": 75604,
   "lang": "en",
   "status": {
-    "created_at": "Thu Jan 18 12:07:05 +0000 2018",
-    "id": 953961941197783000,
-    "id_str": "953961941197783040",
-    "text": "Я тоже приехал на велосипеде сегодня :) https://t.co/kml3vWkeYx",
+    "created_at": "Sun Jan 21 19:02:10 +0000 2018",
+    "id": 955153565064015900,
+    "id_str": "955153565064015872",
+    "text": "Ретвитнул два относительно противоположных мнения подряд. В принципе, частично согласен с обоими :)",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/kml3vWkeYx",
-          "expanded_url": "https://twitter.com/biercoff_enn/status/953961834796765184",
-          "display_url": "twitter.com/biercoff_enn/s…",
-          "indices": [
-            40,
-            63
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
     "in_reply_to_status_id": null,
@@ -82,14 +72,11 @@
     "contributors": [
       168749776
     ],
-    "is_quote_status": true,
-    "quoted_status_id": 953961834796765200,
-    "quoted_status_id_str": "953961834796765184",
-    "retweet_count": 2,
-    "favorite_count": 6,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
