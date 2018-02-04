@@ -26,105 +26,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12077,
+  "followers_count": 12175,
   "friends_count": 0,
-  "listed_count": 212,
+  "listed_count": 213,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8397,
+  "favourites_count": 8459,
   "utc_offset": -39600,
   "time_zone": "Midway Island",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 76387,
+  "statuses_count": 76855,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jan 29 08:36:42 +0000 2018",
-    "id": 957895264513286100,
-    "id_str": "957895264513286144",
-    "text": "RT @Novosilicon: @abroadunderhood В Польше как-то строго два варианта: либо гопник из наших 90-х, либо очень элегантно одетый",
+    "created_at": "Sun Feb 04 20:17:42 +0000 2018",
+    "id": 960246004179198000,
+    "id_str": "960246004179197953",
+    "text": "@fizrastvor Пока Чикаго",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "Novosilicon",
-          "name": "Evgeny Kashtanov",
-          "id": 195807128,
-          "id_str": "195807128",
+          "screen_name": "fizrastvor",
+          "name": "Fizrastvor",
+          "id": 814847184311091200,
+          "id_str": "814847184311091201",
           "indices": [
-            3,
-            15
-          ]
-        },
-        {
-          "screen_name": "abroadunderhood",
-          "name": "Эброд Андерхуд",
-          "id": 3955812173,
-          "id_str": "3955812173",
-          "indices": [
-            17,
-            33
+            0,
+            11
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 960245799266512900,
+    "in_reply_to_status_id_str": "960245799266512898",
+    "in_reply_to_user_id": 814847184311091200,
+    "in_reply_to_user_id_str": "814847184311091201",
+    "in_reply_to_screen_name": "fizrastvor",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "retweeted_status": {
-      "created_at": "Mon Jan 29 08:32:35 +0000 2018",
-      "id": 957894229254172700,
-      "id_str": "957894229254172672",
-      "text": "@abroadunderhood В Польше как-то строго два варианта: либо гопник из наших 90-х, либо очень элегантно одетый",
-      "truncated": false,
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [
-          {
-            "screen_name": "abroadunderhood",
-            "name": "Эброд Андерхуд",
-            "id": 3955812173,
-            "id_str": "3955812173",
-            "indices": [
-              0,
-              16
-            ]
-          }
-        ],
-        "urls": []
-      },
-      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-      "in_reply_to_status_id": 957887757178867700,
-      "in_reply_to_status_id_str": "957887757178867712",
-      "in_reply_to_user_id": 3955812173,
-      "in_reply_to_user_id_str": "3955812173",
-      "in_reply_to_screen_name": "abroadunderhood",
-      "geo": null,
-      "coordinates": null,
-      "place": null,
-      "contributors": null,
-      "is_quote_status": false,
-      "retweet_count": 1,
-      "favorite_count": 2,
-      "favorited": false,
-      "retweeted": true,
-      "lang": "ru"
-    },
     "is_quote_status": false,
-    "retweet_count": 1,
+    "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": true,
+    "retweeted": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -151,9 +101,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 60,
+  "time_zone_offset": 0,
   "geometry": {
-    "lat": 52.2296756,
-    "lng": 21.0122287
+    "lat": 0,
+    "lng": 0
   }
 }
