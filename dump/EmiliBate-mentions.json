@@ -58166,6 +58166,114 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 04 20:34:05 +0000 2018",
+      "id": 960250125749837800,
+      "id_str": "960250125749837824",
+      "text": "@abroadunderhood Еще дополню маленькой приятной и понравившейся мне деталью: если заходишь в офисы PKO Bank, то ког… https://t.co/hgu8NrZKmi",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/hgu8NrZKmi",
+            "expanded_url": "https://twitter.com/i/web/status/960250125749837824",
+            "display_url": "twitter.com/i/web/status/9…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 960244126716440600,
+      "in_reply_to_status_id_str": "960244126716440578",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 1117709880,
+        "id_str": "1117709880"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 04 20:36:08 +0000 2018",
+      "id": 960250643998019600,
+      "id_str": "960250643998019584",
+      "text": "@abroadunderhood @fuckysebastopol європейське зубожіння. наши барыги-рестораторы на голубом глазу втулят цену 300-400 грн",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "fuckysebastopol",
+            "name": "Ацтойный Севас 🇺🇦",
+            "id": 2497837818,
+            "id_str": "2497837818",
+            "indices": [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_status_id": 959877112890056700,
+      "in_reply_to_status_id_str": "959877112890056705",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 2355153867,
+        "id_str": "2355153867"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
     }
   ]
 }
