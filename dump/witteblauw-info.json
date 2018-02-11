@@ -37,63 +37,42 @@
     }
   },
   "protected": false,
-  "followers_count": 12299,
+  "followers_count": 12307,
   "friends_count": 0,
-  "listed_count": 213,
+  "listed_count": 214,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8483,
+  "favourites_count": 8484,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 77400,
+  "statuses_count": 77561,
   "lang": "en",
   "status": {
-    "created_at": "Fri Feb 09 10:51:36 +0000 2018",
-    "id": 961915481589452800,
-    "id_str": "961915481589452800",
-    "text": "@dilenser @Lapis710 Тролль голодный :(",
+    "created_at": "Sun Feb 11 12:09:00 +0000 2018",
+    "id": 962659735530082300,
+    "id_str": "962659735530082306",
+    "text": "забыла! Летом обязательно нужно идти в Темпельхоф часов в пять-шесть вечера (нежарко, красивый закат гарантирован).",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "dilenser",
-          "name": "Герр Эмигрантос",
-          "id": 44173624,
-          "id_str": "44173624",
-          "indices": [
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name": "Lapis710",
-          "name": "V for vendetta",
-          "id": 883302309157122000,
-          "id_str": "883302309157122050",
-          "indices": [
-            10,
-            19
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 961915169571065900,
-    "in_reply_to_status_id_str": "961915169571065856",
-    "in_reply_to_user_id": 44173624,
-    "in_reply_to_user_id_str": "44173624",
-    "in_reply_to_screen_name": "dilenser",
+    "in_reply_to_status_id": 962659027707744300,
+    "in_reply_to_status_id_str": "962659027707744257",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 3,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
@@ -122,9 +101,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 60,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 52.52000659999999,
+    "lng": 13.404954
   }
 }
