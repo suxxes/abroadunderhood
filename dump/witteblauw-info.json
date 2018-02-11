@@ -4,18 +4,7 @@
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
   "location": "Berlin, Germany",
-  "profile_location": {
-    "id": "3078869807f9dd36",
-    "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
-    "place_type": "unknown",
-    "name": "Berlin, Germany",
-    "full_name": "Berlin, Germany",
-    "country_code": "",
-    "country": "",
-    "contained_within": [],
-    "bounding_box": null,
-    "attributes": {}
-  },
+  "profile_location": null,
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. На этой неделе @witteblauw из славного города Берлина.",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -37,9 +26,9 @@
     }
   },
   "protected": false,
-  "followers_count": 12307,
+  "followers_count": 12308,
   "friends_count": 0,
-  "listed_count": 214,
+  "listed_count": 215,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
   "favourites_count": 8484,
   "utc_offset": 0,
@@ -101,9 +90,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 60,
+  "time_zone_offset": 0,
   "geometry": {
-    "lat": 52.52000659999999,
-    "lng": 13.404954
+    "lat": 0,
+    "lng": 0
   }
 }
