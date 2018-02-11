@@ -4,7 +4,18 @@
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
   "location": "Berlin, Germany",
-  "profile_location": null,
+  "profile_location": {
+    "id": "3078869807f9dd36",
+    "url": "https://api.twitter.com/1.1/geo/id/3078869807f9dd36.json",
+    "place_type": "unknown",
+    "name": "Berlin, Germany",
+    "full_name": "Berlin, Germany",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. На этой неделе @witteblauw из славного города Берлина.",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -26,44 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 12308,
+  "followers_count": 12307,
   "friends_count": 0,
-  "listed_count": 215,
+  "listed_count": 214,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8484,
+  "favourites_count": 8487,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 77561,
+  "statuses_count": 77573,
   "lang": "en",
   "status": {
-    "created_at": "Sun Feb 11 12:09:00 +0000 2018",
-    "id": 962659735530082300,
-    "id_str": "962659735530082306",
-    "text": "забыла! Летом обязательно нужно идти в Темпельхоф часов в пять-шесть вечера (нежарко, красивый закат гарантирован).",
-    "truncated": false,
+    "created_at": "Sun Feb 11 18:22:01 +0000 2018",
+    "id": 962753605169221600,
+    "id_str": "962753605169221632",
+    "text": "Было круто и спасибо за что задавали вопросы и дополняли ответы. Надеюсь, что вы немного прочувствовали как у нас д… https://t.co/tFFKe8NtHH",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/tFFKe8NtHH",
+          "expanded_url": "https://twitter.com/i/web/status/962753605169221632",
+          "display_url": "twitter.com/i/web/status/9…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 962659027707744300,
-    "in_reply_to_status_id_str": "962659027707744257",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "retweet_count": 2,
+    "favorite_count": 26,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -90,9 +112,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 60,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 52.52000659999999,
+    "lng": 13.404954
   }
 }
