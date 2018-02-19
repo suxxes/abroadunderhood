@@ -16,7 +16,7 @@
     "bounding_box": null,
     "attributes": {}
   },
-  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. На этой неделе @begimai.st из славного города Утрехт.",
+  "description": "Коллективный твиттер-аккаунт для тех, кто хочет уехать за границу, от тех, кто уехал. На этой неделе @begimaist из славного города Утрехт.",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
     "url": {
@@ -37,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 12308,
+  "followers_count": 12560,
   "friends_count": 0,
-  "listed_count": 214,
+  "listed_count": 218,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8487,
+  "favourites_count": 8521,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 77577,
+  "statuses_count": 77948,
   "lang": "en",
   "status": {
-    "created_at": "Sun Feb 11 22:19:59 +0000 2018",
-    "id": 962813493413056500,
-    "id_str": "962813493413056513",
-    "text": "Мой обычный эккаунт @BegimaiSt \nWelcome!",
+    "created_at": "Sun Feb 18 18:45:20 +0000 2018",
+    "id": 965296190928687100,
+    "id_str": "965296190928687104",
+    "text": "Всем спасибо за неделю. \n\nКто хочет оставаться в контакте мои профили \n@BegimaiSt - twitter \nhttps://t.co/aYssvt4vWi - Instagram \n\nПока пока",
     "truncated": false,
     "entities": {
       "hashtags": [],
@@ -64,12 +64,22 @@
           "id": 766136142685171700,
           "id_str": "766136142685171712",
           "indices": [
-            20,
-            30
+            71,
+            81
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/aYssvt4vWi",
+          "expanded_url": "http://begimai.st",
+          "display_url": "begimai.st",
+          "indices": [
+            93,
+            116
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
     "in_reply_to_status_id": null,
@@ -82,10 +92,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 3,
+    "favorite_count": 76,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
