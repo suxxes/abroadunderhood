@@ -26,58 +26,56 @@
     }
   },
   "protected": false,
-  "followers_count": 12575,
+  "followers_count": 12698,
   "friends_count": 0,
   "listed_count": 218,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 8521,
+  "favourites_count": 8646,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 77962,
+  "statuses_count": 79447,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 19 17:12:05 +0000 2018",
-    "id": 965635111533215700,
-    "id_str": "965635111533215744",
-    "text": "We are Rip City!\nРасскажу подробнее потом, 14 февраля ходил как раз на совершенно эпичный матч против Golden State… https://t.co/JHhPWPfv60",
-    "truncated": true,
+    "created_at": "Mon Feb 26 07:14:09 +0000 2018",
+    "id": 968021350584541200,
+    "id_str": "968021350584541186",
+    "text": "@eakukin Project Fi, да. Фича перекочевала в Fi из Google Voice",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/JHhPWPfv60",
-          "expanded_url": "https://twitter.com/i/web/status/965635111533215744",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "eakukin",
+          "name": "eakukin",
+          "id": 10866212,
+          "id_str": "10866212",
           "indices": [
-            116,
-            139
+            0,
+            8
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 968020509727379500,
+    "in_reply_to_status_id_str": "968020509727379456",
+    "in_reply_to_user_id": 10866212,
+    "in_reply_to_user_id_str": "10866212",
+    "in_reply_to_screen_name": "eakukin",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 965633962222768100,
-    "quoted_status_id_str": "965633962222768128",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -103,9 +101,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": -480,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 45.5230622,
+    "lng": -122.6764815
   }
 }
