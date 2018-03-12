@@ -26,35 +26,35 @@
     }
   },
   "protected": false,
-  "followers_count": 12705,
+  "followers_count": 12704,
   "friends_count": 3,
-  "listed_count": 220,
+  "listed_count": 223,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 9008,
+  "favourites_count": 9097,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 80351,
+  "statuses_count": 80445,
   "lang": "en",
   "status": {
-    "created_at": "Thu Mar 08 14:30:19 +0000 2018",
-    "id": 971754992993480700,
-    "id_str": "971754992993480704",
-    "text": "А что мне сказать? Это программа только в одну сторону :) https://t.co/YQ8CN3FWpG",
-    "truncated": false,
+    "created_at": "Mon Mar 12 01:27:25 +0000 2018",
+    "id": 973007523593834500,
+    "id_str": "973007523593834496",
+    "text": "Очень не хочется прощаться, даже с теми, кто желал мне чего, но вот и моя неделя подошла к концу! Спасибо всем, кто… https://t.co/YPHoqzVrUo",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/YQ8CN3FWpG",
-          "expanded_url": "https://twitter.com/ogeus/status/971750811679232001",
-          "display_url": "twitter.com/ogeus/status/9…",
+          "url": "https://t.co/YPHoqzVrUo",
+          "expanded_url": "https://twitter.com/i/web/status/973007523593834496",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            58,
-            81
+            117,
+            140
           ]
         }
       ]
@@ -102,14 +102,11 @@
       "attributes": {}
     },
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 971750811679232000,
-    "quoted_status_id_str": "971750811679232001",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 2,
+    "favorite_count": 98,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -136,7 +133,7 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": -300,
+  "time_zone_offset": -240,
   "geometry": {
     "lat": 44.3148443,
     "lng": -85.60236429999999
