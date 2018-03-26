@@ -37,56 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 13116,
+  "followers_count": 13321,
   "friends_count": 1,
-  "listed_count": 227,
+  "listed_count": 226,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 9307,
+  "favourites_count": 9438,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 81356,
+  "statuses_count": 81930,
   "lang": "en",
   "status": {
-    "created_at": "Mon Mar 19 08:05:34 +0000 2018",
-    "id": 975644436452528100,
-    "id_str": "975644436452528129",
-    "text": "@dilenser Mors mors!",
-    "truncated": false,
+    "created_at": "Sun Mar 25 18:11:45 +0000 2018",
+    "id": 977971312139407400,
+    "id_str": "977971312139407361",
+    "text": "Спасибо всем за то, что читали всю неделю! Спасибо за все вопросы, комментарии и дополнения! Вы - офигительны!\n\nЕсл… https://t.co/2FAiDBqj3K",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "dilenser",
-          "name": "Герр Эмигрантос",
-          "id": 44173624,
-          "id_str": "44173624",
+          "url": "https://t.co/2FAiDBqj3K",
+          "expanded_url": "https://twitter.com/i/web/status/977971312139407361",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            0,
-            9
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 975643580151812100,
-    "in_reply_to_status_id_str": "975643580151812096",
-    "in_reply_to_user_id": 44173624,
-    "in_reply_to_user_id_str": "44173624",
-    "in_reply_to_screen_name": "dilenser",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 1,
+    "retweet_count": 7,
+    "favorite_count": 204,
     "favorited": false,
     "retweeted": false,
-    "lang": "en"
+    "possibly_sensitive": false,
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
@@ -112,7 +112,7 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 60,
+  "time_zone_offset": 120,
   "geometry": {
     "lat": 53.5510846,
     "lng": 9.9936819
