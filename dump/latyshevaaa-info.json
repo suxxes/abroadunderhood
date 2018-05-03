@@ -37,57 +37,54 @@
     }
   },
   "protected": false,
-  "followers_count": 14256,
+  "followers_count": 14253,
   "friends_count": 1,
   "listed_count": 232,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 10491,
+  "favourites_count": 10494,
   "utc_offset": 0,
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 85333,
+  "statuses_count": 85357,
   "lang": "en",
   "status": {
-    "created_at": "Wed May 02 19:39:33 +0000 2018",
-    "id": 991764149100335100,
-    "id_str": "991764149100335105",
-    "text": "К сожалению, японки предпочитают терпеть, не выделяться из массы и не восставать против традиционного строя https://t.co/yIi71Zqulq",
-    "truncated": false,
+    "created_at": "Thu May 03 09:59:37 +0000 2018",
+    "id": 991980589963243500,
+    "id_str": "991980589963243521",
+    "text": "Разберём на конкретном примере. \n\nСвой первый дом мы нашли через сайт Suumo, связались с агентством через которое н… https://t.co/rzBxi4Rq7C",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/yIi71Zqulq",
-          "expanded_url": "https://twitter.com/khudorozhkov/status/991759640722575361",
-          "display_url": "twitter.com/khudorozhkov/s…",
+          "url": "https://t.co/rzBxi4Rq7C",
+          "expanded_url": "https://twitter.com/i/web/status/991980589963243521",
+          "display_url": "twitter.com/i/web/status/9…",
           "indices": [
-            108,
-            131
+            117,
+            140
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 991976254638379000,
+    "in_reply_to_status_id_str": "991976254638379009",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 991759640722575400,
-    "quoted_status_id_str": "991759640722575361",
-    "retweet_count": 1,
-    "favorite_count": 5,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -114,9 +111,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 540,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 39.7199218,
+    "lng": 140.1035697
   }
 }
