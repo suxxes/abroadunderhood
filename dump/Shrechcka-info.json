@@ -37,7 +37,7 @@
     }
   },
   "protected": false,
-  "followers_count": 14261,
+  "followers_count": 14263,
   "friends_count": 1,
   "listed_count": 232,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
@@ -46,36 +46,26 @@
   "time_zone": "UTC",
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 85460,
+  "statuses_count": 85478,
   "lang": "en",
   "status": {
-    "created_at": "Mon May 07 07:42:48 +0000 2018",
-    "id": 993395709809446900,
-    "id_str": "993395709809446912",
-    "text": "нас до сих часто спрашивают знакомые - почему именно Будапешт?? как-то привыкли, что чаще переезжают в Италию, Испа… https://t.co/nKJQlbdNs2",
-    "truncated": true,
+    "created_at": "Mon May 07 08:27:46 +0000 2018",
+    "id": 993407029061529600,
+    "id_str": "993407029061529600",
+    "text": "5. и конечно, хотелось жить в красивом городе с хорошей инфраструктурой. Будапешт - город очень красивый.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
-        {
-          "url": "https://t.co/nKJQlbdNs2",
-          "expanded_url": "https://twitter.com/i/web/status/993395709809446912",
-          "display_url": "twitter.com/i/web/status/9…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 993405298416209900,
+    "in_reply_to_status_id_str": "993405298416209920",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -111,9 +101,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 120,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 47.497912,
+    "lng": 19.040235
   }
 }
