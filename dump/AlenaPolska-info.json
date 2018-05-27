@@ -37,57 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 14261,
+  "followers_count": 14269,
   "friends_count": 1,
-  "listed_count": 234,
+  "listed_count": 232,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 10561,
-  "utc_offset": 0,
-  "time_zone": "UTC",
+  "favourites_count": 10793,
+  "utc_offset": null,
+  "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 87637,
+  "statuses_count": 88239,
   "lang": "en",
   "status": {
-    "created_at": "Mon May 21 13:51:15 +0000 2018",
-    "id": 998561863939100700,
-    "id_str": "998561863939100673",
-    "text": "Это дело индивидуальное, я вообще считаю, что не всем надо \"валить\", и каждому походит своя страна. Хорошо, когда п… https://t.co/gzZg2X7Wlt",
-    "truncated": true,
+    "created_at": "Sun May 27 20:01:03 +0000 2018",
+    "id": 1000829252735066100,
+    "id_str": "1000829252735066117",
+    "text": "@Lanik_Sky Спасибо большое 😉",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/gzZg2X7Wlt",
-          "expanded_url": "https://twitter.com/i/web/status/998561863939100673",
-          "display_url": "twitter.com/i/web/status/9…",
+          "screen_name": "Lanik_Sky",
+          "name": "Lanik Sky",
+          "id": 1168591045,
+          "id_str": "1168591045",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1000828711950839800,
+    "in_reply_to_status_id_str": "1000828711950839808",
+    "in_reply_to_user_id": 1168591045,
+    "in_reply_to_user_id_str": "1168591045",
+    "in_reply_to_screen_name": "Lanik_Sky",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 998559375626244100,
-    "quoted_status_id_str": "998559375626244097",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -114,9 +112,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 120,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 52.2296756,
+    "lng": 21.0122287
   }
 }
