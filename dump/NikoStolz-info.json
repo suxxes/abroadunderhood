@@ -1,0 +1,139 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Baden-Württemberg, Germany",
+  "profile_location": {
+    "id": "10097ef0a6522c1a",
+    "url": "https://api.twitter.com/1.1/geo/id/10097ef0a6522c1a.json",
+    "place_type": "unknown",
+    "name": "Baden-Württemberg, Germany",
+    "full_name": "Baden-Württemberg, Germany",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Южная Германия\nЯ в Твиттере: https://t.co/Ar3e4iS6ud\nЯ в телеге: https://t.co/33x2jqidf7",
+  "url": "https://t.co/wSOhx8PsA5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8PsA5",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/Ar3e4iS6ud",
+          "expanded_url": "https://twitter.com/nikostolz",
+          "display_url": "twitter.com/nikostolz",
+          "indices": [
+            29,
+            52
+          ]
+        },
+        {
+          "url": "https://t.co/33x2jqidf7",
+          "expanded_url": "https://t.me/joinchat/AAAAAERB-l7D4Zat6F3PZQ",
+          "display_url": "t.me/joinchat/AAAAA…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 14737,
+  "friends_count": 0,
+  "listed_count": 235,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 11405,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 89548,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Jun 11 10:37:35 +0000 2018",
+    "id": 1006123271698427900,
+    "id_str": "1006123271698427904",
+    "text": "@Photovoltaik_A Тоже нет)",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Photovoltaik_A",
+          "name": "Мёд и к оружию!",
+          "id": 85343594,
+          "id_str": "85343594",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": 1006119428482887700,
+    "in_reply_to_status_id_str": "1006119428482887681",
+    "in_reply_to_user_id": 85343594,
+    "in_reply_to_user_id_str": "85343594",
+    "in_reply_to_screen_name": "Photovoltaik_A",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1006049369915879424/z-IgKh2i_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1006049369915879424/z-IgKh2i_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1528695868",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 120,
+  "geometry": {
+    "lat": 48.6616037,
+    "lng": 9.3501336
+  }
+}
