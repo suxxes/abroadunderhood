@@ -56,23 +56,23 @@
     }
   },
   "protected": false,
-  "followers_count": 14737,
+  "followers_count": 14976,
   "friends_count": 0,
-  "listed_count": 235,
+  "listed_count": 237,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 11405,
+  "favourites_count": 11477,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 89548,
+  "statuses_count": 90142,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jun 11 10:37:35 +0000 2018",
-    "id": 1006123271698427900,
-    "id_str": "1006123271698427904",
-    "text": "@Photovoltaik_A Тоже нет)",
-    "truncated": false,
+    "created_at": "Sun Jun 17 20:32:42 +0000 2018",
+    "id": 1008447365362184200,
+    "id_str": "1008447365362184192",
+    "text": "@Photovoltaik_A @SanktOrk да я уже и город свой повторял много раз - Bad mergentheim. И ездил я в городок Vent в Ав… https://t.co/H96maC70zP",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
@@ -86,13 +86,33 @@
             0,
             15
           ]
+        },
+        {
+          "screen_name": "SanktOrk",
+          "name": "Alex Y.",
+          "id": 804048454645383200,
+          "id_str": "804048454645383168",
+          "indices": [
+            16,
+            25
+          ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/H96maC70zP",
+          "expanded_url": "https://twitter.com/i/web/status/1008447365362184192",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1006119428482887700,
-    "in_reply_to_status_id_str": "1006119428482887681",
+    "in_reply_to_status_id": 1007729899036119000,
+    "in_reply_to_status_id_str": "1007729899036119045",
     "in_reply_to_user_id": 85343594,
     "in_reply_to_user_id_str": "85343594",
     "in_reply_to_screen_name": "Photovoltaik_A",
