@@ -56,28 +56,38 @@
     }
   },
   "protected": false,
-  "followers_count": 15130,
+  "followers_count": 15693,
   "friends_count": 0,
-  "listed_count": 238,
+  "listed_count": 240,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 11476,
+  "favourites_count": 11496,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 90212,
+  "statuses_count": 90602,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jun 18 08:02:46 +0000 2018",
-    "id": 1008621024882012200,
-    "id_str": "1008621024882012160",
-    "text": "Так, у нас час ночи, а завтра понедельник.\nSee you, guys",
-    "truncated": false,
+    "created_at": "Sun Jun 24 17:25:55 +0000 2018",
+    "id": 1010937073421901800,
+    "id_str": "1010937073421901827",
+    "text": "Пришло время отдавать аккаунт. Эта неделя была неординарной, такое не забудешь.\nБлагодаря вам я понял тоже что-то в… https://t.co/Gh77w66rjZ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/Gh77w66rjZ",
+          "expanded_url": "https://twitter.com/i/web/status/1010937073421901827",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
     "in_reply_to_status_id": null,
@@ -90,8 +100,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 13,
+    "retweet_count": 27,
+    "favorite_count": 376,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
