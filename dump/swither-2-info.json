@@ -1,0 +1,141 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Tallinn, Estonia",
+  "profile_location": {
+    "id": "cba60fe77bc80469",
+    "url": "https://api.twitter.com/1.1/geo/id/cba60fe77bc80469.json",
+    "place_type": "unknown",
+    "name": "Tallinn, Estonia",
+    "full_name": "Tallinn, Estonia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Alexey Zvezdochkin \nЯ в твиттере: https://t.co/9wIMnPMtNd \nЯ в Telegram: https://t.co/8WWg84sycl",
+  "url": "https://t.co/wSOhx8xRbv",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8xRbv",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": [
+        {
+          "url": "https://t.co/9wIMnPMtNd",
+          "expanded_url": "https://twitter.com/swither",
+          "display_url": "twitter.com/swither",
+          "indices": [
+            34,
+            57
+          ]
+        },
+        {
+          "url": "https://t.co/8WWg84sycl",
+          "expanded_url": "https://t.me/swither",
+          "display_url": "t.me/swither",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
+    }
+  },
+  "protected": false,
+  "followers_count": 15746,
+  "friends_count": 0,
+  "listed_count": 241,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 11496,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 90611,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Jun 25 09:05:05 +0000 2018",
+    "id": 1011173424734134300,
+    "id_str": "1011173424734134272",
+    "text": "То ли еще будет, у нас и солнце не заходит, потому что не успевает! https://t.co/yl6q7ClTbr",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yl6q7ClTbr",
+          "expanded_url": "https://twitter.com/Putinlubitdengi/status/1011172619788406784",
+          "display_url": "twitter.com/Putinlubitdeng…",
+          "indices": [
+            68,
+            91
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1011172619788406800,
+    "quoted_status_id_str": "1011172619788406784",
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1011167019306291201/w2L9wLb0_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1011167019306291201/w2L9wLb0_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1529915968",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
