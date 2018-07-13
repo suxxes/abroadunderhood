@@ -8658,6 +8658,5636 @@
       "retweeted": true,
       "possibly_sensitive": false,
       "lang": "und"
+    },
+    {
+      "created_at": "Wed Jul 11 09:34:29 +0000 2018",
+      "id": 1016979028425601000,
+      "id_str": "1016979028425601024",
+      "full_text": "Китайский код - это имя нарицательное. Все, что они пишут, дико перегружено всякими избыточными элементами, куски кода просто копипастятся без какой-либо оптимизации, возможности поправить, и работа конечного продукта - ничто иное как божий промысел) https://t.co/92MyQiJRR8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/92MyQiJRR8",
+            "expanded_url": "https://twitter.com/Eskalott/status/1016944068083892224",
+            "display_url": "twitter.com/Eskalott/statu…",
+            "indices": [
+              251,
+              274
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1016944068083892200,
+      "quoted_status_id_str": "1016944068083892224",
+      "quoted_status_permalink": {
+        "url": "https://t.co/92MyQiJRR8",
+        "expanded": "https://twitter.com/Eskalott/status/1016944068083892224",
+        "display": "twitter.com/Eskalott/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jul 11 07:15:34 +0000 2018",
+        "id": 1016944068083892200,
+        "id_str": "1016944068083892224",
+        "full_text": "@50megatonn @abroadunderhood Слышали шутки про индусский код? Так вот китайский еще \"веселее\".",
+        "truncated": false,
+        "display_text_range": [
+          29,
+          94
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "50megatonn",
+              "name": "50Megatonn",
+              "id": 622888475,
+              "id_str": "622888475",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                12,
+                28
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1016941826882842600,
+        "in_reply_to_status_id_str": "1016941826882842624",
+        "in_reply_to_user_id": 622888475,
+        "in_reply_to_user_id_str": "622888475",
+        "in_reply_to_screen_name": "50megatonn",
+        "user": {
+          "id": 124878678,
+          "id_str": "124878678"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 9,
+      "favorite_count": 36,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 09:36:24 +0000 2018",
+      "id": 1016979509445214200,
+      "id_str": "1016979509445214209",
+      "full_text": "Короче, андроид разработчики, IOS разработчики, люди, которые могут в Unity - you are very welcome :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016979028425601000,
+      "in_reply_to_status_id_str": "1016979028425601024",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 09:40:21 +0000 2018",
+      "id": 1016980504552226800,
+      "id_str": "1016980504552226818",
+      "full_text": "@maxhocom Ой, всё",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        17
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxhocom",
+            "name": "HECTOP",
+            "id": 109595657,
+            "id_str": "109595657",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016979855630479400,
+      "in_reply_to_status_id_str": "1016979855630479360",
+      "in_reply_to_user_id": 109595657,
+      "in_reply_to_user_id_str": "109595657",
+      "in_reply_to_screen_name": "maxhocom",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 09:43:50 +0000 2018",
+      "id": 1016981382499725300,
+      "id_str": "1016981382499725312",
+      "full_text": "@_surprisedcat Samsung корейский же",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_surprisedcat",
+            "name": "🤦🏿‍♂️",
+            "id": 2190434709,
+            "id_str": "2190434709",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016980873433010200,
+      "in_reply_to_status_id_str": "1016980873433010176",
+      "in_reply_to_user_id": 2190434709,
+      "in_reply_to_user_id_str": "2190434709",
+      "in_reply_to_screen_name": "_surprisedcat",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 09:49:05 +0000 2018",
+      "id": 1016982701331451900,
+      "id_str": "1016982701331451904",
+      "full_text": "@death_is_invtbl так русских и переманивают в Китай, и потом оказывается, что некоторые баги очень даже фиксятся",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "death_is_invtbl",
+            "name": "Смерть неизбѣжна",
+            "id": 25599948,
+            "id_str": "25599948",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016980444124995600,
+      "in_reply_to_status_id_str": "1016980444124995584",
+      "in_reply_to_user_id": 25599948,
+      "in_reply_to_user_id_str": "25599948",
+      "in_reply_to_screen_name": "death_is_invtbl",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 09:52:29 +0000 2018",
+      "id": 1016983556185157600,
+      "id_str": "1016983556185157632",
+      "full_text": "@HuevieSankcii Residence permit - это то, что в паспорт вклеивается, а work permit - это пластиковая карточка с фото и QR кодом, по которому вся рабочая информация пробивается",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HuevieSankcii",
+            "name": "Хуевые Санкции",
+            "id": 2652233497,
+            "id_str": "2652233497",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016981516583391200,
+      "in_reply_to_status_id_str": "1016981516583391235",
+      "in_reply_to_user_id": 2652233497,
+      "in_reply_to_user_id_str": "2652233497",
+      "in_reply_to_screen_name": "HuevieSankcii",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 10:28:29 +0000 2018",
+      "id": 1016992617844727800,
+      "id_str": "1016992617844727809",
+      "full_text": "@Zondamonda1 Ну, от части да. Еще и работают нормально только через Internet Explorer или его китайский аналог - браузер 360",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Zondamonda1",
+            "name": "Учитель людей",
+            "id": 4189016741,
+            "id_str": "4189016741",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016983831662952400,
+      "in_reply_to_status_id_str": "1016983831662952448",
+      "in_reply_to_user_id": 4189016741,
+      "in_reply_to_user_id_str": "4189016741",
+      "in_reply_to_screen_name": "Zondamonda1",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 10:37:43 +0000 2018",
+      "id": 1016994940360855600,
+      "id_str": "1016994940360855552",
+      "full_text": "Все на договорных отношениях. Но зарплаты у иностранцев в Китае в 2-3 раза выше, чем у самих китайцев. Средняя зарплата у китайцев в Пекине $1000-1300 https://t.co/PC93LjCUPd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PC93LjCUPd",
+            "expanded_url": "https://twitter.com/umarek1/status/1016969599190011904",
+            "display_url": "twitter.com/umarek1/status…",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1016969599190011900,
+      "quoted_status_id_str": "1016969599190011904",
+      "quoted_status_permalink": {
+        "url": "https://t.co/PC93LjCUPd",
+        "expanded": "https://twitter.com/umarek1/status/1016969599190011904",
+        "display": "twitter.com/umarek1/status…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jul 11 08:57:01 +0000 2018",
+        "id": 1016969599190011900,
+        "id_str": "1016969599190011904",
+        "full_text": "@abroadunderhood А какой принцип оплаты труда в Китае? Есть гарантированные минимальные размеры оплаты или все на договорных отношениях? И какой средний размер оплаты?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          167
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1016924705079431200,
+        "in_reply_to_status_id_str": "1016924705079431168",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 1262899645,
+          "id_str": "1262899645"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 12,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 10:49:33 +0000 2018",
+      "id": 1016997917431771100,
+      "id_str": "1016997917431771137",
+      "full_text": "В общем, сначала (3 года назад) я нашла работу локализатором мобильных игр и приложений с китайского на русский. При чем специально именно ее и искала, насмотревшись на качество переводов азиатского игрового конвейера. А это мотивирует, знаете ли: https://t.co/QnI1jRCJ1Q",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1016996979748925400,
+            "id_str": "1016996979748925442",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh0ZXWOUcAIq3VN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh0ZXWOUcAIq3VN.jpg",
+            "url": "https://t.co/QnI1jRCJ1Q",
+            "display_url": "pic.twitter.com/QnI1jRCJ1Q",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1016997917431771137/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1016996979748925400,
+            "id_str": "1016996979748925442",
+            "indices": [
+              248,
+              271
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh0ZXWOUcAIq3VN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh0ZXWOUcAIq3VN.jpg",
+            "url": "https://t.co/QnI1jRCJ1Q",
+            "display_url": "pic.twitter.com/QnI1jRCJ1Q",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1016997917431771137/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 515,
+                "h": 646,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 10:52:50 +0000 2018",
+      "id": 1016998747253817300,
+      "id_str": "1016998747253817344",
+      "full_text": "Кто-то спрашивал про китайский UI. Так вот, самый ад - это попытки органично вместить туда русский текст. Тут можно выпустить свой вариант книги «Пиши сокращай»)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        161
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016997917431771100,
+      "in_reply_to_status_id_str": "1016997917431771137",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 11:01:53 +0000 2018",
+      "id": 1017001024752529400,
+      "id_str": "1017001024752529408",
+      "full_text": "По работе пришлось много помогать отделу маркетинга, что мне нравилось. Так что было решено параллельно учиться, чтобы потом, с горем пополам, к ним перебраться. А уже перебравшись стало понятно, почему мои коллеги в той конторе долго не задерживались.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1016998747253817300,
+      "in_reply_to_status_id_str": "1016998747253817344",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 11:02:45 +0000 2018",
+      "id": 1017001240184553500,
+      "id_str": "1017001240184553472",
+      "full_text": "Так что теперь пойдет о том, как уволиться, переоформиться и остаться человеком :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017001024752529400,
+      "in_reply_to_status_id_str": "1017001024752529408",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 11:05:40 +0000 2018",
+      "id": 1017001976326848500,
+      "id_str": "1017001976326848517",
+      "full_text": "Первый оффер - комом. Особенно в Китае. Не у всех, конечно, но слабое представление о Китае, уровне жизни, бюрократии, да и просто культурная пропасть берут свое. Тем не менее, уволиться можно, но очень оперативно, потому что на всю бюрократию 30 календарных дней.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017001240184553500,
+      "in_reply_to_status_id_str": "1017001240184553472",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 11:08:01 +0000 2018",
+      "id": 1017002564661887000,
+      "id_str": "1017002564661886977",
+      "full_text": "То есть увольняться нужно, когда на руках уже есть новый подписанный контракт. Сжечь мосты и уйти в никуда не выйдет – работодатель оставляет за собой право аннулировать вашу рабочую визу, когда ему захочется (хотя и не обязан этого делать).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017001976326848500,
+      "in_reply_to_status_id_str": "1017001976326848517",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 11:49:16 +0000 2018",
+      "id": 1017012948949086200,
+      "id_str": "1017012948949086209",
+      "full_text": "Если снимать квартиру на двоих или комнату, то хватает (но китайцы могут жить куда экономнее). Но опять-таки, если говорить о зарплатах для иностранцев, то эта сумма умножается на 2 или на 3, зависит от профиля. https://t.co/Afch1YWPDr",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Afch1YWPDr",
+            "expanded_url": "https://twitter.com/Novosilicon/status/1017002219818967040",
+            "display_url": "twitter.com/Novosilicon/st…",
+            "indices": [
+              212,
+              235
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017002219818967000,
+      "quoted_status_id_str": "1017002219818967040",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Afch1YWPDr",
+        "expanded": "https://twitter.com/Novosilicon/status/1017002219818967040",
+        "display": "twitter.com/Novosilicon/st…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Jul 11 11:06:38 +0000 2018",
+        "id": 1017002219818967000,
+        "id_str": "1017002219818967040",
+        "full_text": "@abroadunderhood $1000-1300 этого хватает на жизнь или на существование?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          72
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1016994940360855600,
+        "in_reply_to_status_id_str": "1016994940360855552",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 195807128,
+          "id_str": "195807128"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 12:26:29 +0000 2018",
+      "id": 1017022311336067100,
+      "id_str": "1017022311336067072",
+      "full_text": "А пока поделюсь видом по дороге с работы https://t.co/GyPGfRbuG2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017021414153449500,
+            "id_str": "1017021414153449473",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh0vlneU8AEg0ae.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh0vlneU8AEg0ae.jpg",
+            "url": "https://t.co/GyPGfRbuG2",
+            "display_url": "pic.twitter.com/GyPGfRbuG2",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017022311336067072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017021414153449500,
+            "id_str": "1017021414153449473",
+            "indices": [
+              41,
+              64
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh0vlneU8AEg0ae.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh0vlneU8AEg0ae.jpg",
+            "url": "https://t.co/GyPGfRbuG2",
+            "display_url": "pic.twitter.com/GyPGfRbuG2",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017022311336067072/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 14:07:38 +0000 2018",
+      "id": 1017047770497101800,
+      "id_str": "1017047770497101825",
+      "full_text": "@StrannikFr Я видела только одно влетевшее в фонтан)",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "StrannikFr",
+            "name": "Странник",
+            "id": 4133013737,
+            "id_str": "4133013737",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017022647379677200,
+      "in_reply_to_status_id_str": "1017022647379677185",
+      "in_reply_to_user_id": 4133013737,
+      "in_reply_to_user_id_str": "4133013737",
+      "in_reply_to_screen_name": "StrannikFr",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 16:18:04 +0000 2018",
+      "id": 1017080594532950000,
+      "id_str": "1017080594532950016",
+      "full_text": "@Photovoltaik_A @nightmare_mars Да никто их не подъедает, кроме этого Мордора на юге Китая. Большинство китайцев любит собак, так что и здесь тоже устраивают протесты https://t.co/5c02aub9lF",
+      "truncated": false,
+      "display_text_range": [
+        32,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Photovoltaik_A",
+            "name": "Мёд и к оружию!",
+            "id": 85343594,
+            "id_str": "85343594",
+            "indices": [
+              0,
+              15
+            ]
+          },
+          {
+            "screen_name": "nightmare_mars",
+            "name": "ira",
+            "id": 2427472615,
+            "id_str": "2427472615",
+            "indices": [
+              16,
+              31
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017079701993427000,
+            "id_str": "1017079701993426945",
+            "indices": [
+              167,
+              190
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh1kmamUEAEUzl9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh1kmamUEAEUzl9.jpg",
+            "url": "https://t.co/5c02aub9lF",
+            "display_url": "pic.twitter.com/5c02aub9lF",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017080594532950016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017079701993427000,
+            "id_str": "1017079701993426945",
+            "indices": [
+              167,
+              190
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh1kmamUEAEUzl9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh1kmamUEAEUzl9.jpg",
+            "url": "https://t.co/5c02aub9lF",
+            "display_url": "pic.twitter.com/5c02aub9lF",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017080594532950016/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 625,
+                "h": 409,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017066140047200300,
+      "in_reply_to_status_id_str": "1017066140047200256",
+      "in_reply_to_user_id": 85343594,
+      "in_reply_to_user_id_str": "85343594",
+      "in_reply_to_screen_name": "Photovoltaik_A",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 16:22:00 +0000 2018",
+      "id": 1017081580886429700,
+      "id_str": "1017081580886429696",
+      "full_text": "@umarek1 те вакансии, о которых я сегодня говорила, знания китайского не требуют",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        80
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "umarek1",
+            "name": "Юрий",
+            "id": 1262899645,
+            "id_str": "1262899645",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017034434728644600,
+      "in_reply_to_status_id_str": "1017034434728644613",
+      "in_reply_to_user_id": 1262899645,
+      "in_reply_to_user_id_str": "1262899645",
+      "in_reply_to_screen_name": "umarek1",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 18:08:32 +0000 2018",
+      "id": 1017108392232357900,
+      "id_str": "1017108392232357888",
+      "full_text": "Из удобного: во дворах есть такие ящики для посылок (для тех, кто не хочет оставлять посылку под дверью). Сканируешь QR-код через Wechat - открывается нужная дверца. https://t.co/MEdCuZVeQg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017100938950033400,
+            "id_str": "1017100938950033408",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh136kbVQAARFN9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh136kbVQAARFN9.jpg",
+            "url": "https://t.co/MEdCuZVeQg",
+            "display_url": "pic.twitter.com/MEdCuZVeQg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017108392232357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017100938950033400,
+            "id_str": "1017100938950033408",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh136kbVQAARFN9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh136kbVQAARFN9.jpg",
+            "url": "https://t.co/MEdCuZVeQg",
+            "display_url": "pic.twitter.com/MEdCuZVeQg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017108392232357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017100959510478800,
+            "id_str": "1017100959510478849",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh137xBUwAE7dBD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh137xBUwAE7dBD.jpg",
+            "url": "https://t.co/MEdCuZVeQg",
+            "display_url": "pic.twitter.com/MEdCuZVeQg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017108392232357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017100983250219000,
+            "id_str": "1017100983250219008",
+            "indices": [
+              166,
+              189
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh139JdUcAAPiPT.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh139JdUcAAPiPT.jpg",
+            "url": "https://t.co/MEdCuZVeQg",
+            "display_url": "pic.twitter.com/MEdCuZVeQg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017108392232357888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 11 18:34:15 +0000 2018",
+      "id": 1017114862772613100,
+      "id_str": "1017114862772613120",
+      "full_text": "@tweetillo Смог иногда бывает, но не такой, каким раньше пугали в новостях. И то, в течение дня его обычно сдувает. Вообще ветер - лучший друг пекинцев :)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tweetillo",
+            "name": "ilona lee",
+            "id": 4558416497,
+            "id_str": "4558416497",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017031641582260200,
+      "in_reply_to_status_id_str": "1017031641582260226",
+      "in_reply_to_user_id": 4558416497,
+      "in_reply_to_user_id_str": "4558416497",
+      "in_reply_to_screen_name": "tweetillo",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 03:51:24 +0000 2018",
+      "id": 1017255077684211700,
+      "id_str": "1017255077684211713",
+      "full_text": "@lxvslnk @_surprisedcat Сильное заявление. Речь идет как минимум о разных сортах чая)",
+      "truncated": false,
+      "display_text_range": [
+        24,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lxvslnk",
+            "name": "Oleksii",
+            "id": 555323349,
+            "id_str": "555323349",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "_surprisedcat",
+            "name": "🤦🏿‍♂️",
+            "id": 2190434709,
+            "id_str": "2190434709",
+            "indices": [
+              9,
+              23
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017236471843991600,
+      "in_reply_to_status_id_str": "1017236471843991552",
+      "in_reply_to_user_id": 555323349,
+      "in_reply_to_user_id_str": "555323349",
+      "in_reply_to_screen_name": "lxvslnk",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 03:59:04 +0000 2018",
+      "id": 1017257005809987600,
+      "id_str": "1017257005809987586",
+      "full_text": "@lxvslnk о, точно! можно и о них вспомнить, когда речь дойдет до праздников)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lxvslnk",
+            "name": "Oleksii",
+            "id": 555323349,
+            "id_str": "555323349",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017248092393910300,
+      "in_reply_to_status_id_str": "1017248092393910273",
+      "in_reply_to_user_id": 555323349,
+      "in_reply_to_user_id_str": "555323349",
+      "in_reply_to_screen_name": "lxvslnk",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:27:18 +0000 2018",
+      "id": 1017264110373765100,
+      "id_str": "1017264110373765120",
+      "full_text": "Чуть не забыла, в догонку ко вчерашней теме) Попытаюсь лаконично: https://t.co/UAn8aVQ51H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        65
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/UAn8aVQ51H",
+            "expanded_url": "https://twitter.com/olyapka/status/1016257763587055616",
+            "display_url": "twitter.com/olyapka/status…",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1016257763587055600,
+      "quoted_status_id_str": "1016257763587055616",
+      "quoted_status_permalink": {
+        "url": "https://t.co/UAn8aVQ51H",
+        "expanded": "https://twitter.com/olyapka/status/1016257763587055616",
+        "display": "twitter.com/olyapka/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jul 09 09:48:26 +0000 2018",
+        "id": 1016257763587055600,
+        "id_str": "1016257763587055616",
+        "full_text": "@abroadunderhood Здравствуйте! И добро пожаловать 😊 Недавно в твиттере был популярный тред про Китай, можете как-то его прокомментировать? https://t.co/NNl5j24CzO",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          162
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/NNl5j24CzO",
+              "expanded_url": "https://twitter.com/fritoshka/status/1014606556619558912?s=19",
+              "display_url": "twitter.com/fritoshka/stat…",
+              "indices": [
+                139,
+                162
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1016194893209727000,
+        "in_reply_to_status_id_str": "1016194893209726976",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 10533432,
+          "id_str": "10533432"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1014606556619558900,
+        "quoted_status_id_str": "1014606556619558912",
+        "quoted_status_permalink": {
+          "url": "https://t.co/NNl5j24CzO",
+          "expanded": "https://twitter.com/fritoshka/status/1014606556619558912?s=19",
+          "display": "twitter.com/fritoshka/stat…"
+        },
+        "retweet_count": 1,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:28:48 +0000 2018",
+      "id": 1017264486653128700,
+      "id_str": "1017264486653128704",
+      "full_text": "Для начала подберем слово на букву Е к месту, где работала подруга. В таких дремучих местах иностранцам вообще делать нечего, посоветую рассматривать самые большие foreigner friendly города. Охотно верю в кумовство и недобросовестную школу/агентство.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017264110373765100,
+      "in_reply_to_status_id_str": "1017264110373765120",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:30:30 +0000 2018",
+      "id": 1017264917865377800,
+      "id_str": "1017264917865377793",
+      "full_text": "Инглиш тичинг в Китае - тема скользкая. Каждая школа/садик, даже в самой глуши, хочет себе учителя-иностранца, можно еле говорящего по-английски (то есть на ответственную роль white monkey – поднимать престиж заведения своим лаовайским лицом)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        242
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017264486653128700,
+      "in_reply_to_status_id_str": "1017264486653128704",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:31:26 +0000 2018",
+      "id": 1017265150154309600,
+      "id_str": "1017265150154309632",
+      "full_text": "Дальше - не у всех этих центров английской самодеятельности есть лицензия на оформление иностранцев. От этого и начинаются все эти визовые махинации (о чем обычно сами иностранцы в курсе).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        188
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017264917865377800,
+      "in_reply_to_status_id_str": "1017264917865377793",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:34:49 +0000 2018",
+      "id": 1017266002474594300,
+      "id_str": "1017266002474594305",
+      "full_text": "В треде описана, конечно, лютая жесть, но насчет посольства, которое “на деле ни на что не способно” - а что должно сделать посольство в случае, если гражданин сознательно нарушает закон?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017265150154309600,
+      "in_reply_to_status_id_str": "1017265150154309632",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:42:49 +0000 2018",
+      "id": 1017268016550015000,
+      "id_str": "1017268016550014977",
+      "full_text": "Как вариант, есть много русскоязычных пабликов о Китае, где можно попросить добрых людей добавить вас в WeChat группы по визовым вопросам, ESL teaching и об экспатах в интересующем городе. Чаты живые, их можно мониторить, и станет понятно,стоит ли связываться с конкретным оффером",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017266002474594300,
+      "in_reply_to_status_id_str": "1017266002474594305",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 04:49:10 +0000 2018",
+      "id": 1017269612881166300,
+      "id_str": "1017269612881166336",
+      "full_text": "А насчет остального - все приступы ненависти к среде в основном от недопонимания. Не хочешь разобраться с контекстом, культурой страны -&gt; интерпретируешь все происходящее на основе своей картины мира -&gt; загоняешь себя в еще большую фрустрацию",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017268016550015000,
+      "in_reply_to_status_id_str": "1017268016550014977",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 73,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 05:14:53 +0000 2018",
+      "id": 1017276087368216600,
+      "id_str": "1017276087368216577",
+      "full_text": "@NordCat2 Смотря что. Нелегальная работа учителем имеет место быть, сезонные проверки из полиции с арестом нелегалов - тоже.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NordCat2",
+            "name": "Nord Cat",
+            "id": 1025553506,
+            "id_str": "1025553506",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017267156965306400,
+      "in_reply_to_status_id_str": "1017267156965306370",
+      "in_reply_to_user_id": 1025553506,
+      "in_reply_to_user_id_str": "1025553506",
+      "in_reply_to_screen_name": "NordCat2",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 05:55:31 +0000 2018",
+      "id": 1017286310392811500,
+      "id_str": "1017286310392811520",
+      "full_text": "Тем временем у нас уже начали цвести лотосы: https://t.co/9bXgQd4mBg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017285534018777100,
+            "id_str": "1017285534018777088",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh4fzapVMAA6JtA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh4fzapVMAA6JtA.jpg",
+            "url": "https://t.co/9bXgQd4mBg",
+            "display_url": "pic.twitter.com/9bXgQd4mBg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017286310392811520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017285534018777100,
+            "id_str": "1017285534018777088",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh4fzapVMAA6JtA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh4fzapVMAA6JtA.jpg",
+            "url": "https://t.co/9bXgQd4mBg",
+            "display_url": "pic.twitter.com/9bXgQd4mBg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017286310392811520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017285555371954200,
+            "id_str": "1017285555371954176",
+            "indices": [
+              45,
+              68
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh4f0qMU0AAOubc.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh4f0qMU0AAOubc.jpg",
+            "url": "https://t.co/9bXgQd4mBg",
+            "display_url": "pic.twitter.com/9bXgQd4mBg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017286310392811520/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1364,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 799,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 453,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 117,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 06:09:49 +0000 2018",
+      "id": 1017289909554405400,
+      "id_str": "1017289909554405377",
+      "full_text": "@satellaiza Диплом бакалавра (любой) нужен только для бюрократической процедуры оформления рабочей визы. Сама компания будет смотреть на портфолио и опыт работы",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "satellaiza",
+            "name": "KURISU",
+            "id": 602825679,
+            "id_str": "602825679",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017284598177456100,
+      "in_reply_to_status_id_str": "1017284598177456130",
+      "in_reply_to_user_id": 602825679,
+      "in_reply_to_user_id_str": "602825679",
+      "in_reply_to_screen_name": "satellaiza",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 06:17:19 +0000 2018",
+      "id": 1017291796433363000,
+      "id_str": "1017291796433362944",
+      "full_text": "@SonechkoJ нет, это с пешеходного моста фото)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        45
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SonechkoJ",
+            "name": "JuliaD",
+            "id": 242232985,
+            "id_str": "242232985",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017132344568787000,
+      "in_reply_to_status_id_str": "1017132344568786944",
+      "in_reply_to_user_id": 242232985,
+      "in_reply_to_user_id_str": "242232985",
+      "in_reply_to_screen_name": "SonechkoJ",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 06:28:27 +0000 2018",
+      "id": 1017294598173909000,
+      "id_str": "1017294598173908993",
+      "full_text": "Сильнее всего разница ощущается в ценах на жилье. В маленьких городах аренда может выйти раза в 3 дешевле, другое дело что и зарплаты там тоже значительно ниже. https://t.co/7NiN8FaKdg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7NiN8FaKdg",
+            "expanded_url": "https://twitter.com/ozzy8128/status/1017286092234641409",
+            "display_url": "twitter.com/ozzy8128/statu…",
+            "indices": [
+              161,
+              184
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017286092234641400,
+      "quoted_status_id_str": "1017286092234641409",
+      "quoted_status_permalink": {
+        "url": "https://t.co/7NiN8FaKdg",
+        "expanded": "https://twitter.com/ozzy8128/status/1017286092234641409",
+        "display": "twitter.com/ozzy8128/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 05:54:39 +0000 2018",
+        "id": 1017286092234641400,
+        "id_str": "1017286092234641409",
+        "full_text": "@abroadunderhood Стоимость жизни в больших городах сильно отличается от маленьких?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          82
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1017264486653128700,
+        "in_reply_to_status_id_str": "1017264486653128704",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 342614149,
+          "id_str": "342614149"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 06:38:17 +0000 2018",
+      "id": 1017297074579099600,
+      "id_str": "1017297074579099649",
+      "full_text": "@satellaiza инженерам и архитекторам важен, учителям английского вроде тоже. Остальным - нет. У дизайнеров в нашем офисе, например, дипломы с работой никак не связаны.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "satellaiza",
+            "name": "KURISU",
+            "id": 602825679,
+            "id_str": "602825679",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017291638840922100,
+      "in_reply_to_status_id_str": "1017291638840922113",
+      "in_reply_to_user_id": 602825679,
+      "in_reply_to_user_id_str": "602825679",
+      "in_reply_to_screen_name": "satellaiza",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 08:26:46 +0000 2018",
+      "id": 1017324373261209600,
+      "id_str": "1017324373261209600",
+      "full_text": "А могу, WeChat - это китайский мессенджер со своей платежной системой, функциями оплаты коммуналки, такси, билетов, встроенным переводчиком и Большим Братом, который следит за тобой. https://t.co/RKsXnBAlfU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/RKsXnBAlfU",
+            "expanded_url": "https://twitter.com/FuAnTaJi/status/1017287851640328194",
+            "display_url": "twitter.com/FuAnTaJi/statu…",
+            "indices": [
+              183,
+              206
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017287851640328200,
+      "quoted_status_id_str": "1017287851640328194",
+      "quoted_status_permalink": {
+        "url": "https://t.co/RKsXnBAlfU",
+        "expanded": "https://twitter.com/FuAnTaJi/status/1017287851640328194",
+        "display": "twitter.com/FuAnTaJi/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 06:01:38 +0000 2018",
+        "id": 1017287851640328200,
+        "id_str": "1017287851640328194",
+        "full_text": "@abroadunderhood можете очертить все сферы применения WeChat и как на него завязана экономика?",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          94
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://www.tweetings.net\" rel=\"nofollow\">Tweetings for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 41329606,
+          "id_str": "41329606"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 9,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 08:30:46 +0000 2018",
+      "id": 1017325380858810400,
+      "id_str": "1017325380858810368",
+      "full_text": "Его главный конкурент - платежная система Alipay. Но по сути все просто пользуются обоими приложениями, и больше не носят с собой наличку. https://t.co/56NNXcYcxl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        138
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017324672981975000,
+            "id_str": "1017324672981975045",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5DZmpUwAU8ysk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5DZmpUwAU8ysk.jpg",
+            "url": "https://t.co/56NNXcYcxl",
+            "display_url": "pic.twitter.com/56NNXcYcxl",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017325380858810368/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1086,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1086,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017324672981975000,
+            "id_str": "1017324672981975045",
+            "indices": [
+              139,
+              162
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5DZmpUwAU8ysk.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5DZmpUwAU8ysk.jpg",
+            "url": "https://t.co/56NNXcYcxl",
+            "display_url": "pic.twitter.com/56NNXcYcxl",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017325380858810368/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1086,
+                "h": 768,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 481,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1086,
+                "h": 768,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017324373261209600,
+      "in_reply_to_status_id_str": "1017324373261209600",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 08:31:28 +0000 2018",
+      "id": 1017325556390494200,
+      "id_str": "1017325556390494209",
+      "full_text": "*Здесь должна быть шутка про китайское cyber security*",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017324373261209600,
+      "in_reply_to_status_id_str": "1017324373261209600",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 08:36:52 +0000 2018",
+      "id": 1017326914606788600,
+      "id_str": "1017326914606788608",
+      "full_text": "Кстати, недавно Wechat настроил привязку иностранных банковских карт к своей системе, чтобы где бы вы не находились, а китайское купить смогли) https://t.co/CDxsfOqm7Z",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        143
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CDxsfOqm7Z",
+            "expanded_url": "https://twitter.com/maxhocom/status/1017324919237967872",
+            "display_url": "twitter.com/maxhocom/statu…",
+            "indices": [
+              144,
+              167
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017324919237967900,
+      "quoted_status_id_str": "1017324919237967872",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CDxsfOqm7Z",
+        "expanded": "https://twitter.com/maxhocom/status/1017324919237967872",
+        "display": "twitter.com/maxhocom/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 08:28:56 +0000 2018",
+        "id": 1017324919237967900,
+        "id_str": "1017324919237967872",
+        "full_text": "@abroadunderhood Это в монорельсе в аэропорту Лас-Вегаса https://t.co/UKUmq5MbLt",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          56
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1017324784940548100,
+              "id_str": "1017324784940548096",
+              "indices": [
+                57,
+                80
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dh5DgHuVAAAEPi3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dh5DgHuVAAAEPi3.jpg",
+              "url": "https://t.co/UKUmq5MbLt",
+              "display_url": "pic.twitter.com/UKUmq5MbLt",
+              "expanded_url": "https://twitter.com/maxhocom/status/1017324919237967872/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 800,
+                  "h": 368,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 368,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1017324784940548100,
+              "id_str": "1017324784940548096",
+              "indices": [
+                57,
+                80
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dh5DgHuVAAAEPi3.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dh5DgHuVAAAEPi3.jpg",
+              "url": "https://t.co/UKUmq5MbLt",
+              "display_url": "pic.twitter.com/UKUmq5MbLt",
+              "expanded_url": "https://twitter.com/maxhocom/status/1017324919237967872/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 800,
+                  "h": 368,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 313,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 368,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1017324373261209600,
+        "in_reply_to_status_id_str": "1017324373261209600",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 109595657,
+          "id_str": "109595657"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 5,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 09:13:11 +0000 2018",
+      "id": 1017336053974200300,
+      "id_str": "1017336053974200321",
+      "full_text": "Apple Pay раньше не был популярен в Китае, но сейчас стремительно ворвался в сотрудничестве с пекинским и шанхайским метрополитеном. То есть наличка стала ну совсем-совсем не нужна) https://t.co/eHjcfoaBJD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017335433812820000,
+            "id_str": "1017335433812819968",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5NL93UwAAfJCl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5NL93UwAAfJCl.jpg",
+            "url": "https://t.co/eHjcfoaBJD",
+            "display_url": "pic.twitter.com/eHjcfoaBJD",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017336053974200321/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 422,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017335433812820000,
+            "id_str": "1017335433812819968",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5NL93UwAAfJCl.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5NL93UwAAfJCl.jpg",
+            "url": "https://t.co/eHjcfoaBJD",
+            "display_url": "pic.twitter.com/eHjcfoaBJD",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017336053974200321/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 383,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 422,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 09:24:07 +0000 2018",
+      "id": 1017338805429284900,
+      "id_str": "1017338805429284865",
+      "full_text": "Кстати, о метро. Пекинский метрополитен молниеносно разрастается. Ежегодно открываются и/или достраиваются новые ветки(!) метро. Активно строить его начали к Олимпиаде 2008-го, до этого было всего 2 ветки. \nА вот наглядно 2008-2018: https://t.co/OzLVrwUK5Q",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017336718335172600,
+            "id_str": "1017336718335172610",
+            "indices": [
+              233,
+              256
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5OWvFUYAIuQrm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5OWvFUYAIuQrm.jpg",
+            "url": "https://t.co/OzLVrwUK5Q",
+            "display_url": "pic.twitter.com/OzLVrwUK5Q",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017338805429284865/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017336718335172600,
+            "id_str": "1017336718335172610",
+            "indices": [
+              233,
+              256
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5OWvFUYAIuQrm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5OWvFUYAIuQrm.jpg",
+            "url": "https://t.co/OzLVrwUK5Q",
+            "display_url": "pic.twitter.com/OzLVrwUK5Q",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017338805429284865/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 454,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017336904591671300,
+            "id_str": "1017336904591671296",
+            "indices": [
+              233,
+              256
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh5Ohk8VAAAZviP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh5Ohk8VAAAZviP.jpg",
+            "url": "https://t.co/OzLVrwUK5Q",
+            "display_url": "pic.twitter.com/OzLVrwUK5Q",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017338805429284865/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017336053974200300,
+      "in_reply_to_status_id_str": "1017336053974200321",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 41,
+      "favorite_count": 95,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 09:26:28 +0000 2018",
+      "id": 1017339399426617300,
+      "id_str": "1017339399426617345",
+      "full_text": "@eu_genii @_surprisedcat всю страну в гугле забанили, да)",
+      "truncated": false,
+      "display_text_range": [
+        25,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "eu_genii",
+            "name": "eugenii",
+            "id": 1101388909,
+            "id_str": "1101388909",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "_surprisedcat",
+            "name": "🤦🏿‍♂️",
+            "id": 2190434709,
+            "id_str": "2190434709",
+            "indices": [
+              10,
+              24
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017338922773467100,
+      "in_reply_to_status_id_str": "1017338922773467137",
+      "in_reply_to_user_id": 1101388909,
+      "in_reply_to_user_id_str": "1101388909",
+      "in_reply_to_screen_name": "eu_genii",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 14:31:30 +0000 2018",
+      "id": 1017416163372879900,
+      "id_str": "1017416163372879873",
+      "full_text": "@Stargazer_ch Не обязательно. Можно и наличными везде рассчитаться, в супермаркетах, ТЦ, ресторанах принимают иностранные карты.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        128
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Stargazer_ch",
+            "name": "Страшный Суп",
+            "id": 804302810468778000,
+            "id_str": "804302810468777984",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017377382284570600,
+      "in_reply_to_status_id_str": "1017377382284570624",
+      "in_reply_to_user_id": 804302810468778000,
+      "in_reply_to_user_id_str": "804302810468777984",
+      "in_reply_to_screen_name": "Stargazer_ch",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 14:57:46 +0000 2018",
+      "id": 1017422774321627100,
+      "id_str": "1017422774321627136",
+      "full_text": "Здесь уже два года велосипедный бум. Все эти Ofo, Mobike и прочие стартапы, предлагающие пользоваться велосипедами через свои приложения, буквально засорили все города Китая. https://t.co/Wenk1frdVJ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017417915207831600,
+            "id_str": "1017417915207831552",
+            "indices": [
+              175,
+              198
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6YNBAU0AA7z0A.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6YNBAU0AA7z0A.jpg",
+            "url": "https://t.co/Wenk1frdVJ",
+            "display_url": "pic.twitter.com/Wenk1frdVJ",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017422774321627136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017417915207831600,
+            "id_str": "1017417915207831552",
+            "indices": [
+              175,
+              198
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6YNBAU0AA7z0A.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6YNBAU0AA7z0A.jpg",
+            "url": "https://t.co/Wenk1frdVJ",
+            "display_url": "pic.twitter.com/Wenk1frdVJ",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017422774321627136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017422059951931400,
+            "id_str": "1017422059951931393",
+            "indices": [
+              175,
+              198
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6b-RYUwAE9Ti9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6b-RYUwAE9Ti9.jpg",
+            "url": "https://t.co/Wenk1frdVJ",
+            "display_url": "pic.twitter.com/Wenk1frdVJ",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017422774321627136/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 15:03:25 +0000 2018",
+      "id": 1017424194932371500,
+      "id_str": "1017424194932371456",
+      "full_text": "Проезд в метро стартует от 3 юаней ($0.45) и может доходить до 7 ($1.05), зависит от кол-ва станций. При этом действует система скидок: потратил 200 юаней ($30) в течение месяца, и дальше ездишь за полцены. С началом нового месяца скидки обнуляются.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017338805429284900,
+      "in_reply_to_status_id_str": "1017338805429284865",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 16:06:24 +0000 2018",
+      "id": 1017440044825509900,
+      "id_str": "1017440044825509888",
+      "full_text": "А еще в Пекине борются с пробками (а заодно и смогом) двумя способами: https://t.co/5q3CIbakNj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        70
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017437436551487500,
+            "id_str": "1017437436551487488",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6p9TrV4AAHUPW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6p9TrV4AAHUPW.jpg",
+            "url": "https://t.co/5q3CIbakNj",
+            "display_url": "pic.twitter.com/5q3CIbakNj",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017440044825509888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 522,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 922,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1573,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017437436551487500,
+            "id_str": "1017437436551487488",
+            "indices": [
+              71,
+              94
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6p9TrV4AAHUPW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6p9TrV4AAHUPW.jpg",
+            "url": "https://t.co/5q3CIbakNj",
+            "display_url": "pic.twitter.com/5q3CIbakNj",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017440044825509888/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 522,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 922,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1573,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 16:07:37 +0000 2018",
+      "id": 1017440350380572700,
+      "id_str": "1017440350380572673",
+      "full_text": "1. Есть ограничения по дням недели. В понедельник, например, нельзя выезжать на главные дороги тем, у кого номера заканчиваются на 0 и 5, во Вт. - на 1 и 6, в Ср. - на 2 и 7, в Чт. - на 3 и 8, в Пт. - на 4 и 9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017440044825509900,
+      "in_reply_to_status_id_str": "1017440044825509888",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 16:08:35 +0000 2018",
+      "id": 1017440595369910300,
+      "id_str": "1017440595369910273",
+      "full_text": "2. С 2011-го года номера можно получить только путем лотереи, которая проходит раз в 2 месяца.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017440350380572700,
+      "in_reply_to_status_id_str": "1017440350380572673",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 16:14:33 +0000 2018",
+      "id": 1017442095219392500,
+      "id_str": "1017442095219392512",
+      "full_text": "И о том как водят китайцы. Вместо тысячи слов: https://t.co/lyRTCN0BcW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017442007919177700,
+            "id_str": "1017442007919177729",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6uHZWVMAE3fAN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6uHZWVMAE3fAN.jpg",
+            "url": "https://t.co/lyRTCN0BcW",
+            "display_url": "pic.twitter.com/lyRTCN0BcW",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017442095219392512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1080,
+                "h": 1440,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017442007919177700,
+            "id_str": "1017442007919177729",
+            "indices": [
+              47,
+              70
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh6uHZWVMAE3fAN.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh6uHZWVMAE3fAN.jpg",
+            "url": "https://t.co/lyRTCN0BcW",
+            "display_url": "pic.twitter.com/lyRTCN0BcW",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017442095219392512/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1080,
+                "h": 1440,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 43,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:11:24 +0000 2018",
+      "id": 1017456402342613000,
+      "id_str": "1017456402342612999",
+      "full_text": "@not_logan да) я бы там еще про клаксон дописала",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "not_logan",
+            "name": "Paul Rudnitskiy",
+            "id": 46118269,
+            "id_str": "46118269",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017453928219402200,
+      "in_reply_to_status_id_str": "1017453928219402242",
+      "in_reply_to_user_id": 46118269,
+      "in_reply_to_user_id_str": "46118269",
+      "in_reply_to_screen_name": "not_logan",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:14:38 +0000 2018",
+      "id": 1017457217966993400,
+      "id_str": "1017457217966993409",
+      "full_text": "Тем у кого уже есть права, в Китае нужно будет сдать онлайн теоретический экзамен как на английском, так и на русском (хотя отговаривают из-за качества перевода).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017442095219392500,
+      "in_reply_to_status_id_str": "1017442095219392512",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:20:32 +0000 2018",
+      "id": 1017458702209581000,
+      "id_str": "1017458702209581056",
+      "full_text": "А вот электромопед можно водить без прав. Это, конечно, облегчает жизнь многим, но на дорогах творится полное мракобесие. https://t.co/dIGB7KPDrG",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017458573821935600,
+            "id_str": "1017458573821935617",
+            "indices": [
+              122,
+              145
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh69LqJVAAEjs3_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh69LqJVAAEjs3_.jpg",
+            "url": "https://t.co/dIGB7KPDrG",
+            "display_url": "pic.twitter.com/dIGB7KPDrG",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017458702209581056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017458573821935600,
+            "id_str": "1017458573821935617",
+            "indices": [
+              122,
+              145
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh69LqJVAAEjs3_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh69LqJVAAEjs3_.jpg",
+            "url": "https://t.co/dIGB7KPDrG",
+            "display_url": "pic.twitter.com/dIGB7KPDrG",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017458702209581056/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017457217966993400,
+      "in_reply_to_status_id_str": "1017457217966993409",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:31:37 +0000 2018",
+      "id": 1017461491237204000,
+      "id_str": "1017461491237203968",
+      "full_text": "Ну и напоследок скажу про поезда в Китае. Так вот, это самое лучшее, что может быть) Помимо обычных поездов с купе и плацкартами, есть еще скоростные поезда со средней скоростью 300-350 км/ч. (то есть 300 км от Шанхая до Нанкина – это ровно 1 час в поезде)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "favorite_count": 52,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:32:58 +0000 2018",
+      "id": 1017461829390352400,
+      "id_str": "1017461829390352385",
+      "full_text": "Самый быстрый \"bullet train\" рейсом Пекин-Шанхай разгоняется до 487 км/ч, и со всеми остановками расстояние в 1318 км преодолевается за 4 часа 45 минут. https://t.co/93bEFo3SxV",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017461711094214700,
+            "id_str": "1017461711094214656",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+            "url": "https://t.co/93bEFo3SxV",
+            "display_url": "pic.twitter.com/93bEFo3SxV",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017461829390352385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 627,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 355,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1580,
+                "h": 826,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017461711094214700,
+            "id_str": "1017461711094214656",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+            "url": "https://t.co/93bEFo3SxV",
+            "display_url": "pic.twitter.com/93bEFo3SxV",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017461829390352385/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 627,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 355,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1580,
+                "h": 826,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017461491237204000,
+      "in_reply_to_status_id_str": "1017461491237203968",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 59,
+      "favorite_count": 126,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:37:25 +0000 2018",
+      "id": 1017462951454785500,
+      "id_str": "1017462951454785536",
+      "full_text": "Пекин-Шанхай - 550 юаней ($83) https://t.co/9mVJRWUePw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        30
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9mVJRWUePw",
+            "expanded_url": "https://twitter.com/raido_future/status/1017462005945585669",
+            "display_url": "twitter.com/raido_future/s…",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017462005945585700,
+      "quoted_status_id_str": "1017462005945585669",
+      "quoted_status_permalink": {
+        "url": "https://t.co/9mVJRWUePw",
+        "expanded": "https://twitter.com/raido_future/status/1017462005945585669",
+        "display": "twitter.com/raido_future/s…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 17:33:40 +0000 2018",
+        "id": 1017462005945585700,
+        "id_str": "1017462005945585669",
+        "full_text": "@abroadunderhood Дорого стоят билеты на такие поезда?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          53
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1017461829390352400,
+        "in_reply_to_status_id_str": "1017461829390352385",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3131631400,
+          "id_str": "3131631400"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "bg"
+    },
+    {
+      "created_at": "Thu Jul 12 17:45:42 +0000 2018",
+      "id": 1017465036426469400,
+      "id_str": "1017465036426469376",
+      "full_text": "Рейсы Пекин - Шанхай летают чуть ли не каждые 15 минут. Перелет будет в промежутке между ¥600-1300 ($90-200) - зависит от времени суток. https://t.co/bGGjJL9roW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bGGjJL9roW",
+            "expanded_url": "https://twitter.com/princessadivana/status/1017463166467563526",
+            "display_url": "twitter.com/princessadivan…",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017463166467563500,
+      "quoted_status_id_str": "1017463166467563526",
+      "quoted_status_permalink": {
+        "url": "https://t.co/bGGjJL9roW",
+        "expanded": "https://twitter.com/princessadivana/status/1017463166467563526",
+        "display": "twitter.com/princessadivan…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 17:38:17 +0000 2018",
+        "id": 1017463166467563500,
+        "id_str": "1017463166467563526",
+        "full_text": "@abroadunderhood А перелёт?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          27
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1017462951454785500,
+        "in_reply_to_status_id_str": "1017462951454785536",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 542026249,
+          "id_str": "542026249"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "535f0c2de0121451",
+          "url": "https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json",
+          "place_type": "city",
+          "name": "Warsaw",
+          "full_name": "Warsaw, Poland",
+          "country_code": "PL",
+          "country": "Poland",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  20.8525518,
+                  52.0977088
+                ],
+                [
+                  21.2710282,
+                  52.0977088
+                ],
+                [
+                  21.2710282,
+                  52.3679617
+                ],
+                [
+                  20.8525518,
+                  52.3679617
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 17:56:44 +0000 2018",
+      "id": 1017467811042431000,
+      "id_str": "1017467811042430977",
+      "full_text": "@raido_future @princessadivana А, да, билеты на поезд можно точно так же купить онлайн - Qunar, Ctrip (вроде англ версия тоже была)... и что-нибудь еще точно есть)",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raido_future",
+            "name": "Из-за леса, из-за гор...",
+            "id": 3131631400,
+            "id_str": "3131631400",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "princessadivana",
+            "name": "Diana",
+            "id": 542026249,
+            "id_str": "542026249",
+            "indices": [
+              14,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017466902992572400,
+      "in_reply_to_status_id_str": "1017466902992572418",
+      "in_reply_to_user_id": 3131631400,
+      "in_reply_to_user_id_str": "3131631400",
+      "in_reply_to_screen_name": "raido_future",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:00:13 +0000 2018",
+      "id": 1017468687714881500,
+      "id_str": "1017468687714881536",
+      "full_text": "Я что-то отстаю от плана, так что давайте решим, о чем завтра говорить:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        71
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:04:29 +0000 2018",
+      "id": 1017469761062490100,
+      "id_str": "1017469761062490114",
+      "full_text": "Я здесь специально рассказываю обо всем, что не требует знания китайского :) так что задавайте, фидбэк - это хорошо https://t.co/eQ7QSl05Ky",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eQ7QSl05Ky",
+            "expanded_url": "https://twitter.com/raido_future/status/1017468319744626689",
+            "display_url": "twitter.com/raido_future/s…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017468319744626700,
+      "quoted_status_id_str": "1017468319744626689",
+      "quoted_status_permalink": {
+        "url": "https://t.co/eQ7QSl05Ky",
+        "expanded": "https://twitter.com/raido_future/status/1017468319744626689",
+        "display": "twitter.com/raido_future/s…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 17:58:45 +0000 2018",
+        "id": 1017468319744626700,
+        "id_str": "1017468319744626689",
+        "full_text": "@abroadunderhood Тут просто большинство ни бельмеса в китайских иероглифах (они большие и страшные), так что если есть какие плюшки на английском хотя бы, кидайте. Вы интересно ведёте. У меня на самом деле куча вопросов, я просто стесняюсь их все задавать.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          256
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1017467811042431000,
+        "in_reply_to_status_id_str": "1017467811042430977",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3131631400,
+          "id_str": "3131631400"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:17:55 +0000 2018",
+      "id": 1017473141587640300,
+      "id_str": "1017473141587640320",
+      "full_text": "@ReTelecaster ой, извиняюсь. Сейчас поправлю",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ReTelecaster",
+            "name": "卡车司机",
+            "id": 223972376,
+            "id_str": "223972376",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017472587524386800,
+      "in_reply_to_status_id_str": "1017472587524386816",
+      "in_reply_to_user_id": 223972376,
+      "in_reply_to_user_id_str": "223972376",
+      "in_reply_to_screen_name": "ReTelecaster",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:20:44 +0000 2018",
+      "id": 1017473853121937400,
+      "id_str": "1017473853121937408",
+      "full_text": "аффтар неправ. Максимальная скорость все же 350 км/ч, остальное еще не реализовано) https://t.co/6Qhi3NnxMW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6Qhi3NnxMW",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017461829390352385",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017461829390352400,
+      "quoted_status_id_str": "1017461829390352385",
+      "quoted_status_permalink": {
+        "url": "https://t.co/6Qhi3NnxMW",
+        "expanded": "https://twitter.com/abroadunderhood/status/1017461829390352385",
+        "display": "twitter.com/abroadunderhoo…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jul 12 17:32:58 +0000 2018",
+        "id": 1017461829390352400,
+        "id_str": "1017461829390352385",
+        "full_text": "Самый быстрый \"bullet train\" рейсом Пекин-Шанхай разгоняется до 487 км/ч, и со всеми остановками расстояние в 1318 км преодолевается за 4 часа 45 минут. https://t.co/93bEFo3SxV",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          152
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1017461711094214700,
+              "id_str": "1017461711094214656",
+              "indices": [
+                153,
+                176
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+              "url": "https://t.co/93bEFo3SxV",
+              "display_url": "pic.twitter.com/93bEFo3SxV",
+              "expanded_url": "https://twitter.com/abroadunderhood/status/1017461829390352385/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 627,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1580,
+                  "h": 826,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1017461711094214700,
+              "id_str": "1017461711094214656",
+              "indices": [
+                153,
+                176
+              ],
+              "media_url": "http://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Dh7ACRZU8AA81R-.jpg",
+              "url": "https://t.co/93bEFo3SxV",
+              "display_url": "pic.twitter.com/93bEFo3SxV",
+              "expanded_url": "https://twitter.com/abroadunderhood/status/1017461829390352385/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 627,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 355,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1580,
+                  "h": 826,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1017461491237204000,
+        "in_reply_to_status_id_str": "1017461491237203968",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3955812173,
+          "id_str": "3955812173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 59,
+        "favorite_count": 126,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:32:01 +0000 2018",
+      "id": 1017476690405027800,
+      "id_str": "1017476690405027840",
+      "full_text": "@raido_future @Lodochnaya31str А из аэропорта-то вы в город выехали?) В Пекине есть много интересного. А вообще китайские города очень отличаются между собой. Я вот Шанхай очень люблю, например.",
+      "truncated": false,
+      "display_text_range": [
+        31,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "raido_future",
+            "name": "Из-за леса, из-за гор...",
+            "id": 3131631400,
+            "id_str": "3131631400",
+            "indices": [
+              0,
+              13
+            ]
+          },
+          {
+            "screen_name": "Lodochnaya31str",
+            "name": "Lodochnaya31-2",
+            "id": 827237201494814700,
+            "id_str": "827237201494814720",
+            "indices": [
+              14,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017473760407048200,
+      "in_reply_to_status_id_str": "1017473760407048192",
+      "in_reply_to_user_id": 3131631400,
+      "in_reply_to_user_id_str": "3131631400",
+      "in_reply_to_screen_name": "raido_future",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jul 12 18:34:38 +0000 2018",
+      "id": 1017477349476991000,
+      "id_str": "1017477349476990976",
+      "full_text": "@sharipov_ru не стреляйте в эброда, он все поправил)",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "sharipov_ru",
+            "name": "Ruslan Sharipov",
+            "id": 217454170,
+            "id_str": "217454170",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017464344920117200,
+      "in_reply_to_status_id_str": "1017464344920117250",
+      "in_reply_to_user_id": 217454170,
+      "in_reply_to_user_id_str": "217454170",
+      "in_reply_to_screen_name": "sharipov_ru",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 03:20:37 +0000 2018",
+      "id": 1017609717944741900,
+      "id_str": "1017609717944741894",
+      "full_text": "@Carleonenko а чем они вам там помешают? сидят уставившись в телефон всю дорогу",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        79
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Carleonenko",
+            "name": "Carleonenko",
+            "id": 872072258570813400,
+            "id_str": "872072258570813440",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017543759150665700,
+      "in_reply_to_status_id_str": "1017543759150665729",
+      "in_reply_to_user_id": 872072258570813400,
+      "in_reply_to_user_id_str": "872072258570813440",
+      "in_reply_to_screen_name": "Carleonenko",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 05:11:30 +0000 2018",
+      "id": 1017637619998445600,
+      "id_str": "1017637619998445568",
+      "full_text": "Их выдает любовь не тормозить перед препятствиями, а резко перепрыгивать в другой ряд? А еще здесь обычная практика - идти на поворот в крайний левый ряд из крайнего правого) https://t.co/o0bddjFKK7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/o0bddjFKK7",
+            "expanded_url": "https://twitter.com/SonechkoJ/status/1017626683623419905",
+            "display_url": "twitter.com/SonechkoJ/stat…",
+            "indices": [
+              175,
+              198
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017626683623419900,
+      "quoted_status_id_str": "1017626683623419905",
+      "quoted_status_permalink": {
+        "url": "https://t.co/o0bddjFKK7",
+        "expanded": "https://twitter.com/SonechkoJ/status/1017626683623419905",
+        "display": "twitter.com/SonechkoJ/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Jul 13 04:28:02 +0000 2018",
+        "id": 1017626683623419900,
+        "id_str": "1017626683623419905",
+        "full_text": "@abroadunderhood Не хочу показаться предвзятой, но в США если водитель ведет себя на дороге неадекватно, то процентов на 70 можно быть уверенным, что он из Азии. Общеизвестный факт",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          180
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1017442095219392500,
+        "in_reply_to_status_id_str": "1017442095219392512",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 242232985,
+          "id_str": "242232985"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 6,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 4,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 05:14:49 +0000 2018",
+      "id": 1017638456531435500,
+      "id_str": "1017638456531435520",
+      "full_text": "В Китае балльная система нарушений. Всего у водителя 12 баллов (каждый год обнуляется), и за каждое нарушение помимо штрафа снимаются баллы. https://t.co/DzxPOOrAx7",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DzxPOOrAx7",
+            "expanded_url": "https://twitter.com/red_white_Alex/status/1017634579992252417",
+            "display_url": "twitter.com/red_white_Alex…",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1017634579992252400,
+      "quoted_status_id_str": "1017634579992252417",
+      "quoted_status_permalink": {
+        "url": "https://t.co/DzxPOOrAx7",
+        "expanded": "https://twitter.com/red_white_Alex/status/1017634579992252417",
+        "display": "twitter.com/red_white_Alex…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Jul 13 04:59:25 +0000 2018",
+        "id": 1017634579992252400,
+        "id_str": "1017634579992252417",
+        "full_text": "@abroadunderhood Большой штраф для нарушителей этого правила?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          61
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1017440350380572700,
+        "in_reply_to_status_id_str": "1017440350380572673",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 325422696,
+          "id_str": "325422696"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 05:23:35 +0000 2018",
+      "id": 1017640664056524800,
+      "id_str": "1017640664056524801",
+      "full_text": "То есть вне зависимости от штрафа, проигнорируешь правило несколько раз - останешься без прав.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017638456531435500,
+      "in_reply_to_status_id_str": "1017638456531435520",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 05:49:22 +0000 2018",
+      "id": 1017647152930029600,
+      "id_str": "1017647152930029568",
+      "full_text": "Но самая жесть - это китайские автобусы. Такое чувство, что тем, кто доказал свою психическую невменяемость, государством заготовлено место водителя автобуса. Водят они как в Безумном Максе, осталось только поджечь автобус для пущего эффекта и уехать в Вальхаллу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017637619998445600,
+      "in_reply_to_status_id_str": "1017637619998445568",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 15,
+      "favorite_count": 101,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 05:51:32 +0000 2018",
+      "id": 1017647698562859000,
+      "id_str": "1017647698562859009",
+      "full_text": "Такие автобусы наоборот на полной скорости въезжают в поворот, виляют между рядами и газуют на зебре, после чего изо всех сил бьют по тормозам перед остановкой. А ещё у них просто адский клаксон, удивительно как от такого рёва велосипедисты впереди не теряют управление",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017647152930029600,
+      "in_reply_to_status_id_str": "1017647152930029568",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 06:10:31 +0000 2018",
+      "id": 1017652472230187000,
+      "id_str": "1017652472230187009",
+      "full_text": "Доброе утро! Судя по голосованию, поговорим сначала о китайцах и иностранцах. Наводящие вопросы приветствуются) https://t.co/GWdQftBOgI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017648058551562200,
+            "id_str": "1017648058551562240",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh9phHxU8AAAl3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh9phHxU8AAAl3C.jpg",
+            "url": "https://t.co/GWdQftBOgI",
+            "display_url": "pic.twitter.com/GWdQftBOgI",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017652472230187009/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 441,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 700,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017648058551562200,
+            "id_str": "1017648058551562240",
+            "indices": [
+              112,
+              135
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh9phHxU8AAAl3C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh9phHxU8AAAl3C.jpg",
+            "url": "https://t.co/GWdQftBOgI",
+            "display_url": "pic.twitter.com/GWdQftBOgI",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017652472230187009/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 441,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1080,
+                "h": 700,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 700,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 10:29:50 +0000 2018",
+      "id": 1017717733453062100,
+      "id_str": "1017717733453062144",
+      "full_text": "Я думаю, все и так знают, что белая кожа в Азии – это часть эталона красоты, чего стоят одни китаянки с зонтиками в солнечные дни, ну или те же китайские \"pussy riot\" в купальниках. https://t.co/HAxNB8Jfxn",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1017717501705183200,
+            "id_str": "1017717501705183232",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh-orPrV4AAFCxJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh-orPrV4AAFCxJ.jpg",
+            "url": "https://t.co/HAxNB8Jfxn",
+            "display_url": "pic.twitter.com/HAxNB8Jfxn",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017717733453062144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 499,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 499,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1017717501705183200,
+            "id_str": "1017717501705183232",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh-orPrV4AAFCxJ.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh-orPrV4AAFCxJ.jpg",
+            "url": "https://t.co/HAxNB8Jfxn",
+            "display_url": "pic.twitter.com/HAxNB8Jfxn",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017717733453062144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 452,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 750,
+                "h": 499,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 750,
+                "h": 499,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1017717501696794600,
+            "id_str": "1017717501696794625",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/Dh-orPpV4AExnRP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Dh-orPpV4AExnRP.jpg",
+            "url": "https://t.co/HAxNB8Jfxn",
+            "display_url": "pic.twitter.com/HAxNB8Jfxn",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1017717733453062144/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 496,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 450,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 496,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 35,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 10:32:26 +0000 2018",
+      "id": 1017718388045430800,
+      "id_str": "1017718388045430785",
+      "full_text": "Так вот быть белолицым иностранцем здесь коммерчески выгодно: модельные подработки, массовка, тот же инглиш тичинг – раздолье (если что забыла – дополните)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017717733453062100,
+      "in_reply_to_status_id_str": "1017717733453062144",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 10:34:43 +0000 2018",
+      "id": 1017718962342092800,
+      "id_str": "1017718962342092800",
+      "full_text": "То есть, как я уже говорила, китайцы могут взять преподавателем английского русскоязычного товарища виз э стронг рашн эксэнт, выдавая его за американца из Бостона (да еще и платить ему больше, чем темнокожему товарищу из Бостона).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017718388045430800,
+      "in_reply_to_status_id_str": "1017718388045430785",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 10:42:08 +0000 2018",
+      "id": 1017720829541474300,
+      "id_str": "1017720829541474309",
+      "full_text": "Из наблюдений: это отношение к белокожим иностранцам часто развивает самые худшие качества. Взлетевшее за орбиту ЧСВ начинает наводить на мысли, что тебе не писан закон, что для тебя все должны делать исключения, да и в принципе тебе здесь все должны по умолчанию, ведь это же ТЫ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017718962342092800,
+      "in_reply_to_status_id_str": "1017718962342092800",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 10:44:40 +0000 2018",
+      "id": 1017721464730968000,
+      "id_str": "1017721464730968064",
+      "full_text": "В общем, экспаты клубятся в радужном пузыре Китая, и практически никак не связаны с проблемами местного населения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        114
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017720829541474300,
+      "in_reply_to_status_id_str": "1017720829541474309",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jul 13 12:03:01 +0000 2018",
+      "id": 1017741183202676700,
+      "id_str": "1017741183202676737",
+      "full_text": "@AlexTeddy_Inc об университетах и грантах писала в понедельник, о работе в среду",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        80
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlexTeddy_Inc",
+            "name": "Alex Teddy",
+            "id": 394001698,
+            "id_str": "394001698",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1017728893049073700,
+      "in_reply_to_status_id_str": "1017728893049073664",
+      "in_reply_to_user_id": 394001698,
+      "in_reply_to_user_id_str": "394001698",
+      "in_reply_to_screen_name": "AlexTeddy_Inc",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
