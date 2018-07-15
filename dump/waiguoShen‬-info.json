@@ -37,55 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 16004,
+  "followers_count": 16113,
   "friends_count": 0,
-  "listed_count": 247,
+  "listed_count": 245,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 11615,
+  "favourites_count": 11630,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 91660,
+  "statuses_count": 91789,
   "lang": "en",
   "status": {
-    "created_at": "Fri Jul 13 12:03:01 +0000 2018",
-    "id": 1017741183202676700,
-    "id_str": "1017741183202676737",
-    "text": "@AlexTeddy_Inc об университетах и грантах писала в понедельник, о работе в среду",
-    "truncated": false,
+    "created_at": "Sun Jul 15 18:30:51 +0000 2018",
+    "id": 1018563561591697400,
+    "id_str": "1018563561591697408",
+    "text": "Я многого не успела рассказать, но мне уже пора отдавать ключи и идти спать. Всем спасибо, кто читал на этой неделе… https://t.co/MZn9yv0BQI",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "AlexTeddy_Inc",
-          "name": "Alex Teddy",
-          "id": 394001698,
-          "id_str": "394001698",
+          "url": "https://t.co/MZn9yv0BQI",
+          "expanded_url": "https://twitter.com/i/web/status/1018563561591697408",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            0,
-            14
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1017728893049073700,
-    "in_reply_to_status_id_str": "1017728893049073664",
-    "in_reply_to_user_id": 394001698,
-    "in_reply_to_user_id_str": "394001698",
-    "in_reply_to_screen_name": "AlexTeddy_Inc",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 5,
+    "favorite_count": 46,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -112,9 +112,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 480,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 39.90419989999999,
+    "lng": 116.4073963
   }
 }
