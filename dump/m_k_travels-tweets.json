@@ -1,0 +1,126 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 16 11:08:58 +0000 2018",
+      "id": 1018814746030673900,
+      "id_str": "1018814746030673920",
+      "full_text": "Спасибо @waiguoShen за занимательную неделю в Китае! А сегодня с Вами Чехия. Всем привет и чудесной недели! Мы пара и у нас маленький ребенок, потому постараемся отвечать оперативно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "waiguoShen",
+            "name": "Shenny",
+            "id": 42595292,
+            "id_str": "42595292",
+            "indices": [
+              8,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 11:08:59 +0000 2018",
+      "id": 1018814748476002300,
+      "id_str": "1018814748476002304",
+      "full_text": "Надеюсь посты буду писать быстро и интересно! Итак, меня зовут Женя, 5 лет живу в Чехии, 3 из которых а Оломоуце, до этого 2 года училась в Пардубице.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1018814746030673900,
+      "in_reply_to_status_id_str": "1018814746030673920",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 16 11:08:59 +0000 2018",
+      "id": 1018814750736769000,
+      "id_str": "1018814750736769024",
+      "full_text": "Эта неделя будет более субъективная и расскажу я не только о своем опыте переезда, но и других людей, с которыми знакома на протяжении 5 лет, которым тоже помогала.\nПоговорим про учебу, медицину, науку, брак, роды, детей и остальную бюрократию. Поехали",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        252
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1018814748476002300,
+      "in_reply_to_status_id_str": "1018814748476002304",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
