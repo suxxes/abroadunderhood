@@ -26,54 +26,57 @@
     }
   },
   "protected": false,
-  "followers_count": 16121,
+  "followers_count": 16025,
   "friends_count": 0,
-  "listed_count": 245,
+  "listed_count": 248,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 11630,
+  "favourites_count": 11660,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 91792,
+  "statuses_count": 92316,
   "lang": "en",
   "status": {
-    "created_at": "Mon Jul 16 11:08:59 +0000 2018",
-    "id": 1018814750736769000,
-    "id_str": "1018814750736769024",
-    "text": "Эта неделя будет более субъективная и расскажу я не только о своем опыте переезда, но и других людей, с которыми зн… https://t.co/8CsSomoTF1",
-    "truncated": true,
+    "created_at": "Sun Jul 22 18:59:19 +0000 2018",
+    "id": 1021107438869794800,
+    "id_str": "1021107438869794816",
+    "text": "Спасибо, мне приятно! :) https://t.co/nhzBH5S1mB",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/8CsSomoTF1",
-          "expanded_url": "https://twitter.com/i/web/status/1018814750736769024",
-          "display_url": "twitter.com/i/web/status/1…",
+          "url": "https://t.co/nhzBH5S1mB",
+          "expanded_url": "https://twitter.com/AloneSystems/status/1021099796201988098",
+          "display_url": "twitter.com/AloneSystems/s…",
           "indices": [
-            117,
-            140
+            25,
+            48
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1018814748476002300,
-    "in_reply_to_status_id_str": "1018814748476002304",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 5,
+    "is_quote_status": true,
+    "quoted_status_id": 1021099796201988100,
+    "quoted_status_id_str": "1021099796201988098",
+    "retweet_count": 1,
+    "favorite_count": 20,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -100,9 +103,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 120,
+  "time_zone_offset": 0,
   "geometry": {
-    "lat": 49.593778,
-    "lng": 17.2508787
+    "lat": 0,
+    "lng": 0
   }
 }
