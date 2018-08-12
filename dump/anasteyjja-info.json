@@ -3,8 +3,19 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "Berlin, Germany",
-  "profile_location": null,
+  "location": "Lille, France",
+  "profile_location": {
+    "id": "55ea4e5e9bb75976",
+    "url": "https://api.twitter.com/1.1/geo/id/55ea4e5e9bb75976.json",
+    "place_type": "unknown",
+    "name": "Lille, France",
+    "full_name": "Lille, France",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "На этой неделе автор— @anasteyjja из Лилля",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
@@ -26,46 +37,35 @@
     }
   },
   "protected": false,
-  "followers_count": 16491,
+  "followers_count": 16398,
   "friends_count": 0,
-  "listed_count": 252,
+  "listed_count": 254,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 11803,
+  "favourites_count": 12068,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 92787,
+  "statuses_count": 93568,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 06 07:40:54 +0000 2018",
-    "id": 1026372528523173900,
-    "id_str": "1026372528523173888",
-    "text": "Я про тех, что получает пособие и ничего не делает) я тут за знаниями и опытом, это другое @kalinizaurus https://t.co/c9dKqjWLGV",
+    "created_at": "Sun Aug 12 20:17:24 +0000 2018",
+    "id": 1028737232964931600,
+    "id_str": "1028737232964931584",
+    "text": "4 года обучения в универе по 12 часов в неделю https://t.co/EWaVxUKjbP",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "kalinizaurus",
-          "name": "мне это не интересно",
-          "id": 327419048,
-          "id_str": "327419048",
-          "indices": [
-            91,
-            104
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/c9dKqjWLGV",
-          "expanded_url": "https://twitter.com/kalinizaurus/status/1026371077558153216",
-          "display_url": "twitter.com/kalinizaurus/s…",
+          "url": "https://t.co/EWaVxUKjbP",
+          "expanded_url": "https://twitter.com/tweetillo/status/1028737078656462850",
+          "display_url": "twitter.com/tweetillo/stat…",
           "indices": [
-            105,
-            128
+            47,
+            70
           ]
         }
       ]
@@ -81,10 +81,10 @@
     "place": null,
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1026371077558153200,
-    "quoted_status_id_str": "1026371077558153216",
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "quoted_status_id": 1028737078656462800,
+    "quoted_status_id_str": "1028737078656462850",
+    "retweet_count": 2,
+    "favorite_count": 5,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
@@ -114,9 +114,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": 0,
+  "time_zone_offset": 120,
   "geometry": {
-    "lat": 0,
-    "lng": 0
+    "lat": 50.62925,
+    "lng": 3.057256
   }
 }
