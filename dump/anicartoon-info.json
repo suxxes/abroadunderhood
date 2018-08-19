@@ -3,8 +3,19 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "日本 東京",
-  "profile_location": null,
+  "location": "Tokyo-to, Japan",
+  "profile_location": {
+    "id": "a56612250c754f23",
+    "url": "https://api.twitter.com/1.1/geo/id/a56612250c754f23.json",
+    "place_type": "unknown",
+    "name": "Tokyo-to, Japan",
+    "full_name": "Tokyo-to, Japan",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "На этой неделе автор— @anicartoon из Японии",
   "url": "https://t.co/wSOhx8xRbv",
   "entities": {
@@ -26,65 +37,115 @@
     }
   },
   "protected": false,
-  "followers_count": 16464,
+  "followers_count": 16498,
   "friends_count": 0,
-  "listed_count": 254,
+  "listed_count": 257,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 12070,
+  "favourites_count": 12032,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 93596,
+  "statuses_count": 93709,
   "lang": "en",
   "status": {
-    "created_at": "Mon Aug 13 07:07:32 +0000 2018",
-    "id": 1028900845344055300,
-    "id_str": "1028900845344055296",
-    "text": "@skrotzky Оу, закрытость японцев в том, что долгое время она не контактировала с \"внешним\" миром, потому и выработа… https://t.co/ldyeK8Ca8p",
-    "truncated": true,
+    "created_at": "Sun Aug 19 17:53:40 +0000 2018",
+    "id": 1031237777281695700,
+    "id_str": "1031237777281695744",
+    "text": "RT @luvjungle: @abroadunderhood меня иногда останавливала полиция и просила потушить сигарету (свои карманные пепельницы давали). То есть н…",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "skrotzky",
-          "name": "Vladimir Skrotzky",
-          "id": 252040731,
-          "id_str": "252040731",
+          "screen_name": "luvjungle",
+          "name": "лавджангл",
+          "id": 298443976,
+          "id_str": "298443976",
           "indices": [
-            0,
-            9
+            3,
+            13
+          ]
+        },
+        {
+          "screen_name": "abroadunderhood",
+          "name": "Эброд Андерхуд",
+          "id": 3955812173,
+          "id_str": "3955812173",
+          "indices": [
+            15,
+            31
           ]
         }
       ],
-      "urls": [
-        {
-          "url": "https://t.co/ldyeK8Ca8p",
-          "expanded_url": "https://twitter.com/i/web/status/1028900845344055296",
-          "display_url": "twitter.com/i/web/status/1…",
-          "indices": [
-            117,
-            140
-          ]
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1028900410252308500,
-    "in_reply_to_status_id_str": "1028900410252308480",
-    "in_reply_to_user_id": 252040731,
-    "in_reply_to_user_id_str": "252040731",
-    "in_reply_to_screen_name": "skrotzky",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
+    "retweeted_status": {
+      "created_at": "Sun Aug 19 10:09:51 +0000 2018",
+      "id": 1031121055614689300,
+      "id_str": "1031121055614689285",
+      "text": "@abroadunderhood меня иногда останавливала полиция и просила потушить сигарету (свои карманные пепельницы давали).… https://t.co/OnUPxk9TLz",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/OnUPxk9TLz",
+            "expanded_url": "https://twitter.com/i/web/status/1031121055614689285",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1031119276856361000,
+      "in_reply_to_status_id_str": "1031119276856360960",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
     "is_quote_status": false,
-    "retweet_count": 0,
+    "retweet_count": 2,
     "favorite_count": 0,
     "favorited": false,
-    "retweeted": false,
+    "retweeted": true,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -94,8 +155,8 @@
   "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
   "profile_background_tile": false,
-  "profile_image_url": "http://pbs.twimg.com/profile_images/1028873438515982336/uXnIvb1W_normal.jpg",
-  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028873438515982336/uXnIvb1W_normal.jpg",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1028997018947993600/GS69m7l-_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1028997018947993600/GS69m7l-_normal.jpg",
   "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1534139372",
   "profile_link_color": "ABB8C2",
   "profile_sidebar_border_color": "000000",
@@ -113,7 +174,7 @@
   "needs_phone_verification": false,
   "time_zone_offset": 540,
   "geometry": {
-    "lat": 35.7090259,
-    "lng": 139.7319925
+    "lat": 35.6894875,
+    "lng": 139.6917064
   }
 }
