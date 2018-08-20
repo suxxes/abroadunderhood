@@ -1,0 +1,5001 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 20 01:22:58 +0000 2018",
+      "id": 1031350847270051800,
+      "id_str": "1031350847270051840",
+      "full_text": "Привет всем.\nМеня зовут Игорь.\nЯ инженер-электронщик из Таганрога.\nСейчас работаю в Кремниевой Долине в Калифорнии.\nПроектирую микросхемы,хожу в походы,катаюсь на яхте,путешествую по миру.\nУ нас с женой двое детей и собака.\nНа этой неделе расскажу про жизнь в Калифорнии и вообще.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "fbd6d2f5a4e4a15e",
+        "url": "https://api.twitter.com/1.1/geo/id/fbd6d2f5a4e4a15e.json",
+        "place_type": "admin",
+        "name": "California",
+        "full_name": "California, USA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -124.482003,
+                32.528832
+              ],
+              [
+                -114.131212,
+                32.528832
+              ],
+              [
+                -114.131212,
+                42.009519
+              ],
+              [
+                -124.482003,
+                42.009519
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 59,
+      "favorite_count": 306,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 01:30:38 +0000 2018",
+      "id": 1031352778411524100,
+      "id_str": "1031352778411524096",
+      "full_text": "Не могу обещать,что расскажу про всю Америку-она большая и разная-но про Калифорнию,про Кремниевую Долину,про Сан Франциско, про новые технологии,про жизнь в стартапах-с удовольствием поделюсь.\nА так же про устройство на новом месте,про школы,обычаи,еду....и что ещё спросите.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031350847270051800,
+      "in_reply_to_status_id_str": "1031350847270051840",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "favorite_count": 55,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 01:36:43 +0000 2018",
+      "id": 1031354308195844100,
+      "id_str": "1031354308195844096",
+      "full_text": "@AndrewKostuyk ТРТУ",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AndrewKostuyk",
+            "name": "Andrey Kostyuk",
+            "id": 905632604015263700,
+            "id_str": "905632604015263748",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031352550858154000,
+      "in_reply_to_status_id_str": "1031352550858153985",
+      "in_reply_to_user_id": 905632604015263700,
+      "in_reply_to_user_id_str": "905632604015263748",
+      "in_reply_to_screen_name": "AndrewKostuyk",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Aug 20 01:38:47 +0000 2018",
+      "id": 1031354829707173900,
+      "id_str": "1031354829707173888",
+      "full_text": "@Volarios Америка большая и я её пока мало обьездил - был только в прибрежных штатах - так что в основном рассказ будет о Калифорнии и Западном Побережье США.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Volarios",
+            "name": "Zosya Nikovich",
+            "id": 69555281,
+            "id_str": "69555281",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031352539957080000,
+      "in_reply_to_status_id_str": "1031352539957080065",
+      "in_reply_to_user_id": 69555281,
+      "in_reply_to_user_id_str": "69555281",
+      "in_reply_to_screen_name": "Volarios",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 01:39:30 +0000 2018",
+      "id": 1031355009227677700,
+      "id_str": "1031355009227677697",
+      "full_text": "@EffieBright @zakroj_sifon Поздравляю",
+      "truncated": false,
+      "display_text_range": [
+        27,
+        37
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EffieBright",
+            "name": "очень сложный прикол",
+            "id": 355115660,
+            "id_str": "355115660",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "zakroj_sifon",
+            "name": "серб и молод",
+            "id": 14396427,
+            "id_str": "14396427",
+            "indices": [
+              13,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031293501382766600,
+      "in_reply_to_status_id_str": "1031293501382766593",
+      "in_reply_to_user_id": 355115660,
+      "in_reply_to_user_id_str": "355115660",
+      "in_reply_to_screen_name": "EffieBright",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:09:38 +0000 2018",
+      "id": 1031362592072118300,
+      "id_str": "1031362592072118272",
+      "full_text": "Начну с общеизвестного-Кремнивая Долина-место рождения и расположения бывших стартапов Intel,AMD,Apple,CISCO,Broadcom,EBay,Google,Facebook,Tesla,а так же место,где большинство технологических компаний мира имеют свои филиалы.\nЗдесь разрабатываются 80% мировых инноваций.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:23:37 +0000 2018",
+      "id": 1031366110728224800,
+      "id_str": "1031366110728224768",
+      "full_text": "Я плохо разбираюсь в иммиграционном законодатнльстве США. Сам приехал работать по рабочей визе H1-B.\nЕщё можно приехать учиться и по окончании получить рабочую визу на год - это самый распространенный способ. \nЗа год получить H1-B и потом Green Card. https://t.co/857aUOmhEt",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/857aUOmhEt",
+            "expanded_url": "https://twitter.com/_1742385667011/status/1031361773599969280",
+            "display_url": "twitter.com/_1742385667011…",
+            "indices": [
+              251,
+              274
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031361773599969300,
+      "quoted_status_id_str": "1031361773599969280",
+      "quoted_status_permalink": {
+        "url": "https://t.co/857aUOmhEt",
+        "expanded": "https://twitter.com/_1742385667011/status/1031361773599969280",
+        "display": "twitter.com/_1742385667011…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:06:23 +0000 2018",
+        "id": 1031361773599969300,
+        "id_str": "1031361773599969280",
+        "full_text": "@abroadunderhood подскажите  - как  жителю Евросоюза  переехать  и  работать  в  США  ? Что для  этого надо , какие  документы  и  сложности  ?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          143
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031350847270051800,
+        "in_reply_to_status_id_str": "1031350847270051840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 499825529,
+          "id_str": "499825529"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:26:50 +0000 2018",
+      "id": 1031366921797558300,
+      "id_str": "1031366921797558272",
+      "full_text": "Меня пригласили работать в стартап- моя компания сама оформила рабочую визу, оплатила переезд  и устройство на новом месте мне и моей семье. https://t.co/yKz0Rv2gUx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yKz0Rv2gUx",
+            "expanded_url": "https://twitter.com/prihodkohell199/status/1031361602073894912",
+            "display_url": "twitter.com/prihodkohell19…",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031361602073894900,
+      "quoted_status_id_str": "1031361602073894912",
+      "quoted_status_permalink": {
+        "url": "https://t.co/yKz0Rv2gUx",
+        "expanded": "https://twitter.com/prihodkohell199/status/1031361602073894912",
+        "display": "twitter.com/prihodkohell19…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:05:42 +0000 2018",
+        "id": 1031361602073894900,
+        "id_str": "1031361602073894912",
+        "full_text": "@abroadunderhood Как туда занесло? Сложно было устроиться?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          58
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031352778411524100,
+        "in_reply_to_status_id_str": "1031352778411524096",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 310090021,
+          "id_str": "310090021"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:27:24 +0000 2018",
+      "id": 1031367062009000000,
+      "id_str": "1031367062008999936",
+      "full_text": "Самолётом. https://t.co/MIAEAXIS0U",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        10
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MIAEAXIS0U",
+            "expanded_url": "https://twitter.com/4stih/status/1031359140063526912",
+            "display_url": "twitter.com/4stih/status/1…",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031359140063526900,
+      "quoted_status_id_str": "1031359140063526912",
+      "quoted_status_permalink": {
+        "url": "https://t.co/MIAEAXIS0U",
+        "expanded": "https://twitter.com/4stih/status/1031359140063526912",
+        "display": "twitter.com/4stih/status/1…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 01:55:55 +0000 2018",
+        "id": 1031359140063526900,
+        "id_str": "1031359140063526912",
+        "full_text": "@abroadunderhood Начинай сначала. Как уехал?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          44
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031350847270051800,
+        "in_reply_to_status_id_str": "1031350847270051840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 309347085,
+          "id_str": "309347085"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:31:28 +0000 2018",
+      "id": 1031368085347815400,
+      "id_str": "1031368085347815424",
+      "full_text": "Нет, я всегда  интересовался историей и политикой и по прежнему это делаю.\nВ том числе и  в своём личном Твиттере.\nНо правила этого аккаунта ограничивают разговары на политические темы.\nВпрочем, о политической системе Калифорнии мы вполне можем поговорить. Расскажу что знаю. https://t.co/SF7NLVR55Z",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/SF7NLVR55Z",
+            "expanded_url": "https://twitter.com/kabanmadan/status/1031357243533537280",
+            "display_url": "twitter.com/kabanmadan/sta…",
+            "indices": [
+              276,
+              299
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031357243533537300,
+      "quoted_status_id_str": "1031357243533537280",
+      "quoted_status_permalink": {
+        "url": "https://t.co/SF7NLVR55Z",
+        "expanded": "https://twitter.com/kabanmadan/status/1031357243533537280",
+        "display": "twitter.com/kabanmadan/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 01:48:23 +0000 2018",
+        "id": 1031357243533537300,
+        "id_str": "1031357243533537280",
+        "full_text": "@abroadunderhood На политику у тебя тоже идиосинкразия? :)",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          58
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031352778411524100,
+        "in_reply_to_status_id_str": "1031352778411524096",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 515277374,
+          "id_str": "515277374"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:32:24 +0000 2018",
+      "id": 1031368321902379000,
+      "id_str": "1031368321902379008",
+      "full_text": "Это громадная тема, но попробую - что успею рассказать. https://t.co/TXKDEBjTaD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/TXKDEBjTaD",
+            "expanded_url": "https://twitter.com/zakroj_sifon/status/1031356887948816384",
+            "display_url": "twitter.com/zakroj_sifon/s…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031356887948816400,
+      "quoted_status_id_str": "1031356887948816384",
+      "quoted_status_permalink": {
+        "url": "https://t.co/TXKDEBjTaD",
+        "expanded": "https://twitter.com/zakroj_sifon/status/1031356887948816384",
+        "display": "twitter.com/zakroj_sifon/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 01:46:58 +0000 2018",
+        "id": 1031356887948816400,
+        "id_str": "1031356887948816384",
+        "full_text": "@abroadunderhood Реквестирую рассказ о походах и нац. парках.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          61
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031350847270051800,
+        "in_reply_to_status_id_str": "1031350847270051840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 14396427,
+          "id_str": "14396427"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:38:03 +0000 2018",
+      "id": 1031369743272276000,
+      "id_str": "1031369743272275968",
+      "full_text": "Стартапу к тому времени было уже 2 года и это был уже B round. \nВряд ли у читателей возникнет такой вопрос, но ваши сомнения я развею. 😁 https://t.co/qwInZAdBnl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qwInZAdBnl",
+            "expanded_url": "https://twitter.com/senko/status/1031367805965230081",
+            "display_url": "twitter.com/senko/status/1…",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031367805965230100,
+      "quoted_status_id_str": "1031367805965230081",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qwInZAdBnl",
+        "expanded": "https://twitter.com/senko/status/1031367805965230081",
+        "display": "twitter.com/senko/status/1…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:30:21 +0000 2018",
+        "id": 1031367805965230100,
+        "id_str": "1031367805965230081",
+        "full_text": "@abroadunderhood Сколько лет было стартапу когда они вас пригласили? Это важный вопрос, чтоб у читателей не возникло иллюзий будто любой стартап может приглашать работников.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          173
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031366921797558300,
+        "in_reply_to_status_id_str": "1031366921797558272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 12703602,
+          "id_str": "12703602"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:40:20 +0000 2018",
+      "id": 1031370319494172700,
+      "id_str": "1031370319494172677",
+      "full_text": "Да, было страшно, \nно было и интересно попробовать свои силы. \nСамое сложное было уговорить жену. https://t.co/qikQevU6Zc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        97
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qikQevU6Zc",
+            "expanded_url": "https://twitter.com/alex_it_83/status/1031367769948909568",
+            "display_url": "twitter.com/alex_it_83/sta…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031367769948909600,
+      "quoted_status_id_str": "1031367769948909568",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qikQevU6Zc",
+        "expanded": "https://twitter.com/alex_it_83/status/1031367769948909568",
+        "display": "twitter.com/alex_it_83/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:30:12 +0000 2018",
+        "id": 1031367769948909600,
+        "id_str": "1031367769948909568",
+        "full_text": "@abroadunderhood Это конечно экстрим, переезжать с семьёй работать в стартап. Небыло страшно, что стартап закроется и придётся либо искать новую работу, либо ехать обратно? Сколько было лет детям когда переехали?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          212
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031366921797558300,
+        "in_reply_to_status_id_str": "1031366921797558272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 249650018,
+          "id_str": "249650018"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d36f171e278ac981",
+          "url": "https://api.twitter.com/1.1/geo/id/d36f171e278ac981.json",
+          "place_type": "city",
+          "name": "Apex",
+          "full_name": "Apex, NC",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -78.915463,
+                  35.678557
+                ],
+                [
+                  -78.7946932,
+                  35.678557
+                ],
+                [
+                  -78.7946932,
+                  35.767843
+                ],
+                [
+                  -78.915463,
+                  35.767843
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:45:16 +0000 2018",
+      "id": 1031371558298611700,
+      "id_str": "1031371558298611712",
+      "full_text": "Всё зависит от того, что вы хотите в этой жизни. \nХорошая жизнь стоит дорого. \nТак себе жизнь - стоит дешевле. \nНа мой взгляд жизнь в Северной Калифорнии стоит тех денег, которые мы за неё платим, но каждый может выбрать место, где ему больше нравится жить. https://t.co/rzzWMyexO3",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/rzzWMyexO3",
+            "expanded_url": "https://twitter.com/rmstdio/status/1031367040056139778",
+            "display_url": "twitter.com/rmstdio/status…",
+            "indices": [
+              258,
+              281
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031367040056139800,
+      "quoted_status_id_str": "1031367040056139778",
+      "quoted_status_permalink": {
+        "url": "https://t.co/rzzWMyexO3",
+        "expanded": "https://twitter.com/rmstdio/status/1031367040056139778",
+        "display": "twitter.com/rmstdio/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:27:18 +0000 2018",
+        "id": 1031367040056139800,
+        "id_str": "1031367040056139778",
+        "full_text": "@abroadunderhood Расскажи, насколько жизнь в калифорнии стоит своих денег, или лучше свалить в штат подешевле?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          110
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": 1031362592072118300,
+        "in_reply_to_status_id_str": "1031362592072118272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 209173900,
+          "id_str": "209173900"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:47:28 +0000 2018",
+      "id": 1031372113523834900,
+      "id_str": "1031372113523834880",
+      "full_text": "А что, есть какие-то ограничения на время существования стартапа? Если есть - поделитесь - мне они не известны. https://t.co/dzHPzYItAV",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dzHPzYItAV",
+            "expanded_url": "https://twitter.com/senko/status/1031370099096084481",
+            "display_url": "twitter.com/senko/status/1…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031370099096084500,
+      "quoted_status_id_str": "1031370099096084481",
+      "quoted_status_permalink": {
+        "url": "https://t.co/dzHPzYItAV",
+        "expanded": "https://twitter.com/senko/status/1031370099096084481",
+        "display": "twitter.com/senko/status/1…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:39:28 +0000 2018",
+        "id": 1031370099096084500,
+        "id_str": "1031370099096084481",
+        "full_text": "@abroadunderhood У меня не было сомнений, не стоит мне приписывать. Я запросил лишь информацию и пояснил почему она важна",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          121
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031369743272276000,
+        "in_reply_to_status_id_str": "1031369743272275968",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 12703602,
+          "id_str": "12703602"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:52:53 +0000 2018",
+      "id": 1031373478815916000,
+      "id_str": "1031373478815916034",
+      "full_text": "Как мы развлекается в воскресенье вечером - помимо ведения @abroadunderhood https://t.co/XSv0XuAskU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        75
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              59,
+              75
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1031373387510104000,
+            "id_str": "1031373387510104065",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlAsoalUwAEE7Yv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlAsoalUwAEE7Yv.jpg",
+            "url": "https://t.co/XSv0XuAskU",
+            "display_url": "pic.twitter.com/XSv0XuAskU",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1031373478815916034/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1031373387510104000,
+            "id_str": "1031373387510104065",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlAsoalUwAEE7Yv.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlAsoalUwAEE7Yv.jpg",
+            "url": "https://t.co/XSv0XuAskU",
+            "display_url": "pic.twitter.com/XSv0XuAskU",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1031373478815916034/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 02:55:13 +0000 2018",
+      "id": 1031374062377824300,
+      "id_str": "1031374062377824256",
+      "full_text": "@senko Да, это хорошая мысль. \nБольшое вам спасибо.",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "senko",
+            "name": "Pavel Senko",
+            "id": 12703602,
+            "id_str": "12703602",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031371653559664600,
+      "in_reply_to_status_id_str": "1031371653559664640",
+      "in_reply_to_user_id": 12703602,
+      "in_reply_to_user_id_str": "12703602",
+      "in_reply_to_screen_name": "senko",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:00:18 +0000 2018",
+      "id": 1031375343519596500,
+      "id_str": "1031375343519596544",
+      "full_text": "Мне кажется, что по L1B и проще и надёжнее, но я могу ошибаться. \nУ меня такой возможности не было. https://t.co/30xfO3Xxgh",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        99
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/30xfO3Xxgh",
+            "expanded_url": "https://twitter.com/Alex_IT_83/status/1031372047530815488",
+            "display_url": "twitter.com/Alex_IT_83/sta…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031372047530815500,
+      "quoted_status_id_str": "1031372047530815488",
+      "quoted_status_permalink": {
+        "url": "https://t.co/30xfO3Xxgh",
+        "expanded": "https://twitter.com/Alex_IT_83/status/1031372047530815488",
+        "display": "twitter.com/Alex_IT_83/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:47:12 +0000 2018",
+        "id": 1031372047530815500,
+        "id_str": "1031372047530815488",
+        "full_text": "@abroadunderhood Да уж, я переезжал по L1B и мы это рассматривали больше как жизненный опыт.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          92
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031370319494172700,
+        "in_reply_to_status_id_str": "1031370319494172677",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 249650018,
+          "id_str": "249650018"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "d36f171e278ac981",
+          "url": "https://api.twitter.com/1.1/geo/id/d36f171e278ac981.json",
+          "place_type": "city",
+          "name": "Apex",
+          "full_name": "Apex, NC",
+          "country_code": "US",
+          "country": "United States",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -78.915463,
+                  35.678557
+                ],
+                [
+                  -78.7946932,
+                  35.678557
+                ],
+                [
+                  -78.7946932,
+                  35.767843
+                ],
+                [
+                  -78.915463,
+                  35.767843
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:03:41 +0000 2018",
+      "id": 1031376194954915800,
+      "id_str": "1031376194954915840",
+      "full_text": "@KabanMadan Я вам ещё надоем. Обещаю. 🤓",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        39
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "KabanMadan",
+            "name": "Кабан Мадан",
+            "id": 515277374,
+            "id_str": "515277374",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031371341511974900,
+      "in_reply_to_status_id_str": "1031371341511974917",
+      "in_reply_to_user_id": 515277374,
+      "in_reply_to_user_id_str": "515277374",
+      "in_reply_to_screen_name": "KabanMadan",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:07:21 +0000 2018",
+      "id": 1031377115399110700,
+      "id_str": "1031377115399110656",
+      "full_text": "@4stih Boring 747, эконом класс посередине 4 места с детьми - в окошко не смотрел, поэтому до сих пор не совсем уверен, что это Калифорния, а не какое-то другое место на Земле.",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        176
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "4stih",
+            "name": "Пальмовое Масло",
+            "id": 309347085,
+            "id_str": "309347085",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031369256028594200,
+      "in_reply_to_status_id_str": "1031369256028594176",
+      "in_reply_to_user_id": 309347085,
+      "in_reply_to_user_id_str": "309347085",
+      "in_reply_to_screen_name": "4stih",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:08:00 +0000 2018",
+      "id": 1031377280457564200,
+      "id_str": "1031377280457564160",
+      "full_text": "@Vitaly_Kornilov А это что значит? Просто интересно.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Vitaly_Kornilov",
+            "name": "Vetal Корнилов",
+            "id": 1234235389,
+            "id_str": "1234235389",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031368399195177000,
+      "in_reply_to_status_id_str": "1031368399195176960",
+      "in_reply_to_user_id": 1234235389,
+      "in_reply_to_user_id_str": "1234235389",
+      "in_reply_to_screen_name": "Vitaly_Kornilov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:13:57 +0000 2018",
+      "id": 1031378777908031500,
+      "id_str": "1031378777908031488",
+      "full_text": "Вынужден вас разочаровать-не все стартапы купаются в золоте.\nНаш не купался, но жить было можно. Потом наш стартап купили и вот тогда я оценил,что значит нормальный капитализм,когда сотрудники компании через опции являются и её со-владельцами. https://t.co/OBNogh4ouR",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/OBNogh4ouR",
+            "expanded_url": "https://twitter.com/blochtheorem/status/1031366788469215232",
+            "display_url": "twitter.com/blochtheorem/s…",
+            "indices": [
+              244,
+              267
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031366788469215200,
+      "quoted_status_id_str": "1031366788469215232",
+      "quoted_status_permalink": {
+        "url": "https://t.co/OBNogh4ouR",
+        "expanded": "https://twitter.com/blochtheorem/status/1031366788469215232",
+        "display": "twitter.com/blochtheorem/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 02:26:18 +0000 2018",
+        "id": 1031366788469215200,
+        "id_str": "1031366788469215232",
+        "full_text": "@abroadunderhood Обещает быть интересным! Расскажите как стартаперы купаются в золоте :)))",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          90
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031352778411524100,
+        "in_reply_to_status_id_str": "1031352778411524096",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 24155806,
+          "id_str": "24155806"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 6,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:15:12 +0000 2018",
+      "id": 1031379094837948400,
+      "id_str": "1031379094837948416",
+      "full_text": "@freken_kate Привет. Откуда?",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        28
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freken_kate",
+            "name": "Катюша",
+            "id": 190987393,
+            "id_str": "190987393",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031378616091852800,
+      "in_reply_to_status_id_str": "1031378616091852800",
+      "in_reply_to_user_id": 190987393,
+      "in_reply_to_user_id_str": "190987393",
+      "in_reply_to_screen_name": "freken_kate",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:18:50 +0000 2018",
+      "id": 1031380006121820200,
+      "id_str": "1031380006121820165",
+      "full_text": "@SashaKushner2 @senko Да, по разному бывает. \nМой однокашник ремонтирует кондиционеры в Лос Анджелесе. У него своя маленькая компания, в которой работает он сам и его сын. Мне кажется он доволен, но я не спрашивал.",
+      "truncated": false,
+      "display_text_range": [
+        22,
+        214
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SashaKushner2",
+            "name": "Hephaestus",
+            "id": 892777003497246700,
+            "id_str": "892777003497246720",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "screen_name": "senko",
+            "name": "Pavel Senko",
+            "id": 12703602,
+            "id_str": "12703602",
+            "indices": [
+              15,
+              21
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031379071354249200,
+      "in_reply_to_status_id_str": "1031379071354249217",
+      "in_reply_to_user_id": 892777003497246700,
+      "in_reply_to_user_id_str": "892777003497246720",
+      "in_reply_to_screen_name": "SashaKushner2",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:19:29 +0000 2018",
+      "id": 1031380170660229100,
+      "id_str": "1031380170660229125",
+      "full_text": "@Alex_IT_83 Да, это минус.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        26
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Alex_IT_83",
+            "name": "Alexander Vasilyev",
+            "id": 249650018,
+            "id_str": "249650018",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031376679736881200,
+      "in_reply_to_status_id_str": "1031376679736881152",
+      "in_reply_to_user_id": 249650018,
+      "in_reply_to_user_id_str": "249650018",
+      "in_reply_to_screen_name": "Alex_IT_83",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:19:53 +0000 2018",
+      "id": 1031380272804065300,
+      "id_str": "1031380272804065282",
+      "full_text": "@lxvslnk Привет. Посмотрим.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        27
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "lxvslnk",
+            "name": "Oleksii",
+            "id": 555323349,
+            "id_str": "555323349",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031376239884259300,
+      "in_reply_to_status_id_str": "1031376239884259328",
+      "in_reply_to_user_id": 555323349,
+      "in_reply_to_user_id_str": "555323349",
+      "in_reply_to_screen_name": "lxvslnk",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:24:54 +0000 2018",
+      "id": 1031381532458401800,
+      "id_str": "1031381532458401793",
+      "full_text": "@Alex_IT_83 Если бы она хотела, могла бы продолжать жить по H4-B, пока не нашла другую работу. \nНо это конечно зависит и от работы и от отношений в семье.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Alex_IT_83",
+            "name": "Alexander Vasilyev",
+            "id": 249650018,
+            "id_str": "249650018",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031379368914944000,
+      "in_reply_to_status_id_str": "1031379368914944000",
+      "in_reply_to_user_id": 249650018,
+      "in_reply_to_user_id_str": "249650018",
+      "in_reply_to_screen_name": "Alex_IT_83",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:27:10 +0000 2018",
+      "id": 1031382104133722100,
+      "id_str": "1031382104133722113",
+      "full_text": "@freken_kate Я жил на Греческой не далеко от Старой Лестнице, потом недолго у Гостиницы Таганрог на Пальмира Тольятти.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freken_kate",
+            "name": "Катюша",
+            "id": 190987393,
+            "id_str": "190987393",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031379308277891100,
+      "in_reply_to_status_id_str": "1031379308277891072",
+      "in_reply_to_user_id": 190987393,
+      "in_reply_to_user_id_str": "190987393",
+      "in_reply_to_screen_name": "freken_kate",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:32:34 +0000 2018",
+      "id": 1031383461544611800,
+      "id_str": "1031383461544611840",
+      "full_text": "Разница была довольно большая, но я  первое время просто молчал и присматривался, старался понять в чём тут дело.\nПо словам моих коллег -производил тогда впечатление умного человека.\nПотом когда я выучил английский и начал говорить-это впечатление развеялось. https://t.co/Jsyom0NVfx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jsyom0NVfx",
+            "expanded_url": "https://twitter.com/razortonguen1/status/1031381767457054720",
+            "display_url": "twitter.com/razortonguen1/…",
+            "indices": [
+              260,
+              283
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031381767457054700,
+      "quoted_status_id_str": "1031381767457054720",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Jsyom0NVfx",
+        "expanded": "https://twitter.com/razortonguen1/status/1031381767457054720",
+        "display": "twitter.com/razortonguen1/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 03:25:50 +0000 2018",
+        "id": 1031381767457054700,
+        "id_str": "1031381767457054720",
+        "full_text": "@abroadunderhood Привет! Расскажите о разнице в своём мировосприятии и мироощущении после переезда. Разница в эмоциях и мышлении - что вас волновало в Таганроге и что- в Калифорнии.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          181
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031352778411524100,
+        "in_reply_to_status_id_str": "1031352778411524096",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 881718043705057300,
+          "id_str": "881718043705057280"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 16,
+      "favorite_count": 107,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:39:10 +0000 2018",
+      "id": 1031385123546001400,
+      "id_str": "1031385123546001408",
+      "full_text": "@RazortongueN1 Первые три месяца были довольно сумасшедшими-мы мало что знали и не очень понимали,что происходит и как что надо делать.\nПлюс,уже на вторую неделю после приезда я вышел не работу и пытался понять-что же я здесь делаю.\nТак что большая часть бытовых проблем пала на мою бедную жену",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        294
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RazortongueN1",
+            "name": "Бритва Оккама",
+            "id": 881718043705057300,
+            "id_str": "881718043705057280",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031381767457054700,
+      "in_reply_to_status_id_str": "1031381767457054720",
+      "in_reply_to_user_id": 881718043705057300,
+      "in_reply_to_user_id_str": "881718043705057280",
+      "in_reply_to_screen_name": "RazortongueN1",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:44:20 +0000 2018",
+      "id": 1031386423989919700,
+      "id_str": "1031386423989919744",
+      "full_text": "@RazortongueN1 Потом постепенно освоились, начали привыкать и оказалось, что не боги горшки обжигают.\nВ общем разобрались, привыкли и началась обычная жизнь- работа, дети,по выходным- путешествия сначала по окрестностям, потом дальше- другие штаты, Гаваи, Мексика и Канада.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "RazortongueN1",
+            "name": "Бритва Оккама",
+            "id": 881718043705057300,
+            "id_str": "881718043705057280",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031385123546001400,
+      "in_reply_to_status_id_str": "1031385123546001408",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:46:24 +0000 2018",
+      "id": 1031386942829523000,
+      "id_str": "1031386942829522945",
+      "full_text": "@SPbLada Упаси боже. Вам я никуда переезжать не рекомендую.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "SPbLada",
+            "name": "Лада",
+            "id": 515752246,
+            "id_str": "515752246",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031385344481144800,
+      "in_reply_to_status_id_str": "1031385344481144832",
+      "in_reply_to_user_id": 515752246,
+      "in_reply_to_user_id_str": "515752246",
+      "in_reply_to_screen_name": "SPbLada",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:52:30 +0000 2018",
+      "id": 1031388480067137500,
+      "id_str": "1031388480067137536",
+      "full_text": "Около 3-х месяцев. Потом стало легче. Впрочем, весь первый год натыкались на непонятные и смешные вещи. Когда появились местные друзья американцы - дело пошло быстрее - было у кого спросить, они нам много показали и рассказали. \nНа работе включился через месяц. https://t.co/ANjZgBYhyf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ANjZgBYhyf",
+            "expanded_url": "https://twitter.com/vitold_16/status/1031385130907185153",
+            "display_url": "twitter.com/vitold_16/stat…",
+            "indices": [
+              262,
+              285
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031385130907185200,
+      "quoted_status_id_str": "1031385130907185153",
+      "quoted_status_permalink": {
+        "url": "https://t.co/ANjZgBYhyf",
+        "expanded": "https://twitter.com/vitold_16/status/1031385130907185153",
+        "display": "twitter.com/vitold_16/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 03:39:12 +0000 2018",
+        "id": 1031385130907185200,
+        "id_str": "1031385130907185153",
+        "full_text": "@abroadunderhood Сколько времени заняла адаптация? Рабочее место и время работы.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          80
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031383461544611800,
+        "in_reply_to_status_id_str": "1031383461544611840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 777127085429194800,
+          "id_str": "777127085429194752"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 6,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:58:10 +0000 2018",
+      "id": 1031389907623637000,
+      "id_str": "1031389907623636992",
+      "full_text": "Может. \nДолиной Потерянных Надежд. \nПроект Сколково изначально создавался его авторами как средство распила бюджетных денег и вывода их за границу.\nЭту функцию он с грехом попалам выполняет. \nВсё остальное - просто ширма и внимания не заслуживает. https://t.co/DTaRfYIZiB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/DTaRfYIZiB",
+            "expanded_url": "https://twitter.com/graf_kusakin/status/1031387870681079808",
+            "display_url": "twitter.com/graf_kusakin/s…",
+            "indices": [
+              248,
+              271
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031387870681079800,
+      "quoted_status_id_str": "1031387870681079808",
+      "quoted_status_permalink": {
+        "url": "https://t.co/DTaRfYIZiB",
+        "expanded": "https://twitter.com/graf_kusakin/status/1031387870681079808",
+        "display": "twitter.com/graf_kusakin/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 03:50:05 +0000 2018",
+        "id": 1031387870681079800,
+        "id_str": "1031387870681079808",
+        "full_text": "@abroadunderhood Может ли когда-то Сколково стать долиной и какой? 😁",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          68
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031362592072118300,
+        "in_reply_to_status_id_str": "1031362592072118272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 222554865,
+          "id_str": "222554865"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 34,
+      "favorite_count": 60,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 03:59:03 +0000 2018",
+      "id": 1031390128319545300,
+      "id_str": "1031390128319545347",
+      "full_text": "@bezimeniblog Я был и остаюсь молод душой.",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "bezimeniblog",
+            "name": "Неизвестный блогер",
+            "id": 742000368754806800,
+            "id_str": "742000368754806789",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031384733761069000,
+      "in_reply_to_status_id_str": "1031384733761069058",
+      "in_reply_to_user_id": 742000368754806800,
+      "in_reply_to_user_id_str": "742000368754806789",
+      "in_reply_to_screen_name": "bezimeniblog",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:04:04 +0000 2018",
+      "id": 1031391392432455700,
+      "id_str": "1031391392432455680",
+      "full_text": "Да, так тоже бывает и я это видел своими глазами. Преимущество Кремниевой Долины заключается в том, что здесь всегда много работы для специалистов и её всегда можно найти. \nЗдесь всё время открываются новые стартапы и всегда нужны в них люди. \nНужно только не бояться. https://t.co/1DBSf4bNvQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1DBSf4bNvQ",
+            "expanded_url": "https://twitter.com/blochtheorem/status/1031389862438625280",
+            "display_url": "twitter.com/blochtheorem/s…",
+            "indices": [
+              269,
+              292
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031389862438625300,
+      "quoted_status_id_str": "1031389862438625280",
+      "quoted_status_permalink": {
+        "url": "https://t.co/1DBSf4bNvQ",
+        "expanded": "https://twitter.com/blochtheorem/status/1031389862438625280",
+        "display": "twitter.com/blochtheorem/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 03:58:00 +0000 2018",
+        "id": 1031389862438625300,
+        "id_str": "1031389862438625280",
+        "full_text": "@abroadunderhood Не-не, нормальный капитализм вы бы оценили когда всех распустили по домам в один день :) Повезло что так.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          122
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031378777908031500,
+        "in_reply_to_status_id_str": "1031378777908031488",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 24155806,
+          "id_str": "24155806"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:10:46 +0000 2018",
+      "id": 1031393075795382300,
+      "id_str": "1031393075795382272",
+      "full_text": "У всех конечно по разному, но у нас более четверти заработка  уходит на жилье, потом идут расходы на машины. Потом на развлечения  и путешествия. \nЕда и одежда - по мелочи. Но вообще по бюджету - это к моей жене. https://t.co/GLT0JcM1VE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/GLT0JcM1VE",
+            "expanded_url": "https://twitter.com/oleole135/status/1031389475472134144",
+            "display_url": "twitter.com/oleole135/stat…",
+            "indices": [
+              213,
+              236
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031389475472134100,
+      "quoted_status_id_str": "1031389475472134144",
+      "quoted_status_permalink": {
+        "url": "https://t.co/GLT0JcM1VE",
+        "expanded": "https://twitter.com/oleole135/status/1031389475472134144",
+        "display": "twitter.com/oleole135/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 03:56:27 +0000 2018",
+        "id": 1031389475472134100,
+        "id_str": "1031389475472134144",
+        "full_text": "@abroadunderhood  а какой приблизительно заработок, и  расходы, дом еда услуги и т.д. в месяц. Если не секрет😉",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          110
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2215163764,
+          "id_str": "2215163764"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:17:09 +0000 2018",
+      "id": 1031394683849596900,
+      "id_str": "1031394683849596928",
+      "full_text": "Если вы ничего не умеете делать и не хотите учиться, то переезжать никуда не стоит.\nЕсли хоть что-то полезное людям умеете делать хорошо и готовы учить - можно попробовать.\nНо в любом случае на первых порах будет трудно. \nЕсли вас это пугает - то никуда ехать не стоит. https://t.co/wKXXUC4BCu",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wKXXUC4BCu",
+            "expanded_url": "https://twitter.com/stoopkah/status/1031393604512755713",
+            "display_url": "twitter.com/stoopkah/statu…",
+            "indices": [
+              270,
+              293
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031393604512755700,
+      "quoted_status_id_str": "1031393604512755713",
+      "quoted_status_permalink": {
+        "url": "https://t.co/wKXXUC4BCu",
+        "expanded": "https://twitter.com/stoopkah/status/1031393604512755713",
+        "display": "twitter.com/stoopkah/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 04:12:52 +0000 2018",
+        "id": 1031393604512755700,
+        "id_str": "1031393604512755713",
+        "full_text": "@abroadunderhood А есть ли смысл переезжать в Калифорнию без высшего образования в 20-25 лет? Как тяжело будет с работой?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          121
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031393075795382300,
+        "in_reply_to_status_id_str": "1031393075795382272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 793113162404991000,
+          "id_str": "793113162404990976"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 10,
+      "favorite_count": 36,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:26:28 +0000 2018",
+      "id": 1031397027429539800,
+      "id_str": "1031397027429539841",
+      "full_text": "Второй пошёл. https://t.co/5P5cRsi7Do",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        13
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1031397018940268500,
+            "id_str": "1031397018940268544",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlBCH8hU4AAJ84n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlBCH8hU4AAJ84n.jpg",
+            "url": "https://t.co/5P5cRsi7Do",
+            "display_url": "pic.twitter.com/5P5cRsi7Do",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1031397027429539841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1031397018940268500,
+            "id_str": "1031397018940268544",
+            "indices": [
+              14,
+              37
+            ],
+            "media_url": "http://pbs.twimg.com/media/DlBCH8hU4AAJ84n.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DlBCH8hU4AAJ84n.jpg",
+            "url": "https://t.co/5P5cRsi7Do",
+            "display_url": "pic.twitter.com/5P5cRsi7Do",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1031397027429539841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 768,
+                "h": 1024,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "3ad0f706b3fa62a8",
+        "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+        "place_type": "city",
+        "name": "Palo Alto",
+        "full_name": "Palo Alto, CA",
+        "country_code": "US",
+        "country": "United States",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.190523,
+                37.362824
+              ],
+              [
+                -122.097537,
+                37.362824
+              ],
+              [
+                -122.097537,
+                37.465918
+              ],
+              [
+                -122.190523,
+                37.465918
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:35:37 +0000 2018",
+      "id": 1031399328328208400,
+      "id_str": "1031399328328208384",
+      "full_text": "Понимаете, вряд-ли абстрактные цифры вам в этом помогут.\nЗарплата очень зависит от квалификации,от компании и проекта,в котором вы заняты.\nНачинающие у нас получают $70-$80К в год, с опытом -$100-150 К, ведущие проекта $250-300К, но я знаю компании, в которых и больше и меньше. https://t.co/HtqDEywAQo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/HtqDEywAQo",
+            "expanded_url": "https://twitter.com/oleole135/status/1031395997191155712",
+            "display_url": "twitter.com/oleole135/stat…",
+            "indices": [
+              279,
+              302
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 04:37:57 +0000 2018",
+      "id": 1031399916592017400,
+      "id_str": "1031399916592017410",
+      "full_text": "Понятия не имею. \nА вообще-то - где и зачем они нужны? https://t.co/x97uH1y9HW",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/x97uH1y9HW",
+            "expanded_url": "https://twitter.com/colreo/status/1031392032118525952",
+            "display_url": "twitter.com/colreo/status/…",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031392032118526000,
+      "quoted_status_id_str": "1031392032118525952",
+      "quoted_status_permalink": {
+        "url": "https://t.co/x97uH1y9HW",
+        "expanded": "https://twitter.com/colreo/status/1031392032118525952",
+        "display": "twitter.com/colreo/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 04:06:37 +0000 2018",
+        "id": 1031392032118526000,
+        "id_str": "1031392032118525952",
+        "full_text": "@abroadunderhood А финансовые манагеры( директора)нужны?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          56
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": 1031391392432455700,
+        "in_reply_to_status_id_str": "1031391392432455680",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 286675166,
+          "id_str": "286675166"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:31:35 +0000 2018",
+      "id": 1031413415237976000,
+      "id_str": "1031413415237976064",
+      "full_text": "@zxovq Да, чистыми. На налоги уходит около трети, но это потому, что мы с женой слишком много сейчас зарабатываем. Раньше было меньше.",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zxovq",
+            "name": "/dev/null",
+            "id": 1603342602,
+            "id_str": "1603342602",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031411112418336800,
+      "in_reply_to_status_id_str": "1031411112418336769",
+      "in_reply_to_user_id": 1603342602,
+      "in_reply_to_user_id_str": "1603342602",
+      "in_reply_to_screen_name": "zxovq",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:32:51 +0000 2018",
+      "id": 1031413731866030100,
+      "id_str": "1031413731866030081",
+      "full_text": "@khchfxutvutcl Извините, но я понятия не имею. Фармакология - не моя специальность.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "khchfxutvutcl",
+            "name": "Adriana",
+            "id": 781943024272154600,
+            "id_str": "781943024272154624",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031410518672715800,
+      "in_reply_to_status_id_str": "1031410518672715777",
+      "in_reply_to_user_id": 781943024272154600,
+      "in_reply_to_user_id_str": "781943024272154624",
+      "in_reply_to_screen_name": "khchfxutvutcl",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:34:08 +0000 2018",
+      "id": 1031414057050329100,
+      "id_str": "1031414057050329090",
+      "full_text": "Да, обязательно, но чуть по позже. Это большая тема. https://t.co/oDbpL1yH7O",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oDbpL1yH7O",
+            "expanded_url": "https://twitter.com/bardadymchik/status/1031410230578610176",
+            "display_url": "twitter.com/bardadymchik/s…",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031410230578610200,
+      "quoted_status_id_str": "1031410230578610176",
+      "quoted_status_permalink": {
+        "url": "https://t.co/oDbpL1yH7O",
+        "expanded": "https://twitter.com/bardadymchik/status/1031410230578610176",
+        "display": "twitter.com/bardadymchik/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 05:18:56 +0000 2018",
+        "id": 1031410230578610200,
+        "id_str": "1031410230578610176",
+        "full_text": "@abroadunderhood Можно рассказ про семью в целом и ее адаптацию?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          64
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031350847270051800,
+        "in_reply_to_status_id_str": "1031350847270051840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 105885792,
+          "id_str": "105885792"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:36:20 +0000 2018",
+      "id": 1031414610664935400,
+      "id_str": "1031414610664935424",
+      "full_text": "@oldpank2 @stranger_9T Да, конечно. Цель чтото полезное там разработать и не ставилось с самого начала.",
+      "truncated": false,
+      "display_text_range": [
+        23,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oldpank2",
+            "name": "Андрей",
+            "id": 2609559694,
+            "id_str": "2609559694",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "stranger_9T",
+            "name": "stranger_9T",
+            "id": 495946047,
+            "id_str": "495946047",
+            "indices": [
+              10,
+              22
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031413677763846100,
+      "in_reply_to_status_id_str": "1031413677763846144",
+      "in_reply_to_user_id": 2609559694,
+      "in_reply_to_user_id_str": "2609559694",
+      "in_reply_to_screen_name": "oldpank2",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:38:04 +0000 2018",
+      "id": 1031415046528688100,
+      "id_str": "1031415046528688128",
+      "full_text": "@khchfxutvutcl Да, это хорошая идея. \nМожно конечно ещё Гугл попробовать....",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "khchfxutvutcl",
+            "name": "Adriana",
+            "id": 781943024272154600,
+            "id_str": "781943024272154624",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031414494059225100,
+      "in_reply_to_status_id_str": "1031414494059225088",
+      "in_reply_to_user_id": 781943024272154600,
+      "in_reply_to_user_id_str": "781943024272154624",
+      "in_reply_to_screen_name": "khchfxutvutcl",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:42:16 +0000 2018",
+      "id": 1031416101609951200,
+      "id_str": "1031416101609951233",
+      "full_text": "@khchfxutvutcl Спасибо",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        22
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "khchfxutvutcl",
+            "name": "Adriana",
+            "id": 781943024272154600,
+            "id_str": "781943024272154624",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031415183825141800,
+      "in_reply_to_status_id_str": "1031415183825141760",
+      "in_reply_to_user_id": 781943024272154600,
+      "in_reply_to_user_id_str": "781943024272154624",
+      "in_reply_to_screen_name": "khchfxutvutcl",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:43:06 +0000 2018",
+      "id": 1031416312675754000,
+      "id_str": "1031416312675753984",
+      "full_text": "@khchfxutvutcl Я даже не знаю, где это можно узнать. \nКроме Гугла конечно",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        73
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "khchfxutvutcl",
+            "name": "Adriana",
+            "id": 781943024272154600,
+            "id_str": "781943024272154624",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031415577498275800,
+      "in_reply_to_status_id_str": "1031415577498275840",
+      "in_reply_to_user_id": 781943024272154600,
+      "in_reply_to_user_id_str": "781943024272154624",
+      "in_reply_to_screen_name": "khchfxutvutcl",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:58:25 +0000 2018",
+      "id": 1031420166431633400,
+      "id_str": "1031420166431633409",
+      "full_text": "Я бы в Сан Франциско на конференции и познакомился с коллегами,которые занимались интересными вещами. \nМы начали немного сотрудничать и через 2 года,они пригласили меня у них поработать. \nЕсли вам будет интересно, могу как нибудь рассказать по подробнее чем мы тогда занимались https://t.co/EnuKTIAByz",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EnuKTIAByz",
+            "expanded_url": "https://twitter.com/schect247/status/1031406934103085056",
+            "display_url": "twitter.com/schect247/stat…",
+            "indices": [
+              278,
+              301
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031406934103085000,
+      "quoted_status_id_str": "1031406934103085056",
+      "quoted_status_permalink": {
+        "url": "https://t.co/EnuKTIAByz",
+        "expanded": "https://twitter.com/schect247/status/1031406934103085056",
+        "display": "twitter.com/schect247/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 05:05:50 +0000 2018",
+        "id": 1031406934103085000,
+        "id_str": "1031406934103085056",
+        "full_text": "@abroadunderhood Можете не много подробнее написать, они на Вас вышли или Вы на них? Через LinkedIn или как?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          108
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031366921797558300,
+        "in_reply_to_status_id_str": "1031366921797558272",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 232974829,
+          "id_str": "232974829"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 05:59:37 +0000 2018",
+      "id": 1031420471101685800,
+      "id_str": "1031420471101685765",
+      "full_text": "@mista_Vint В Пало-Альто",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mista_Vint",
+            "name": "Victor F.",
+            "id": 79449625,
+            "id_str": "79449625",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031408370400616400,
+      "in_reply_to_status_id_str": "1031408370400616448",
+      "in_reply_to_user_id": 79449625,
+      "in_reply_to_user_id_str": "79449625",
+      "in_reply_to_screen_name": "mista_Vint",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:02:20 +0000 2018",
+      "id": 1031421152197898200,
+      "id_str": "1031421152197898240",
+      "full_text": "@gen_exp_626 И уровень технологий и уровень комфорта другой. \nЧто  касается березок, то они в Северной Калифорнии растут наряду с пальмами.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gen_exp_626",
+            "name": "Эксперимент 626",
+            "id": 216330623,
+            "id_str": "216330623",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031406627159769100,
+      "in_reply_to_status_id_str": "1031406627159769090",
+      "in_reply_to_user_id": 216330623,
+      "in_reply_to_user_id_str": "216330623",
+      "in_reply_to_screen_name": "gen_exp_626",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:05:38 +0000 2018",
+      "id": 1031421985895538700,
+      "id_str": "1031421985895538688",
+      "full_text": "@alex_tagaev При таком ничтожном обороте нужен не финансист, а бухгалтер- да и то на  на полставки. \nМы делали оутсорсинг в компанию, которая оформляла всю бухгалтерию.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alex_tagaev",
+            "name": "Санеееееек",
+            "id": 305725564,
+            "id_str": "305725564",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031406037138657300,
+      "in_reply_to_status_id_str": "1031406037138657280",
+      "in_reply_to_user_id": 305725564,
+      "in_reply_to_user_id_str": "305725564",
+      "in_reply_to_screen_name": "alex_tagaev",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:07:45 +0000 2018",
+      "id": 1031422518119161900,
+      "id_str": "1031422518119161857",
+      "full_text": "Да, иногда. \nИногда даже на пикники ходим. https://t.co/gdcLgdZtYl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gdcLgdZtYl",
+            "expanded_url": "https://twitter.com/omybeard/status/1031404021829971968",
+            "display_url": "twitter.com/omybeard/statu…",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031404021829972000,
+      "quoted_status_id_str": "1031404021829971968",
+      "quoted_status_permalink": {
+        "url": "https://t.co/gdcLgdZtYl",
+        "expanded": "https://twitter.com/omybeard/status/1031404021829971968",
+        "display": "twitter.com/omybeard/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 04:54:16 +0000 2018",
+        "id": 1031404021829972000,
+        "id_str": "1031404021829971968",
+        "full_text": "@abroadunderhood @RazortongueN1 С русским комьюнити общаетесь?",
+        "truncated": false,
+        "display_text_range": [
+          32,
+          62
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "RazortongueN1",
+              "name": "Бритва Оккама",
+              "id": 881718043705057300,
+              "id_str": "881718043705057280",
+              "indices": [
+                17,
+                31
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031385123546001400,
+        "in_reply_to_status_id_str": "1031385123546001408",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 130463020,
+          "id_str": "130463020"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:24:09 +0000 2018",
+      "id": 1031426642667745300,
+      "id_str": "1031426642667745281",
+      "full_text": "@freken_kate Совсем соседи.  Угол Лермонтовского.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        49
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "freken_kate",
+            "name": "Катюша",
+            "id": 190987393,
+            "id_str": "190987393",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031398868276207600,
+      "in_reply_to_status_id_str": "1031398868276207616",
+      "in_reply_to_user_id": 190987393,
+      "in_reply_to_user_id_str": "190987393",
+      "in_reply_to_screen_name": "freken_kate",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:31:28 +0000 2018",
+      "id": 1031428484621512700,
+      "id_str": "1031428484621512704",
+      "full_text": "Да, обычно интересно, хотя бывают случаи, когда количество тестеостерона в одной комнате зашкаливает. https://t.co/QTFb4FHL1U",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/QTFb4FHL1U",
+            "expanded_url": "https://twitter.com/prihodkohell199/status/1031425844894474240",
+            "display_url": "twitter.com/prihodkohell19…",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031425844894474200,
+      "quoted_status_id_str": "1031425844894474240",
+      "quoted_status_permalink": {
+        "url": "https://t.co/QTFb4FHL1U",
+        "expanded": "https://twitter.com/prihodkohell199/status/1031425844894474240",
+        "display": "twitter.com/prihodkohell19…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 06:20:59 +0000 2018",
+        "id": 1031425844894474200,
+        "id_str": "1031425844894474240",
+        "full_text": "@abroadunderhood Круто наверное работать в таком месте, самое большое количество людей с амбициями в одном месте?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          113
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031383461544611800,
+        "in_reply_to_status_id_str": "1031383461544611840",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 310090021,
+          "id_str": "310090021"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:34:43 +0000 2018",
+      "id": 1031429303869694000,
+      "id_str": "1031429303869693953",
+      "full_text": "@uvarova_n Нормальный университет, базу даёт вполне приличную, но надо продолжать учиться всю жизнь. В нашей профессии  если остановился - то отстал.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "uvarova_n",
+            "name": "nasty uvario",
+            "id": 135584031,
+            "id_str": "135584031",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031426659684175900,
+      "in_reply_to_status_id_str": "1031426659684175872",
+      "in_reply_to_user_id": 135584031,
+      "in_reply_to_user_id_str": "135584031",
+      "in_reply_to_screen_name": "uvarova_n",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:35:33 +0000 2018",
+      "id": 1031429514033680400,
+      "id_str": "1031429514033680384",
+      "full_text": "@AlenaPolska И вам тоже",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        23
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "AlenaPolska",
+            "name": "Alena_Prianichnikova",
+            "id": 108282100,
+            "id_str": "108282100",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031427768767197200,
+      "in_reply_to_status_id_str": "1031427768767197187",
+      "in_reply_to_user_id": 108282100,
+      "in_reply_to_user_id_str": "108282100",
+      "in_reply_to_screen_name": "AlenaPolska",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:42:40 +0000 2018",
+      "id": 1031431302619136000,
+      "id_str": "1031431302619136000",
+      "full_text": "@E_Maximus 14 -16 - раз на раз не приходится.\nЭтот ещё и после 401К",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        67
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "E_Maximus",
+            "name": "ArtemKa",
+            "id": 168176693,
+            "id_str": "168176693",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031429633529524200,
+      "in_reply_to_status_id_str": "1031429633529524225",
+      "in_reply_to_user_id": 168176693,
+      "in_reply_to_user_id_str": "168176693",
+      "in_reply_to_screen_name": "E_Maximus",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:49:32 +0000 2018",
+      "id": 1031433031054057500,
+      "id_str": "1031433031054057472",
+      "full_text": "@omybeard Я не делю людей на русских и не русских.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        50
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "omybeard",
+            "name": "Pasha from Russia",
+            "id": 130463020,
+            "id_str": "130463020",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031430751282065400,
+      "in_reply_to_status_id_str": "1031430751282065409",
+      "in_reply_to_user_id": 130463020,
+      "in_reply_to_user_id_str": "130463020",
+      "in_reply_to_screen_name": "omybeard",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:53:07 +0000 2018",
+      "id": 1031433932808446000,
+      "id_str": "1031433932808445952",
+      "full_text": "Здесь примерно половина, но вообще-то наш проект разбросан между 6-ю странами https://t.co/6HLTnxRaYy",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        77
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6HLTnxRaYy",
+            "expanded_url": "https://twitter.com/nsnext_/status/1031430367482454016",
+            "display_url": "twitter.com/nsnext_/status…",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031430367482454000,
+      "quoted_status_id_str": "1031430367482454016",
+      "quoted_status_permalink": {
+        "url": "https://t.co/6HLTnxRaYy",
+        "expanded": "https://twitter.com/nsnext_/status/1031430367482454016",
+        "display": "twitter.com/nsnext_/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 06:38:57 +0000 2018",
+        "id": 1031430367482454000,
+        "id_str": "1031430367482454016",
+        "full_text": "@abroadunderhood А много эмигрантов в вашей команде?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          52
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031428484621512700,
+        "in_reply_to_status_id_str": "1031428484621512704",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 939306006,
+          "id_str": "939306006"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:53:59 +0000 2018",
+      "id": 1031434150941667300,
+      "id_str": "1031434150941667328",
+      "full_text": "@zel_enb All of the above.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        26
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zel_enb",
+            "name": "zelenb",
+            "id": 1063473402,
+            "id_str": "1063473402",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031428095767502800,
+      "in_reply_to_status_id_str": "1031428095767502848",
+      "in_reply_to_user_id": 1063473402,
+      "in_reply_to_user_id_str": "1063473402",
+      "in_reply_to_screen_name": "zel_enb",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Mon Aug 20 06:56:53 +0000 2018",
+      "id": 1031434881857777700,
+      "id_str": "1031434881857777664",
+      "full_text": "Ещё не приходилось. https://t.co/xUvSXte0mC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xUvSXte0mC",
+            "expanded_url": "https://twitter.com/stralex7/status/1031433797374562305",
+            "display_url": "twitter.com/stralex7/statu…",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031433797374562300,
+      "quoted_status_id_str": "1031433797374562305",
+      "quoted_status_permalink": {
+        "url": "https://t.co/xUvSXte0mC",
+        "expanded": "https://twitter.com/stralex7/status/1031433797374562305",
+        "display": "twitter.com/stralex7/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 06:52:35 +0000 2018",
+        "id": 1031433797374562300,
+        "id_str": "1031433797374562305",
+        "full_text": "@abroadunderhood Часто сталкиваюсь, что зарплата это должность(position) никак не связана с компетенцией. Часто приходится сталкиваться с diversity hire?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          153
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031399328328208400,
+        "in_reply_to_status_id_str": "1031399328328208384",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 193603628,
+          "id_str": "193603628"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 06:59:46 +0000 2018",
+      "id": 1031435606084091900,
+      "id_str": "1031435606084091905",
+      "full_text": "Значит с алкоголем. \nЭто американская особенность. \nВ Британии он весь с алкоголем, а в Америке есть и  без. https://t.co/9fcjP0vURf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        108
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9fcjP0vURf",
+            "expanded_url": "https://twitter.com/trenermaks/status/1031433241897693184",
+            "display_url": "twitter.com/trenermaks/sta…",
+            "indices": [
+              109,
+              132
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031433241897693200,
+      "quoted_status_id_str": "1031433241897693184",
+      "quoted_status_permalink": {
+        "url": "https://t.co/9fcjP0vURf",
+        "expanded": "https://twitter.com/trenermaks/status/1031433241897693184",
+        "display": "twitter.com/trenermaks/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 06:50:22 +0000 2018",
+        "id": 1031433241897693200,
+        "id_str": "1031433241897693184",
+        "full_text": "@abroadunderhood Что значит Hard Cider ?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          40
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1031397027429539800,
+        "in_reply_to_status_id_str": "1031397027429539841",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 838871694563500000,
+          "id_str": "838871694563500036"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 07:01:39 +0000 2018",
+      "id": 1031436081676222500,
+      "id_str": "1031436081676222469",
+      "full_text": "@gimlis @E_Maximus У меня зарплата немного выше.",
+      "truncated": false,
+      "display_text_range": [
+        19,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gimlis",
+            "name": "Mikhail",
+            "id": 8608012,
+            "id_str": "8608012",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "screen_name": "E_Maximus",
+            "name": "ArtemKa",
+            "id": 168176693,
+            "id_str": "168176693",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031434680728342500,
+      "in_reply_to_status_id_str": "1031434680728342528",
+      "in_reply_to_user_id": 8608012,
+      "in_reply_to_user_id_str": "8608012",
+      "in_reply_to_screen_name": "gimlis",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 07:08:58 +0000 2018",
+      "id": 1031437923676082200,
+      "id_str": "1031437923676082176",
+      "full_text": "Мы пользуемся WebX, но в остальном то же самое. В силу специфики проекта много французов, израильтян, ребят с Тайваня и из Сингапура. https://t.co/tcw6pdMF26",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        133
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tcw6pdMF26",
+            "expanded_url": "https://twitter.com/maxhocom/status/1031434667612721152",
+            "display_url": "twitter.com/maxhocom/statu…",
+            "indices": [
+              134,
+              157
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031434667612721200,
+      "quoted_status_id_str": "1031434667612721152",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tcw6pdMF26",
+        "expanded": "https://twitter.com/maxhocom/status/1031434667612721152",
+        "display": "twitter.com/maxhocom/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 06:56:02 +0000 2018",
+        "id": 1031434667612721200,
+        "id_str": "1031434667612721152",
+        "full_text": "@abroadunderhood Я единственный не-индус, в полностью индийской конторе, базирующейся в Саннивейле, и тоже разбросанной между 6-ю странами, вот сейчас в Скайпе с Сингапуром и Новой Зеландией.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          191
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1031433932808446000,
+        "in_reply_to_status_id_str": "1031433932808445952",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 109595657,
+          "id_str": "109595657"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 07:14:38 +0000 2018",
+      "id": 1031439349492080600,
+      "id_str": "1031439349492080640",
+      "full_text": "@omybeard Нет",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        13
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "omybeard",
+            "name": "Pasha from Russia",
+            "id": 130463020,
+            "id_str": "130463020",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1031439019798749200,
+      "in_reply_to_status_id_str": "1031439019798749184",
+      "in_reply_to_user_id": 130463020,
+      "in_reply_to_user_id_str": "130463020",
+      "in_reply_to_screen_name": "omybeard",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 20 07:20:54 +0000 2018",
+      "id": 1031440923782144000,
+      "id_str": "1031440923782144000",
+      "full_text": "С английским первое время было не важно. Технический по специальности я конечно знал, но общаться было трудно. Поэтому на совещаниях в основном молчал, чем производил на коллег впечатление умного человека. \nПотом, по мере освоения разговорного английского  это прошло. https://t.co/1wQPWhm8ph",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/1wQPWhm8ph",
+            "expanded_url": "https://twitter.com/omybeard/status/1031439361580003328",
+            "display_url": "twitter.com/omybeard/statu…",
+            "indices": [
+              269,
+              292
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1031439361580003300,
+      "quoted_status_id_str": "1031439361580003328",
+      "quoted_status_permalink": {
+        "url": "https://t.co/1wQPWhm8ph",
+        "expanded": "https://twitter.com/omybeard/status/1031439361580003328",
+        "display": "twitter.com/omybeard/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 20 07:14:41 +0000 2018",
+        "id": 1031439361580003300,
+        "id_str": "1031439361580003328",
+        "full_text": "@abroadunderhood Слушайте, а когда вы приехали как у вас с английским было? Тут ведь не просто английский нужен, а технический. Может был такой вопрос уже?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          155
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1031433932808446000,
+        "in_reply_to_status_id_str": "1031433932808445952",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 130463020,
+          "id_str": "130463020"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 5,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
