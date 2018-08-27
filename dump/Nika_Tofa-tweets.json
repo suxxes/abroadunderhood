@@ -1,0 +1,533 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Aug 26 21:48:10 +0000 2018",
+      "id": 1033833506818936800,
+      "id_str": "1033833506818936836",
+      "full_text": "Доброй всем ночи!\nКомандовать парадом на этой неделе буду я :D\nМеня зовут Вероника, и 25го августа было ровно 2 года, как я понаехала в славную страну тысячи озер.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 134,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 26 21:52:21 +0000 2018",
+      "id": 1033834560713359400,
+      "id_str": "1033834560713359360",
+      "full_text": "Примерный план на неделю:\n- как переехала и что делала в первый год жизни здесь\n- поиск работы, жилья и все, что с этим связано\n- финская культура\n- достопримечательности\n- немного о языке\n- ваши вопросы\n- возможно на выходных поедем с вами куда-нибудь :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 86,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Aug 26 21:53:58 +0000 2018",
+      "id": 1033834965744738300,
+      "id_str": "1033834965744738306",
+      "full_text": "И этим Люксембургом была Финляндия! https://t.co/bKTgsVdrIz",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bKTgsVdrIz",
+            "expanded_url": "https://twitter.com/francereports/status/1033834613599297536",
+            "display_url": "twitter.com/francereports/…",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1033834613599297500,
+      "quoted_status_id_str": "1033834613599297536",
+      "quoted_status_permalink": {
+        "url": "https://t.co/bKTgsVdrIz",
+        "expanded": "https://twitter.com/francereports/status/1033834613599297536",
+        "display": "twitter.com/francereports/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Aug 26 21:52:34 +0000 2018",
+        "id": 1033834613599297500,
+        "id_str": "1033834613599297536",
+        "full_text": "@abroadunderhood Наконец-то Люксембург!",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          39
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+        "in_reply_to_status_id": 1033833506818936800,
+        "in_reply_to_status_id_str": "1033833506818936836",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 22252276,
+          "id_str": "22252276"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 44,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 27 06:50:01 +0000 2018",
+      "id": 1033969868129951700,
+      "id_str": "1033969868129951744",
+      "full_text": "Доброе утро :) \nСегодня я постараюсь рассказать вам о том, как вообще случился мой переезд в Суоми и чем я занималась в первый год жизни здесь. \nПостараюсь писать побольше, если работы не будет сильно много. \nА пока, фото по дороге на работу. https://t.co/epvWsDjTDq",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        242
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1033969856151015400,
+            "id_str": "1033969856151015424",
+            "indices": [
+              243,
+              266
+            ],
+            "media_url": "http://pbs.twimg.com/media/DllmGyBX0AA7O17.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DllmGyBX0AA7O17.jpg",
+            "url": "https://t.co/epvWsDjTDq",
+            "display_url": "pic.twitter.com/epvWsDjTDq",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1033969868129951744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1033969856151015400,
+            "id_str": "1033969856151015424",
+            "indices": [
+              243,
+              266
+            ],
+            "media_url": "http://pbs.twimg.com/media/DllmGyBX0AA7O17.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DllmGyBX0AA7O17.jpg",
+            "url": "https://t.co/epvWsDjTDq",
+            "display_url": "pic.twitter.com/epvWsDjTDq",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1033969868129951744/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 27 06:54:42 +0000 2018",
+      "id": 1033971045420687400,
+      "id_str": "1033971045420687360",
+      "full_text": "Я даже прогуглила, но ссылки типа \"Финляндия - страна тысячи озер и алкоголя\" не оставляют Беларуси шансов :D https://t.co/X78mY6CxIa",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/X78mY6CxIa",
+            "expanded_url": "https://twitter.com/bndrsk/status/1033836817018224640",
+            "display_url": "twitter.com/bndrsk/status/…",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1033836817018224600,
+      "quoted_status_id_str": "1033836817018224640",
+      "quoted_status_permalink": {
+        "url": "https://t.co/X78mY6CxIa",
+        "expanded": "https://twitter.com/bndrsk/status/1033836817018224640",
+        "display": "twitter.com/bndrsk/status/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Aug 26 22:01:19 +0000 2018",
+        "id": 1033836817018224600,
+        "id_str": "1033836817018224640",
+        "full_text": "@abroadunderhood Так, падажжы, страна 1000 озёр это Беларусь. Может, ты к нам ехала, но водитель обманул и завёз на север?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          122
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+        "in_reply_to_status_id": 1033833506818936800,
+        "in_reply_to_status_id_str": "1033833506818936836",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 1698625542,
+          "id_str": "1698625542"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 27 06:57:54 +0000 2018",
+      "id": 1033971851863699500,
+      "id_str": "1033971851863699457",
+      "full_text": "Отвечаю о мужмужмуже:\nКогда я узнала, что я буду вести эброд, я конечно намекнула одному кандидату, что неплохо было бы жениться на мне, дабы все было по канону. Но кандидат почему-то не проявил должного рвения, так что я продолжаю оставаться сильной и независмой. :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 27 06:59:17 +0000 2018",
+      "id": 1033972199017930800,
+      "id_str": "1033972199017930752",
+      "full_text": "@vvnis В Финляндии их примерно 180 тысяч, так что все места хороши, и предлагаю озерами не меряться :)",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        102
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vvnis",
+            "name": "Otrad",
+            "id": 24156305,
+            "id_str": "24156305",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1033971171845398500,
+      "in_reply_to_status_id_str": "1033971171845398529",
+      "in_reply_to_user_id": 24156305,
+      "in_reply_to_user_id_str": "24156305",
+      "in_reply_to_screen_name": "vvnis",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 27 06:59:55 +0000 2018",
+      "id": 1033972360246947800,
+      "id_str": "1033972360246947841",
+      "full_text": "@caerlyKD Надеюсь, я вас не разочарую :)",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        40
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "caerlyKD",
+            "name": "Caerly",
+            "id": 1560841333,
+            "id_str": "1560841333",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1033972097033359400,
+      "in_reply_to_status_id_str": "1033972097033359360",
+      "in_reply_to_user_id": 1560841333,
+      "in_reply_to_user_id_str": "1560841333",
+      "in_reply_to_screen_name": "caerlyKD",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
