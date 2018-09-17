@@ -1,0 +1,142 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Prague, Czech Republic",
+  "profile_location": null,
+  "description": "Автор этой недели - @Awisone — 20 лет живу в Чехии,  и сам несколько лет как чех.",
+  "url": "https://t.co/wSOhx8PsA5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8PsA5",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 16664,
+  "friends_count": 0,
+  "listed_count": 254,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 13135,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 96626,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Sep 17 12:27:37 +0000 2018",
+    "id": 1041664972265336800,
+    "id_str": "1041664972265336834",
+    "text": "@olena_po То есть это значит что человек говно) ОК))",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "olena_po",
+          "name": "принцеса Ентропія",
+          "id": 926069676,
+          "id_str": "926069676",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": 1041664808742002700,
+    "in_reply_to_status_id_str": "1041664808742002689",
+    "in_reply_to_user_id": 926069676,
+    "in_reply_to_user_id_str": "926069676",
+    "in_reply_to_screen_name": "olena_po",
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "01f031025af48dac",
+      "url": "https://api.twitter.com/1.1/geo/id/01f031025af48dac.json",
+      "place_type": "admin",
+      "name": "Central Bohemia",
+      "full_name": "Central Bohemia, Czech Republic",
+      "country_code": "CZ",
+      "country": "Czech Republic",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              13.3973828,
+              49.5008371
+            ],
+            [
+              15.5346252,
+              49.5008371
+            ],
+            [
+              15.5346252,
+              50.6190995
+            ],
+            [
+              13.3973828,
+              50.6190995
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1041568131142086656/E1iQ64RU_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1041568131142086656/E1iQ64RU_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1537164074",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
