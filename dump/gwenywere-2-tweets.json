@@ -1,0 +1,89 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Oct 01 07:57:11 +0000 2018",
+      "id": 1046670347913834500,
+      "id_str": "1046670347913834496",
+      "full_text": "Привет! Kaixo! Это снова я, снова из Испании, на этот раз из Страны Басков, города Сан-Себастьяна. Я веду Эброд второй раз. Первый раз это был расссказ про Мадрид. Вот: https://t.co/g4caQQmUnA",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        192
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/g4caQQmUnA",
+            "expanded_url": "http://abroadunderhood.ru/gwenywere/",
+            "display_url": "abroadunderhood.ru/gwenywere/",
+            "indices": [
+              169,
+              192
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 01 08:04:39 +0000 2018",
+      "id": 1046672225099804700,
+      "id_str": "1046672225099804672",
+      "full_text": "Краткое содержание предыдущей серии. Три года назад я приехала в Испанию к молодому человеку (это одна из самых распространенных историй среди иммигранток в Испании), два года прожила в Мадриде, а потом уехала учиться в магистратуру в Сан-Себастьян.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
