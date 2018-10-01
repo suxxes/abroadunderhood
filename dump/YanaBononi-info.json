@@ -26,22 +26,22 @@
     }
   },
   "protected": false,
-  "followers_count": 16696,
+  "followers_count": 16832,
   "friends_count": 0,
-  "listed_count": 255,
+  "listed_count": 256,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 13200,
+  "favourites_count": 13301,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 97282,
+  "statuses_count": 97444,
   "lang": "en",
   "status": {
-    "created_at": "Mon Sep 24 14:55:35 +0000 2018",
-    "id": 1044238927262044200,
-    "id_str": "1044238927262044160",
-    "text": "Доброго времени суток, дорогие друзья! С вами Яна Бонони в прямом эфире. На этой неделе будут фонтаны кока-колы (ди… https://t.co/C62NmL1FQO",
+    "created_at": "Sun Sep 30 13:45:15 +0000 2018",
+    "id": 1046395551120592900,
+    "id_str": "1046395551120592896",
+    "text": "Все процессы легализации на  территории США сегодня занимают в два раза больше, чем раньше. Сроки лишь продолжают р… https://t.co/xYV1b1libu",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +49,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/C62NmL1FQO",
-          "expanded_url": "https://twitter.com/i/web/status/1044238927262044160",
+          "url": "https://t.co/xYV1b1libu",
+          "expanded_url": "https://twitter.com/i/web/status/1046395551120592896",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -67,13 +67,49 @@
     "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
-    "place": null,
+    "place": {
+      "id": "00c39537733fa112",
+      "url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json",
+      "place_type": "city",
+      "name": "Queens",
+      "full_name": "Queens, NY",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.962582,
+              40.541722
+            ],
+            [
+              -73.699793,
+              40.541722
+            ],
+            [
+              -73.699793,
+              40.8000371
+            ],
+            [
+              -73.962582,
+              40.8000371
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
     "contributors": null,
-    "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 17,
+    "is_quote_status": true,
+    "quoted_status_id": 1046393767232770000,
+    "quoted_status_id_str": "1046393767232770049",
+    "retweet_count": 2,
+    "favorite_count": 9,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -100,9 +136,9 @@
   "translator_type": "none",
   "suspended": false,
   "needs_phone_verification": false,
-  "time_zone_offset": -240,
+  "time_zone_offset": 0,
   "geometry": {
-    "lat": 40.7127753,
-    "lng": -74.0059728
+    "lat": 0,
+    "lng": 0
   }
 }
