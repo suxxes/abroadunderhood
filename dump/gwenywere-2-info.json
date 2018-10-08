@@ -3,9 +3,20 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "New York, USA",
-  "profile_location": null,
-  "description": "Автор этой недели Лена - @gwenywere из Сан-Себастьяна, Испания.",
+  "location": "Donostia-San Sebastián, Spain",
+  "profile_location": {
+    "id": "2b53b3439c29b85b",
+    "url": "https://api.twitter.com/1.1/geo/id/2b53b3439c29b85b.json",
+    "place_type": "unknown",
+    "name": "Donostia-San Sebastián, Spain",
+    "full_name": "Donostia-San Sebastián, Spain",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Автор этой недели Лена - @gwenywere из Страны Басков.",
   "url": "https://t.co/wSOhx8PsA5",
   "entities": {
     "url": {
@@ -26,22 +37,22 @@
     }
   },
   "protected": false,
-  "followers_count": 16833,
+  "followers_count": 16867,
   "friends_count": 0,
-  "listed_count": 256,
+  "listed_count": 255,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 13301,
+  "favourites_count": 13362,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 97449,
+  "statuses_count": 97846,
   "lang": "en",
   "status": {
-    "created_at": "Mon Oct 01 08:04:39 +0000 2018",
-    "id": 1046672225099804700,
-    "id_str": "1046672225099804672",
-    "text": "Краткое содержание предыдущей серии. Три года назад я приехала в Испанию к молодому человеку (это одна из самых рас… https://t.co/xZpHjplCHO",
+    "created_at": "Sun Oct 07 19:59:57 +0000 2018",
+    "id": 1049026562367131600,
+    "id_str": "1049026562367131649",
+    "text": "На самом деле я хотела рассказать еще много всего, но одной недели на все мало. Спасибо всем! Мне было интересно. С… https://t.co/dYjBt3ZjCE",
     "truncated": true,
     "entities": {
       "hashtags": [],
@@ -49,8 +60,8 @@
       "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/xZpHjplCHO",
-          "expanded_url": "https://twitter.com/i/web/status/1046672225099804672",
+          "url": "https://t.co/dYjBt3ZjCE",
+          "expanded_url": "https://twitter.com/i/web/status/1049026562367131649",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -70,8 +81,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 64,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
