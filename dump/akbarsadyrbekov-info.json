@@ -1,0 +1,142 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "广东, 中华人民共和国",
+  "profile_location": null,
+  "description": "Автор этой недели Акбар - @akbarsadyrbekov Давайте рассмотрим современный Китай, который удивляет, поражает и заставляет улыбнуться",
+  "url": "https://t.co/wSOhx8xRbv",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8xRbv",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 16886,
+  "friends_count": 0,
+  "listed_count": 257,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 13390,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 98283,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Oct 15 06:26:57 +0000 2018",
+    "id": 1051721067780132900,
+    "id_str": "1051721067780132864",
+    "text": "@ruxeg Привет, красавчик! Спасибо Вам!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ruxeg",
+          "name": "ruX",
+          "id": 113131428,
+          "id_str": "113131428",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1051679965366825000,
+    "in_reply_to_status_id_str": "1051679965366824961",
+    "in_reply_to_user_id": 113131428,
+    "in_reply_to_user_id_str": "113131428",
+    "in_reply_to_screen_name": "ruxeg",
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00059b04495a7e37",
+      "url": "https://api.twitter.com/1.1/geo/id/00059b04495a7e37.json",
+      "place_type": "admin",
+      "name": "Guangdong",
+      "full_name": "Guangdong, People's Republic of China",
+      "country_code": "CN",
+      "country": "People's Republic of China",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.664659,
+              20.221264
+            ],
+            [
+              117.17479,
+              20.221264
+            ],
+            [
+              117.17479,
+              25.518608
+            ],
+            [
+              109.664659,
+              25.518608
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1051672095627739138/aPzNCuup_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1051672095627739138/aPzNCuup_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1539572563",
+  "profile_link_color": "ABB8C2",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
