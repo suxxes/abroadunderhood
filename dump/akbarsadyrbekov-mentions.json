@@ -22708,6 +22708,80 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Oct 22 09:56:24 +0000 2018",
+      "id": 1054310492926283800,
+      "id_str": "1054310492926283776",
+      "text": "@tweetillo @lxvslnk @abroadunderhood Лично знаю биохимика, который ещё в 90 уехал по специальности. Он там ещё и из… https://t.co/g6w5aNOzjf",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tweetillo",
+            "name": "illona",
+            "id": 4558416497,
+            "id_str": "4558416497",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "lxvslnk",
+            "name": "Oleksii",
+            "id": 555323349,
+            "id_str": "555323349",
+            "indices": [
+              11,
+              19
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              20,
+              36
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/g6w5aNOzjf",
+            "expanded_url": "https://twitter.com/i/web/status/1054310492926283776",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1054222100268044300,
+      "in_reply_to_status_id_str": "1054222100268044288",
+      "in_reply_to_user_id": 4558416497,
+      "in_reply_to_user_id_str": "4558416497",
+      "in_reply_to_screen_name": "tweetillo",
+      "user": {
+        "id": 2905291161,
+        "id_str": "2905291161"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
