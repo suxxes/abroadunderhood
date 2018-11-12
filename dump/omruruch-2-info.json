@@ -37,231 +37,55 @@
     }
   },
   "protected": false,
-  "followers_count": 17606,
+  "followers_count": 17641,
   "friends_count": 1,
   "listed_count": 267,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 13829,
+  "favourites_count": 13824,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 99309,
+  "statuses_count": 99356,
   "lang": "en",
   "status": {
-    "created_at": "Sat Nov 10 21:29:48 +0000 2018",
-    "id": 1061370361038626800,
-    "id_str": "1061370361038626816",
-    "text": "Уже 40 лет у нас есть свой собственный карнавал https://t.co/AP4m5WP8Oh",
+    "created_at": "Mon Nov 12 07:04:26 +0000 2018",
+    "id": 1061877363972091900,
+    "id_str": "1061877363972091904",
+    "text": "@alexapproaching играют во всем мире, в США, Израиле и Германии много команд. Играют на русском",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [],
-      "media": [
+      "user_mentions": [
         {
-          "id": 1061370342684459000,
-          "id_str": "1061370342684459008",
+          "screen_name": "alexapproaching",
+          "name": "Alex",
+          "id": 89387573,
+          "id_str": "89387573",
           "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/Drq-tArXgAAReuq.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Drq-tArXgAAReuq.jpg",
-          "url": "https://t.co/AP4m5WP8Oh",
-          "display_url": "pic.twitter.com/AP4m5WP8Oh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1061370361038626816/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            }
-          }
+            0,
+            16
+          ]
         }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1061370342684459000,
-          "id_str": "1061370342684459008",
-          "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/Drq-tArXgAAReuq.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Drq-tArXgAAReuq.jpg",
-          "url": "https://t.co/AP4m5WP8Oh",
-          "display_url": "pic.twitter.com/AP4m5WP8Oh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1061370361038626816/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1061370343993077800,
-          "id_str": "1061370343993077771",
-          "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/Drq-tFjXcAsvpLi.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Drq-tFjXcAsvpLi.jpg",
-          "url": "https://t.co/AP4m5WP8Oh",
-          "display_url": "pic.twitter.com/AP4m5WP8Oh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1061370361038626816/photo/1",
-          "type": "photo",
-          "sizes": {
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            },
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 1024,
-              "h": 682,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1061370342076231700,
-          "id_str": "1061370342076231680",
-          "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/Drq-s-aWsAAEFoH.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Drq-s-aWsAAEFoH.jpg",
-          "url": "https://t.co/AP4m5WP8Oh",
-          "display_url": "pic.twitter.com/AP4m5WP8Oh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1061370361038626816/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 920,
-              "h": 622,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 920,
-              "h": 622,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 680,
-              "h": 460,
-              "resize": "fit"
-            }
-          }
-        },
-        {
-          "id": 1061370343993102300,
-          "id_str": "1061370343993102336",
-          "indices": [
-            48,
-            71
-          ],
-          "media_url": "http://pbs.twimg.com/media/Drq-tFjX0AAYoRN.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/Drq-tFjX0AAYoRN.jpg",
-          "url": "https://t.co/AP4m5WP8Oh",
-          "display_url": "pic.twitter.com/AP4m5WP8Oh",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1061370361038626816/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "small": {
-              "w": 680,
-              "h": 453,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 751,
-              "h": 500,
-              "resize": "fit"
-            },
-            "medium": {
-              "w": 751,
-              "h": 500,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1061713414593110000,
+    "in_reply_to_status_id_str": "1061713414593110016",
+    "in_reply_to_user_id": 89387573,
+    "in_reply_to_user_id_str": "89387573",
+    "in_reply_to_screen_name": "alexapproaching",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 7,
+    "retweet_count": 0,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
