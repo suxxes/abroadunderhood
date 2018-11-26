@@ -36,35 +36,46 @@
     }
   },
   "protected": false,
-  "followers_count": 17787,
+  "followers_count": 17835,
   "friends_count": 0,
-  "listed_count": 268,
+  "listed_count": 269,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 14093,
+  "favourites_count": 14313,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 100119,
+  "statuses_count": 100407,
   "lang": "en",
   "status": {
-    "created_at": "Fri Nov 23 10:27:39 +0000 2018",
-    "id": 1065914768278605800,
-    "id_str": "1065914768278605824",
-    "text": "Сотрудники нужны. Напишите мне лично в личный твиттер плиз. https://t.co/mj4PIrarZj",
+    "created_at": "Sun Nov 25 20:57:16 +0000 2018",
+    "id": 1066797995340038100,
+    "id_str": "1066797995340038144",
+    "text": "@lampalap https://t.co/H7NkEjdioQ",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "lampalap",
+          "name": "Lkshpründa",
+          "id": 510282406,
+          "id_str": "510282406",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/mj4PIrarZj",
-          "expanded_url": "https://twitter.com/_katero4ek_/status/1065909456683323392",
-          "display_url": "twitter.com/_katero4ek_/st…",
+          "url": "https://t.co/H7NkEjdioQ",
+          "expanded_url": "https://twitter.com/elenash500/status/1066797570104745987",
+          "display_url": "twitter.com/elenash500/sta…",
           "indices": [
-            60,
-            83
+            10,
+            33
           ]
         }
       ]
@@ -72,17 +83,17 @@
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_user_id": 510282406,
+    "in_reply_to_user_id_str": "510282406",
+    "in_reply_to_screen_name": "lampalap",
     "geo": null,
     "coordinates": null,
     "place": {
-      "id": "06168d1feda43857",
-      "url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
-      "place_type": "admin",
-      "name": "South East",
-      "full_name": "South East, England",
+      "id": "616ba1df27270916",
+      "url": "https://api.twitter.com/1.1/geo/id/616ba1df27270916.json",
+      "place_type": "city",
+      "name": "Oxford",
+      "full_name": "Oxford, England",
       "country_code": "GB",
       "country": "United Kingdom",
       "contained_within": [],
@@ -91,20 +102,20 @@
         "coordinates": [
           [
             [
-              -1.95729593780907,
-              50.5746064789388
+              -1.289608,
+              51.7122668
             ],
             [
-              1.45178800018019,
-              50.5746064789388
+              -1.1772587,
+              51.7122668
             ],
             [
-              1.45178800018019,
-              52.1962850088601
+              -1.1772587,
+              51.796305
             ],
             [
-              -1.95729593780907,
-              52.1962850088601
+              -1.289608,
+              51.796305
             ]
           ]
         ]
@@ -113,14 +124,14 @@
     },
     "contributors": null,
     "is_quote_status": true,
-    "quoted_status_id": 1065909456683323400,
-    "quoted_status_id_str": "1065909456683323392",
-    "retweet_count": 0,
-    "favorite_count": 3,
+    "quoted_status_id": 1066797570104746000,
+    "quoted_status_id_str": "1066797570104745987",
+    "retweet_count": 1,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
-    "lang": "ru"
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
