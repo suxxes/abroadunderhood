@@ -1,0 +1,1157 @@
+{
+  "tweets": [
+    {
+      "created_at": "Sun Dec 09 23:04:25 +0000 2018",
+      "id": 1071903422436294700,
+      "id_str": "1071903422436294656",
+      "full_text": "Grüß Gott, котятки! Соскучились? Давненько у нас не было профессии по умолчанию из страны по умолчанию!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        103
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 72,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:25 +0000 2018",
+      "id": 1071903423501688800,
+      "id_str": "1071903423501688833",
+      "full_text": "Итак, меня зовут Роман (@r0mko), и, как вы уже догадались, я программист из Германии, а именно из самой солнечной её земли — Баден-Вюртемберга. Буду рассказывать в осномном про неё.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "r0mko",
+            "name": "множественные сарказмы",
+            "id": 112346604,
+            "id_str": "112346604",
+            "indices": [
+              24,
+              30
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903422436294700,
+      "in_reply_to_status_id_str": "1071903422436294656",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:26 +0000 2018",
+      "id": 1071903425112272900,
+      "id_str": "1071903425112272896",
+      "full_text": "Сам я родом из Ленинградской области, прожил в Мурманске 25 лет, после уехал в Москву, где через 8 лет в целом неплохой жизни сел в красный трактор и слинял в сабж. За неделю планирую обсудить с вами следующие темы (не по дням):",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903423501688800,
+      "in_reply_to_status_id_str": "1071903423501688833",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:26 +0000 2018",
+      "id": 1071903426257276900,
+      "id_str": "1071903426257276928",
+      "full_text": "1. История и личный опыт тракторостроения, как и почему я вообще во всё это ввязался и что из этого вышло через три года.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903425112272900,
+      "in_reply_to_status_id_str": "1071903425112272896",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:26 +0000 2018",
+      "id": 1071903427532349400,
+      "id_str": "1071903427532349441",
+      "full_text": "2. Визовые вопросы, разрешение на работу семье. Условия работы, требования, отпуск, переработки, баланс работы и жизни. Очень кратко, потому что уже много раз было.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903426257276900,
+      "in_reply_to_status_id_str": "1071903426257276928",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:27 +0000 2018",
+      "id": 1071903428916506600,
+      "id_str": "1071903428916506624",
+      "full_text": "3. Опыт переезда, перевозки вещей и кошки, поиска жилья и особенности жизни в частном секторе, сравним с многоквартирным жильём. Тоже вкратце, а то как будто вы и так всё это не знаете.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        185
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903427532349400,
+      "in_reply_to_status_id_str": "1071903427532349441",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:27 +0000 2018",
+      "id": 1071903430212497400,
+      "id_str": "1071903430212497410",
+      "full_text": "4. Посчитаем деньги среднего программиста в Баден-Вюртемберге, сравним стоимость жизни. Про налоги кратенько, чтоб не повторяться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        130
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903428916506600,
+      "in_reply_to_status_id_str": "1071903428916506624",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:27 +0000 2018",
+      "id": 1071903431265304600,
+      "id_str": "1071903431265304577",
+      "full_text": "5. Медицина. Про неё было много, расскажу чё к чему вкратце и потравлю реальные байки про реальных людей. Будет много мёда и пара ложек вонючего говнеца.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903430212497400,
+      "in_reply_to_status_id_str": "1071903430212497410",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:27 +0000 2018",
+      "id": 1071903432385138700,
+      "id_str": "1071903432385138688",
+      "full_text": "6. Расскажу за Швабию и стереотипы. Как оно — жить в букваре? Красивая природа, сытая жизнь, фирменный менталитет, климат, жрака, винчик, курорты на горячих источниках, лес, Мерседес, Порше, вот это всё.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        203
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903431265304600,
+      "in_reply_to_status_id_str": "1071903431265304577",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:28 +0000 2018",
+      "id": 1071903434071269400,
+      "id_str": "1071903434071269377",
+      "full_text": "7. Погуляем по столице — Штутгарту.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        35
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903432385138700,
+      "in_reply_to_status_id_str": "1071903432385138688",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:28 +0000 2018",
+      "id": 1071903435405037600,
+      "id_str": "1071903435405037568",
+      "full_text": "8. Расскажу про автошколу, про правила и понятия дорожного движения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903434071269400,
+      "in_reply_to_status_id_str": "1071903434071269377",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:28 +0000 2018",
+      "id": 1071903436583682000,
+      "id_str": "1071903436583682049",
+      "full_text": "9. Поговорим, почему Германия — это кайф и почему сюда обязательно стоит приехать жить. \nПоговорим, почему Германия — это отстой и почему сюда никогда не стоит приезжать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903435405037600,
+      "in_reply_to_status_id_str": "1071903435405037568",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 48,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:04:29 +0000 2018",
+      "id": 1071903437829357600,
+      "id_str": "1071903437829357569",
+      "full_text": "10. На выходных попробуем потолкаться на рождественском базаре",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        62
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071903436583682000,
+      "in_reply_to_status_id_str": "1071903436583682049",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:19:26 +0000 2018",
+      "id": 1071907200124239900,
+      "id_str": "1071907200124239872",
+      "full_text": "Чтобы не грузить лишней информацией читателей-не-айтишников, в этом треде будет вся инфа про работу. Все обсуждения на профессиональные темы только здесь.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:19:26 +0000 2018",
+      "id": 1071907201529380900,
+      "id_str": "1071907201529380865",
+      "full_text": "Я Senior C++ Software Engineer, делаю на Qt и QML infortainment-систему для Мерседесов. Выглядит примерно так: https://t.co/EJCM1Vk3Dv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EJCM1Vk3Dv",
+            "expanded_url": "https://www.youtube.com/watch?v=KZybtOW3Vek",
+            "display_url": "youtube.com/watch?v=KZybtO…",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071907200124239900,
+      "in_reply_to_status_id_str": "1071907200124239872",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 40,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Dec 09 23:31:36 +0000 2018",
+      "id": 1071910263824236500,
+      "id_str": "1071910263824236544",
+      "full_text": "@Balldir Нет, у нас более высокоуровневый софт. Мы пишем на C++, а не C.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Balldir",
+            "name": "Max",
+            "id": 120731059,
+            "id_str": "120731059",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071908826994098200,
+      "in_reply_to_status_id_str": "1071908826994098177",
+      "in_reply_to_user_id": 120731059,
+      "in_reply_to_user_id_str": "120731059",
+      "in_reply_to_screen_name": "Balldir",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Dec 09 23:33:26 +0000 2018",
+      "id": 1071910724266532900,
+      "id_str": "1071910724266532865",
+      "full_text": "@cellular_bud Es geht, danke! Und dir?",
+      "truncated": false,
+      "display_text_range": [
+        14,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cellular_bud",
+            "name": "Мексиканский жрец 💀",
+            "id": 3745145777,
+            "id_str": "3745145777",
+            "indices": [
+              0,
+              13
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071910090372993000,
+      "in_reply_to_status_id_str": "1071910090372993031",
+      "in_reply_to_user_id": 3745145777,
+      "in_reply_to_user_id_str": "3745145777",
+      "in_reply_to_screen_name": "cellular_bud",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "de"
+    },
+    {
+      "created_at": "Sun Dec 09 23:43:07 +0000 2018",
+      "id": 1071913162801377300,
+      "id_str": "1071913162801377282",
+      "full_text": "@damirca Наоборот, я всё исправил!",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "damirca",
+            "name": "damirca",
+            "id": 14384501,
+            "id_str": "14384501",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071909598079189000,
+      "in_reply_to_status_id_str": "1071909598079188992",
+      "in_reply_to_user_id": 14384501,
+      "in_reply_to_user_id_str": "14384501",
+      "in_reply_to_screen_name": "damirca",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 00:03:42 +0000 2018",
+      "id": 1071918340443115500,
+      "id_str": "1071918340443115520",
+      "full_text": "Это долгая история, и относится она далеко не только к бюджетным авто. В БМВ, Ауди и тех же Мерседесах до 2015-16 года ситуация была просто плачевная. https://t.co/Sdf592aG9n",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Sdf592aG9n",
+            "expanded_url": "https://twitter.com/badgercat/status/1071915201929379840",
+            "display_url": "twitter.com/badgercat/stat…",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1071915201929379800,
+      "quoted_status_id_str": "1071915201929379840",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Sdf592aG9n",
+        "expanded": "https://twitter.com/badgercat/status/1071915201929379840",
+        "display": "twitter.com/badgercat/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Dec 09 23:51:14 +0000 2018",
+        "id": 1071915201929379800,
+        "id_str": "1071915201929379840",
+        "full_text": "@abroadunderhood Популярный вопрос наверное: в мерсах ещё ладно, но почему в более бюджетных машинах всегда настолько ужасный интерфейс? :) Даже андроид/эппл авто вон всякие уже изобрели, лишь бы это исправить.",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          210
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1071907201529380900,
+        "in_reply_to_status_id_str": "1071907201529380865",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 19856378,
+          "id_str": "19856378"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 00:03:42 +0000 2018",
+      "id": 1071918341852418000,
+      "id_str": "1071918341852418048",
+      "full_text": "Интерфейсы этих систем исторически проектировали люди, далёкие от идей прекрасного UX. Они были, скорее, инженерами. Только недавно с ростом сложности таких систем стало понятно, что дальше так продолжаться не может, и производители наняли толковых UX дизайнеров.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071918340443115500,
+      "in_reply_to_status_id_str": "1071918340443115520",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 00:03:42 +0000 2018",
+      "id": 1071918343295250400,
+      "id_str": "1071918343295250432",
+      "full_text": "Надо признать, что даже современные системы далеки от идеала, и наша не исключение. Выглядит там всё очень красиво, но над удобством и эргономикой ещё есть где поработать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071918341852418000,
+      "in_reply_to_status_id_str": "1071918341852418048",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 00:03:43 +0000 2018",
+      "id": 1071918344809431000,
+      "id_str": "1071918344809431042",
+      "full_text": "Глядя на будущую систему, которую ещё нельзя показывать публично, я могу сказать, что в плане удобства (UX) в будущем всё станет ещё немного получше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        149
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1071918343295250400,
+      "in_reply_to_status_id_str": "1071918343295250432",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 00:15:49 +0000 2018",
+      "id": 1071921389660180500,
+      "id_str": "1071921389660180480",
+      "full_text": "И традиционно: мужа нет, но я глубоко женат. А на второй вопрос вы скоро сами сможете ответить. Оставайтесь на связи! \n\nУ нас уже второй час ночи, так что добрых снов, продолжим утром!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 07:02:23 +0000 2018",
+      "id": 1072023706472513500,
+      "id_str": "1072023706472513537",
+      "full_text": "@Tully_AC Самое время. Я начал в 28.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        36
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tully_AC",
+            "name": "Aglov Sergey",
+            "id": 68684256,
+            "id_str": "68684256",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1072023004882849800,
+      "in_reply_to_status_id_str": "1072023004882849792",
+      "in_reply_to_user_id": 68684256,
+      "in_reply_to_user_id_str": "68684256",
+      "in_reply_to_screen_name": "Tully_AC",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 07:08:28 +0000 2018",
+      "id": 1072025235279499300,
+      "id_str": "1072025235279499264",
+      "full_text": "@Tully_AC Ексельки ковырял, конфигурил систему диспетчерского управления, потом начал писать простенькие скрипты, а в 2010 году уже всерьёз затянуло, и я взялся за плюсы.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Tully_AC",
+            "name": "Aglov Sergey",
+            "id": 68684256,
+            "id_str": "68684256",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1072023830913273900,
+      "in_reply_to_status_id_str": "1072023830913273858",
+      "in_reply_to_user_id": 68684256,
+      "in_reply_to_user_id_str": "68684256",
+      "in_reply_to_screen_name": "Tully_AC",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 07:09:30 +0000 2018",
+      "id": 1072025498568548400,
+      "id_str": "1072025498568548354",
+      "full_text": "@pingwinator Так я на него и метил",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pingwinator",
+            "name": "Vasyl Liutikov",
+            "id": 11490062,
+            "id_str": "11490062",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1072019871771299800,
+      "in_reply_to_status_id_str": "1072019871771299841",
+      "in_reply_to_user_id": 11490062,
+      "in_reply_to_user_id_str": "11490062",
+      "in_reply_to_screen_name": "pingwinator",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 10 07:52:17 +0000 2018",
+      "id": 1072036262360559600,
+      "id_str": "1072036262360559616",
+      "full_text": "Доброе утро! Я ещё не успел начать, а мне уже накидали вопросов. Если я не ответил на вопрос, не переживайте. Я интересные вопросы в помечаю в тетрадочке, и когда придёт время, я постараюсь ответить всем и всё расскажу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
