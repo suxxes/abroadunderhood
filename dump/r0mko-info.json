@@ -47,52 +47,53 @@
     }
   },
   "protected": false,
-  "followers_count": 18232,
+  "followers_count": 18663,
   "friends_count": 0,
-  "listed_count": 269,
+  "listed_count": 275,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 14757,
+  "favourites_count": 15175,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 101497,
+  "statuses_count": 102824,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 10 07:52:17 +0000 2018",
-    "id": 1072036262360559600,
-    "id_str": "1072036262360559616",
-    "text": "Доброе утро! Я ещё не успел начать, а мне уже накидали вопросов. Если я не ответил на вопрос, не переживайте. Я инт… https://t.co/0YHEBoZ7R6",
-    "truncated": true,
+    "created_at": "Sun Dec 16 21:45:43 +0000 2018",
+    "id": 1074420330318520300,
+    "id_str": "1074420330318520320",
+    "text": "@09_rambo9 Та ну не. Мы тут считали, в Германии побольше выходит на круг.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/0YHEBoZ7R6",
-          "expanded_url": "https://twitter.com/i/web/status/1072036262360559616",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "09_rambo9",
+          "name": "Александр Шерман",
+          "id": 451366344,
+          "id_str": "451366344",
           "indices": [
-            117,
-            140
+            0,
+            10
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1074419412168597500,
+    "in_reply_to_status_id_str": "1074419412168597509",
+    "in_reply_to_user_id": 451366344,
+    "in_reply_to_user_id_str": "451366344",
+    "in_reply_to_screen_name": "09_rambo9",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 6,
+    "retweet_count": 0,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
