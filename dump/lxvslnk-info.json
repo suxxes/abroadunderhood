@@ -26,52 +26,53 @@
     }
   },
   "protected": false,
-  "followers_count": 18669,
+  "followers_count": 19001,
   "friends_count": 0,
-  "listed_count": 275,
+  "listed_count": 278,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 15179,
+  "favourites_count": 15549,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 102830,
+  "statuses_count": 103917,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 17 10:14:53 +0000 2018",
-    "id": 1074608866090860500,
-    "id_str": "1074608866090860544",
-    "text": "Дважды прилетал в командировку до переезда. Что первым бросилось в глаза - количество электросамокатов. Сейчас их с… https://t.co/pR8aWA0H3d",
-    "truncated": true,
+    "created_at": "Sun Dec 23 10:52:54 +0000 2018",
+    "id": 1076792758130466800,
+    "id_str": "1076792758130466816",
+    "text": "@Saintwow261984 В личку в личный акк",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/pR8aWA0H3d",
-          "expanded_url": "https://twitter.com/i/web/status/1074608866090860544",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "Saintwow261984",
+          "name": "Vovo",
+          "id": 888838393970479100,
+          "id_str": "888838393970479105",
           "indices": [
-            117,
-            140
+            0,
+            15
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1074607820232810500,
-    "in_reply_to_status_id_str": "1074607820232810497",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": 1076792675125334000,
+    "in_reply_to_status_id_str": "1076792675125334016",
+    "in_reply_to_user_id": 888838393970479100,
+    "in_reply_to_user_id_str": "888838393970479105",
+    "in_reply_to_screen_name": "Saintwow261984",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 2,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
