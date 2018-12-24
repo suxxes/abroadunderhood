@@ -1,0 +1,419 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Dec 24 10:08:17 +0000 2018",
+      "id": 1077143921321525200,
+      "id_str": "1077143921321525249",
+      "full_text": "Шалом, уважаемые. С вами на всю неделю Оля (@olgazju) из Тель Авива.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "olgazju",
+            "name": "OlgaZju",
+            "id": 229657175,
+            "id_str": "229657175",
+            "indices": [
+              44,
+              52
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 54,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:09:07 +0000 2018",
+      "id": 1077144129468067800,
+      "id_str": "1077144129468067842",
+      "full_text": "Кратко о себе: я не еврейка, не имею права на репатриацию, здесь не будет кулстори о том, как попасть в Израиль, если ты не еврей, но вот дед твой еврей, поэтому вот тебе паспорт и плюшечки от Израиля, как репатрианту.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:10:14 +0000 2018",
+      "id": 1077144409056165900,
+      "id_str": "1077144409056165888",
+      "full_text": "Я работаю в айти (да, опять эта айтишечка), училась 1.5 года в израильском колледже и замужем за евреем.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1077144129468067800,
+      "in_reply_to_status_id_str": "1077144129468067842",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:12:52 +0000 2018",
+      "id": 1077145072674721800,
+      "id_str": "1077145072674721794",
+      "full_text": "Для начала шокирующая фотка израильской зимы сегодня утром. https://t.co/inSPf8hb1S",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        59
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1077144881221562400,
+            "id_str": "1077144881221562368",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/DvLJkADXcAAGnSS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvLJkADXcAAGnSS.jpg",
+            "url": "https://t.co/inSPf8hb1S",
+            "display_url": "pic.twitter.com/inSPf8hb1S",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1077145072674721794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1077144881221562400,
+            "id_str": "1077144881221562368",
+            "indices": [
+              60,
+              83
+            ],
+            "media_url": "http://pbs.twimg.com/media/DvLJkADXcAAGnSS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/DvLJkADXcAAGnSS.jpg",
+            "url": "https://t.co/inSPf8hb1S",
+            "display_url": "pic.twitter.com/inSPf8hb1S",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1077145072674721794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 46,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:38:10 +0000 2018",
+      "id": 1077151439334633500,
+      "id_str": "1077151439334633472",
+      "full_text": "А вот и нет. https://t.co/Jd8bhtbNrL",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        12
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Jd8bhtbNrL",
+            "expanded_url": "https://twitter.com/lbslr/status/1077147063274622977",
+            "display_url": "twitter.com/lbslr/status/1…",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1077147063274623000,
+      "quoted_status_id_str": "1077147063274622977",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Jd8bhtbNrL",
+        "expanded": "https://twitter.com/lbslr/status/1077147063274622977",
+        "display": "twitter.com/lbslr/status/1…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Dec 24 10:20:46 +0000 2018",
+        "id": 1077147063274623000,
+        "id_str": "1077147063274622977",
+        "full_text": "@abroadunderhood Блен... Айтишнеца, уеховшая с мужем... Опяяяяяять",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          66
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1077144129468067800,
+        "in_reply_to_status_id_str": "1077144129468067842",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 168573465,
+          "id_str": "168573465"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:40:51 +0000 2018",
+      "id": 1077152113359237100,
+      "id_str": "1077152113359237120",
+      "full_text": "Ладно, а теперь примерный план: \n1. как попасть в Израиль, пути легализации, образование и брак.\n2. жилье, быт, медицина и бюрократия\n3. работа и израильская айтишечка\n4. еда и культурка\n5. география, климат и туризм\n6. иврит и байки про религиозных\n7. праздники и ивенты",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 24 10:41:55 +0000 2018",
+      "id": 1077152384151941100,
+      "id_str": "1077152384151941121",
+      "full_text": "И о главном: муж есть у меня. Муж, одна штука, муж муж НАСТОЯЩИЙ ОТЛИЧНЫЙ МОЙ МУЖ. Все, в принципе можно ничего и не писать больше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        131
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
