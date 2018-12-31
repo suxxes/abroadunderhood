@@ -37,42 +37,63 @@
     }
   },
   "protected": false,
-  "followers_count": 19013,
+  "followers_count": 18926,
   "friends_count": 0,
-  "listed_count": 278,
+  "listed_count": 279,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 15552,
+  "favourites_count": 15750,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 103925,
+  "statuses_count": 104914,
   "lang": "en",
   "status": {
-    "created_at": "Mon Dec 24 10:41:55 +0000 2018",
-    "id": 1077152384151941100,
-    "id_str": "1077152384151941121",
-    "text": "И о главном: муж есть у меня. Муж, одна штука, муж муж НАСТОЯЩИЙ ОТЛИЧНЫЙ МОЙ МУЖ. Все, в принципе можно ничего и не писать больше.",
+    "created_at": "Sun Dec 30 18:07:42 +0000 2018",
+    "id": 1079438894221983700,
+    "id_str": "1079438894221983746",
+    "text": "@cellular_bud @MrKot голандиз",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "cellular_bud",
+          "name": "Мексиканский жрец",
+          "id": 3745145777,
+          "id_str": "3745145777",
+          "indices": [
+            0,
+            13
+          ]
+        },
+        {
+          "screen_name": "MrKot",
+          "name": "Pavel 🇨🇦",
+          "id": 8452002,
+          "id_str": "8452002",
+          "indices": [
+            14,
+            20
+          ]
+        }
+      ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1079420630485880800,
+    "in_reply_to_status_id_str": "1079420630485880832",
+    "in_reply_to_user_id": 3745145777,
+    "in_reply_to_user_id_str": "3745145777",
+    "in_reply_to_screen_name": "cellular_bud",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 3,
+    "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
