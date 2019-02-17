@@ -26,51 +26,40 @@
     }
   },
   "protected": false,
-  "followers_count": 20397,
+  "followers_count": 22031,
   "friends_count": 0,
-  "listed_count": 288,
+  "listed_count": 292,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 16771,
+  "favourites_count": 17184,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 107738,
+  "statuses_count": 108146,
   "lang": "en",
   "status": {
-    "created_at": "Mon Feb 11 09:07:48 +0000 2019",
-    "id": 1094885702330921000,
-    "id_str": "1094885702330920961",
-    "text": "Спасибо большое @logrotation за неделю про Кипр. Архив, как всегда, на сайте — https://t.co/qvfP0dh6sZ",
-    "truncated": false,
+    "created_at": "Sun Feb 17 16:22:11 +0000 2019",
+    "id": 1097169346755887100,
+    "id_str": "1097169346755887104",
+    "text": "Как Петр 1 прорубил окно в Европу, так и _vanswan прорубила на этой неделе форточку в канадский интернет. \nНадеюсь,… https://t.co/K9KiSmHixM",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
-        {
-          "screen_name": "logrotation",
-          "name": "Вуглускр",
-          "id": 20138313,
-          "id_str": "20138313",
-          "indices": [
-            16,
-            28
-          ]
-        }
-      ],
+      "user_mentions": [],
       "urls": [
         {
-          "url": "https://t.co/qvfP0dh6sZ",
-          "expanded_url": "http://abroadunderhood.ru/logrotation/",
-          "display_url": "abroadunderhood.ru/logrotation/",
+          "url": "https://t.co/K9KiSmHixM",
+          "expanded_url": "https://twitter.com/i/web/status/1097169346755887104",
+          "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            79,
-            102
+            117,
+            140
           ]
         }
       ]
     },
-    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
     "in_reply_to_status_id": null,
     "in_reply_to_status_id_str": null,
     "in_reply_to_user_id": null,
@@ -81,8 +70,8 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 26,
+    "favorite_count": 302,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
