@@ -10,10 +10,8 @@ const followers = authorId => R.map(R.prop('id_str'), (getAuthorArea(authorId, '
 export default function getDiffFollowers(authorId) {
   const currentFollowers = followers(authorId);
   const previousFollowers = followers(prev(authorId));
-  if (R.length(previousFollowers) > 0) {
-    return {
-      gain: R.length(diff(currentFollowers, previousFollowers)),
-      loss: R.length(diff(previousFollowers, currentFollowers)),
-    };
-  }
+  return {
+    gain: R.length(diff(currentFollowers, previousFollowers)),
+    loss: R.length(diff(previousFollowers, currentFollowers)),
+  };
 }
