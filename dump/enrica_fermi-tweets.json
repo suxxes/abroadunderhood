@@ -1,0 +1,776 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Mar 04 08:25:43 +0000 2019",
+      "id": 1102485257872379900,
+      "id_str": "1102485257872379905",
+      "full_text": "Привет, меня зовут Ксюша, я родилась в Харькове, а сейчас живу в Страсбурге, во Франции, и буду с вами на этой неделе. А фотография из Парижа, это тоже важный для меня город в котором я долго прожила. https://t.co/jmVb0YvgWf",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1102485253011238900,
+            "id_str": "1102485253011238912",
+            "indices": [
+              201,
+              224
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0zQfxPXcAASYs_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0zQfxPXcAASYs_.jpg",
+            "url": "https://t.co/jmVb0YvgWf",
+            "display_url": "pic.twitter.com/jmVb0YvgWf",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1102485257872379905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1102485253011238900,
+            "id_str": "1102485253011238912",
+            "indices": [
+              201,
+              224
+            ],
+            "media_url": "http://pbs.twimg.com/media/D0zQfxPXcAASYs_.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D0zQfxPXcAASYs_.jpg",
+            "url": "https://t.co/jmVb0YvgWf",
+            "display_url": "pic.twitter.com/jmVb0YvgWf",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1102485257872379905/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 400,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:27:21 +0000 2019",
+      "id": 1102485671703400400,
+      "id_str": "1102485671703400448",
+      "full_text": "В Эльзасе я человек довольно новый, перебралась сюда из Бельгии в декабре прошлого года. Не могу назвать себя спецом по эльзасским фишкам, зато взгляд не замыленный. Будем разбираться вместе с вами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:28:53 +0000 2019",
+      "id": 1102486056266551300,
+      "id_str": "1102486056266551296",
+      "full_text": "@A_SemperVirens Расскажу, всё по порядку!",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "A_SemperVirens",
+            "name": "Andrew SemperVirens",
+            "id": 255083728,
+            "id_str": "255083728",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1102485734102057000,
+      "in_reply_to_status_id_str": "1102485734102056961",
+      "in_reply_to_user_id": 255083728,
+      "in_reply_to_user_id_str": "255083728",
+      "in_reply_to_screen_name": "A_SemperVirens",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:29:44 +0000 2019",
+      "id": 1102486269811134500,
+      "id_str": "1102486269811134465",
+      "full_text": "@NO_NO_3 Есть! Много езжу на велосипеде ;)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "NO_NO_3",
+            "name": "NO_NO_3",
+            "id": 373209002,
+            "id_str": "373209002",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1102485967066353700,
+      "in_reply_to_status_id_str": "1102485967066353665",
+      "in_reply_to_user_id": 373209002,
+      "in_reply_to_user_id_str": "373209002",
+      "in_reply_to_screen_name": "NO_NO_3",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:31:46 +0000 2019",
+      "id": 1102486782367752200,
+      "id_str": "1102486782367752192",
+      "full_text": "О, погнали зековские загадки. Давайте сразу начнём и кончим. Крым украинский, временно оккупированный РФ. Это первый и последний твит на тему. https://t.co/IgPlWJ8hYt",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        142
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IgPlWJ8hYt",
+            "expanded_url": "https://twitter.com/_chigas_/status/1102486158376878080",
+            "display_url": "twitter.com/_chigas_/statu…",
+            "indices": [
+              143,
+              166
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1102486158376878100,
+      "quoted_status_id_str": "1102486158376878080",
+      "quoted_status_permalink": {
+        "url": "https://t.co/IgPlWJ8hYt",
+        "expanded": "https://twitter.com/_chigas_/status/1102486158376878080",
+        "display": "twitter.com/_chigas_/statu…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Mar 04 08:29:18 +0000 2019",
+        "id": 1102486158376878100,
+        "id_str": "1102486158376878080",
+        "full_text": "@abroadunderhood Давай начнём с главного.\nЧей Крым?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          51
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1102485671703400400,
+        "in_reply_to_status_id_str": "1102485671703400448",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 391932202,
+          "id_str": "391932202"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 10,
+      "favorite_count": 68,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:34:52 +0000 2019",
+      "id": 1102487559559626800,
+      "id_str": "1102487559559626754",
+      "full_text": "Нет, велосипедный шлем носить не обязательно, жилет тоже. Это личный выбор велосипедиста. Правила предусматривают наличие огней в тёмное время суток, вот и всё. https://t.co/lhhWCiZa7C",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lhhWCiZa7C",
+            "expanded_url": "https://twitter.com/no_no_3/status/1102487018964160513",
+            "display_url": "twitter.com/no_no_3/status…",
+            "indices": [
+              161,
+              184
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1102487018964160500,
+      "quoted_status_id_str": "1102487018964160513",
+      "quoted_status_permalink": {
+        "url": "https://t.co/lhhWCiZa7C",
+        "expanded": "https://twitter.com/no_no_3/status/1102487018964160513",
+        "display": "twitter.com/no_no_3/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Mar 04 08:32:43 +0000 2019",
+        "id": 1102487018964160500,
+        "id_str": "1102487018964160513",
+        "full_text": "@abroadunderhood За отсутствие шлема сделают замечание горожане (не полиция) ?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          78
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1102486269811134500,
+        "in_reply_to_status_id_str": "1102486269811134465",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 373209002,
+          "id_str": "373209002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:35:31 +0000 2019",
+      "id": 1102487725863772200,
+      "id_str": "1102487725863772160",
+      "full_text": "А, недопоняла вопрос. Горожане - ну мне нет, с чего бы?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1102487559559626800,
+      "in_reply_to_status_id_str": "1102487559559626754",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:37:41 +0000 2019",
+      "id": 1102488269693030400,
+      "id_str": "1102488269693030400",
+      "full_text": "Да, сразу карты на стол: я PhD по экспериментальной ядерной физике. Это не про бомбы и не про электростанции, просто фундаментальная наука ради радости познания. Работала и работаю в разных исследовательских центрах, в том числе в CERN.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 59,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:37:52 +0000 2019",
+      "id": 1102488316790886400,
+      "id_str": "1102488316790886400",
+      "full_text": "Если вам интересно про такое, спрашивайте, расскажу с удовольствием!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1102488269693030400,
+      "in_reply_to_status_id_str": "1102488269693030400",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:40:25 +0000 2019",
+      "id": 1102488956254470100,
+      "id_str": "1102488956254470144",
+      "full_text": "Признаться я неправильный человек чтобы ответить: не смотрю телевизор и нерегулярно читаю новости, мне интереснее другие вещи. Больше говорят о Пакистане, потому что это внове, но вовлечённость больше, думаю, по Сирии. https://t.co/Ll5Y5hf7yj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Ll5Y5hf7yj",
+            "expanded_url": "https://twitter.com/no_no_3/status/1102488125400588290",
+            "display_url": "twitter.com/no_no_3/status…",
+            "indices": [
+              219,
+              242
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1102488125400588300,
+      "quoted_status_id_str": "1102488125400588290",
+      "quoted_status_permalink": {
+        "url": "https://t.co/Ll5Y5hf7yj",
+        "expanded": "https://twitter.com/no_no_3/status/1102488125400588290",
+        "display": "twitter.com/no_no_3/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Mar 04 08:37:06 +0000 2019",
+        "id": 1102488125400588300,
+        "id_str": "1102488125400588290",
+        "full_text": "@abroadunderhood На этой недели во Франции пишут больше о Сирии или Индии/Пакестане ? Где \"вовлеченность\" больше ?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          114
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1102486782367752200,
+        "in_reply_to_status_id_str": "1102486782367752192",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 373209002,
+          "id_str": "373209002"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 04 08:45:57 +0000 2019",
+      "id": 1102490350835433500,
+      "id_str": "1102490350835433472",
+      "full_text": "На Французском СтрасбУр. На немецком Штрасбурк, на эльзасском кажется тоже, но эти неточно (может знает кто? 👀) https://t.co/30nfgsCT7f",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        111
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/30nfgsCT7f",
+            "expanded_url": "https://twitter.com/seniorgonzales1/status/1102487037138087936",
+            "display_url": "twitter.com/seniorgonzales…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1102487037138088000,
+      "quoted_status_id_str": "1102487037138087936",
+      "quoted_status_permalink": {
+        "url": "https://t.co/30nfgsCT7f",
+        "expanded": "https://twitter.com/seniorgonzales1/status/1102487037138087936",
+        "display": "twitter.com/seniorgonzales…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Mar 04 08:32:47 +0000 2019",
+        "id": 1102487037138088000,
+        "id_str": "1102487037138087936",
+        "full_text": "@abroadunderhood Скажите, как всё-таки правильно: Страсбур или Страсбург?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          73
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1102485257872379900,
+        "in_reply_to_status_id_str": "1102485257872379905",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3918085402,
+          "id_str": "3918085402"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
