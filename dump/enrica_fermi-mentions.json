@@ -46950,6 +46950,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Mar 11 09:43:50 +0000 2019",
+      "id": 1105041632980815900,
+      "id_str": "1105041632980815872",
+      "text": "@ha1f_man @abroadunderhood Эти пацаны ещё и болезнь Лайма переносят, а она бактериальная.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ha1f_man",
+            "name": "Половина человека",
+            "id": 768157422347251700,
+            "id_str": "768157422347251712",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1104735316160798700,
+      "in_reply_to_status_id_str": "1104735316160798721",
+      "in_reply_to_user_id": 768157422347251700,
+      "in_reply_to_user_id_str": "768157422347251712",
+      "in_reply_to_screen_name": "ha1f_man",
+      "user": {
+        "id": 4066519995,
+        "id_str": "4066519995"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
