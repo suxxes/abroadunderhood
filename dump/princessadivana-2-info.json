@@ -1,0 +1,130 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Warsaw, Poland",
+  "profile_location": {
+    "id": "535f0c2de0121451",
+    "url": "https://api.twitter.com/1.1/geo/id/535f0c2de0121451.json",
+    "place_type": "unknown",
+    "name": "Warsaw, Poland",
+    "full_name": "Warsaw, Poland",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Автор этой недели - @princessadivana из Варшавы, Польша 🇵🇱",
+  "url": "https://t.co/wSOhx8PsA5",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8PsA5",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 22728,
+  "friends_count": 0,
+  "listed_count": 308,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 18353,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 110045,
+  "lang": "en",
+  "status": {
+    "created_at": "Tue Mar 12 14:11:24 +0000 2019",
+    "id": 1105471357310115800,
+    "id_str": "1105471357310115841",
+    "text": "@Roman_free @enrica_fermi Я не вижу комментарии человека, но человек может читать твиты",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Roman_free",
+          "name": "Возмущённый Римлянин",
+          "id": 2982683817,
+          "id_str": "2982683817",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "enrica_fermi",
+          "name": "Степень свободы",
+          "id": 499861019,
+          "id_str": "499861019",
+          "indices": [
+            12,
+            25
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1105470269395750900,
+    "in_reply_to_status_id_str": "1105470269395750912",
+    "in_reply_to_user_id": 2982683817,
+    "in_reply_to_user_id_str": "2982683817",
+    "in_reply_to_screen_name": "Roman_free",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1105105470736515073/pECG4K9x_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105105470736515073/pECG4K9x_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1552312595",
+  "profile_link_color": "91D2FA",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}
