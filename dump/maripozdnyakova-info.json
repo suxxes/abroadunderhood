@@ -1,0 +1,152 @@
+{
+  "id": 3955812173,
+  "id_str": "3955812173",
+  "name": "Эброд Андерхуд",
+  "screen_name": "abroadunderhood",
+  "location": "Vancouver, British Columbia",
+  "profile_location": {
+    "id": "1e5cb4d0509db554",
+    "url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+    "place_type": "unknown",
+    "name": "Vancouver, British Columbia",
+    "full_name": "Vancouver, British Columbia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
+  "description": "Автор этой недели - @maripozdnyakova из Ванкувера, Канада 🇨🇦",
+  "url": "https://t.co/wSOhx8xRbv",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/wSOhx8xRbv",
+          "expanded_url": "http://abroadunderhood.ru",
+          "display_url": "abroadunderhood.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 22880,
+  "friends_count": 1,
+  "listed_count": 308,
+  "created_at": "Wed Oct 14 12:33:52 +0000 2015",
+  "favourites_count": 19493,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 112023,
+  "lang": "en",
+  "status": {
+    "created_at": "Mon Apr 01 19:22:10 +0000 2019",
+    "id": 1112797320125378600,
+    "id_str": "1112797320125378561",
+    "text": "Это бизнес программа с уклоном на индустрию, в которой 8 секторов, начиная от транспорта-авиакомпаний и круизов, за… https://t.co/jJlSC5d8QE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/jJlSC5d8QE",
+          "expanded_url": "https://twitter.com/i/web/status/1112797320125378561",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1112790911329591300,
+    "in_reply_to_status_id_str": "1112790911329591296",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "2b78ee9f58b991a8",
+      "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+      "place_type": "city",
+      "name": "North Vancouver",
+      "full_name": "North Vancouver, British Columbia",
+      "country_code": "CA",
+      "country": "Canada",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.1282715,
+              49.293965
+            ],
+            [
+              -122.8696693,
+              49.293965
+            ],
+            [
+              -122.8696693,
+              49.413962
+            ],
+            [
+              -123.1282715,
+              49.413962
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1112785651970109441/2grbxRMB_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1112785651970109441/2grbxRMB_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/3955812173/1554143750",
+  "profile_link_color": "91D2FA",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none",
+  "suspended": false,
+  "needs_phone_verification": false,
+  "time_zone_offset": 0,
+  "geometry": {
+    "lat": 0,
+    "lng": 0
+  }
+}

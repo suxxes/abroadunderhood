@@ -1,0 +1,643 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Apr 01 18:38:26 +0000 2019",
+      "id": 1112786314305237000,
+      "id_str": "1112786314305236993",
+      "full_text": "Привет, на этой неделе с вами Мари из цветущего канадского Ванкувера! https://t.co/S9ri33ibvS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        69
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1112786307887976400,
+            "id_str": "1112786307887976448",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3FpQFCU0AA19-p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3FpQFCU0AA19-p.jpg",
+            "url": "https://t.co/S9ri33ibvS",
+            "display_url": "pic.twitter.com/S9ri33ibvS",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1112786314305236993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1112786307887976400,
+            "id_str": "1112786307887976448",
+            "indices": [
+              70,
+              93
+            ],
+            "media_url": "http://pbs.twimg.com/media/D3FpQFCU0AA19-p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D3FpQFCU0AA19-p.jpg",
+            "url": "https://t.co/S9ri33ibvS",
+            "display_url": "pic.twitter.com/S9ri33ibvS",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1112786314305236993/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1536,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "1e5cb4d0509db554",
+        "url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+        "place_type": "city",
+        "name": "Vancouver",
+        "full_name": "Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.224215,
+                49.19854
+              ],
+              [
+                -123.022947,
+                49.19854
+              ],
+              [
+                -123.022947,
+                49.316738
+              ],
+              [
+                -123.224215,
+                49.316738
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 86,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:38:49 +0000 2019",
+      "id": 1112786408735797200,
+      "id_str": "1112786408735797254",
+      "full_text": "Пару недель назад Алиса ворвалась в Эброд и уже рассказала о многих прелестях жизни в Канаде. Я продолжу ее миссию и расскажу вам о Ванкувере глазами студента.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112786314305237000,
+      "in_reply_to_status_id_str": "1112786314305236993",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:39:29 +0000 2019",
+      "id": 1112786577820799000,
+      "id_str": "1112786577820798976",
+      "full_text": "За три года здесь я набрала много историй из канадских вузов и пару килограмм от местного хлеба",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112786408735797200,
+      "in_reply_to_status_id_str": "1112786408735797254",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:40:02 +0000 2019",
+      "id": 1112786715318480900,
+      "id_str": "1112786715318480896",
+      "full_text": "Поболтаем о переезде, учебе, практиках, работе в секторе туризма и не только и бесконечно красивой природе западного побережья очень доброй страны",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112786577820799000,
+      "in_reply_to_status_id_str": "1112786577820798976",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:40:36 +0000 2019",
+      "id": 1112786859917078500,
+      "id_str": "1112786859917078528",
+      "full_text": "Под этим твитом задавайте вопросы и темы, раскроем и скорректируем программу",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        76
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112786715318480900,
+      "in_reply_to_status_id_str": "1112786715318480896",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:55:56 +0000 2019",
+      "id": 1112790716818837500,
+      "id_str": "1112790716818837504",
+      "full_text": "Начнём пожалуй с истории переезда. Три года назад я закончила школу с углубленным изучением английского языка во Владивостоке, сдала IELTS и подала документы в Capilano University.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 18:56:42 +0000 2019",
+      "id": 1112790911329591300,
+      "id_str": "1112790911329591296",
+      "full_text": "Моя программа-Бакалавриат Туристического Менеджмента. И вопреки стереотипам я не выпущусь тургидом",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        98
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112790716818837500,
+      "in_reply_to_status_id_str": "1112790716818837504",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Apr 01 19:22:10 +0000 2019",
+      "id": 1112797320125378600,
+      "id_str": "1112797320125378561",
+      "full_text": "Это бизнес программа с уклоном на индустрию, в которой 8 секторов, начиная от транспорта-авиакомпаний и круизов, заканчивая отелями, ресторанами и организацией активного отдыха",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        176
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1112790911329591300,
+      "in_reply_to_status_id_str": "1112790911329591296",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": {
+        "id": "2b78ee9f58b991a8",
+        "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
+        "place_type": "city",
+        "name": "North Vancouver",
+        "full_name": "North Vancouver, British Columbia",
+        "country_code": "CA",
+        "country": "Canada",
+        "contained_within": [],
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -123.1282715,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.293965
+              ],
+              [
+                -122.8696693,
+                49.413962
+              ],
+              [
+                -123.1282715,
+                49.413962
+              ]
+            ]
+          ]
+        },
+        "attributes": {}
+      },
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
