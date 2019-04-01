@@ -37,57 +37,65 @@
     }
   },
   "protected": false,
-  "followers_count": 22865,
+  "followers_count": 22851,
   "friends_count": 1,
   "listed_count": 308,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 18680,
+  "favourites_count": 19496,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 111148,
+  "statuses_count": 112014,
   "lang": "en",
   "status": {
-    "created_at": "Tue Mar 26 12:36:48 +0000 2019",
-    "id": 1110520979183292400,
-    "id_str": "1110520979183292417",
-    "text": "Заметьте, что на первой не только Польские цвета, но и географические очертания Польши внутри руки.\nА вот, что каса… https://t.co/Fk3IGEhWhZ",
-    "truncated": true,
+    "created_at": "Sun Mar 31 20:02:18 +0000 2019",
+    "id": 1112445032563392500,
+    "id_str": "1112445032563392513",
+    "text": "@nuitgal @alduckz Сочувствую! Надеюсь, у вас всё наладится в итоге 🌸",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/Fk3IGEhWhZ",
-          "expanded_url": "https://twitter.com/i/web/status/1110520979183292417",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "nuitgal",
+          "name": "Нутелла",
+          "id": 28430704,
+          "id_str": "28430704",
           "indices": [
-            117,
-            140
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "alduckz",
+          "name": "Солдаты НАТО",
+          "id": 1166678413,
+          "id_str": "1166678413",
+          "indices": [
+            9,
+            17
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1112441311011983400,
+    "in_reply_to_status_id_str": "1112441311011983361",
+    "in_reply_to_user_id": 28430704,
+    "in_reply_to_user_id_str": "28430704",
+    "in_reply_to_screen_name": "nuitgal",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1110520077793792000,
-    "quoted_status_id_str": "1110520077793792000",
+    "is_quote_status": false,
     "retweet_count": 0,
     "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
