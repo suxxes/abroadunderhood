@@ -37,53 +37,193 @@
     }
   },
   "protected": false,
-  "followers_count": 22880,
+  "followers_count": 22980,
   "friends_count": 1,
-  "listed_count": 308,
+  "listed_count": 312,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 19493,
+  "favourites_count": 19517,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 112023,
+  "statuses_count": 112201,
   "lang": "en",
   "status": {
-    "created_at": "Mon Apr 01 19:22:10 +0000 2019",
-    "id": 1112797320125378600,
-    "id_str": "1112797320125378561",
-    "text": "Это бизнес программа с уклоном на индустрию, в которой 8 секторов, начиная от транспорта-авиакомпаний и круизов, за… https://t.co/jJlSC5d8QE",
-    "truncated": true,
+    "created_at": "Thu Apr 04 23:31:26 +0000 2019",
+    "id": 1113947212659093500,
+    "id_str": "1113947212659093504",
+    "text": "До центра из Северного Ванкувера можно добрать по Lions Gate Bridge-тому самому мосту из Пункта назначения https://t.co/0IpCW3wjjY",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [],
-      "urls": [
+      "urls": [],
+      "media": [
         {
-          "url": "https://t.co/jJlSC5d8QE",
-          "expanded_url": "https://twitter.com/i/web/status/1112797320125378561",
-          "display_url": "twitter.com/i/web/status/1…",
+          "id": 1113947204316586000,
+          "id_str": "1113947204316585984",
           "indices": [
-            117,
-            140
-          ]
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3WJFJPUYAAVFpj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3WJFJPUYAAVFpj.jpg",
+          "url": "https://t.co/0IpCW3wjjY",
+          "display_url": "pic.twitter.com/0IpCW3wjjY",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1113947212659093504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 290,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 290,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1113947204316586000,
+          "id_str": "1113947204316585984",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3WJFJPUYAAVFpj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3WJFJPUYAAVFpj.jpg",
+          "url": "https://t.co/0IpCW3wjjY",
+          "display_url": "pic.twitter.com/0IpCW3wjjY",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1113947212659093504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 700,
+              "h": 290,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 700,
+              "h": 290,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 282,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1113947204392067100,
+          "id_str": "1113947204392067072",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3WJFJhUIAAY818.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3WJFJhUIAAY818.jpg",
+          "url": "https://t.co/0IpCW3wjjY",
+          "display_url": "pic.twitter.com/0IpCW3wjjY",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1113947212659093504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 800,
+              "h": 333,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 283,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 333,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1113947204303982600,
+          "id_str": "1113947204303982592",
+          "indices": [
+            107,
+            130
+          ],
+          "media_url": "http://pbs.twimg.com/media/D3WJFJMUEAA4slp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/D3WJFJMUEAA4slp.jpg",
+          "url": "https://t.co/0IpCW3wjjY",
+          "display_url": "pic.twitter.com/0IpCW3wjjY",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1113947212659093504/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1112790911329591300,
-    "in_reply_to_status_id_str": "1112790911329591296",
+    "in_reply_to_status_id": 1113944144978694100,
+    "in_reply_to_status_id_str": "1113944144978694144",
     "in_reply_to_user_id": 3955812173,
     "in_reply_to_user_id_str": "3955812173",
     "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": {
-      "id": "2b78ee9f58b991a8",
-      "url": "https://api.twitter.com/1.1/geo/id/2b78ee9f58b991a8.json",
-      "place_type": "city",
-      "name": "North Vancouver",
-      "full_name": "North Vancouver, British Columbia",
+      "id": "07d9f34db4c85003",
+      "url": "https://api.twitter.com/1.1/geo/id/07d9f34db4c85003.json",
+      "place_type": "poi",
+      "name": "Lions Gate Bridge",
+      "full_name": "Lions Gate Bridge",
       "country_code": "CA",
       "country": "Canada",
       "contained_within": [],
@@ -92,20 +232,20 @@
         "coordinates": [
           [
             [
-              -123.1282715,
-              49.293965
+              -123.13815593719482,
+              49.315387204700286
             ],
             [
-              -122.8696693,
-              49.293965
+              -123.13815593719482,
+              49.315387204700286
             ],
             [
-              -122.8696693,
-              49.413962
+              -123.13815593719482,
+              49.315387204700286
             ],
             [
-              -123.1282715,
-              49.413962
+              -123.13815593719482,
+              49.315387204700286
             ]
           ]
         ]
@@ -115,9 +255,10 @@
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 0,
+    "favorite_count": 22,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
