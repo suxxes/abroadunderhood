@@ -70096,6 +70096,897 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 11 19:52:27 +0000 2019",
+      "id": 1116428820976947200,
+      "id_str": "1116428820976947206",
+      "full_text": "RT @maxhocom: @anaspektor @Serega_ @abroadunderhood А в Канкуне ещё года четыре назад вообще полно мескалей было. https://t.co/r8satQwjA5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxhocom",
+            "name": "HECTOP",
+            "id": 109595657,
+            "id_str": "109595657",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "anaspektor",
+            "name": "Anastasia",
+            "id": 195540983,
+            "id_str": "195540983",
+            "indices": [
+              14,
+              25
+            ]
+          },
+          {
+            "screen_name": "Serega_",
+            "name": "Павлик Морозов",
+            "id": 108260610,
+            "id_str": "108260610",
+            "indices": [
+              26,
+              34
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              35,
+              51
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1116426457792823300,
+            "id_str": "1116426457792823297",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+            "url": "https://t.co/r8satQwjA5",
+            "display_url": "pic.twitter.com/r8satQwjA5",
+            "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1116426675569426400,
+            "source_status_id_str": "1116426675569426433",
+            "source_user_id": 109595657,
+            "source_user_id_str": "109595657"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1116426457792823300,
+            "id_str": "1116426457792823297",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+            "url": "https://t.co/r8satQwjA5",
+            "display_url": "pic.twitter.com/r8satQwjA5",
+            "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 589,
+                "h": 640,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1116426675569426400,
+            "source_status_id_str": "1116426675569426433",
+            "source_user_id": 109595657,
+            "source_user_id_str": "109595657"
+          },
+          {
+            "id": 1116426457843159000,
+            "id_str": "1116426457843159041",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/D35X8sWW0AEja1C.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D35X8sWW0AEja1C.jpg",
+            "url": "https://t.co/r8satQwjA5",
+            "display_url": "pic.twitter.com/r8satQwjA5",
+            "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 463,
+                "h": 650,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 463,
+                "h": 650,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 463,
+                "h": 650,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1116426675569426400,
+            "source_status_id_str": "1116426675569426433",
+            "source_user_id": 109595657,
+            "source_user_id_str": "109595657"
+          },
+          {
+            "id": 1116426457893539800,
+            "id_str": "1116426457893539840",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/D35X8siXkAAsGhj.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D35X8siXkAAsGhj.jpg",
+            "url": "https://t.co/r8satQwjA5",
+            "display_url": "pic.twitter.com/r8satQwjA5",
+            "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 488,
+                "h": 650,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 488,
+                "h": 650,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 488,
+                "h": 650,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1116426675569426400,
+            "source_status_id_str": "1116426675569426433",
+            "source_user_id": 109595657,
+            "source_user_id_str": "109595657"
+          },
+          {
+            "id": 1116426457893482500,
+            "id_str": "1116426457893482502",
+            "indices": [
+              114,
+              137
+            ],
+            "media_url": "http://pbs.twimg.com/media/D35X8siWsAYIZ7E.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D35X8siWsAYIZ7E.jpg",
+            "url": "https://t.co/r8satQwjA5",
+            "display_url": "pic.twitter.com/r8satQwjA5",
+            "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 500,
+                "h": 650,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 500,
+                "h": 650,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 500,
+                "h": 650,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1116426675569426400,
+            "source_status_id_str": "1116426675569426433",
+            "source_user_id": 109595657,
+            "source_user_id_str": "109595657"
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Apr 11 19:43:56 +0000 2019",
+        "id": 1116426675569426400,
+        "id_str": "1116426675569426433",
+        "full_text": "@anaspektor @Serega_ @abroadunderhood А в Канкуне ещё года четыре назад вообще полно мескалей было. https://t.co/r8satQwjA5",
+        "truncated": false,
+        "display_text_range": [
+          38,
+          99
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "anaspektor",
+              "name": "Anastasia",
+              "id": 195540983,
+              "id_str": "195540983",
+              "indices": [
+                0,
+                11
+              ]
+            },
+            {
+              "screen_name": "Serega_",
+              "name": "Павлик Морозов",
+              "id": 108260610,
+              "id_str": "108260610",
+              "indices": [
+                12,
+                20
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                21,
+                37
+              ]
+            }
+          ],
+          "urls": [],
+          "media": [
+            {
+              "id": 1116426457792823300,
+              "id_str": "1116426457792823297",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+              "url": "https://t.co/r8satQwjA5",
+              "display_url": "pic.twitter.com/r8satQwjA5",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1116426457792823300,
+              "id_str": "1116426457792823297",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35X8sKWwAE2OFS.jpg",
+              "url": "https://t.co/r8satQwjA5",
+              "display_url": "pic.twitter.com/r8satQwjA5",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 589,
+                  "h": 640,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1116426457843159000,
+              "id_str": "1116426457843159041",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35X8sWW0AEja1C.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35X8sWW0AEja1C.jpg",
+              "url": "https://t.co/r8satQwjA5",
+              "display_url": "pic.twitter.com/r8satQwjA5",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 463,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 463,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 463,
+                  "h": 650,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1116426457893539800,
+              "id_str": "1116426457893539840",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35X8siXkAAsGhj.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35X8siXkAAsGhj.jpg",
+              "url": "https://t.co/r8satQwjA5",
+              "display_url": "pic.twitter.com/r8satQwjA5",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 488,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 488,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 488,
+                  "h": 650,
+                  "resize": "fit"
+                }
+              }
+            },
+            {
+              "id": 1116426457893482500,
+              "id_str": "1116426457893482502",
+              "indices": [
+                100,
+                123
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35X8siWsAYIZ7E.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35X8siWsAYIZ7E.jpg",
+              "url": "https://t.co/r8satQwjA5",
+              "display_url": "pic.twitter.com/r8satQwjA5",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116426675569426433/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 500,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 500,
+                  "h": 650,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 500,
+                  "h": 650,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1116423813716238300,
+        "in_reply_to_status_id_str": "1116423813716238336",
+        "in_reply_to_user_id": 109595657,
+        "in_reply_to_user_id_str": "109595657",
+        "in_reply_to_screen_name": "maxhocom",
+        "user": {
+          "id": 109595657,
+          "id_str": "109595657"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 11 20:01:15 +0000 2019",
+      "id": 1116431034898440200,
+      "id_str": "1116431034898440193",
+      "full_text": "RT @maxhocom: @Quietyoubastard @abroadunderhood @anaspektor @Serega_ Не столько выдумка, сколько хайповый маркетинг для гринго, как и вот э…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "maxhocom",
+            "name": "HECTOP",
+            "id": 109595657,
+            "id_str": "109595657",
+            "indices": [
+              3,
+              12
+            ]
+          },
+          {
+            "screen_name": "Quietyoubastard",
+            "name": "Quietyou",
+            "id": 948206208506310700,
+            "id_str": "948206208506310656",
+            "indices": [
+              14,
+              30
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              31,
+              47
+            ]
+          },
+          {
+            "screen_name": "anaspektor",
+            "name": "Anastasia",
+            "id": 195540983,
+            "id_str": "195540983",
+            "indices": [
+              48,
+              59
+            ]
+          },
+          {
+            "screen_name": "Serega_",
+            "name": "Павлик Морозов",
+            "id": 108260610,
+            "id_str": "108260610",
+            "indices": [
+              60,
+              68
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Apr 11 19:54:26 +0000 2019",
+        "id": 1116429320682078200,
+        "id_str": "1116429320682078214",
+        "full_text": "@Quietyoubastard @abroadunderhood @anaspektor @Serega_ Не столько выдумка, сколько хайповый маркетинг для гринго, как и вот эти все лаймы и соль, развод для туристов и школоты. Порядочный мескаль и текилу (как и дорогие коньяки/виски) ни кому в голову не придёт так уродовать. Вот здесь подробней по теме: https://t.co/rMJ413wSLp https://t.co/Z6LQKyi62l",
+        "truncated": false,
+        "display_text_range": [
+          55,
+          329
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Quietyoubastard",
+              "name": "Quietyou",
+              "id": 948206208506310700,
+              "id_str": "948206208506310656",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                17,
+                33
+              ]
+            },
+            {
+              "screen_name": "anaspektor",
+              "name": "Anastasia",
+              "id": 195540983,
+              "id_str": "195540983",
+              "indices": [
+                34,
+                45
+              ]
+            },
+            {
+              "screen_name": "Serega_",
+              "name": "Павлик Морозов",
+              "id": 108260610,
+              "id_str": "108260610",
+              "indices": [
+                46,
+                54
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/rMJ413wSLp",
+              "expanded_url": "https://www.maxho.com/index.php/component/content/article/8-main/1109-tekila.html",
+              "display_url": "maxho.com/index.php/comp…",
+              "indices": [
+                306,
+                329
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 1116429261232136200,
+              "id_str": "1116429261232136194",
+              "indices": [
+                330,
+                353
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35af3yX4AIwl2N.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35af3yX4AIwl2N.jpg",
+              "url": "https://t.co/Z6LQKyi62l",
+              "display_url": "pic.twitter.com/Z6LQKyi62l",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116429320682078214/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 440,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1116429261232136200,
+              "id_str": "1116429261232136194",
+              "indices": [
+                330,
+                353
+              ],
+              "media_url": "http://pbs.twimg.com/media/D35af3yX4AIwl2N.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/D35af3yX4AIwl2N.jpg",
+              "url": "https://t.co/Z6LQKyi62l",
+              "display_url": "pic.twitter.com/Z6LQKyi62l",
+              "expanded_url": "https://twitter.com/maxhocom/status/1116429320682078214/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 440,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 800,
+                  "h": 518,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 800,
+                  "h": 518,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": 1116427723843436500,
+        "in_reply_to_status_id_str": "1116427723843436544",
+        "in_reply_to_user_id": 948206208506310700,
+        "in_reply_to_user_id_str": "948206208506310656",
+        "in_reply_to_screen_name": "Quietyoubastard",
+        "user": {
+          "id": 109595657,
+          "id_str": "109595657"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": true,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 11 20:01:26 +0000 2019",
+      "id": 1116431078842142700,
+      "id_str": "1116431078842142721",
+      "full_text": "@zloypodonok Нет",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        16
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zloypodonok",
+            "name": "АЛЕКСЕЙ ЕМЕЛЬЯНОВ",
+            "id": 811863751423094800,
+            "id_str": "811863751423094784",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1116429440186310700,
+      "in_reply_to_status_id_str": "1116429440186310671",
+      "in_reply_to_user_id": 811863751423094800,
+      "in_reply_to_user_id_str": "811863751423094784",
+      "in_reply_to_screen_name": "zloypodonok",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Apr 11 20:04:56 +0000 2019",
+      "id": 1116431960807755800,
+      "id_str": "1116431960807755776",
+      "full_text": "@zloypodonok Не знаю ещё, если нет спроси потом в директе и я отвечу.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        69
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zloypodonok",
+            "name": "АЛЕКСЕЙ ЕМЕЛЬЯНОВ",
+            "id": 811863751423094800,
+            "id_str": "811863751423094784",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1116431252700192800,
+      "in_reply_to_status_id_str": "1116431252700192768",
+      "in_reply_to_user_id": 811863751423094800,
+      "in_reply_to_user_id_str": "811863751423094784",
+      "in_reply_to_screen_name": "zloypodonok",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
