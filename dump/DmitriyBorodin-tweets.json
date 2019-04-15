@@ -1,0 +1,41 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Apr 15 08:14:21 +0000 2019",
+      "id": 1117702689960407000,
+      "id_str": "1117702689960407040",
+      "full_text": "Привет! Меня зовут Дмитрий и эту неделю я с вами. Уже 10 лет я живу в Бельгии и почти 5 из них работаю в Люксембурге. Буду делиться с вами разными аспектами жизни в этих странах.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 79,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
