@@ -37,55 +37,64 @@
     }
   },
   "protected": false,
-  "followers_count": 23392,
+  "followers_count": 23547,
   "friends_count": 0,
-  "listed_count": 315,
+  "listed_count": 317,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 19921,
+  "favourites_count": 20066,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 113038,
+  "statuses_count": 113564,
   "lang": "en",
   "status": {
-    "created_at": "Mon Apr 22 12:23:45 +0000 2019",
-    "id": 1120302167049429000,
-    "id_str": "1120302167049428993",
-    "text": "@jvarenikova ура ура! НГУ объединяет))",
-    "truncated": false,
+    "created_at": "Sun Apr 28 16:13:25 +0000 2019",
+    "id": 1122534291324301300,
+    "id_str": "1122534291324301312",
+    "text": "Если есть желание больше читать про Корею - всегда велкам в мой инстаграм https://t.co/pReEzokJ7S \nвсех обнимаю, да… https://t.co/SI1jxxexhQ",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [
+      "user_mentions": [],
+      "urls": [
         {
-          "screen_name": "jvarenikova",
-          "name": "виола картошкина",
-          "id": 243566930,
-          "id_str": "243566930",
+          "url": "https://t.co/pReEzokJ7S",
+          "expanded_url": "https://www.instagram.com/showmeyourkorea/",
+          "display_url": "instagram.com/showmeyourkore…",
           "indices": [
-            0,
-            12
+            74,
+            97
+          ]
+        },
+        {
+          "url": "https://t.co/SI1jxxexhQ",
+          "expanded_url": "https://twitter.com/i/web/status/1122534291324301312",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
           ]
         }
-      ],
-      "urls": []
+      ]
     },
     "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-    "in_reply_to_status_id": 1120299495420497900,
-    "in_reply_to_status_id_str": "1120299495420497920",
-    "in_reply_to_user_id": 243566930,
-    "in_reply_to_user_id_str": "243566930",
-    "in_reply_to_screen_name": "jvarenikova",
+    "in_reply_to_status_id": 1122533593861853200,
+    "in_reply_to_status_id_str": "1122533593861853184",
+    "in_reply_to_user_id": 3955812173,
+    "in_reply_to_user_id_str": "3955812173",
+    "in_reply_to_screen_name": "abroadunderhood",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 54,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
