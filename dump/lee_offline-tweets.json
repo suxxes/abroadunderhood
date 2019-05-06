@@ -1,0 +1,1017 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon May 06 12:04:27 +0000 2019",
+      "id": 1125370741971673100,
+      "id_str": "1125370741971673088",
+      "full_text": "привет всем, меня зовут Аня, я живу в Торонто (опять Канада, sorry!) и работаю ассистентом режиссера и продакшн координатором на съемках кино, сериалов, рекламы и музыкальных клипов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        182
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 150,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:05:11 +0000 2019",
+      "id": 1125370924914626600,
+      "id_str": "1125370924914626561",
+      "full_text": "в Торонто я переехала в январе 2018 года по программе Express Entry, получив приглашение от провинции Онтарио. подавала документы с подтверждением опыта в съемочной индустрии.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:05:50 +0000 2019",
+      "id": 1125371088723173400,
+      "id_str": "1125371088723173377",
+      "full_text": "подозреваю что мое дело получило зеленый свет только потому, что миграционному офицеру было скучно выдавать эпрувалы айтишникам, маркетологам и финансистам, и он решил посмотреть что из этого выйдет. https://t.co/LJZikZgZlL",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125371082930819100,
+            "id_str": "1125371082930819072",
+            "indices": [
+              200,
+              223
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D54fCZaWkAAcKLq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D54fCZaWkAAcKLq.jpg",
+            "url": "https://t.co/LJZikZgZlL",
+            "display_url": "pic.twitter.com/LJZikZgZlL",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1125371088723173377/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125371082930819100,
+            "id_str": "1125371082930819072",
+            "indices": [
+              200,
+              223
+            ],
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/D54fCZaWkAAcKLq.jpg",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D54fCZaWkAAcKLq.jpg",
+            "url": "https://t.co/LJZikZgZlL",
+            "display_url": "pic.twitter.com/LJZikZgZlL",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1125371088723173377/photo/1",
+            "type": "animated_gif",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 244,
+                "h": 200,
+                "resize": "fit"
+              }
+            },
+            "video_info": {
+              "aspect_ratio": [
+                61,
+                50
+              ],
+              "variants": [
+                {
+                  "bitrate": 0,
+                  "content_type": "video/mp4",
+                  "url": "https://video.twimg.com/tweet_video/D54fCZaWkAAcKLq.mp4"
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1125370924914626600,
+      "in_reply_to_status_id_str": "1125370924914626561",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 41,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:06:20 +0000 2019",
+      "id": 1125371214925578200,
+      "id_str": "1125371214925578241",
+      "full_text": "до Торонто я жила 16 лет в Киеве, родилась в Таджикистане среди красивенных гор, жила в разное время в Германии и Южной Корее.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        126
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1125371088723173400,
+      "in_reply_to_status_id_str": "1125371088723173377",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:08:16 +0000 2019",
+      "id": 1125371700919586800,
+      "id_str": "1125371700919586816",
+      "full_text": "на этой неделе я буду рассказывать о том, как я попала сначала в рекламный продакшн, а вот как раз на днях жду подтверждение своего членства в Directors Guild of Canada, тк с середины марта прохожу туда отбор (тонны paperwork, разные собеседования, тренинги и тесты)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:08:39 +0000 2019",
+      "id": 1125371798781136900,
+      "id_str": "1125371798781136897",
+      "full_text": "@_marsi японская кореянка если что",
+      "truncated": false,
+      "display_text_range": [
+        8,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_marsi",
+            "name": "Милена Митина",
+            "id": 176502559,
+            "id_str": "176502559",
+            "indices": [
+              0,
+              7
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": 1125371398694813700,
+      "in_reply_to_status_id_str": "1125371398694813696",
+      "in_reply_to_user_id": 176502559,
+      "in_reply_to_user_id_str": "176502559",
+      "in_reply_to_screen_name": "_marsi",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:22:28 +0000 2019",
+      "id": 1125375276043522000,
+      "id_str": "1125375276043522048",
+      "full_text": "ещё один нюанс: я буду в большинстве случаев рассказывать о том, что происходит в Торонто и Онтарио. за всю Канаду расписываться не буду. в каждой провинции все по разному :) от фразы «у нас в Канаде» меня очень дергает обычно 😂",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 26,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:23:35 +0000 2019",
+      "id": 1125375553568104400,
+      "id_str": "1125375553568104454",
+      "full_text": "@buldozerxxx я ведь написала, что я в Торонто 🤷🏻‍♀️",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "buldozerxxx",
+            "name": "Вот такой вот интерфейс",
+            "id": 104371938,
+            "id_str": "104371938",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125373388069965800,
+      "in_reply_to_status_id_str": "1125373388069965824",
+      "in_reply_to_user_id": 104371938,
+      "in_reply_to_user_id_str": "104371938",
+      "in_reply_to_screen_name": "buldozerxxx",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:27:04 +0000 2019",
+      "id": 1125376429909086200,
+      "id_str": "1125376429909086208",
+      "full_text": "первую работу я нашла в рекламном продакшне, мне три раза отказали по причине overqualified, и позже я лично убедилась, что это правда. они искали совсем зеленого ассистента, а моя привычка самостоятельно принимать решения их раздражала, так как я делала все по другому.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:28:15 +0000 2019",
+      "id": 1125376727658577900,
+      "id_str": "1125376727658577922",
+      "full_text": "начать работать было очень тяжело. не смотря на мой хороший уровень английского, первые задания меня очень пугали: мне нужно было сидеть в опен-спейсе и обзванивать съёмочную группу, агентов, ренталы, все время что-то им говорить. я стеснялась людей, сидящих рядом",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125376429909086200,
+      "in_reply_to_status_id_str": "1125376429909086208",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:29:25 +0000 2019",
+      "id": 1125377024900489200,
+      "id_str": "1125377024900489216",
+      "full_text": "мне казалось что сотрудники канадцы так умело щебечут по телефону, а я коряво и сухо выдавливаю из себя только техническую инфу по делу, а без small talk тут разговоры не клеятся 😂",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125376727658577900,
+      "in_reply_to_status_id_str": "1125376727658577922",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:31:05 +0000 2019",
+      "id": 1125377444234448900,
+      "id_str": "1125377444234448897",
+      "full_text": "это было жёстко, но зато я быстро научилась болтать о чем угодно и звонить кому угодно. но из продакшна меня уволили через 4 месяца 😂 тогда было очень больно и стыдно, меня впервые в жизни уволили. сейчас понимаю что это был самый счастливый день за тот год 🥳",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125377024900489200,
+      "in_reply_to_status_id_str": "1125377024900489216",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:31:53 +0000 2019",
+      "id": 1125377643430404100,
+      "id_str": "1125377643430404096",
+      "full_text": "в это же время параллельно меня начал хантить другой продакшн, тоже рекламный, в который я изначально хотела попасть. звезды сошлись, я устроилась к ним и работаю до сих пор.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125377444234448900,
+      "in_reply_to_status_id_str": "1125377444234448897",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:32:53 +0000 2019",
+      "id": 1125377893968764900,
+      "id_str": "1125377893968764928",
+      "full_text": "основная загвоздка была в том, что я искала офисную позицию, так как мне нужен был стабильный доход и канадский опыт. а продакшн координаторов в офисах практически не бывает, это фриланс позиция индивидуально под проект",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125377643430404100,
+      "in_reply_to_status_id_str": "1125377643430404096",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:33:06 +0000 2019",
+      "id": 1125377950126182400,
+      "id_str": "1125377950126182401",
+      "full_text": "@buldozerxxx позже все расскажу",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        31
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "buldozerxxx",
+            "name": "Вот такой вот интерфейс",
+            "id": 104371938,
+            "id_str": "104371938",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125376019895062500,
+      "in_reply_to_status_id_str": "1125376019895062528",
+      "in_reply_to_user_id": 104371938,
+      "in_reply_to_user_id_str": "104371938",
+      "in_reply_to_screen_name": "buldozerxxx",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:36:55 +0000 2019",
+      "id": 1125378911154491400,
+      "id_str": "1125378911154491398",
+      "full_text": "когда я искала первую работу, тот продакшн был практически единственным во всем Торонто, который искал ассистента. просто я не знала что им нужен был ассистент ездить по городу и искать целого лосося с плавниками и головой, боссу для ужина с клиентами. а этим я тоже занималась.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125377893968764900,
+      "in_reply_to_status_id_str": "1125377893968764928",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:38:52 +0000 2019",
+      "id": 1125379399518494700,
+      "id_str": "1125379399518494720",
+      "full_text": "обязанности в нынешнем продакшне скорее похожи на административного head of production: я помогаю выигрывать тендеры, занимаюсь бронью съёмочной группы, всякими ресерчами для проекта, логистикой, ворк пермитами для иностранцев и тд.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125378911154491400,
+      "in_reply_to_status_id_str": "1125378911154491398",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:39:44 +0000 2019",
+      "id": 1125379618725335000,
+      "id_str": "1125379618725335040",
+      "full_text": "в прошлом продакшне меня категорически не пускали на съёмочную площадку. в этом меня наоборот всячески пинают «иди, знакомься, наблюдай, учись!» и мне это дико нравится и радует.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        178
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125379399518494700,
+      "in_reply_to_status_id_str": "1125379399518494720",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:41:11 +0000 2019",
+      "id": 1125379983919276000,
+      "id_str": "1125379983919276033",
+      "full_text": "@MRNCH @lee_offline дякую! \n\n*гифка где мальчик смеётся а потом плачет*",
+      "truncated": false,
+      "display_text_range": [
+        20,
+        71
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MRNCH",
+            "name": "You",
+            "id": 9586942,
+            "id_str": "9586942",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "screen_name": "lee_offline",
+            "name": "leeloo dallas",
+            "id": 20908820,
+            "id_str": "20908820",
+            "indices": [
+              7,
+              19
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125379048732020700,
+      "in_reply_to_status_id_str": "1125379048732020737",
+      "in_reply_to_user_id": 9586942,
+      "in_reply_to_user_id_str": "9586942",
+      "in_reply_to_screen_name": "MRNCH",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon May 06 12:41:31 +0000 2019",
+      "id": 1125380069550112800,
+      "id_str": "1125380069550112768",
+      "full_text": "@general57929743 нічосі! :)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        27
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "general57929743",
+            "name": "Мацур",
+            "id": 2300070965,
+            "id_str": "2300070965",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1125379541420138500,
+      "in_reply_to_status_id_str": "1125379541420138497",
+      "in_reply_to_user_id": 2300070965,
+      "in_reply_to_user_id_str": "2300070965",
+      "in_reply_to_screen_name": "general57929743",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon May 06 12:45:52 +0000 2019",
+      "id": 1125381163722399700,
+      "id_str": "1125381163722399745",
+      "full_text": "я понимаю, что в это очень прям сложно поверить, но это новая аватарка, а не предыдущего автора из Японии. представляете, на квадратном мегабайте интернета больше двух азиатов, омг! https://t.co/3PhbxAKCvg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1125381156717772800,
+            "id_str": "1125381156717772800",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54oMxMUwAAP-gX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54oMxMUwAAP-gX.jpg",
+            "url": "https://t.co/3PhbxAKCvg",
+            "display_url": "pic.twitter.com/3PhbxAKCvg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1125381163722399745/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1125381156717772800,
+            "id_str": "1125381156717772800",
+            "indices": [
+              182,
+              205
+            ],
+            "media_url": "http://pbs.twimg.com/media/D54oMxMUwAAP-gX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D54oMxMUwAAP-gX.jpg",
+            "url": "https://t.co/3PhbxAKCvg",
+            "display_url": "pic.twitter.com/3PhbxAKCvg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1125381163722399745/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
