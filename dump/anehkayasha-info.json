@@ -3,8 +3,19 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "Republic of Croatia, Pula",
-  "profile_location": null,
+  "location": "Republic of Croatia",
+  "profile_location": {
+    "id": "8d65596349ee2e01",
+    "url": "https://api.twitter.com/1.1/geo/id/8d65596349ee2e01.json",
+    "place_type": "unknown",
+    "name": "Republic of Croatia",
+    "full_name": "Republic of Croatia",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Автор этой недели - Анна из Хорватии. instagram @mshannahstarling",
   "url": "https://t.co/KN9hDb6yA6",
   "entities": {
@@ -26,52 +37,63 @@
     }
   },
   "protected": false,
-  "followers_count": 24349,
+  "followers_count": 24377,
   "friends_count": 0,
-  "listed_count": 317,
+  "listed_count": 318,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 20550,
+  "favourites_count": 20633,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 115551,
-  "lang": "en",
+  "statuses_count": 115878,
+  "lang": null,
   "status": {
-    "created_at": "Mon May 20 12:06:59 +0000 2019",
-    "id": 1130444809360089100,
-    "id_str": "1130444809360089088",
-    "text": "Вкратце о стране - Хорватия это Балканы, делится на жупании, коих 20 + Загреб, который является как столицей, так и… https://t.co/0xK38sUPS6",
-    "truncated": true,
+    "created_at": "Sun May 26 10:55:06 +0000 2019",
+    "id": 1132601043647422500,
+    "id_str": "1132601043647422464",
+    "text": "@denhellder @arskochev Я ошиблась, вместо Болгарии написала Венгрия.",
+    "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": [
+      "user_mentions": [
         {
-          "url": "https://t.co/0xK38sUPS6",
-          "expanded_url": "https://twitter.com/i/web/status/1130444809360089088",
-          "display_url": "twitter.com/i/web/status/1…",
+          "screen_name": "denhellder",
+          "name": "Den Hellder",
+          "id": 103849645,
+          "id_str": "103849645",
           "indices": [
-            117,
-            140
+            0,
+            11
+          ]
+        },
+        {
+          "screen_name": "arskochev",
+          "name": "Просто Арсений",
+          "id": 239981353,
+          "id_str": "239981353",
+          "indices": [
+            12,
+            22
           ]
         }
-      ]
+      ],
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1132544886014730200,
+    "in_reply_to_status_id_str": "1132544886014730241",
+    "in_reply_to_user_id": 103849645,
+    "in_reply_to_user_id_str": "103849645",
+    "in_reply_to_screen_name": "denhellder",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"
