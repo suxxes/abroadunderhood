@@ -1,0 +1,916 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 01 07:24:55 +0000 2019",
+      "id": 1145594113565364200,
+      "id_str": "1145594113565364224",
+      "full_text": "Всем привет, меня зовут Роман и ближайшую неделю мы проведём в солнечном Вильнюсе. Погнали!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 109,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:27:17 +0000 2019",
+      "id": 1145594710892974100,
+      "id_str": "1145594710892974080",
+      "full_text": "План на неделю: способы завести трактор, особенности интеграции, личные впечатления, крутые места в Вильнюсе, лайфхаки, еда, рынок работы, культурные мастхэв и конечно же ответы на вопросы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145594113565364200,
+      "in_reply_to_status_id_str": "1145594113565364224",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 62,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:32:04 +0000 2019",
+      "id": 1145595911457972200,
+      "id_str": "1145595911457972224",
+      "full_text": "Пока есть время - немного о себе. Переехал в Вильнюс в 2016 году. Не IT. Женат, двое детей. Причина переезда именно в Вильнюс - работа. Потом работа закончилась, а мы остались.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        176
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:32:55 +0000 2019",
+      "id": 1145596126273425400,
+      "id_str": "1145596126273425409",
+      "full_text": "В моем твиттере @poerator в основном про хоккей и киберспорт. Если вдруг кому-то это интересно - велкам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "poerator",
+            "name": "Roman_Che",
+            "id": 227440294,
+            "id_str": "227440294",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145595911457972200,
+      "in_reply_to_status_id_str": "1145595911457972224",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:38:30 +0000 2019",
+      "id": 1145597533214974000,
+      "id_str": "1145597533214973952",
+      "full_text": "Сейчас у меня в Вильнюсе уже третье место работы, дети ходят в садик, жена потихоньку развивает свое ИП. В общем можно сказать, что частичная интеграция произошла.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145596126273425400,
+      "in_reply_to_status_id_str": "1145596126273425409",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:40:43 +0000 2019",
+      "id": 1145598091988557800,
+      "id_str": "1145598091988557825",
+      "full_text": "@jknoxville918 Работаю специалистом по производству видео. Можно сказать продюсером. Организовываю процесс от съёмки роликов до прямых трансляций. Последние три года специализация - киберспорт.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jknoxville918",
+            "name": "Ilya",
+            "id": 799879554349301800,
+            "id_str": "799879554349301760",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145596266321207300,
+      "in_reply_to_status_id_str": "1145596266321207296",
+      "in_reply_to_user_id": 799879554349301800,
+      "in_reply_to_user_id_str": "799879554349301760",
+      "in_reply_to_screen_name": "jknoxville918",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:44:15 +0000 2019",
+      "id": 1145598978047848400,
+      "id_str": "1145598978047848448",
+      "full_text": "@djxtrees Район вокзала. Прямо 7 минут пешком до него. Со стороны Kauno gatve",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        77
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "djxtrees",
+            "name": "Anton Pustovalov",
+            "id": 765925392,
+            "id_str": "765925392",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145598296066527200,
+      "in_reply_to_status_id_str": "1145598296066527232",
+      "in_reply_to_user_id": 765925392,
+      "in_reply_to_user_id_str": "765925392",
+      "in_reply_to_screen_name": "djxtrees",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:45:49 +0000 2019",
+      "id": 1145599374963163100,
+      "id_str": "1145599374963163136",
+      "full_text": "Задавайте вопросы - я на них обязательно отвечу, просто какие-то буду лайкать и отвечать в рамках обсуждаем ой темы. Но постараюсь ответить на все.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145597533214974000,
+      "in_reply_to_status_id_str": "1145597533214973952",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:47:13 +0000 2019",
+      "id": 1145599727741919200,
+      "id_str": "1145599727741919233",
+      "full_text": "Ну и в рамках вводного тредика и себе - Вильнюс отличный город для нашей семьи, Литва отличная страна. Так что будет много позитива. Не переключайтесь.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145599374963163100,
+      "in_reply_to_status_id_str": "1145599374963163136",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:48:40 +0000 2019",
+      "id": 1145600090691821600,
+      "id_str": "1145600090691821569",
+      "full_text": "@djxtrees Нет, у нас был один случай, связанный с криминалом за 2 года жизни в этом районе и тот связан с туристами из РФ",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "djxtrees",
+            "name": "Anton Pustovalov",
+            "id": 765925392,
+            "id_str": "765925392",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145599505619914800,
+      "in_reply_to_status_id_str": "1145599505619914752",
+      "in_reply_to_user_id": 765925392,
+      "in_reply_to_user_id_str": "765925392",
+      "in_reply_to_screen_name": "djxtrees",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:52:15 +0000 2019",
+      "id": 1145600993008246800,
+      "id_str": "1145600993008246785",
+      "full_text": "В Литву мы переехали из Москвы. Я долгое время работал на спортивном ТВ. Жена - специалист по детскому фитнесу в World class. Решение принимали быстро. Даже не съездили на разведку.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        181
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145599727741919200,
+      "in_reply_to_status_id_str": "1145599727741919233",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:53:51 +0000 2019",
+      "id": 1145601393258049500,
+      "id_str": "1145601393258049536",
+      "full_text": "Но нас мало что держала, жена была в декрете, я как раз искал работу. Всё сложилось для переезда как-то само собой. К тому же мы рассматривали саму возможность пожить за границей, так что особых сомнений не было.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        212
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145600993008246800,
+      "in_reply_to_status_id_str": "1145600993008246785",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 07:55:11 +0000 2019",
+      "id": 1145601728827535400,
+      "id_str": "1145601728827535360",
+      "full_text": "@smartex_ Скорее всего в Орске. Я был там на хоккее точно",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "smartex_",
+            "name": "Oleg Tselayev",
+            "id": 168717147,
+            "id_str": "168717147",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145601231957700600,
+      "in_reply_to_status_id_str": "1145601231957700608",
+      "in_reply_to_user_id": 168717147,
+      "in_reply_to_user_id_str": "168717147",
+      "in_reply_to_screen_name": "smartex_",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:01:20 +0000 2019",
+      "id": 1145603279088488400,
+      "id_str": "1145603279088488449",
+      "full_text": "@managerniibazza Да не сказал бы. Люди везде разные. Просто спортивный телек до последнего времени был относительно свободен в плане высказывания позиции.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "managerniibazza",
+            "name": "Сергей, скрипаль 🎻",
+            "id": 756813847,
+            "id_str": "756813847",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145602594091544600,
+      "in_reply_to_status_id_str": "1145602594091544577",
+      "in_reply_to_user_id": 756813847,
+      "in_reply_to_user_id_str": "756813847",
+      "in_reply_to_screen_name": "managerniibazza",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:08:27 +0000 2019",
+      "id": 1145605067917135900,
+      "id_str": "1145605067917135872",
+      "full_text": "Ну что, сегодня поговорим об общих впечатлениях о стране. До переезда мы ни разу не были ни в Литве, ни в Вильнюсе. Так что все впечатления набирали уже в процессе интеграции в местную жизнь",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:10:26 +0000 2019",
+      "id": 1145605569589456900,
+      "id_str": "1145605569589456896",
+      "full_text": "@Nick_Hash @jknoxville918 Какого рода подробности интересуют?",
+      "truncated": false,
+      "display_text_range": [
+        26,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Nick_Hash",
+            "name": "Nick Hash",
+            "id": 257956084,
+            "id_str": "257956084",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "screen_name": "jknoxville918",
+            "name": "Ilya",
+            "id": 799879554349301800,
+            "id_str": "799879554349301760",
+            "indices": [
+              11,
+              25
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145604538872881200,
+      "in_reply_to_status_id_str": "1145604538872881152",
+      "in_reply_to_user_id": 257956084,
+      "in_reply_to_user_id_str": "257956084",
+      "in_reply_to_screen_name": "Nick_Hash",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:16:20 +0000 2019",
+      "id": 1145607053119033300,
+      "id_str": "1145607053119033344",
+      "full_text": "Язык. У меня работа была на английском и русском, так что времени учить литовский почти не было. Но этих двух языков вполне хватало. Сейчас мо литовский продвинулся от уровня совсем дуб, до уровня дуб. Жена по моим меркам прилично освоила язык.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145605067917135900,
+      "in_reply_to_status_id_str": "1145605067917135872",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:19:36 +0000 2019",
+      "id": 1145607873696796700,
+      "id_str": "1145607873696796672",
+      "full_text": "По поводу русского. В Вильнюсе я ни разу за три года не сталкивался с тем, что на меня, как русскоговорящего как-то не так смотрят/реагируют. По личным ощущениям всем (подавляющем большинству) все равно на каком языке ты говоришь. Наверное есть исключения, но я не сталкивался",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145607053119033300,
+      "in_reply_to_status_id_str": "1145607053119033344",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:31:09 +0000 2019",
+      "id": 1145610781083557900,
+      "id_str": "1145610781083557889",
+      "full_text": "Учить литовский можно на разных курсах (в том числе и бесплатных для обладателей ВНЖ). Можно как я - общаться с литовцами, которые знают русский и подтягивать свой язык. Вообще, как лингвист по образованию, могу сказать, что язык для изучения очень сложный.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145607873696796700,
+      "in_reply_to_status_id_str": "1145607873696796672",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:37:16 +0000 2019",
+      "id": 1145612322452443100,
+      "id_str": "1145612322452443138",
+      "full_text": "Самое первое впечатление погода. Мы переехали в мае 2016. Была очень холодная весна, а за ней холодное лето. Очень удивило, отношение литовцев к дождю. Они по моему на него вообще не обращают внимания. Если сильный - то зонтик, если моросит - дети гуляют как будто солнце на улице",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145610781083557900,
+      "in_reply_to_status_id_str": "1145610781083557889",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 08:41:56 +0000 2019",
+      "id": 1145613497323020300,
+      "id_str": "1145613497323020288",
+      "full_text": "@frizzby Литовский очень древний язык, грамматика которого не менялась почти. Именно сложная грамматика делает его трудным для изучения",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "frizzby",
+            "name": "Yano Dava",
+            "id": 14374857,
+            "id_str": "14374857",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145612176939348000,
+      "in_reply_to_status_id_str": "1145612176939347969",
+      "in_reply_to_user_id": 14374857,
+      "in_reply_to_user_id_str": "14374857",
+      "in_reply_to_screen_name": "frizzby",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 01 09:02:57 +0000 2019",
+      "id": 1145618785027706900,
+      "id_str": "1145618785027706880",
+      "full_text": "Второе впечатление - качество продуктов. Молочка, мясо, овощи. Цены, плюс-минус как в Москве. Что-то дешевле, что-то дороже. Но качество в целом выше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        150
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1145612322452443100,
+      "in_reply_to_status_id_str": "1145612322452443138",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
