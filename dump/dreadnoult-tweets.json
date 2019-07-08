@@ -1,0 +1,279 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jul 08 07:21:15 +0000 2019",
+      "id": 1148129904279601200,
+      "id_str": "1148129904279601152",
+      "full_text": "Всем привет, на этой неделе с вами Ваня @dreadnoult из солнечного Бремена.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        74
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Dreadnoult",
+            "name": "Ivan S. Kuznetsov",
+            "id": 53802173,
+            "id_str": "53802173",
+            "indices": [
+              40,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 07:21:53 +0000 2019",
+      "id": 1148130067035361300,
+      "id_str": "1148130067035361280",
+      "full_text": "я пять лет живу в Германии и за это время получил диплом магистра, попреподавал, поработал в Макдаке, побывал ученым, основал две фирмы, родил дочку, получил пилотскую лицензию и много чего еще. Вобщем, эта страна кончилась, давайте следующую.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148129904279601200,
+      "in_reply_to_status_id_str": "1148129904279601152",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 07:22:48 +0000 2019",
+      "id": 1148130294475698200,
+      "id_str": "1148130294475698176",
+      "full_text": "На самом деле из Германии никуда не собираюсь, потому что мне тут очень нравится. О причинах, а так же о том, что может пойти не так и почему Германия – страна не для всех, поговорим на этой неделе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148130067035361300,
+      "in_reply_to_status_id_str": "1148130067035361280",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 07:23:20 +0000 2019",
+      "id": 1148130431914643500,
+      "id_str": "1148130431914643456",
+      "full_text": "контента будет не очень много, но постараюсь сделать его уникальным, рассказав, например, о том как стать пилотом в Германии или почему туристы, приезжающие в Бремен всегда пропускают все самое интересное.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148130294475698200,
+      "in_reply_to_status_id_str": "1148130294475698176",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 08 07:26:44 +0000 2019",
+      "id": 1148131286101495800,
+      "id_str": "1148131286101495809",
+      "full_text": "После обеда поговорим о переезде, а пока мы с дочкой готовим самолёт к вылету с голландского острова Тексель обратно в Бремен и желаем вам хорошего дня и отличной недели. https://t.co/2YdQIkmaac",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1148131265914245100,
+            "id_str": "1148131265914245120",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-77TaRWkAAE-99.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-77TaRWkAAE-99.jpg",
+            "url": "https://t.co/2YdQIkmaac",
+            "display_url": "pic.twitter.com/2YdQIkmaac",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1148131286101495809/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1148131265914245100,
+            "id_str": "1148131265914245120",
+            "indices": [
+              171,
+              194
+            ],
+            "media_url": "http://pbs.twimg.com/media/D-77TaRWkAAE-99.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/D-77TaRWkAAE-99.jpg",
+            "url": "https://t.co/2YdQIkmaac",
+            "display_url": "pic.twitter.com/2YdQIkmaac",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1148131286101495809/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1200,
+                "h": 1600,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": 1148130431914643500,
+      "in_reply_to_status_id_str": "1148130431914643456",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
