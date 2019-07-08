@@ -37,42 +37,53 @@
     }
   },
   "protected": false,
-  "followers_count": 25233,
+  "followers_count": 25234,
   "friends_count": 0,
-  "listed_count": 319,
+  "listed_count": 321,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 21551,
+  "favourites_count": 21570,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 117946,
+  "statuses_count": 118090,
   "lang": null,
   "status": {
-    "created_at": "Mon Jul 01 09:02:57 +0000 2019",
-    "id": 1145618785027706900,
-    "id_str": "1145618785027706880",
-    "text": "Второе впечатление - качество продуктов. Молочка, мясо, овощи. Цены, плюс-минус как в Москве. Что-то дешевле, что-т… https://t.co/Xz44diDAoY",
+    "created_at": "Sun Jul 07 21:01:34 +0000 2019",
+    "id": 1147973956827340800,
+    "id_str": "1147973956827340805",
+    "text": "Спасибо все кто читал, отдельное спасибо @djxtrees за дополнения. Если что не так - прошу прощения. Напоминаю, что… https://t.co/gKv3flNRsa",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "djxtrees",
+          "name": "Anton Pustovalov",
+          "id": 765925392,
+          "id_str": "765925392",
+          "indices": [
+            41,
+            50
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/Xz44diDAoY",
-          "expanded_url": "https://twitter.com/i/web/status/1145618785027706880",
+          "url": "https://t.co/gKv3flNRsa",
+          "expanded_url": "https://twitter.com/i/web/status/1147973956827340805",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            117,
-            140
+            116,
+            139
           ]
         }
       ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1145612322452443100,
-    "in_reply_to_status_id_str": "1145612322452443138",
+    "in_reply_to_status_id": 1147972889242742800,
+    "in_reply_to_status_id_str": "1147972889242742790",
     "in_reply_to_user_id": 3955812173,
     "in_reply_to_user_id_str": "3955812173",
     "in_reply_to_screen_name": "abroadunderhood",
@@ -81,10 +92,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 10,
+    "retweet_count": 2,
+    "favorite_count": 16,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
