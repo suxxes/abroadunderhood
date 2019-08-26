@@ -1,0 +1,1099 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Aug 26 09:26:58 +0000 2019",
+      "id": 1165918547475873800,
+      "id_str": "1165918547475873792",
+      "full_text": "Привет всем! Меня зовут Андрей (@future_is_meow), я родился в Днепре (в городе, не реке), и живу в Париже,  поэтому на этой неделе мы будем говорить о Франции. https://t.co/Ksf8tZOkop",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              32,
+              47
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1165918540265922600,
+            "id_str": "1165918540265922560",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC4svC2XoAAwdz1.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC4svC2XoAAwdz1.png",
+            "url": "https://t.co/Ksf8tZOkop",
+            "display_url": "pic.twitter.com/Ksf8tZOkop",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1165918547475873792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1165918540265922600,
+            "id_str": "1165918540265922560",
+            "indices": [
+              160,
+              183
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC4svC2XoAAwdz1.png",
+            "media_url_https": "https://pbs.twimg.com/media/EC4svC2XoAAwdz1.png",
+            "url": "https://t.co/Ksf8tZOkop",
+            "display_url": "pic.twitter.com/Ksf8tZOkop",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1165918547475873792/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 174,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:34:41 +0000 2019",
+      "id": 1165920493226139600,
+      "id_str": "1165920493226139648",
+      "full_text": "@future_is_meow Во Франции я живу аж с 2001-ого, и фактически считаю себя (да и легально являюсь) скорее русскоговорящим французом чем украинцем. Так как я на момент переезда был еще ребенком, я не так хорошо знаю все процедуры по эмиграции, но уверен что нам найдется о чем поболтать.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        285
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165918547475873800,
+      "in_reply_to_status_id_str": "1165918547475873792",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:36:34 +0000 2019",
+      "id": 1165920964460339200,
+      "id_str": "1165920964460339200",
+      "full_text": "@tasya_n1003 @Villa_del_Mar @future_is_meow О чем вы вообще? Город же название сменил.",
+      "truncated": false,
+      "display_text_range": [
+        44,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tasya_n1003",
+            "name": "Тася Сюрр",
+            "id": 1056114306482389000,
+            "id_str": "1056114306482388992",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Villa_del_Mar",
+            "name": "M",
+            "id": 457342568,
+            "id_str": "457342568",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              28,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165920044414619600,
+      "in_reply_to_status_id_str": "1165920044414619648",
+      "in_reply_to_user_id": 1056114306482389000,
+      "in_reply_to_user_id_str": "1056114306482388992",
+      "in_reply_to_screen_name": "tasya_n1003",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:41:19 +0000 2019",
+      "id": 1165922158746488800,
+      "id_str": "1165922158746488832",
+      "full_text": "@tasya_n1003 @Villa_del_Mar @future_is_meow Разве не скажут?",
+      "truncated": false,
+      "display_text_range": [
+        44,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tasya_n1003",
+            "name": "Тася Сюрр",
+            "id": 1056114306482389000,
+            "id_str": "1056114306482388992",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "screen_name": "Villa_del_Mar",
+            "name": "M",
+            "id": 457342568,
+            "id_str": "457342568",
+            "indices": [
+              13,
+              27
+            ]
+          },
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              28,
+              43
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165921326705586200,
+      "in_reply_to_status_id_str": "1165921326705586176",
+      "in_reply_to_user_id": 1056114306482389000,
+      "in_reply_to_user_id_str": "1056114306482388992",
+      "in_reply_to_screen_name": "tasya_n1003",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:42:01 +0000 2019",
+      "id": 1165922336060653600,
+      "id_str": "1165922336060653568",
+      "full_text": "@future_is_meow Работаю я как и все айтишником (даже больше, фронтендером, бррр мерзота вообще), и про это тоже поговорим.\n\nДумал начать с самого момента переезда, рассказать про разные места где я жил, потом конечно поболтать про Париж, про работу, жилье, условия жизни и т.д.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165920493226139600,
+      "in_reply_to_status_id_str": "1165920493226139648",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:47:54 +0000 2019",
+      "id": 1165923815878275000,
+      "id_str": "1165923815878275077",
+      "full_text": "@future_is_meow Да, тут до меня уже начали доебываться что мол я написал \"я родился в Днепре\" а нужно было \"я родился в Днепропетровске\" или \"я из Днепра\". Так что о оговариваюсь сразу: русский я в повсевневной жизни практикую очень мало, и иногда немного коряво изъясняюсь.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165922336060653600,
+      "in_reply_to_status_id_str": "1165922336060653568",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:48:52 +0000 2019",
+      "id": 1165924058552250400,
+      "id_str": "1165924058552250368",
+      "full_text": "@future_is_meow (а пишу я кстати вообще с виртуальной клавы так как русской раскладкой не владею вообще)",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "future_is_meow",
+            "name": "К И Б Е Р З О Т Л И Н Г",
+            "id": 1019159273639686100,
+            "id_str": "1019159273639686144",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165923815878275000,
+      "in_reply_to_status_id_str": "1165923815878275077",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:53:26 +0000 2019",
+      "id": 1165925210417180700,
+      "id_str": "1165925210417180672",
+      "full_text": "Hачинаем. Переехали мы с матерью в 2001-ом, когда мне было 11 лет. Поначалу приехали в маленький городок вблизи Авиньона, потом через несколько лет переехали к Нанту, ну а потом я уже переезжал сам, сначала в Нант по учебе, а потом в Париж по работе, где последние 8 лет и живу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 25,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 09:58:02 +0000 2019",
+      "id": 1165926368393273300,
+      "id_str": "1165926368393273344",
+      "full_text": "@tweetillo Получили, я же сказал что я фактически француз а не украинец!",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tweetillo",
+            "name": "нáриня-кáриня 🐬",
+            "id": 4558416497,
+            "id_str": "4558416497",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165925889194057700,
+      "in_reply_to_status_id_str": "1165925889194057733",
+      "in_reply_to_user_id": 4558416497,
+      "in_reply_to_user_id_str": "4558416497",
+      "in_reply_to_screen_name": "tweetillo",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:00:18 +0000 2019",
+      "id": 1165926939686817800,
+      "id_str": "1165926939686817794",
+      "full_text": "Первое что удивило это конечно ритм жизни. После города-миллионника (ну или почти), оказаться в городке на десять тыщ жителей мягко говоря странно. Ну и конечно тут же встретился местный колорит в виде \"после семи вечера все закрыто, по воскресеньям тоже\" https://t.co/4ZlQz4nzVg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1165926930916487200,
+            "id_str": "1165926930916487168",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC40XcdWsAA63E2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EC40XcdWsAA63E2.jpg",
+            "url": "https://t.co/4ZlQz4nzVg",
+            "display_url": "pic.twitter.com/4ZlQz4nzVg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1165926939686817794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1356,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 795,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1165926930916487200,
+            "id_str": "1165926930916487168",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC40XcdWsAA63E2.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EC40XcdWsAA63E2.jpg",
+            "url": "https://t.co/4ZlQz4nzVg",
+            "display_url": "pic.twitter.com/4ZlQz4nzVg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1165926939686817794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 450,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1356,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 795,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1165926930929115100,
+            "id_str": "1165926930929115136",
+            "indices": [
+              256,
+              279
+            ],
+            "media_url": "http://pbs.twimg.com/media/EC40XcgXYAAjcoF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EC40XcgXYAAjcoF.jpg",
+            "url": "https://t.co/4ZlQz4nzVg",
+            "display_url": "pic.twitter.com/4ZlQz4nzVg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1165926939686817794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 919,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1200,
+                "h": 919,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 521,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165925210417180700,
+      "in_reply_to_status_id_str": "1165925210417180672",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:04:14 +0000 2019",
+      "id": 1165927925574721500,
+      "id_str": "1165927925574721538",
+      "full_text": "Интересно ли вам будет узнать про местную школу (система образования, разницы с нашей и т.д) ?\n\nНе волнуйтесь, про Париж будет, даже про политику будет (но попозже).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165926939686817800,
+      "in_reply_to_status_id_str": "1165926939686817794",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:07:10 +0000 2019",
+      "id": 1165928665768763400,
+      "id_str": "1165928665768763392",
+      "full_text": "Тату, Париж и \"недорого\" это взаимоисключающие концепты. Татухи во Франции и так довольно дорогое удовольствие, а Париж сам по себе недешевый город, так что вероятно что найденные вами \"космические\" цены на самом деле вполне адекватны по местным меркам. https://t.co/b6F6pKNz0S",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/b6F6pKNz0S",
+            "expanded_url": "https://twitter.com/neko_kitty_cat_/status/1165926320750112768",
+            "display_url": "twitter.com/neko_kitty_cat…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1165926320750112800,
+      "quoted_status_id_str": "1165926320750112768",
+      "quoted_status_permalink": {
+        "url": "https://t.co/b6F6pKNz0S",
+        "expanded": "https://twitter.com/neko_kitty_cat_/status/1165926320750112768",
+        "display": "twitter.com/neko_kitty_cat…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 26 09:57:51 +0000 2019",
+        "id": 1165926320750112800,
+        "id_str": "1165926320750112768",
+        "full_text": "@abroadunderhood @future_is_meow Расскажи если знаешь, где недорого сделать татуху в Париже можно? в гуглится только в районе центра, а там же космос",
+        "truncated": false,
+        "display_text_range": [
+          33,
+          149
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "future_is_meow",
+              "name": "К И Б Е Р З О Т Л И Н Г",
+              "id": 1019159273639686100,
+              "id_str": "1019159273639686144",
+              "indices": [
+                17,
+                32
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1165922336060653600,
+        "in_reply_to_status_id_str": "1165922336060653568",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 897825058709745700,
+          "id_str": "897825058709745666"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:08:50 +0000 2019",
+      "id": 1165929086235140000,
+      "id_str": "1165929086235140096",
+      "full_text": "Знаю, мать помогла нескольким студенткам из Украины и России (она по профессии учительница французского, поэтому мы тут и оказались кстати), могу у нее поспрашивать детали. Скорее всего обсудим это попозже на неделе, когда дойдем до высшего образования. https://t.co/VM9Vn1oDf2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VM9Vn1oDf2",
+            "expanded_url": "https://twitter.com/catushe_pizda/status/1165928379578814465",
+            "display_url": "twitter.com/catushe_pizda/…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1165928379578814500,
+      "quoted_status_id_str": "1165928379578814465",
+      "quoted_status_permalink": {
+        "url": "https://t.co/VM9Vn1oDf2",
+        "expanded": "https://twitter.com/catushe_pizda/status/1165928379578814465",
+        "display": "twitter.com/catushe_pizda/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 26 10:06:02 +0000 2019",
+        "id": 1165928379578814500,
+        "id_str": "1165928379578814465",
+        "full_text": "@abroadunderhood а вы знаете что-нибудь о переездах по учебе во францию? было бы здорово вот об этом почитать",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          109
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1165927925574721500,
+        "in_reply_to_status_id_str": "1165927925574721538",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 944271193837834200,
+          "id_str": "944271193837834240"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:11:17 +0000 2019",
+      "id": 1165929700629393400,
+      "id_str": "1165929700629393409",
+      "full_text": "Когда я получил гражданство, у меня был вариант \"офранцузировать\" имя и стать например Андрэ. Я отказался потому что во-первых люблю свое имя, а во-вторых \"Андрэ\" считается немного устаревшим именем, которое чаще встретишь у потомственного фермера чем у миллениала. https://t.co/feZQY7Qof8",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/feZQY7Qof8",
+            "expanded_url": "https://twitter.com/Putinlubitdengi/status/1165928718826639361",
+            "display_url": "twitter.com/Putinlubitdeng…",
+            "indices": [
+              266,
+              289
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1165928718826639400,
+      "quoted_status_id_str": "1165928718826639361",
+      "quoted_status_permalink": {
+        "url": "https://t.co/feZQY7Qof8",
+        "expanded": "https://twitter.com/Putinlubitdengi/status/1165928718826639361",
+        "display": "twitter.com/Putinlubitdeng…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Aug 26 10:07:23 +0000 2019",
+        "id": 1165928718826639400,
+        "id_str": "1165928718826639361",
+        "full_text": "@abroadunderhood @future_is_meow Во Франци прям Андрей и называют или иначе?",
+        "truncated": false,
+        "display_text_range": [
+          33,
+          76
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "future_is_meow",
+              "name": "К И Б Е Р З О Т Л И Н Г",
+              "id": 1019159273639686100,
+              "id_str": "1019159273639686144",
+              "indices": [
+                17,
+                32
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1165918547475873800,
+        "in_reply_to_status_id_str": "1165918547475873792",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 848184807255396400,
+          "id_str": "848184807255396352"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 26 10:12:45 +0000 2019",
+      "id": 1165930071242268700,
+      "id_str": "1165930071242268673",
+      "full_text": "Зато я воспользовался этим правом чтобы изменить \"-iy\" который дебильные правила транслитерации поставили в конце моей фамилии на просто \"y\"",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1165929700629393400,
+      "in_reply_to_status_id_str": "1165929700629393409",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
