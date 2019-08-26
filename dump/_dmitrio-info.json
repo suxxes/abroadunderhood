@@ -26,134 +26,65 @@
     }
   },
   "protected": false,
-  "followers_count": 26230,
+  "followers_count": 26452,
   "friends_count": 0,
-  "listed_count": 328,
+  "listed_count": 325,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 22384,
+  "favourites_count": 22391,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 120663,
+  "statuses_count": 120917,
   "lang": null,
   "status": {
-    "created_at": "Mon Aug 19 15:57:28 +0000 2019",
-    "id": 1163480105395478500,
-    "id_str": "1163480105395478531",
-    "text": "Пока я добираюсь на работу на своём козлике, вы можете подписаться на меня @_dmitrio . https://t.co/PwikFoPPiy",
+    "created_at": "Mon Aug 26 05:55:30 +0000 2019",
+    "id": 1165865331623002000,
+    "id_str": "1165865331623002112",
+    "text": "@pointocomma @tasya_n1003 Все фотографии были сделаны лично мной.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "_dmitrio",
-          "name": "Dmitry",
-          "id": 70483120,
-          "id_str": "70483120",
+          "screen_name": "pointocomma",
+          "name": "точка запятая",
+          "id": 857206733093163000,
+          "id_str": "857206733093163008",
           "indices": [
-            75,
-            84
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "tasya_n1003",
+          "name": "Тася Сюрр",
+          "id": 1056114306482389000,
+          "id_str": "1056114306482388992",
+          "indices": [
+            13,
+            25
           ]
         }
       ],
-      "urls": [],
-      "media": [
-        {
-          "id": 1163480099888357400,
-          "id_str": "1163480099888357377",
-          "indices": [
-            87,
-            110
-          ],
-          "media_url": "http://pbs.twimg.com/media/ECWC_IkU4AENrkE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ECWC_IkU4AENrkE.jpg",
-          "url": "https://t.co/PwikFoPPiy",
-          "display_url": "pic.twitter.com/PwikFoPPiy",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1163480105395478531/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 950,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1621,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 538,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
-    },
-    "extended_entities": {
-      "media": [
-        {
-          "id": 1163480099888357400,
-          "id_str": "1163480099888357377",
-          "indices": [
-            87,
-            110
-          ],
-          "media_url": "http://pbs.twimg.com/media/ECWC_IkU4AENrkE.jpg",
-          "media_url_https": "https://pbs.twimg.com/media/ECWC_IkU4AENrkE.jpg",
-          "url": "https://t.co/PwikFoPPiy",
-          "display_url": "pic.twitter.com/PwikFoPPiy",
-          "expanded_url": "https://twitter.com/abroadunderhood/status/1163480105395478531/photo/1",
-          "type": "photo",
-          "sizes": {
-            "thumb": {
-              "w": 150,
-              "h": 150,
-              "resize": "crop"
-            },
-            "medium": {
-              "w": 950,
-              "h": 1200,
-              "resize": "fit"
-            },
-            "large": {
-              "w": 1621,
-              "h": 2048,
-              "resize": "fit"
-            },
-            "small": {
-              "w": 538,
-              "h": 680,
-              "resize": "fit"
-            }
-          }
-        }
-      ]
+      "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1165861937927917600,
+    "in_reply_to_status_id_str": "1165861937927917568",
+    "in_reply_to_user_id": 857206733093163000,
+    "in_reply_to_user_id_str": "857206733093163008",
+    "in_reply_to_screen_name": "pointocomma",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 4,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
-    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
