@@ -1,0 +1,765 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 16 11:39:28 +0000 2019",
+      "id": 1173562039480004600,
+      "id_str": "1173562039480004608",
+      "full_text": "Доброго дня вам, красавцы и красавицы! На этой неделе вещание будет из Барселоны, и вести его буду я - Лена @beliykrolik. https://t.co/5fFuoGOPfg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        121
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beliykrolik",
+            "name": "Не очень вежливый кролик",
+            "id": 86026468,
+            "id_str": "86026468",
+            "indices": [
+              108,
+              120
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1173562031531810800,
+            "id_str": "1173562031531810818",
+            "indices": [
+              122,
+              145
+            ],
+            "media_url": "http://pbs.twimg.com/media/EElUcytW4AIvVEP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EElUcytW4AIvVEP.jpg",
+            "url": "https://t.co/5fFuoGOPfg",
+            "display_url": "pic.twitter.com/5fFuoGOPfg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1173562039480004608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1026,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 497,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1026,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1173562031531810800,
+            "id_str": "1173562031531810818",
+            "indices": [
+              122,
+              145
+            ],
+            "media_url": "http://pbs.twimg.com/media/EElUcytW4AIvVEP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EElUcytW4AIvVEP.jpg",
+            "url": "https://t.co/5fFuoGOPfg",
+            "display_url": "pic.twitter.com/5fFuoGOPfg",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1173562039480004608/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 750,
+                "h": 1026,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 497,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 750,
+                "h": 1026,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 92,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:41:22 +0000 2019",
+      "id": 1173562515491577900,
+      "id_str": "1173562515491577856",
+      "full_text": "@beliykrolik В октябре будет два года, как я живу в столице Каталонии. Полтора из них как студент, последние несколько месяцев - как сотрудник местной компании по международной доставке цветов.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        193
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beliykrolik",
+            "name": "Не очень вежливый кролик",
+            "id": 86026468,
+            "id_str": "86026468",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173562039480004600,
+      "in_reply_to_status_id_str": "1173562039480004608",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:41:22 +0000 2019",
+      "id": 1173562517982974000,
+      "id_str": "1173562517982973952",
+      "full_text": "Должность моя называется «Менеджер по международной экспансии», по сути я digital-маркетолог с уклоном на региональную локализацию продукта.\nСлежу за тем , чтобы на Россию не рекламировали букеты из шести роз, чтобы в рассылке для США даты писали в их странном порядке и т.д.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173562515491577900,
+      "in_reply_to_status_id_str": "1173562515491577856",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:44:13 +0000 2019",
+      "id": 1173563234235953200,
+      "id_str": "1173563234235953153",
+      "full_text": "Муж-мужа нет, но есть любимый парень, с которым мы весело живем во грехе уже сколько-то там много лет!:) https://t.co/cCmRbijZWj",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/cCmRbijZWj",
+            "expanded_url": "https://twitter.com/Qwerty131131/status/1173562361191510016",
+            "display_url": "twitter.com/Qwerty131131/s…",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1173562361191510000,
+      "quoted_status_id_str": "1173562361191510016",
+      "quoted_status_permalink": {
+        "url": "https://t.co/cCmRbijZWj",
+        "expanded": "https://twitter.com/Qwerty131131/status/1173562361191510016",
+        "display": "twitter.com/Qwerty131131/s…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 16 11:40:45 +0000 2019",
+        "id": 1173562361191510000,
+        "id_str": "1173562361191510016",
+        "full_text": "@abroadunderhood @beliykrolik Оу. Здравствуйте, муж есть?)",
+        "truncated": false,
+        "display_text_range": [
+          30,
+          58
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            },
+            {
+              "screen_name": "beliykrolik",
+              "name": "Не очень вежливый кролик",
+              "id": 86026468,
+              "id_str": "86026468",
+              "indices": [
+                17,
+                29
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1173562039480004600,
+        "in_reply_to_status_id_str": "1173562039480004608",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 849981073840898000,
+          "id_str": "849981073840898048"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 2,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:50:35 +0000 2019",
+      "id": 1173564834706788400,
+      "id_str": "1173564834706788353",
+      "full_text": "Повествование на этой неделе я вижу примерно таким:\n\nПонедельник-вторник -  всё про переезд и скучную бытовуху. Мой опыт и история,  продление виз,  жилье, страховка, банковский счет и прочее, с чем хочется обычно поскорее разделаться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:50:35 +0000 2019",
+      "id": 1173564836812394500,
+      "id_str": "1173564836812394497",
+      "full_text": "Вторник-среда - про жизнь вообще. Цены, преступность, трава, собаченьки и прочее. Также чуток про испанский язык, или как случайно не заказать салат из хуя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        156
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173564834706788400,
+      "in_reply_to_status_id_str": "1173564834706788353",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:50:36 +0000 2019",
+      "id": 1173564839186370600,
+      "id_str": "1173564839186370560",
+      "full_text": "Четверг – забастовки, протесты, Пучдемонстрации.\nПятница - про еду и винишко.\nСуббота - про праздники и немного про работу, если будет интересно. \nНу и в воскресенье - байки, ответы на оставшиеся вопросы и рандомные факты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173564836812394500,
+      "in_reply_to_status_id_str": "1173564836812394497",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 11:56:20 +0000 2019",
+      "id": 1173566282907758600,
+      "id_str": "1173566282907758592",
+      "full_text": "Мне уже несколько раз задали вопрос про Крым. Поскольку пока я не отвечу, от меня, очевидно, не отстанут, то\n\nКрым - украинский.\n\nНа этом тема русско-украинских отношений на эту неделю закрыта, комментарии, которые будут пытаться её понять, будут мной игнорироваться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 101,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:03:50 +0000 2019",
+      "id": 1173568171921608700,
+      "id_str": "1173568171921608704",
+      "full_text": "Если говорить конкретно про Барселону, то мне порой кажется, что английский:) \nНо вообще каталанский, конечно.\nВ кафе, куда мы с коллегами иногда ходим на ланч, вообще нет меню на испанском, например. https://t.co/VOJykBkdNk",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VOJykBkdNk",
+            "expanded_url": "https://twitter.com/killswitchbch/status/1173566687238660096",
+            "display_url": "twitter.com/killswitchbch/…",
+            "indices": [
+              201,
+              224
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1173566687238660000,
+      "quoted_status_id_str": "1173566687238660096",
+      "quoted_status_permalink": {
+        "url": "https://t.co/VOJykBkdNk",
+        "expanded": "https://twitter.com/killswitchbch/status/1173566687238660096",
+        "display": "twitter.com/killswitchbch/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 16 11:57:56 +0000 2019",
+        "id": 1173566687238660000,
+        "id_str": "1173566687238660096",
+        "full_text": "@abroadunderhood испанский или каталанский - что больше распространено?)",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          72
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1173564836812394500,
+        "in_reply_to_status_id_str": "1173564836812394497",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 117809081,
+          "id_str": "117809081"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:09:42 +0000 2019",
+      "id": 1173569649302261800,
+      "id_str": "1173569649302261762",
+      "full_text": "Итак, начнем про переезд, и начнем немного издалека.\n\nРовно 4 года назад мы с парнем возвращались из поездки по солнечной Тоскане, и выйдя из самолета, сходу встретили ледяной сентябрьский дождь, серость и прочие прелести обычной осени в Москве.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:09:43 +0000 2019",
+      "id": 1173569652259250200,
+      "id_str": "1173569652259250178",
+      "full_text": "В тот раз этот контраст нам особенно не понравился, а еще сильнее не понравилось то, что следующие полгода точно лучше не станет.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        129
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173569649302261800,
+      "in_reply_to_status_id_str": "1173569649302261762",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:09:44 +0000 2019",
+      "id": 1173569653853081600,
+      "id_str": "1173569653853081600",
+      "full_text": "Поразмыслив над проблемой приближающейся зимы, мы поняли, что на самом деле оба вполне можем периодически работать удаленно, вопрос в правильно переведенных переговорах с начальством.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173569652259250200,
+      "in_reply_to_status_id_str": "1173569652259250178",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:09:44 +0000 2019",
+      "id": 1173569656529010700,
+      "id_str": "1173569656529010689",
+      "full_text": "На тот момент я работала в digital-маркетинговом агентстве, причем уже много лет, практически с момента его основания, и потому кредит доверия у меня был внушительным.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        167
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173569653853081600,
+      "in_reply_to_status_id_str": "1173569653853081600",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 16 12:11:35 +0000 2019",
+      "id": 1173570119693459500,
+      "id_str": "1173570119693459456",
+      "full_text": "Тем не менее я ужасно ссала отпрашиваться на удаленку (сейчас мне уже сложно понять, почему), но начальство внезапно оказалось гораздо более сговорчивым, чем я ожидала, так что уже в декабре мы взяли и СВАЛИЛИ НАХРЕН ОТ ВСЕГО ЭТОГО НА МАВРИКИЙ.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1173569656529010700,
+      "in_reply_to_status_id_str": "1173569656529010689",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
