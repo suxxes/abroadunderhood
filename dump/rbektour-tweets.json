@@ -1,0 +1,497 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 23 09:19:18 +0000 2019",
+      "id": 1176063480862052400,
+      "id_str": "1176063480862052352",
+      "full_text": "Всем привет! Меня зовут Бектур. Я из Кыргызстана, закончил магистратуру и аспирантуру в Японии. И сейчас работаю постдоком в университете Цукуба.\n\nПо специальности я занимаюсь computer science, а именно AR/VR, интерактивные технологии, 3д интерфейсы и проч",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "favorite_count": 52,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:19:19 +0000 2019",
+      "id": 1176063485245083600,
+      "id_str": "1176063485245083653",
+      "full_text": "Помимо основной работы я так же волонтерю в @siggraph, организую митапы в Токио (напр. самый крупный митап по механическим клавиатурам #tokyomk6, хакатон по AI + AR/VR, и тд) и в прошлом году был со-организатором первого митапа по AR/VR в Бишкеке",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "tokyomk6",
+            "indices": [
+              135,
+              144
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "siggraph",
+            "name": "ACM SIGGRAPH",
+            "id": 10226092,
+            "id_str": "10226092",
+            "indices": [
+              44,
+              53
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1176063480862052400,
+      "in_reply_to_status_id_str": "1176063480862052352",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:19:20 +0000 2019",
+      "id": 1176063486377570300,
+      "id_str": "1176063486377570305",
+      "full_text": "Я думаю про жизнь в Японии многие уже рассказывали, поэтому примерный план тем будет:\n\nУчеба в Японии\nAR / VR вещи в Японии vs остальной мир\nIT и стартапы\nНаучная работа в Японии (позиции, тематика, и тд)\nМитапы, конференции, и др мероприятия\n\nОстальное по запросам аудитории",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1176063485245083600,
+      "in_reply_to_status_id_str": "1176063485245083653",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:19:20 +0000 2019",
+      "id": 1176063487749054500,
+      "id_str": "1176063487749054464",
+      "full_text": "Так же по стечению обстоятельств я сейчас нахожусь в командировке в Гейдельберге (на престижном форуме #HLF19) поэтому заранее извиняюсь если не успеваю часто писать\n\nЕсли что предлагайте вопросы / темы, постараюсь на все ответить",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "text": "HLF19",
+            "indices": [
+              103,
+              109
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1176063486377570300,
+      "in_reply_to_status_id_str": "1176063486377570305",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:21:54 +0000 2019",
+      "id": 1176064134091350000,
+      "id_str": "1176064134091350016",
+      "full_text": "Википедия говорит и так и так 🤔 https://t.co/5Ndp5dnvtM https://t.co/J8ZB4WTos4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5Ndp5dnvtM",
+            "expanded_url": "https://ru.m.wikipedia.org/wiki/Гейдельберг",
+            "display_url": "ru.m.wikipedia.org/wiki/Гейдельбе…",
+            "indices": [
+              32,
+              55
+            ]
+          },
+          {
+            "url": "https://t.co/J8ZB4WTos4",
+            "expanded_url": "https://twitter.com/nikostolz/status/1176063912577589248",
+            "display_url": "twitter.com/nikostolz/stat…",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1176063912577589200,
+      "quoted_status_id_str": "1176063912577589248",
+      "quoted_status_permalink": {
+        "url": "https://t.co/J8ZB4WTos4",
+        "expanded": "https://twitter.com/nikostolz/status/1176063912577589248",
+        "display": "twitter.com/nikostolz/stat…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 23 09:21:01 +0000 2019",
+        "id": 1176063912577589200,
+        "id_str": "1176063912577589248",
+        "full_text": "@abroadunderhood * Хайдельберге",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          31
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1176063487749054500,
+        "in_reply_to_status_id_str": "1176063487749054464",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 4755902895,
+          "id_str": "4755902895"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:22:26 +0000 2019",
+      "id": 1176064266794885000,
+      "id_str": "1176064266794885120",
+      "full_text": "Как правило на русском https://t.co/2MbCsx4bvM",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        22
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2MbCsx4bvM",
+            "expanded_url": "https://twitter.com/dead_muzzye/status/1176063740258725888",
+            "display_url": "twitter.com/dead_muzzye/st…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1176063740258726000,
+      "quoted_status_id_str": "1176063740258725888",
+      "quoted_status_permalink": {
+        "url": "https://t.co/2MbCsx4bvM",
+        "expanded": "https://twitter.com/dead_muzzye/status/1176063740258725888",
+        "display": "twitter.com/dead_muzzye/st…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 23 09:20:20 +0000 2019",
+        "id": 1176063740258726000,
+        "id_str": "1176063740258725888",
+        "full_text": "@abroadunderhood на каком языке думаешь?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          40
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1176063480862052400,
+        "in_reply_to_status_id_str": "1176063480862052352",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 3887455641,
+          "id_str": "3887455641"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 23 09:28:09 +0000 2019",
+      "id": 1176065707483832300,
+      "id_str": "1176065707483832320",
+      "full_text": "Ок, про жизнь будет 🙂 на самом деле я пять лет прожил в Японской глубинке в той самой Фукусиме. Есть что рассказать https://t.co/E5jcjngik1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/E5jcjngik1",
+            "expanded_url": "https://twitter.com/nyanko_meow/status/1176065012491673600",
+            "display_url": "twitter.com/nyanko_meow/st…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1176065012491673600,
+      "quoted_status_id_str": "1176065012491673600",
+      "quoted_status_permalink": {
+        "url": "https://t.co/E5jcjngik1",
+        "expanded": "https://twitter.com/nyanko_meow/status/1176065012491673600",
+        "display": "twitter.com/nyanko_meow/st…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 23 09:25:23 +0000 2019",
+        "id": 1176065012491673600,
+        "id_str": "1176065012491673600",
+        "full_text": "@abroadunderhood Про жизнь в Японии тоже можно) а то в прошлый раз эброд из Японии был просто-таки фееричным - сплошные предрассудки",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          132
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1176063486377570300,
+        "in_reply_to_status_id_str": "1176063486377570305",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 107474342,
+          "id_str": "107474342"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
