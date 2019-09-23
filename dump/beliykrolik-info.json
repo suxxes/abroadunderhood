@@ -3,8 +3,19 @@
   "id_str": "3955812173",
   "name": "Эброд Андерхуд",
   "screen_name": "abroadunderhood",
-  "location": "Barcelona",
-  "profile_location": null,
+  "location": "Barcelona, Spain",
+  "profile_location": {
+    "id": "1a27537478dd8e38",
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "place_type": "unknown",
+    "name": "Barcelona, Spain",
+    "full_name": "Barcelona, Spain",
+    "country_code": "",
+    "country": "",
+    "contained_within": [],
+    "bounding_box": null,
+    "attributes": {}
+  },
   "description": "Автор этой недели: Лена @beliykrolik из Барселоны (Испания)",
   "url": "https://t.co/KN9hDb6yA6",
   "entities": {
@@ -26,31 +37,42 @@
     }
   },
   "protected": false,
-  "followers_count": 26750,
+  "followers_count": 26949,
   "friends_count": 0,
-  "listed_count": 333,
+  "listed_count": 336,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 23916,
+  "favourites_count": 23959,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 123486,
+  "statuses_count": 124063,
   "lang": null,
   "status": {
-    "created_at": "Mon Sep 16 12:11:35 +0000 2019",
-    "id": 1173570119693459500,
-    "id_str": "1173570119693459456",
-    "text": "Тем не менее я ужасно ссала отпрашиваться на удаленку (сейчас мне уже сложно понять, почему), но начальство внезапн… https://t.co/ta8P1OpRq5",
+    "created_at": "Sun Sep 22 18:29:04 +0000 2019",
+    "id": 1175839447029571600,
+    "id_str": "1175839447029571584",
+    "text": "Напоминаю, что с вами была Лена @beliykrolik. Если у кого-то будут ещё вопросы, пишите в личный аккаунт, постараюсь… https://t.co/DzxrZ68yVl",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "beliykrolik",
+          "name": "Не очень вежливый кролик",
+          "id": 86026468,
+          "id_str": "86026468",
+          "indices": [
+            32,
+            44
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/ta8P1OpRq5",
-          "expanded_url": "https://twitter.com/i/web/status/1173570119693459456",
+          "url": "https://t.co/DzxrZ68yVl",
+          "expanded_url": "https://twitter.com/i/web/status/1175839447029571584",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -59,9 +81,9 @@
         }
       ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1173569656529010700,
-    "in_reply_to_status_id_str": "1173569656529010689",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1175839409406644200,
+    "in_reply_to_status_id_str": "1175839409406644226",
     "in_reply_to_user_id": 3955812173,
     "in_reply_to_user_id_str": "3955812173",
     "in_reply_to_screen_name": "abroadunderhood",
@@ -70,10 +92,11 @@
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 2,
+    "retweet_count": 2,
+    "favorite_count": 127,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
