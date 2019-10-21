@@ -37,46 +37,56 @@
     }
   },
   "protected": false,
-  "followers_count": 27108,
+  "followers_count": 27207,
   "friends_count": 0,
-  "listed_count": 338,
+  "listed_count": 339,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 24054,
+  "favourites_count": 24075,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 124572,
+  "statuses_count": 124925,
   "lang": null,
   "status": {
-    "created_at": "Mon Oct 14 08:09:50 +0000 2019",
-    "id": 1183656145195536400,
-    "id_str": "1183656145195536384",
-    "text": "@owled_away Это Fuji Superia X-Tra 400.",
+    "created_at": "Sun Oct 20 21:12:26 +0000 2019",
+    "id": 1186027417661522000,
+    "id_str": "1186027417661521921",
+    "text": "@Paul_Backa @gremlin44756793 А если ещё и из родинки растёт, то вообще шик. Я видел чуваков с волосами из родинки сантиметров по 15.",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "owled_away",
-          "name": "ニッキーの旅",
-          "id": 899823606,
-          "id_str": "899823606",
+          "screen_name": "Paul_Backa",
+          "name": "Paul Backa",
+          "id": 1028195333879287800,
+          "id_str": "1028195333879287808",
           "indices": [
             0,
             11
+          ]
+        },
+        {
+          "screen_name": "gremlin44756793",
+          "name": "gremlin",
+          "id": 4481221534,
+          "id_str": "4481221534",
+          "indices": [
+            12,
+            28
           ]
         }
       ],
       "urls": []
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1183653169873784800,
-    "in_reply_to_status_id_str": "1183653169873784833",
-    "in_reply_to_user_id": 899823606,
-    "in_reply_to_user_id_str": "899823606",
-    "in_reply_to_screen_name": "owled_away",
+    "in_reply_to_status_id": 1186012476334366700,
+    "in_reply_to_status_id_str": "1186012476334366720",
+    "in_reply_to_user_id": 1028195333879287800,
+    "in_reply_to_user_id_str": "1028195333879287808",
+    "in_reply_to_screen_name": "Paul_Backa",
     "geo": null,
     "coordinates": null,
     "place": null,
@@ -86,7 +96,7 @@
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "cs"
+    "lang": "ru"
   },
   "contributors_enabled": false,
   "is_translator": false,
