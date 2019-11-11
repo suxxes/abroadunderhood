@@ -37,44 +37,66 @@
     }
   },
   "protected": false,
-  "followers_count": 27680,
+  "followers_count": 28521,
   "friends_count": 0,
-  "listed_count": 339,
+  "listed_count": 338,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 24446,
+  "favourites_count": 24452,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 125686,
+  "statuses_count": 126030,
   "lang": null,
   "status": {
-    "created_at": "Mon Nov 04 10:58:24 +0000 2019",
-    "id": 1191308710196330500,
-    "id_str": "1191308710196330496",
-    "text": "А в конце каждого дня буду рекомендовать вам одну музыкальную группу и одно японское кино. Для развития. Надеюсь, вам понравится со мной.",
-    "truncated": false,
+    "created_at": "Sun Nov 10 21:07:35 +0000 2019",
+    "id": 1193636343227641900,
+    "id_str": "1193636343227641857",
+    "text": "Спасибо, ребята, вы были очень крутыми. С Эбродом я прощаюсь, но вы всегда можете найти меня в твиторе @harm13 или… https://t.co/0dD3x4r3bA",
+    "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
-      "urls": []
+      "user_mentions": [
+        {
+          "screen_name": "harm13",
+          "name": "Матвей",
+          "id": 43043672,
+          "id_str": "43043672",
+          "indices": [
+            103,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0dD3x4r3bA",
+          "expanded_url": "https://twitter.com/i/web/status/1193636343227641857",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
     },
     "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-    "in_reply_to_status_id": 1191308307266277400,
-    "in_reply_to_status_id_str": "1191308307266277376",
-    "in_reply_to_user_id": 3955812173,
-    "in_reply_to_user_id_str": "3955812173",
-    "in_reply_to_screen_name": "abroadunderhood",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 1,
-    "favorite_count": 15,
+    "retweet_count": 2,
+    "favorite_count": 219,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,
@@ -95,6 +117,8 @@
   "has_extended_profile": false,
   "default_profile": false,
   "default_profile_image": false,
+  "can_media_tag": false,
+  "followed_by": false,
   "following": false,
   "follow_request_sent": false,
   "notifications": false,
