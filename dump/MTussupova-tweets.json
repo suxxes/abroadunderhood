@@ -1,0 +1,1794 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jan 13 09:50:16 +0000 2020",
+      "id": 1216658712103989200,
+      "id_str": "1216658712103989248",
+      "full_text": "Хэй-хэй, всем привет из мрачного европейского города - Брюсселя. Город, чья площадь составлет 32.61 км^2 и с населением 179к.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 65,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 09:52:16 +0000 2020",
+      "id": 1216659216468979700,
+      "id_str": "1216659216468979714",
+      "full_text": "Меня зовут Мадина, 23 годика, родом из Казахстана. Поэтому сәлеметсіздер ме Работаю джуниор дата саентистом в энергетической компании и прошла всю бюрократию совсем недавно по ожиданию ворк пермита.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216658712103989200,
+      "in_reply_to_status_id_str": "1216658712103989248",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 34,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 09:52:54 +0000 2020",
+      "id": 1216659378553655300,
+      "id_str": "1216659378553655296",
+      "full_text": "RT @cheburlenin: @abroadunderhood Привет!\nСо Старым Новым годом!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "cheburlenin",
+            "name": "Вреднота и непричёсанность",
+            "id": 2301233204,
+            "id_str": "2301233204",
+            "indices": [
+              3,
+              15
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jan 13 09:52:07 +0000 2020",
+        "id": 1216659177541644300,
+        "id_str": "1216659177541644288",
+        "full_text": "@abroadunderhood Привет!\nСо Старым Новым годом!",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          47
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1216658712103989200,
+        "in_reply_to_status_id_str": "1216658712103989248",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 2301233204,
+          "id_str": "2301233204"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 09:54:45 +0000 2020",
+      "id": 1216659841348972500,
+      "id_str": "1216659841348972545",
+      "full_text": "Закончила бакалавра по прикладной математике и информатике в Казахстане, поступила в магистратуру в НГУ по той же программе. В конце года нам предложили поехать по двудипломной программе во Францию, вот я и подала документы",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216659216468979700,
+      "in_reply_to_status_id_str": "1216659216468979714",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 09:57:03 +0000 2020",
+      "id": 1216660422771736600,
+      "id_str": "1216660422771736576",
+      "full_text": "Получив стипендию, я отправилась в пригород Парижа - город  Сержи (не рекомендую для посещения) учиться в инженерной школе EISTI. Одним из требований окончания была 6-месячная стажировка в компании. Проблема заключалась в том, что до приезда во Францию я и не думала жить там.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216659841348972500,
+      "in_reply_to_status_id_str": "1216659841348972545",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 09:59:22 +0000 2020",
+      "id": 1216661006111387600,
+      "id_str": "1216661006111387648",
+      "full_text": "Из всех фраз французского языка я знала что-то типа бонжур-тужур-амар-же не манж пас сис жур. Поэтому я изначально бросила затею искать стажировку во Франции. Однако одна французская компания имела офис в Брюсселе, где французский был неважен.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216660422771736600,
+      "in_reply_to_status_id_str": "1216660422771736576",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:00:47 +0000 2020",
+      "id": 1216661361717121000,
+      "id_str": "1216661361717121024",
+      "full_text": "К 4 месяцу стажировку мне предложили постоянный контракт и тут начался бюрократический ад (но об этом как-нибудь потом)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216661006111387600,
+      "in_reply_to_status_id_str": "1216661006111387648",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:02:32 +0000 2020",
+      "id": 1216661799191314400,
+      "id_str": "1216661799191314432",
+      "full_text": "Поможете мне составить план на неделю? Но начну сегодняшний день я с города, завтра поговорим о документах и мороке с ними. В среду попрошу друзей помочь по теме образования, а дальше как получится",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216661361717121000,
+      "in_reply_to_status_id_str": "1216661361717121024",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:03:47 +0000 2020",
+      "id": 1216662117182513200,
+      "id_str": "1216662117182513153",
+      "full_text": "RT @alduckz: @abroadunderhood Чей Петропавловск?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "alduckz",
+            "name": "солдаты НАТО",
+            "id": 1166678413,
+            "id_str": "1166678413",
+            "indices": [
+              3,
+              11
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              13,
+              29
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jan 13 10:01:32 +0000 2020",
+        "id": 1216661548279746600,
+        "id_str": "1216661548279746565",
+        "full_text": "@abroadunderhood Чей Петропавловск?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          35
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1216659216468979700,
+        "in_reply_to_status_id_str": "1216659216468979714",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 1166678413,
+          "id_str": "1166678413"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:04:44 +0000 2020",
+      "id": 1216662356685660200,
+      "id_str": "1216662356685660160",
+      "full_text": "На самом деле, Брюссель входит в состав центрального-столичного округа, который включает в себя Anderlecht, Auderghem, Berchem-Sainte-Agathe, Brussels City, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Node",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 13 10:04:56 +0000 2020",
+      "id": 1216662404660154400,
+      "id_str": "1216662404660154368",
+      "full_text": "и Schaerbeek, Tervuren, Uccle, Watermael-Boitsfort, Woluwe-Saint-Lambert, Woluwe-Saint-Pierre",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        93
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216662356685660200,
+      "in_reply_to_status_id_str": "1216662356685660160",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 13 10:05:21 +0000 2020",
+      "id": 1216662510054539300,
+      "id_str": "1216662510054539267",
+      "full_text": "Первым делом по приезду в Бельгию, Вам необходимо пойти и зарегистрироваться в своей коммуне. Это дает свои ништяки типа дешевого посещение бассейна, ну и в целом, это легализует ваше пребывание в Бельгии.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216662404660154400,
+      "in_reply_to_status_id_str": "1216662404660154368",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:09:01 +0000 2020",
+      "id": 1216663431186649000,
+      "id_str": "1216663431186649088",
+      "full_text": "Если приедете, то жилье стоит искать в Uccle, Etterbeek (европейский квартал),  Forest, Ixelles",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216662404660154400,
+      "in_reply_to_status_id_str": "1216662404660154368",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:09:38 +0000 2020",
+      "id": 1216663587080540200,
+      "id_str": "1216663587080540160",
+      "full_text": "RT @mista_Vint: @abroadunderhood Ну и ещё как не опиздюлиться с белым цветом кожи ночью проходя от метро Порт де Намюр в глубину района Мат…",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mista_Vint",
+            "name": "Victor F.",
+            "id": 79449625,
+            "id_str": "79449625",
+            "indices": [
+              3,
+              14
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              16,
+              32
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jan 13 10:09:09 +0000 2020",
+        "id": 1216663467186409500,
+        "id_str": "1216663467186409477",
+        "full_text": "@abroadunderhood Ну и ещё как не опиздюлиться с белым цветом кожи ночью проходя от метро Порт де Намюр в глубину района Матонг",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          126
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1216662368614264800,
+        "in_reply_to_status_id_str": "1216662368614264838",
+        "in_reply_to_user_id": 79449625,
+        "in_reply_to_user_id_str": "79449625",
+        "in_reply_to_screen_name": "mista_Vint",
+        "user": {
+          "id": 79449625,
+          "id_str": "79449625"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:12:17 +0000 2020",
+      "id": 1216664255765864400,
+      "id_str": "1216664255765864448",
+      "full_text": "@_Diagon https://t.co/gu7qzOlIz6",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_Diagon",
+            "name": "dirt preacher",
+            "id": 603954710,
+            "id_str": "603954710",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gu7qzOlIz6",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1216662356685660160?s=20",
+            "display_url": "twitter.com/abroadunderhoo…",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216662184689836000,
+      "in_reply_to_status_id_str": "1216662184689836032",
+      "in_reply_to_user_id": 603954710,
+      "in_reply_to_user_id_str": "603954710",
+      "in_reply_to_screen_name": "_Diagon",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216662356685660200,
+      "quoted_status_id_str": "1216662356685660160",
+      "quoted_status_permalink": {
+        "url": "https://t.co/gu7qzOlIz6",
+        "expanded": "https://twitter.com/abroadunderhood/status/1216662356685660160?s=20",
+        "display": "twitter.com/abroadunderhoo…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jan 13 10:04:44 +0000 2020",
+        "id": 1216662356685660200,
+        "id_str": "1216662356685660160",
+        "full_text": "На самом деле, Брюссель входит в состав центрального-столичного округа, который включает в себя Anderlecht, Auderghem, Berchem-Sainte-Agathe, Brussels City, Etterbeek, Evere, Forest, Ganshoren, Ixelles, Jette, Koekelberg, Molenbeek-Saint-Jean, Saint-Gilles, Saint-Josse-ten-Node",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          278
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3955812173,
+          "id_str": "3955812173"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Mon Jan 13 10:13:58 +0000 2020",
+      "id": 1216664679436750800,
+      "id_str": "1216664679436750855",
+      "full_text": "Сарбик очень странный район, он вкусный, но опасный. Проститутки у северного вокзала будут зазывать всех, несмотря на пол, позвраст и внешний вид https://t.co/LbfvkCngdE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LbfvkCngdE",
+            "expanded_url": "https://twitter.com/mista_Vint/status/1216664330562932737",
+            "display_url": "twitter.com/mista_Vint/sta…",
+            "indices": [
+              146,
+              169
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216664330562932700,
+      "quoted_status_id_str": "1216664330562932737",
+      "quoted_status_permalink": {
+        "url": "https://t.co/LbfvkCngdE",
+        "expanded": "https://twitter.com/mista_Vint/status/1216664330562932737",
+        "display": "twitter.com/mista_Vint/sta…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jan 13 10:12:35 +0000 2020",
+        "id": 1216664330562932700,
+        "id_str": "1216664330562932737",
+        "full_text": "@abroadunderhood О, а вот Сарбик вообще мой любимый район (без шуток).Только не для жизни. Где ещё на одной улице встретишь и турецкую чайную и болгарский ресторан и польский продуктовый? Меня долго отговаривали от прогулок туда, а сейчас ни один визит без этого района не обходится",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          282
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1216662404660154400,
+        "in_reply_to_status_id_str": "1216662404660154368",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 79449625,
+          "id_str": "79449625"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:16:54 +0000 2020",
+      "id": 1216665418292658200,
+      "id_str": "1216665418292658176",
+      "full_text": "При этом я живу в районе Saint-Josse-Ten-Noode, который является слегка опасным. Но я живу в 15 минутах хотьбы от работы, в 2 минутах от донерной и в 15-20 от центра города",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216663431186649000,
+      "in_reply_to_status_id_str": "1216663431186649088",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:17:02 +0000 2020",
+      "id": 1216665450089717800,
+      "id_str": "1216665450089717761",
+      "full_text": "RT @oliora: @abroadunderhood Обожаю Брюссель!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        45
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "oliora",
+            "name": "Andrey Upadyshev",
+            "id": 430665583,
+            "id_str": "430665583",
+            "indices": [
+              3,
+              10
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              12,
+              28
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jan 13 10:15:52 +0000 2020",
+        "id": 1216665157620859000,
+        "id_str": "1216665157620858880",
+        "full_text": "@abroadunderhood Обожаю Брюссель!",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          33
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1216658712103989200,
+        "in_reply_to_status_id_str": "1216658712103989248",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 430665583,
+          "id_str": "430665583"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": true,
+        "lang": "ru"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": true,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:17:51 +0000 2020",
+      "id": 1216665653626667000,
+      "id_str": "1216665653626667008",
+      "full_text": "Плюс ко всему, у меня недалеко гикарный бассейн в стиле арт-деко https://t.co/U1bnJzaDnw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        64
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1216665647490486300,
+            "id_str": "1216665647490486272",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOJ29dEXUAAM_4n.png",
+            "media_url_https": "https://pbs.twimg.com/media/EOJ29dEXUAAM_4n.png",
+            "url": "https://t.co/U1bnJzaDnw",
+            "display_url": "pic.twitter.com/U1bnJzaDnw",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1216665653626667008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1216665647490486300,
+            "id_str": "1216665647490486272",
+            "indices": [
+              65,
+              88
+            ],
+            "media_url": "http://pbs.twimg.com/media/EOJ29dEXUAAM_4n.png",
+            "media_url_https": "https://pbs.twimg.com/media/EOJ29dEXUAAM_4n.png",
+            "url": "https://t.co/U1bnJzaDnw",
+            "display_url": "pic.twitter.com/U1bnJzaDnw",
+            "expanded_url": "https://twitter.com/abroadunderhood/status/1216665653626667008/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 640,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            },
+            "features": {
+              "small": {
+                "faces": []
+              },
+              "large": {
+                "faces": []
+              },
+              "orig": {
+                "faces": []
+              },
+              "medium": {
+                "faces": []
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216665418292658200,
+      "in_reply_to_status_id_str": "1216665418292658176",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:21:03 +0000 2020",
+      "id": 1216666461709787100,
+      "id_str": "1216666461709787136",
+      "full_text": "Моленбек - это сочетание морокко и хипстеров. Там находятся отличные бары (Cafe Walvis, Bar du Canal), раменная (Kumiko, в принципе может быть одним из баров вечера), кофейни (MOK). Но так же по соседству будут очень странные магазины, кебабные, итд https://t.co/tvm2DdWps5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        249
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tvm2DdWps5",
+            "expanded_url": "https://twitter.com/gentoosiast/status/1216665618994298880",
+            "display_url": "twitter.com/gentoosiast/st…",
+            "indices": [
+              250,
+              273
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216665618994299000,
+      "quoted_status_id_str": "1216665618994298880",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tvm2DdWps5",
+        "expanded": "https://twitter.com/gentoosiast/status/1216665618994298880",
+        "display": "twitter.com/gentoosiast/st…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jan 13 10:17:42 +0000 2020",
+        "id": 1216665618994299000,
+        "id_str": "1216665618994298880",
+        "full_text": "@abroadunderhood Про Моленбек расскажите. Там на самом деле прочно укоренились радикальные исламисты?",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          101
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1216662356685660200,
+        "in_reply_to_status_id_str": "1216662356685660160",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 135421991,
+          "id_str": "135421991"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:22:28 +0000 2020",
+      "id": 1216666816032006100,
+      "id_str": "1216666816032006145",
+      "full_text": "ТРАНСПОРТ. Транспорт в Брюсселе состоит из автобусов (которые работают плохо), трамвая и метро (трамваи оооочень медленные). Месячная подписка стоит 40 евро, единоразовая поездка стоит 2.10 евро из автомата, а если брать у водителя, то это стоит 2.50 евро.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:23:01 +0000 2020",
+      "id": 1216666957367431200,
+      "id_str": "1216666957367431169",
+      "full_text": "Такси в Брюсселе вероятно может показаться дорогим, но относительно Парижа, это очень дешево. Хотя иногда могут загнать цены в три-четыре раза выше",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        147
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216666816032006100,
+      "in_reply_to_status_id_str": "1216666816032006145",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:23:52 +0000 2020",
+      "id": 1216667168277958700,
+      "id_str": "1216667168277958656",
+      "full_text": "Добраться до Брюссельского аэропорта из центра города стоит около 20 евро и 20 минут, в зависимости от времени суток. До Шарлеруа около 40, но это надо знать таксистов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216666957367431200,
+      "in_reply_to_status_id_str": "1216666957367431169",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:24:43 +0000 2020",
+      "id": 1216667383600992300,
+      "id_str": "1216667383600992256",
+      "full_text": "Поезда. Классно передвигаться по ближайшим странам (отличная связь между Францией, Голландией и Германией) и городами внутри Бельгии. Каждые выходные поездки внутри Бельгии на много дешевле ( 18 и 14 евро по go pass).  Существуют подписки для студентов (ну и если тебе меньше 26).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216667168277958700,
+      "in_reply_to_status_id_str": "1216667168277958656",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:24:50 +0000 2020",
+      "id": 1216667411077877800,
+      "id_str": "1216667411077877761",
+      "full_text": "Иногда можно добраться за 10 евро и 2.5 часа до Парижа на IZY train. Можно доехать за 1.5 часа на Thalys, но это дороже.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216667383600992300,
+      "in_reply_to_status_id_str": "1216667383600992256",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:26:30 +0000 2020",
+      "id": 1216667832697659400,
+      "id_str": "1216667832697659394",
+      "full_text": "@captain_sodom В целом, да. Средний ценник около 10-15 евро, но ребята иногда ставят по 20-30 евро внутри города :(",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "captain_sodom",
+            "name": "Капитан Содом",
+            "id": 228833282,
+            "id_str": "228833282",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216667186594492400,
+      "in_reply_to_status_id_str": "1216667186594492417",
+      "in_reply_to_user_id": 228833282,
+      "in_reply_to_user_id_str": "228833282",
+      "in_reply_to_screen_name": "captain_sodom",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:26:50 +0000 2020",
+      "id": 1216667915115729000,
+      "id_str": "1216667915115728896",
+      "full_text": "Ваша правда https://t.co/qTMFu5BJj6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        11
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qTMFu5BJj6",
+            "expanded_url": "https://twitter.com/_Diagon/status/1216667387396861955",
+            "display_url": "twitter.com/_Diagon/status…",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1216667387396862000,
+      "quoted_status_id_str": "1216667387396861955",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qTMFu5BJj6",
+        "expanded": "https://twitter.com/_Diagon/status/1216667387396861955",
+        "display": "twitter.com/_Diagon/status…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jan 13 10:24:44 +0000 2020",
+        "id": 1216667387396862000,
+        "id_str": "1216667387396861955",
+        "full_text": "@abroadunderhood Ну так Brussels City это округ внутри Брюсселя, а не город. Подобные названия районов есть во многих европейских городах, что примерно соответствует русскому \"старый город\".",
+        "truncated": false,
+        "display_text_range": [
+          17,
+          190
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "abroadunderhood",
+              "name": "Эброд Андерхуд",
+              "id": 3955812173,
+              "id_str": "3955812173",
+              "indices": [
+                0,
+                16
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": 1216664255765864400,
+        "in_reply_to_status_id_str": "1216664255765864448",
+        "in_reply_to_user_id": 3955812173,
+        "in_reply_to_user_id_str": "3955812173",
+        "in_reply_to_screen_name": "abroadunderhood",
+        "user": {
+          "id": 603954710,
+          "id_str": "603954710"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    },
+    {
+      "created_at": "Mon Jan 13 10:27:43 +0000 2020",
+      "id": 1216668137690673200,
+      "id_str": "1216668137690673152",
+      "full_text": "А сейчас время работы, поэтому вернусь чуть позже :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        52
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:41:15 +0000 2020",
+      "id": 1216671544488931300,
+      "id_str": "1216671544488931328",
+      "full_text": "@tweetillo проездной на все городские транспорты, да:)",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "tweetillo",
+            "name": "нáриня-кáриня 🐬",
+            "id": 4558416497,
+            "id_str": "4558416497",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216670299615322000,
+      "in_reply_to_status_id_str": "1216670299615322113",
+      "in_reply_to_user_id": 4558416497,
+      "in_reply_to_user_id_str": "4558416497",
+      "in_reply_to_screen_name": "tweetillo",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jan 13 10:42:53 +0000 2020",
+      "id": 1216671957489541000,
+      "id_str": "1216671957489541125",
+      "full_text": "@achkasov Cкарбик, Сарбик, я даже слышала Шаербик, так что пусть будет schaerbeek",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        81
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "achkasov",
+            "name": "Dimi",
+            "id": 105991888,
+            "id_str": "105991888",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1216670403374014500,
+      "in_reply_to_status_id_str": "1216670403374014465",
+      "in_reply_to_user_id": 105991888,
+      "in_reply_to_user_id_str": "105991888",
+      "in_reply_to_screen_name": "achkasov",
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
