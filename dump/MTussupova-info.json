@@ -13,56 +13,78 @@
     }
   },
   "protected": false,
-  "followers_count": 28538,
+  "followers_count": 28548,
   "friends_count": 0,
-  "listed_count": 339,
+  "listed_count": 341,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 25562,
+  "favourites_count": 25625,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 130107,
+  "statuses_count": 130703,
   "lang": null,
   "status": {
-    "created_at": "Mon Jan 13 10:42:53 +0000 2020",
-    "id": 1216671957489541000,
-    "id_str": "1216671957489541125",
-    "text": "@achkasov Cкарбик, Сарбик, я даже слышала Шаербик, так что пусть будет schaerbeek",
+    "created_at": "Sun Jan 19 17:31:57 +0000 2020",
+    "id": 1218949228946493400,
+    "id_str": "1218949228946493440",
+    "text": "@leni_ekb https://t.co/ihshZkya2z https://t.co/rvnIVPvYph",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "achkasov",
-          "name": "Dimi",
-          "id": 105991888,
-          "id_str": "105991888",
+          "screen_name": "leni_ekb",
+          "name": "Eleonora",
+          "id": 166065627,
+          "id_str": "166065627",
           "indices": [
             0,
             9
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/ihshZkya2z",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1218922435581546497?s=21",
+          "display_url": "twitter.com/abroadunderhoo…",
+          "indices": [
+            10,
+            33
+          ]
+        },
+        {
+          "url": "https://t.co/rvnIVPvYph",
+          "expanded_url": "https://twitter.com/abroadunderhood/status/1218922435581546497",
+          "display_url": "twitter.com/abroadunderhoo…",
+          "indices": [
+            34,
+            57
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": 1216670403374014500,
-    "in_reply_to_status_id_str": "1216670403374014465",
-    "in_reply_to_user_id": 105991888,
-    "in_reply_to_user_id_str": "105991888",
-    "in_reply_to_screen_name": "achkasov",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1218929734932934700,
+    "in_reply_to_status_id_str": "1218929734932934658",
+    "in_reply_to_user_id": 166065627,
+    "in_reply_to_user_id_str": "166065627",
+    "in_reply_to_screen_name": "leni_ekb",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": false,
+    "is_quote_status": true,
+    "quoted_status_id": 1218922435581546500,
+    "quoted_status_id_str": "1218922435581546497",
     "retweet_count": 0,
     "favorite_count": 0,
     "favorited": false,
     "retweeted": false,
-    "lang": "ru"
+    "possibly_sensitive": false,
+    "lang": "und"
   },
   "contributors_enabled": false,
   "is_translator": false,
