@@ -2,10 +2,11 @@ import authorId from './helpers/author-id';
 
 export default authorId([
   // post: false
-  // { username: '', start: '24 Fed 2020', first: '', post: false },
-  // { username: 'shoonoise', start: '17 Fed 2020', first: '', post: false },
-  { username: 'Feodorr', start: '10 Fed 2020', first: '1226867860649041922' },
-  { username: 'Konst_Vatruba', start: '3 Fed 2020', first: '1224314230343634945' },
+  // { username: '', start: '2 Mar 2020', first: '', post: false },
+  // { username: 'whoislinaa', start: '24 Feb 2020', first: '', post: false },
+  { username: 'shoonoise', start: '17 Feb 2020', first: '1229349853467115520' },
+  { username: 'Feodorr', start: '10 Feb 2020', first: '1226867860649041922' },
+  { username: 'Konst_Vatruba', start: '3 Feb 2020', first: '1224314230343634945' },
   { username: 'ritalichter', start: '27 Jan 2020', first: '1221698012763869184' },
   { username: 'KramaWerty', start: '20 Jan 2020', first: '1219330766657728514' },
   { username: 'MTussupova', start: '13 Jan 2020', first: '1216658712103989248' },
