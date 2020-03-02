@@ -5,7 +5,7 @@
   "screen_name": "abroadunderhood",
   "location": "Stockholm, Sweden",
   "profile_location": null,
-  "description": "Автор этой недели: @whoislinaa",
+  "description": "Автор этой недели: @whoislinaa (pollyandstories в инстаграме)",
   "url": null,
   "entities": {
     "description": {
@@ -13,35 +13,46 @@
     }
   },
   "protected": false,
-  "followers_count": 29345,
+  "followers_count": 29260,
   "friends_count": 0,
   "listed_count": 349,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 26638,
+  "favourites_count": 26679,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 134714,
+  "statuses_count": 135157,
   "lang": null,
   "status": {
-    "created_at": "Mon Feb 24 11:26:33 +0000 2020",
-    "id": 1231903233708318700,
-    "id_str": "1231903233708318721",
-    "text": "Ну вы судите по одному случаю, у меня абсолютно иной опыт; сами шведы вообще не парятся и оставляют вещи в машине,… https://t.co/a3Gpf2OmV8",
+    "created_at": "Mon Mar 02 01:16:23 +0000 2020",
+    "id": 1234286396136968200,
+    "id_str": "1234286396136968193",
+    "text": "В общим спасибо за эту неделю🖤 мне можно написать в мой личный аккаунт @whoislinaa, а продолжить смотреть фотографи… https://t.co/hwg6xoxjw6",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "whoislinaa",
+          "name": "Polina Sandomirskaya",
+          "id": 521252666,
+          "id_str": "521252666",
+          "indices": [
+            71,
+            82
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/a3Gpf2OmV8",
-          "expanded_url": "https://twitter.com/i/web/status/1231903233708318721",
+          "url": "https://t.co/hwg6xoxjw6",
+          "expanded_url": "https://twitter.com/i/web/status/1234286396136968193",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
-            116,
-            139
+            117,
+            140
           ]
         }
       ]
@@ -56,11 +67,9 @@
     "coordinates": null,
     "place": null,
     "contributors": null,
-    "is_quote_status": true,
-    "quoted_status_id": 1231901753991475200,
-    "quoted_status_id_str": "1231901753991475200",
+    "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 1,
+    "favorite_count": 53,
     "favorited": false,
     "retweeted": false,
     "possibly_sensitive": false,
