@@ -1,6 +1,6 @@
 #!/bin/bash
 
-source ~/.zshrc
+source ~/.bashrc
 
 echo "store current Node version"
 CURRENT_NODE="$(nvm current)"
