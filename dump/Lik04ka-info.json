@@ -26,65 +26,66 @@
     }
   },
   "protected": false,
-  "followers_count": 31463,
+  "followers_count": 31477,
   "friends_count": 0,
   "listed_count": 313,
   "created_at": "Wed Oct 14 12:33:52 +0000 2015",
-  "favourites_count": 30667,
+  "favourites_count": 30660,
   "utc_offset": null,
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 145137,
+  "statuses_count": 145138,
   "lang": null,
   "status": {
-    "created_at": "Sun Jul 19 23:29:30 +0000 2020",
-    "id": 1284993801166233600,
-    "id_str": "1284993801166233600",
-    "text": "@dmi_dmi_dmi @Lik04ka Ровно то, что я сказала, когда переехала. Что за деревня?! 😂",
+    "created_at": "Mon Jul 20 12:15:17 +0000 2020",
+    "id": 1285186513408594000,
+    "id_str": "1285186513408593920",
+    "text": "Спасибо @Lik04ka за неделю про Люксембург. Архив, как всегда, на сайте — https://t.co/zU5CVWpM20",
     "truncated": false,
     "entities": {
       "hashtags": [],
       "symbols": [],
       "user_mentions": [
         {
-          "screen_name": "dmi_dmi_dmi",
-          "name": "Николай",
-          "id": 3044816565,
-          "id_str": "3044816565",
-          "indices": [
-            0,
-            12
-          ]
-        },
-        {
           "screen_name": "Lik04ka",
           "name": "Vasilika Klimova",
           "id": 531734817,
           "id_str": "531734817",
           "indices": [
-            13,
-            21
+            8,
+            16
           ]
         }
       ],
-      "urls": []
+      "urls": [
+        {
+          "url": "https://t.co/zU5CVWpM20",
+          "expanded_url": "https://abroadunderhood.ru/Lik04ka/",
+          "display_url": "abroadunderhood.ru/Lik04ka/",
+          "indices": [
+            73,
+            96
+          ]
+        }
+      ]
     },
-    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-    "in_reply_to_status_id": 1284949663649534000,
-    "in_reply_to_status_id_str": "1284949663649533952",
-    "in_reply_to_user_id": 3044816565,
-    "in_reply_to_user_id_str": "3044816565",
-    "in_reply_to_screen_name": "dmi_dmi_dmi",
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
-    "retweet_count": 0,
-    "favorite_count": 0,
+    "retweet_count": 3,
+    "favorite_count": 71,
     "favorited": false,
     "retweeted": false,
+    "possibly_sensitive": false,
     "lang": "ru"
   },
   "contributors_enabled": false,

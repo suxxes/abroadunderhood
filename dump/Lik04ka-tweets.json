@@ -16700,6 +16700,65 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jul 20 12:15:17 +0000 2020",
+      "id": 1285186513408594000,
+      "id_str": "1285186513408593920",
+      "full_text": "Спасибо @Lik04ka за неделю про Люксембург. Архив, как всегда, на сайте — https://t.co/zU5CVWpM20",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        96
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Lik04ka",
+            "name": "Vasilika Klimova",
+            "id": 531734817,
+            "id_str": "531734817",
+            "indices": [
+              8,
+              16
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/zU5CVWpM20",
+            "expanded_url": "https://abroadunderhood.ru/Lik04ka/",
+            "display_url": "abroadunderhood.ru/Lik04ka/",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3955812173,
+        "id_str": "3955812173"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 71,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
     }
   ]
 }
