@@ -20725,6 +20725,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Aug 24 07:40:53 +0000 2020",
+      "id": 1297801035952590800,
+      "id_str": "1297801035952590849",
+      "text": "@nah_nahi @abroadunderhood У тебя чтоли дятел тупой спиздили?",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nah_nahi",
+            "name": "Nah-Nah",
+            "id": 1255595704933912600,
+            "id_str": "1255595704933912581",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Эброд Андерхуд",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              10,
+              26
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1297653090443821000,
+      "in_reply_to_status_id_str": "1297653090443821057",
+      "in_reply_to_user_id": 1255595704933912600,
+      "in_reply_to_user_id_str": "1255595704933912581",
+      "in_reply_to_screen_name": "nah_nahi",
+      "user": {
+        "id": 859819890,
+        "id_str": "859819890"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
