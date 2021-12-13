@@ -15350,6 +15350,60 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Mon Dec 13 07:53:23 +0000 2021",
+      "id": 1470300806901608400,
+      "id_str": "1470300806901608448",
+      "text": "@abroadunderhood @stockholm_rosie А личка-то и отключена",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "abroadunderhood",
+            "name": "Abroad Underhood",
+            "id": 3955812173,
+            "id_str": "3955812173",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "stockholm_rosie",
+            "name": "Rosie",
+            "id": 727605666320425000,
+            "id_str": "727605666320424960",
+            "indices": [
+              17,
+              33
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1469803911305474000,
+      "in_reply_to_status_id_str": "1469803911305474053",
+      "in_reply_to_user_id": 3955812173,
+      "in_reply_to_user_id_str": "3955812173",
+      "in_reply_to_screen_name": "abroadunderhood",
+      "user": {
+        "id": 1040899353379004400,
+        "id_str": "1040899353379004417"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
