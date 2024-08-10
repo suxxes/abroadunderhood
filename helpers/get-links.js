@@ -1,50 +1,59 @@
-import tweetLinks from 'tweet-links';
-import { values, sortBy, prop, head, apply, objOf, toPairs, pipe,
-  length, mapObjIndexed, groupBy, map, filter, flatten, uniq } from 'ramda';
-import { parse, format } from 'url';
-import ungroupInto from './ungroup-into';
+import tweetLinks from "tweet-links";
+import ramda from "ramda";
+import url from "url";
+import ungroupInto from "./ungroup-into.js";
 
-const notTwitter = url => url.host !== 'twitter.com';
-const obj2arr = pipe(toPairs, map(apply(objOf)));
+const notTwitter = (url) => url.host !== "twitter.com";
+const obj2arr = ramda.pipe(ramda.toPairs, ramda.map(ramda.apply(ramda.objOf)));
 
-const extractLinks = pipe(
-  map(tweetLinks),
-  flatten,
-  uniq);
+const extractLinks = ramda.pipe(
+	ramda.map(tweetLinks),
+	ramda.flatten,
+	ramda.uniq,
+);
 
-const filterTwitterLinks = pipe(
-  map(parse),
-  filter(notTwitter),
-  map(format));
+const filterTwitterLinks = ramda.pipe(
+	ramda.map(url.parse),
+	ramda.filter(notTwitter),
+	ramda.map(url.format),
+);
 
-const groupByHost = pipe(
-  groupBy(item => {
-    var host = null;
-    var regexp = /http(?:s)?:\/\/(?:(www|m)\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/ig;
+const groupByHost = ramda.pipe(
+	ramda.groupBy((item) => {
+		var host = null;
+		var regexp =
+			/http(?:s)?:\/\/(?:(www|m)\.)?youtu(?:be\.com\/watch\?v=|\.be\/)([\w\-\_]*)(&(amp;)?[\w\?​=]*)?/gi;
 
-    if (regexp.exec(item)) {
-      host = 'youtube.com';
-    } else {
-      host = parse(item).host;
-    }
+		if (regexp.exec(item)) {
+			host = "youtube.com";
+		} else {
+			host = url.parse(item).host;
+		}
 
-    return host.split('.').slice(-2).join('.');
-  }),
-  obj2arr,
-  map(pipe(values, flatten)));
+		return host.split(".").slice(-2).join(".");
+	}),
+	obj2arr,
+	ramda.map(ramda.pipe(ramda.values, ramda.flatten)),
+);
 
-const moveMinorsToOther = pipe(
-  groupBy(item => length(item) < 5 ? 'other' : parse(head(item)).host.split('.').slice(-2).join('.')),
-  mapObjIndexed(flatten));
+const moveMinorsToOther = ramda.pipe(
+	ramda.groupBy((item) =>
+		ramda.length(item) < 5
+			? "other"
+			: url.parse(ramda.head(item)).host.split(".").slice(-2).join("."),
+	),
+	ramda.mapObjIndexed(ramda.flatten),
+);
 
-const moveOtherToEnd = sortBy(group => group.host === 'other');
+const moveOtherToEnd = ramda.sortBy((group) => group.host === "other");
 
-const getLinks = pipe(
-  extractLinks,
-  filterTwitterLinks,
-  groupByHost,
-  moveMinorsToOther,
-  ungroupInto('host', 'links'),
-  moveOtherToEnd);
+const getLinks = ramda.pipe(
+	extractLinks,
+	filterTwitterLinks,
+	groupByHost,
+	moveMinorsToOther,
+	ungroupInto("host", "links"),
+	moveOtherToEnd,
+);
 
 export default getLinks;

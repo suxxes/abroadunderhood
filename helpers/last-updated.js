@@ -1,19 +1,19 @@
-import { readFileSync } from 'fs';
-import moment from 'moment';
+import fs from "node:fs";
+import moment from "moment";
 
 const cwd = process.cwd();
 const timestamp = (() => {
-  try {
-    return parseInt(readFileSync(`${cwd}/dump/.timestamp`, `utf8`), 10);
-  } catch (e) {
-    return parseInt(moment.unix(), 10);
-  }
+	try {
+		return parseInt(fs.readFileSync(`${cwd}/dump/.timestamp`, `utf8`), 10);
+	} catch (e) {
+		return parseInt(moment.unix(), 10);
+	}
 })();
 
 const date = moment.unix(timestamp);
 
 function lastUpdated() {
-  return date.locale('ru').format('D MMMM в H:mm');
+	return date.locale("ru").format("D MMMM в H:mm");
 }
 
 lastUpdated.raw = timestamp;

@@ -1,7 +1,6 @@
-import { pipe, toPairs, map, zipObj } from 'ramda';
+import ramda from "ramda";
 
-const ungroupInto = (first, second) => pipe(
-  toPairs,
-  map(zipObj([first, second])));
+const ungroupInto = (first, second) =>
+	ramda.pipe(ramda.toPairs, ramda.map(ramda.zipObj([first, second])));
 
 export default ungroupInto;

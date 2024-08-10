@@ -1,14 +1,15 @@
-import { join as unCurriedJoin } from 'path';
-import { fromFileSync as unCurriedHash } from 'hasha';
-import { pipe, memoize, curryN, __ as _ } from 'ramda';
+import path from "node:path";
+import hasha from "hasha";
+import ramda from "ramda";
 
-const join = curryN(3, unCurriedJoin);
-const hash = curryN(2, unCurriedHash);
+const join = ramda.curryN(3, path.join);
+const hash = ramda.curryN(2, hasha.fromFileSync);
 
-const hashPath = pipe(
-  join(process.cwd(), 'dist'),
-  hash(_, { algorithm: 'md5' }));
+const hashPath = ramda.pipe(
+	join(process.cwd(), "dist"),
+	hash(ramda.__, { algorithm: "md5" }),
+);
 
-const bust = path => `${path}?${hashPath(path)}`;
+const bust = (path) => `${path}?${hashPath(path)}`;
 
-export default memoize(bust);
+export default ramda.memoize(bust);
